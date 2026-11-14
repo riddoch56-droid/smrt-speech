@@ -1,0 +1,1979 @@
+[
+  {
+    "id": "animals-dog",
+    "word": "dog",
+    "group": "animals",
+    "subgroup": "pets",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-dog.webp",
+    "imagePrompt": "A friendly brown dog sitting and facing the camera on a plain white background",
+    "searchQuery": "dog",
+    "cues": {
+      "definition": "A pet that barks and likes being taken for walks.",
+      "sentenceCompletion": "When the postman comes, our ___ always barks.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh"
+    },
+    "semantic": {
+      "category": "It is a pet.",
+      "use": "It keeps people company and can guard a house.",
+      "action": "It barks, wags its tail and fetches sticks.",
+      "properties": "It has four legs, fur, a wet nose and floppy or pointed ears.",
+      "location": "You find it at home, in the park or on a lead.",
+      "association": "It makes me think of walks and a wagging tail."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "g",
+      "syllables": 1,
+      "rhyme": "log",
+      "sameFirstSound": "door"
+    }
+  },
+  {
+    "id": "animals-cat",
+    "word": "cat",
+    "group": "animals",
+    "subgroup": "pets",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-cat.webp",
+    "imagePrompt": "A tabby cat sitting upright on a plain white background",
+    "searchQuery": "tabby cat",
+    "cues": {
+      "definition": "A small furry pet that purrs and hunts mice.",
+      "sentenceCompletion": "The ___ curled up on the sofa and began to purr.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is a pet.",
+      "use": "It keeps people company and hunts mice.",
+      "action": "It purrs, miaows and climbs.",
+      "properties": "It has soft fur, whiskers, sharp claws and a long tail.",
+      "location": "You find it curled up on a sofa or sitting on a wall.",
+      "association": "It makes me think of a saucer of milk."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "hat",
+      "sameFirstSound": "kitchen"
+    }
+  },
+  {
+    "id": "animals-hamster",
+    "word": "hamster",
+    "group": "animals",
+    "subgroup": "pets",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-hamster.webp",
+    "imagePrompt": "A golden hamster sitting on a light surface on a plain white background",
+    "searchQuery": "hamster",
+    "cues": {
+      "definition": "A tiny pet rodent with chubby cheeks that runs on a wheel.",
+      "sentenceCompletion": "The small ___ ran round and round on its wheel.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "ham"
+    },
+    "semantic": {
+      "category": "It is a small pet.",
+      "use": "Children and adults keep it as a pet.",
+      "action": "It stuffs food in its cheeks and runs on a wheel.",
+      "properties": "It is small and round, with soft fur and chubby cheeks.",
+      "location": "You find it in a cage with sawdust.",
+      "association": "It makes me think of a little wheel squeaking at night."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "hammer"
+    }
+  },
+  {
+    "id": "animals-rabbit",
+    "word": "rabbit",
+    "group": "animals",
+    "subgroup": "pets",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-rabbit.webp",
+    "imagePrompt": "A white rabbit sitting with ears upright on a plain white background",
+    "searchQuery": "rabbit",
+    "cues": {
+      "definition": "A furry pet with long ears that hops and eats carrots.",
+      "sentenceCompletion": "The ___ hopped across the lawn and nibbled the grass.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "rrr",
+      "firstSyllable": "rab"
+    },
+    "semantic": {
+      "category": "It is a pet, and it also lives wild.",
+      "use": "People keep it as a pet in a hutch.",
+      "action": "It hops and twitches its nose.",
+      "properties": "It has long ears, a short fluffy tail and strong back legs.",
+      "location": "You find it in a hutch or in a field.",
+      "association": "It makes me think of carrots and a burrow."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "habit",
+      "sameFirstSound": "rope"
+    }
+  },
+  {
+    "id": "animals-budgie",
+    "word": "budgie",
+    "group": "animals",
+    "subgroup": "pets",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-budgie.webp",
+    "imagePrompt": "A blue and white budgerigar perched on a branch on a plain white background",
+    "searchQuery": "budgerigar",
+    "cues": {
+      "definition": "A small colourful pet bird that can learn to mimic words.",
+      "sentenceCompletion": "Our pet ___ sits in a cage and whistles.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bud"
+    },
+    "semantic": {
+      "category": "It is a small pet bird.",
+      "use": "People keep it as a pet in a cage.",
+      "action": "It chirps, whistles and sometimes copies speech.",
+      "properties": "It is small and brightly coloured, with a curved beak.",
+      "location": "You find it in a cage in a living room.",
+      "association": "It makes me think of birdseed and a little mirror."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bucket"
+    }
+  },
+  {
+    "id": "animals-tortoise",
+    "word": "tortoise",
+    "group": "animals",
+    "subgroup": "pets",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-tortoise.webp",
+    "imagePrompt": "A tortoise with a domed shell walking on grass on a plain white background",
+    "searchQuery": "tortoise",
+    "cues": {
+      "definition": "A slow reptile that carries a hard shell on its back.",
+      "sentenceCompletion": "The slow old ___ pulled its head into its shell.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tor"
+    },
+    "semantic": {
+      "category": "It is a reptile and sometimes a pet.",
+      "use": "People keep it as a pet in the garden.",
+      "action": "It crawls very slowly and hides in its shell.",
+      "properties": "It has a hard domed shell, scaly legs and a wrinkled neck.",
+      "location": "You find it in a garden or a warm enclosure.",
+      "association": "It makes me think of a slow race and a long life."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "table"
+    }
+  },
+  {
+    "id": "animals-goldfish",
+    "word": "goldfish",
+    "group": "animals",
+    "subgroup": "pets",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-goldfish.webp",
+    "imagePrompt": "A single orange goldfish swimming in clear water on a plain white background",
+    "searchQuery": "goldfish",
+    "cues": {
+      "definition": "A small orange pet that swims round in a bowl.",
+      "sentenceCompletion": "The orange ___ swam round the glass bowl.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh",
+      "firstSyllable": "gold"
+    },
+    "semantic": {
+      "category": "It is a small pet that lives in water.",
+      "use": "People keep it as a pet in a bowl or tank.",
+      "action": "It swims in circles and blows tiny bubbles.",
+      "properties": "It is small and orange, with fins and a flicking tail.",
+      "location": "You find it in a bowl or a garden pond.",
+      "association": "It makes me think of a prize from a funfair."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "sh",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "gate"
+    }
+  },
+  {
+    "id": "animals-cow",
+    "word": "cow",
+    "group": "animals",
+    "subgroup": "farm animals",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-cow.webp",
+    "imagePrompt": "A black and white cow standing in a field on a plain white background",
+    "searchQuery": "cow",
+    "cues": {
+      "definition": "A large farm animal that gives us milk.",
+      "sentenceCompletion": "The farmer milked the ___ early in the morning.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is a farm animal.",
+      "use": "Farmers keep it for milk and meat.",
+      "action": "It grazes, moos and chews grass.",
+      "properties": "It is large, with four legs, a tail and often black and white patches.",
+      "location": "You find it in a field or a milking shed.",
+      "association": "It makes me think of milk, butter and mooing."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "ow",
+      "syllables": 1,
+      "rhyme": "now",
+      "sameFirstSound": "cup"
+    }
+  },
+  {
+    "id": "animals-pig",
+    "word": "pig",
+    "group": "animals",
+    "subgroup": "farm animals",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-pig.webp",
+    "imagePrompt": "A pink pig standing on straw on a plain white background",
+    "searchQuery": "pig",
+    "cues": {
+      "definition": "A pink farm animal with a curly tail that snorts.",
+      "sentenceCompletion": "The farmer fed the ___ in the muddy sty.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is a farm animal.",
+      "use": "Farmers keep it for pork, bacon and ham.",
+      "action": "It snorts, grunts and rolls in mud.",
+      "properties": "It is round and pink, with a snout and a curly tail.",
+      "location": "You find it on a farm, in a sty.",
+      "association": "It makes me think of bacon and mud."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "g",
+      "syllables": 1,
+      "rhyme": "big",
+      "sameFirstSound": "pencil"
+    }
+  },
+  {
+    "id": "animals-sheep",
+    "word": "sheep",
+    "group": "animals",
+    "subgroup": "farm animals",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-sheep.webp",
+    "imagePrompt": "A woolly white sheep standing on grass on a plain white background",
+    "searchQuery": "sheep",
+    "cues": {
+      "definition": "A woolly farm animal that says baa.",
+      "sentenceCompletion": "The farmer sheared the wool from the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh"
+    },
+    "semantic": {
+      "category": "It is a farm animal.",
+      "use": "Farmers keep it for wool and meat.",
+      "action": "It grazes in flocks and bleats.",
+      "properties": "It has thick woolly fleece, a small head and four legs.",
+      "location": "You find it on hills and in fields.",
+      "association": "It makes me think of wool, jumpers and counting at bedtime."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "keep",
+      "sameFirstSound": "shoe"
+    }
+  },
+  {
+    "id": "animals-horse",
+    "word": "horse",
+    "group": "animals",
+    "subgroup": "farm animals",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-horse.webp",
+    "imagePrompt": "A brown horse standing side on in a paddock on a plain white background",
+    "searchQuery": "horse",
+    "cues": {
+      "definition": "A large animal that you can ride and that gallops.",
+      "sentenceCompletion": "The rider climbed up onto the ___ and picked up the reins.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh"
+    },
+    "semantic": {
+      "category": "It is a large animal, kept on farms and at stables.",
+      "use": "People ride it and it can pull carts.",
+      "action": "It gallops, trots and neighs.",
+      "properties": "It is tall, with a long mane, a tail and hooves.",
+      "location": "You find it in a field or a stable.",
+      "association": "It makes me think of saddles, races and riding."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "course",
+      "sameFirstSound": "house"
+    }
+  },
+  {
+    "id": "animals-goat",
+    "word": "goat",
+    "group": "animals",
+    "subgroup": "farm animals",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-goat.webp",
+    "imagePrompt": "A white goat with horns standing on grass on a plain white background",
+    "searchQuery": "goat",
+    "cues": {
+      "definition": "A farm animal with horns and a small beard that eats almost anything.",
+      "sentenceCompletion": "The farmer milked the ___ to make cheese.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh"
+    },
+    "semantic": {
+      "category": "It is a farm animal.",
+      "use": "Farmers keep it for milk and cheese.",
+      "action": "It climbs, butts and bleats.",
+      "properties": "It has horns, a small beard and cloven hooves.",
+      "location": "You find it on a farm or on rocky hills.",
+      "association": "It makes me think of cheese and climbing on rocks."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "boat",
+      "sameFirstSound": "garden"
+    }
+  },
+  {
+    "id": "animals-chicken",
+    "word": "chicken",
+    "group": "animals",
+    "subgroup": "farm animals",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-chicken.webp",
+    "imagePrompt": "A brown hen standing on the ground on a plain white background",
+    "searchQuery": "hen chicken",
+    "cues": {
+      "definition": "A farm bird that clucks and lays eggs.",
+      "sentenceCompletion": "The farmer collected fresh eggs from the ___ coop.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch",
+      "firstSyllable": "chick"
+    },
+    "semantic": {
+      "category": "It is a farm bird.",
+      "use": "Farmers keep it for eggs and meat.",
+      "action": "It clucks, scratches the ground and lays eggs.",
+      "properties": "It has feathers, a beak, a comb on its head and scaly feet.",
+      "location": "You find it on a farm, in a coop.",
+      "association": "It makes me think of eggs and a Sunday roast."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "thicken",
+      "sameFirstSound": "chair"
+    }
+  },
+  {
+    "id": "animals-donkey",
+    "word": "donkey",
+    "group": "animals",
+    "subgroup": "farm animals",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-donkey.webp",
+    "imagePrompt": "A grey donkey with long ears standing in a field on a plain white background",
+    "searchQuery": "donkey",
+    "cues": {
+      "definition": "A grey animal like a small horse with long ears that brays.",
+      "sentenceCompletion": "The ___ carried the heavy baskets up the hill.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "don"
+    },
+    "semantic": {
+      "category": "It is a hardy animal, kept on farms and at sanctuaries.",
+      "use": "It carries loads and gives rides on beaches.",
+      "action": "It brays loudly and walks slowly.",
+      "properties": "It is grey or brown, with very long ears and a short mane.",
+      "location": "You find it in a field or on a seaside beach.",
+      "association": "It makes me think of seaside rides and a loud hee-haw."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "dinner"
+    }
+  },
+  {
+    "id": "animals-fox",
+    "word": "fox",
+    "group": "animals",
+    "subgroup": "british wildlife",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-fox.webp",
+    "imagePrompt": "A red fox standing on grass on a plain white background",
+    "searchQuery": "red fox",
+    "cues": {
+      "definition": "A wild animal with a bushy tail and reddish fur.",
+      "sentenceCompletion": "The clever red ___ crept into the garden at night.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is a wild animal.",
+      "use": "It hunts small animals to eat.",
+      "action": "It prowls at night and makes a screaming bark.",
+      "properties": "It has red-orange fur, pointed ears and a bushy tail.",
+      "location": "You find it in woods, fields and town gardens.",
+      "association": "It makes me think of being sly and clever."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "ks",
+      "syllables": 1,
+      "rhyme": "box",
+      "sameFirstSound": "fork"
+    }
+  },
+  {
+    "id": "animals-badger",
+    "word": "badger",
+    "group": "animals",
+    "subgroup": "british wildlife",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-badger.webp",
+    "imagePrompt": "A badger with a black and white striped face standing on grass on a plain white background",
+    "searchQuery": "badger",
+    "cues": {
+      "definition": "A wild animal with a black and white striped face that lives in a sett.",
+      "sentenceCompletion": "The ___ came out of its sett at dusk.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bad"
+    },
+    "semantic": {
+      "category": "It is a wild woodland animal.",
+      "use": "It digs underground homes and hunts for worms.",
+      "action": "It digs, snuffles and comes out at night.",
+      "properties": "It has a grey body, a striped face and strong claws.",
+      "location": "You find it in woods and fields, in a sett.",
+      "association": "It makes me think of night-time and woodland."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bag"
+    }
+  },
+  {
+    "id": "animals-hedgehog",
+    "word": "hedgehog",
+    "group": "animals",
+    "subgroup": "british wildlife",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-hedgehog.webp",
+    "imagePrompt": "A hedgehog with spines walking on grass on a plain white background",
+    "searchQuery": "hedgehog",
+    "cues": {
+      "definition": "A small spiky wild animal that curls up in a ball.",
+      "sentenceCompletion": "The ___ rolled into a spiky ball when the dog came near.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hedge"
+    },
+    "semantic": {
+      "category": "It is a small wild animal.",
+      "use": "It eats slugs and insects in the garden.",
+      "action": "It curls up when it is scared and sleeps through winter.",
+      "properties": "It is small and round, covered in sharp spines.",
+      "location": "You find it in gardens and under bushes.",
+      "association": "It makes me think of a prickly ball and autumn leaves."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "g",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "hat"
+    }
+  },
+  {
+    "id": "animals-squirrel",
+    "word": "squirrel",
+    "group": "animals",
+    "subgroup": "british wildlife",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-squirrel.webp",
+    "imagePrompt": "A grey squirrel sitting upright holding a nut on a plain white background",
+    "searchQuery": "grey squirrel",
+    "cues": {
+      "definition": "A small tree-climbing animal with a bushy tail that buries nuts.",
+      "sentenceCompletion": "The grey ___ ran up the tree with an acorn.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "squir"
+    },
+    "semantic": {
+      "category": "It is a small wild animal.",
+      "use": "It collects nuts and stores them for winter.",
+      "action": "It climbs, leaps between branches and buries nuts.",
+      "properties": "It is small, with grey or red fur and a big bushy tail.",
+      "location": "You find it in parks, woods and gardens.",
+      "association": "It makes me think of acorns and tall trees."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "spoon"
+    }
+  },
+  {
+    "id": "animals-deer",
+    "word": "deer",
+    "group": "animals",
+    "subgroup": "british wildlife",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-deer.webp",
+    "imagePrompt": "A deer standing in a woodland clearing on a plain white background",
+    "searchQuery": "deer",
+    "cues": {
+      "definition": "A graceful wild animal, the male of which has antlers.",
+      "sentenceCompletion": "The ___ stood still at the edge of the wood.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh"
+    },
+    "semantic": {
+      "category": "It is a large wild animal.",
+      "use": "It grazes on grass, leaves and shoots.",
+      "action": "It leaps, runs quickly and freezes when it hears a noise.",
+      "properties": "It has long thin legs, brown fur and the males have antlers.",
+      "location": "You find it in woods, forests and on moors.",
+      "association": "It makes me think of the countryside and antlers."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "er",
+      "syllables": 1,
+      "rhyme": "near",
+      "sameFirstSound": "desk"
+    }
+  },
+  {
+    "id": "animals-otter",
+    "word": "otter",
+    "group": "animals",
+    "subgroup": "british wildlife",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-otter.webp",
+    "imagePrompt": "An otter standing on a riverbank on a plain white background",
+    "searchQuery": "otter",
+    "cues": {
+      "definition": "A sleek wild animal with webbed feet that swims in rivers and eats fish.",
+      "sentenceCompletion": "The ___ slid down the muddy bank into the river.",
+      "firstLetter": "o",
+      "firstSoundSpoken": "oh",
+      "firstSyllable": "ot"
+    },
+    "semantic": {
+      "category": "It is a wild animal that lives by water.",
+      "use": "It hunts for food in rivers.",
+      "action": "It swims, dives and plays in the water.",
+      "properties": "It has brown sleek fur, webbed feet and a long tail.",
+      "location": "You find it in rivers and lakes.",
+      "association": "It makes me think of rivers and playful swimming."
+    },
+    "phonological": {
+      "firstSound": "o",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "hotter",
+      "sameFirstSound": "office"
+    }
+  },
+  {
+    "id": "animals-bat",
+    "word": "bat",
+    "group": "animals",
+    "subgroup": "british wildlife",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-bat.webp",
+    "imagePrompt": "A brown bat hanging upside down from a branch on a plain white background",
+    "searchQuery": "bat animal hanging",
+    "cues": {
+      "definition": "A small flying animal that sleeps upside down and comes out at night.",
+      "sentenceCompletion": "At dusk, the ___ flew out of the old barn.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a small wild flying mammal.",
+      "use": "It hunts insects at night.",
+      "action": "It flies in the dark and hangs upside down to sleep.",
+      "properties": "It has leathery wings, small ears and sharp teeth.",
+      "location": "You find it in caves, attics and old barns.",
+      "association": "It makes me think of night-time and caves."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "hat",
+      "sameFirstSound": "bus"
+    }
+  },
+  {
+    "id": "animals-lion",
+    "word": "lion",
+    "group": "animals",
+    "subgroup": "zoo and safari animals",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-lion.webp",
+    "imagePrompt": "A male lion with a full mane standing on grass on a plain white background",
+    "searchQuery": "lion",
+    "cues": {
+      "definition": "A big wild cat with a mane that roars.",
+      "sentenceCompletion": "The male ___ has a large golden mane.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "lll",
+      "firstSyllable": "li"
+    },
+    "semantic": {
+      "category": "It is a big wild cat.",
+      "use": "It hunts other animals to eat.",
+      "action": "It roars, prowls and rests in the shade.",
+      "properties": "It has golden fur, big paws and the male has a shaggy mane.",
+      "location": "You find it on African grasslands and in zoos.",
+      "association": "It makes me think of the king of the jungle."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "ladder"
+    }
+  },
+  {
+    "id": "animals-tiger",
+    "word": "tiger",
+    "group": "animals",
+    "subgroup": "zoo and safari animals",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-tiger.webp",
+    "imagePrompt": "A tiger with orange and black stripes standing on a plain white background",
+    "searchQuery": "tiger",
+    "cues": {
+      "definition": "A big wild cat with orange fur and black stripes.",
+      "sentenceCompletion": "The orange and black striped ___ prowled through the long grass.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "ti"
+    },
+    "semantic": {
+      "category": "It is a big wild cat.",
+      "use": "It hunts large animals to eat.",
+      "action": "It stalks, pounces and roars.",
+      "properties": "It has orange fur with black stripes, sharp claws and big paws.",
+      "location": "You find it in Asian forests and in zoos.",
+      "association": "It makes me think of stripes and jungles."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "tap"
+    }
+  },
+  {
+    "id": "animals-elephant",
+    "word": "elephant",
+    "group": "animals",
+    "subgroup": "zoo and safari animals",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-elephant.webp",
+    "imagePrompt": "A large elephant standing on dry ground on a plain white background",
+    "searchQuery": "elephant",
+    "cues": {
+      "definition": "A huge grey animal with a long trunk and big ears.",
+      "sentenceCompletion": "The huge grey ___ sprayed water with its trunk.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "eh",
+      "firstSyllable": "el"
+    },
+    "semantic": {
+      "category": "It is the largest land animal.",
+      "use": "It uses its trunk to drink, grab food and lift things.",
+      "action": "It walks slowly, trumpets and sprays water.",
+      "properties": "It is enormous and grey, with tusks, a trunk and big ears.",
+      "location": "You find it in Africa, in India and in zoos.",
+      "association": "It makes me think of never forgetting and of big ears."
+    },
+    "phonological": {
+      "firstSound": "e",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "egg"
+    }
+  },
+  {
+    "id": "animals-giraffe",
+    "word": "giraffe",
+    "group": "animals",
+    "subgroup": "zoo and safari animals",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-giraffe.webp",
+    "imagePrompt": "A giraffe standing upright with its long neck on a plain white background",
+    "searchQuery": "giraffe",
+    "cues": {
+      "definition": "A very tall animal with a long neck and a spotted coat.",
+      "sentenceCompletion": "The ___ stretched its long neck up to eat leaves from the tree.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "juh",
+      "firstSyllable": "gi"
+    },
+    "semantic": {
+      "category": "It is the tallest animal in the world.",
+      "use": "It uses its long neck to eat leaves high in the trees.",
+      "action": "It strolls slowly and bends down to drink.",
+      "properties": "It has a very long neck, long legs and brown patches.",
+      "location": "You find it on African plains and in zoos.",
+      "association": "It makes me think of a very long neck."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "f",
+      "syllables": 2,
+      "rhyme": "laugh",
+      "sameFirstSound": "jam"
+    }
+  },
+  {
+    "id": "animals-zebra",
+    "word": "zebra",
+    "group": "animals",
+    "subgroup": "zoo and safari animals",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-zebra.webp",
+    "imagePrompt": "A zebra with black and white stripes standing on a plain white background",
+    "searchQuery": "zebra",
+    "cues": {
+      "definition": "A horse-like animal with black and white stripes.",
+      "sentenceCompletion": "The black and white striped ___ grazed on the plain.",
+      "firstLetter": "z",
+      "firstSoundSpoken": "zzz",
+      "firstSyllable": "ze"
+    },
+    "semantic": {
+      "category": "It is a wild animal related to the horse.",
+      "use": "It lives in herds for safety.",
+      "action": "It grazes and gallops across the grass.",
+      "properties": "It has black and white stripes, a mane and hooves.",
+      "location": "You find it on African plains and in zoos.",
+      "association": "It makes me think of stripes and a crossing."
+    },
+    "phonological": {
+      "firstSound": "z",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "zip"
+    }
+  },
+  {
+    "id": "animals-monkey",
+    "word": "monkey",
+    "group": "animals",
+    "subgroup": "zoo and safari animals",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-monkey.webp",
+    "imagePrompt": "A monkey sitting upright on a branch on a plain white background",
+    "searchQuery": "monkey",
+    "cues": {
+      "definition": "A clever animal that swings in trees and has a long tail.",
+      "sentenceCompletion": "The ___ swung from branch to branch and ate a banana.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mon"
+    },
+    "semantic": {
+      "category": "It is a clever animal related to apes.",
+      "use": "It uses its hands to pick fruit and groom friends.",
+      "action": "It climbs, swings and chatters.",
+      "properties": "It has fur, a long tail and hands like ours.",
+      "location": "You find it in jungles and in zoos.",
+      "association": "It makes me think of bananas and swinging."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "mug"
+    }
+  },
+  {
+    "id": "animals-crocodile",
+    "word": "crocodile",
+    "group": "animals",
+    "subgroup": "zoo and safari animals",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-crocodile.webp",
+    "imagePrompt": "A crocodile lying with its mouth closed on a riverbank on a plain white background",
+    "searchQuery": "crocodile",
+    "cues": {
+      "definition": "A large scaly reptile with a long snout and sharp teeth that lives near rivers.",
+      "sentenceCompletion": "The ___ lay still in the muddy river with its jaws open.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "croc"
+    },
+    "semantic": {
+      "category": "It is a large reptile.",
+      "use": "It hunts other animals that come to the water.",
+      "action": "It swims, lies very still and snaps its jaws.",
+      "properties": "It has green scaly skin, a long snout and many teeth.",
+      "location": "You find it in rivers in Africa, Asia and Australia.",
+      "association": "It makes me think of snapping jaws and rivers."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "carrot"
+    }
+  },
+  {
+    "id": "animals-kangaroo",
+    "word": "kangaroo",
+    "group": "animals",
+    "subgroup": "zoo and safari animals",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-kangaroo.webp",
+    "imagePrompt": "A kangaroo standing upright in a field on a plain white background",
+    "searchQuery": "kangaroo",
+    "cues": {
+      "definition": "An Australian animal that hops and carries its baby in a pouch.",
+      "sentenceCompletion": "The ___ hopped across the Australian plain with a baby in her pouch.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "kang"
+    },
+    "semantic": {
+      "category": "It is an animal from Australia.",
+      "use": "It lives in groups called mobs.",
+      "action": "It hops on its strong back legs.",
+      "properties": "It has a long tail, big back feet and a pouch on its belly.",
+      "location": "You find it in Australia and in zoos.",
+      "association": "It makes me think of Australia and bouncing."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "oo",
+      "syllables": 3,
+      "rhyme": "bamboo",
+      "sameFirstSound": "candle"
+    }
+  },
+  {
+    "id": "animals-duck",
+    "word": "duck",
+    "group": "animals",
+    "subgroup": "birds",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-duck.webp",
+    "imagePrompt": "A mallard duck standing on grass on a plain white background",
+    "searchQuery": "mallard duck",
+    "cues": {
+      "definition": "A water bird with a flat beak that quacks.",
+      "sentenceCompletion": "The ___ paddled across the pond and quacked.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh"
+    },
+    "semantic": {
+      "category": "It is a water bird.",
+      "use": "People feed it bread at the park pond and farmers keep it for eggs.",
+      "action": "It swims, quacks and waddles.",
+      "properties": "It has feathers, a flat beak and webbed feet.",
+      "location": "You find it on ponds and rivers.",
+      "association": "It makes me think of quacking and feeding bread at the pond."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "truck",
+      "sameFirstSound": "drum"
+    }
+  },
+  {
+    "id": "animals-swan",
+    "word": "swan",
+    "group": "animals",
+    "subgroup": "birds",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-swan.webp",
+    "imagePrompt": "A white swan floating on calm water on a plain white background",
+    "searchQuery": "white swan",
+    "cues": {
+      "definition": "A large white water bird with a long curved neck.",
+      "sentenceCompletion": "The white ___ glided gracefully across the lake.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a large water bird.",
+      "use": "It lives on lakes and rivers.",
+      "action": "It glides, hisses and floats elegantly.",
+      "properties": "It is large and white, with a long curved neck and an orange beak.",
+      "location": "You find it on rivers and lakes.",
+      "association": "It makes me think of elegance and a beautiful ballet."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "gone",
+      "sameFirstSound": "sweater"
+    }
+  },
+  {
+    "id": "animals-owl",
+    "word": "owl",
+    "group": "animals",
+    "subgroup": "birds",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-owl.webp",
+    "imagePrompt": "A barn owl perched on a post on a plain white background",
+    "searchQuery": "owl",
+    "cues": {
+      "definition": "A night bird with big round eyes that hoots.",
+      "sentenceCompletion": "At midnight we heard an ___ hooting in the wood.",
+      "firstLetter": "o",
+      "firstSoundSpoken": "ow"
+    },
+    "semantic": {
+      "category": "It is a bird of prey that hunts at night.",
+      "use": "It hunts mice and other small animals in the dark.",
+      "action": "It hoots, swoops silently and turns its head right round.",
+      "properties": "It has big round eyes, soft feathers and a hooked beak.",
+      "location": "You find it in woods and barns.",
+      "association": "It makes me think of wisdom and the night."
+    },
+    "phonological": {
+      "firstSound": "ow",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "howl",
+      "sameFirstSound": "oven"
+    }
+  },
+  {
+    "id": "animals-robin",
+    "word": "robin",
+    "group": "animals",
+    "subgroup": "birds",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-robin.webp",
+    "imagePrompt": "A robin with a red breast perched on a branch on a plain white background",
+    "searchQuery": "robin bird",
+    "cues": {
+      "definition": "A small garden bird with a red breast.",
+      "sentenceCompletion": "On the frosty garden fence sat a ___ with a red breast.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "rrr",
+      "firstSyllable": "rob"
+    },
+    "semantic": {
+      "category": "It is a small garden bird.",
+      "use": "It eats worms and seeds.",
+      "action": "It sings, hops and perches on spades.",
+      "properties": "It is small and brown, with a bright red breast.",
+      "location": "You find it in gardens and hedges.",
+      "association": "It makes me think of Christmas cards."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "road"
+    }
+  },
+  {
+    "id": "animals-penguin",
+    "word": "penguin",
+    "group": "animals",
+    "subgroup": "birds",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-penguin.webp",
+    "imagePrompt": "A penguin standing upright on snow on a plain white background",
+    "searchQuery": "penguin",
+    "cues": {
+      "definition": "A black and white bird that cannot fly but swims well.",
+      "sentenceCompletion": "The ___ waddled across the ice in its black and white coat.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pen"
+    },
+    "semantic": {
+      "category": "It is a bird that cannot fly.",
+      "use": "It uses its wings like flippers to swim.",
+      "action": "It waddles on land and dives in the sea.",
+      "properties": "It has black and white feathers, a short tail and flippers.",
+      "location": "You find it in Antarctica and in zoos.",
+      "association": "It makes me think of ice and snow."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "pencil"
+    }
+  },
+  {
+    "id": "animals-eagle",
+    "word": "eagle",
+    "group": "animals",
+    "subgroup": "birds",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-eagle.webp",
+    "imagePrompt": "A bald eagle perched on a branch looking sideways on a plain white background",
+    "searchQuery": "eagle",
+    "cues": {
+      "definition": "A large bird of prey with sharp talons and powerful wings.",
+      "sentenceCompletion": "The ___ soared high above the mountains.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "ee",
+      "firstSyllable": "ea"
+    },
+    "semantic": {
+      "category": "It is a large bird of prey.",
+      "use": "It hunts small animals from the air.",
+      "action": "It soars, swoops and grabs its prey.",
+      "properties": "It has a hooked beak, sharp talons and huge wings.",
+      "location": "You find it in mountains and wild country.",
+      "association": "It makes me think of soaring high and great strength."
+    },
+    "phonological": {
+      "firstSound": "ee",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "regal",
+      "sameFirstSound": "evening"
+    }
+  },
+  {
+    "id": "animals-pigeon",
+    "word": "pigeon",
+    "group": "animals",
+    "subgroup": "birds",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-pigeon.webp",
+    "imagePrompt": "A grey pigeon standing on pavement on a plain white background",
+    "searchQuery": "pigeon",
+    "cues": {
+      "definition": "A plump grey town bird that coos.",
+      "sentenceCompletion": "The grey ___ pecked at the crumbs on the pavement.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pi"
+    },
+    "semantic": {
+      "category": "It is a common town bird.",
+      "use": "It scavenges for scraps in towns.",
+      "action": "It coos, pecks and flutters.",
+      "properties": "It is grey and plump, with a small head and pink feet.",
+      "location": "You find it in town squares, parks and on pavements.",
+      "association": "It makes me think of city squares and crumbs."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "pizza"
+    }
+  },
+  {
+    "id": "animals-fish",
+    "word": "fish",
+    "group": "animals",
+    "subgroup": "sea creatures",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-fish.webp",
+    "imagePrompt": "A single silver fish in clear water seen from the side on a plain white background",
+    "searchQuery": "fish underwater",
+    "cues": {
+      "definition": "A creature that lives in water, breathes through gills and has fins.",
+      "sentenceCompletion": "You can go to the river with a rod to catch a ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is an animal that lives in water.",
+      "use": "People catch it and cook it for dinner.",
+      "action": "It swims, flicks its tail and breathes through gills.",
+      "properties": "It has scales, fins and a tail.",
+      "location": "You find it in the sea, rivers and lakes.",
+      "association": "It makes me think of chips and a rod."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "sh",
+      "syllables": 1,
+      "rhyme": "dish",
+      "sameFirstSound": "fan"
+    }
+  },
+  {
+    "id": "animals-crab",
+    "word": "crab",
+    "group": "animals",
+    "subgroup": "sea creatures",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-crab.webp",
+    "imagePrompt": "A red crab on a sandy surface on a plain white background",
+    "searchQuery": "crab",
+    "cues": {
+      "definition": "A sea creature with a hard shell and two big pincers that walks sideways.",
+      "sentenceCompletion": "The ___ scuttled sideways across the sand and nipped my toe.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is a sea creature with a hard shell.",
+      "use": "People eat it as seafood.",
+      "action": "It scuttles sideways and pinches with its claws.",
+      "properties": "It has a hard shell, ten legs and two big pincers.",
+      "location": "You find it on beaches and in rock pools.",
+      "association": "It makes me think of rock pools and the seaside."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "b",
+      "syllables": 1,
+      "rhyme": "grab",
+      "sameFirstSound": "coat"
+    }
+  },
+  {
+    "id": "animals-shark",
+    "word": "shark",
+    "group": "animals",
+    "subgroup": "sea creatures",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-shark.webp",
+    "imagePrompt": "A shark swimming in blue water on a plain white background",
+    "searchQuery": "shark",
+    "cues": {
+      "definition": "A large fierce sea fish with sharp teeth and a tall fin.",
+      "sentenceCompletion": "The tall fin of the ___ cut through the water.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh"
+    },
+    "semantic": {
+      "category": "It is a large fish.",
+      "use": "It hunts other sea animals to eat.",
+      "action": "It swims fast and bites with its many teeth.",
+      "properties": "It is grey and streamlined, with a tall fin and rows of sharp teeth.",
+      "location": "You find it in the sea.",
+      "association": "It makes me think of a tall fin in the water and of danger."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "park",
+      "sameFirstSound": "shirt"
+    }
+  },
+  {
+    "id": "animals-whale",
+    "word": "whale",
+    "group": "animals",
+    "subgroup": "sea creatures",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-whale.webp",
+    "imagePrompt": "A whale breaching out of the sea on a plain white background",
+    "searchQuery": "whale",
+    "cues": {
+      "definition": "The largest sea animal that sprays water from the top of its head.",
+      "sentenceCompletion": "The huge ___ blew a jet of water from its blowhole.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is a huge sea mammal.",
+      "use": "It lives in the sea and feeds on plankton.",
+      "action": "It dives, sings and sprays water from its blowhole.",
+      "properties": "It is enormous, grey or blue, with a huge tail.",
+      "location": "You find it in the open ocean.",
+      "association": "It makes me think of the deep ocean and of haunting songs."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "sail",
+      "sameFirstSound": "wallet"
+    }
+  },
+  {
+    "id": "animals-dolphin",
+    "word": "dolphin",
+    "group": "animals",
+    "subgroup": "sea creatures",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-dolphin.webp",
+    "imagePrompt": "A dolphin leaping out of the sea on a plain white background",
+    "searchQuery": "dolphin",
+    "cues": {
+      "definition": "A friendly sea mammal that jumps and makes clicking noises.",
+      "sentenceCompletion": "The ___ leapt out of the waves beside the boat.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "dol"
+    },
+    "semantic": {
+      "category": "It is an intelligent sea mammal.",
+      "use": "It lives in groups and hunts in the sea.",
+      "action": "It leaps, clicks and rides the waves.",
+      "properties": "It is smooth and grey, with a curved fin and a long snout.",
+      "location": "You find it in the sea.",
+      "association": "It makes me think of leaping and of clever tricks."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "doll"
+    }
+  },
+  {
+    "id": "animals-octopus",
+    "word": "octopus",
+    "group": "animals",
+    "subgroup": "sea creatures",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-octopus.webp",
+    "imagePrompt": "An octopus with eight arms on a light surface on a plain white background",
+    "searchQuery": "octopus",
+    "cues": {
+      "definition": "A sea creature with eight long arms and a soft round body.",
+      "sentenceCompletion": "The ___ has eight arms covered in suckers.",
+      "firstLetter": "o",
+      "firstSoundSpoken": "oh",
+      "firstSyllable": "oc"
+    },
+    "semantic": {
+      "category": "It is a soft-bodied sea creature.",
+      "use": "It hunts crabs and shellfish on the seabed.",
+      "action": "It squirts ink and squeezes into small gaps.",
+      "properties": "It has a round head, eight arms and suckers.",
+      "location": "You find it on the seabed.",
+      "association": "It makes me think of eight arms and of being clever."
+    },
+    "phonological": {
+      "firstSound": "o",
+      "lastSound": "s",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "office"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "animals-lobster",
+    "word": "lobster",
+    "group": "animals",
+    "subgroup": "sea creatures",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-lobster.webp",
+    "imagePrompt": "A red cooked lobster on a white plate on a plain white background",
+    "searchQuery": "lobster",
+    "cues": {
+      "definition": "A sea creature with a hard shell and two large claws that turns red when cooked.",
+      "sentenceCompletion": "The restaurant served a red ___ with butter.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "lll",
+      "firstSyllable": "lob"
+    },
+    "semantic": {
+      "category": "It is a sea creature with a hard shell.",
+      "use": "People eat it as a special seafood dish.",
+      "action": "It walks on the seabed and grips with its big claws.",
+      "properties": "It has a hard shell, a long tail and two big claws.",
+      "location": "You find it on the seabed and on a restaurant menu.",
+      "association": "It makes me think of a fancy seafood dinner."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "lamp"
+    }
+  },
+  {
+    "id": "animals-jellyfish",
+    "word": "jellyfish",
+    "group": "animals",
+    "subgroup": "sea creatures",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-jellyfish.webp",
+    "imagePrompt": "A jellyfish floating in blue water on a plain white background",
+    "searchQuery": "jellyfish",
+    "cues": {
+      "definition": "A soft see-through sea creature that can sting.",
+      "sentenceCompletion": "The ___ drifted slowly in the water, trailing its stinging tentacles.",
+      "firstLetter": "j",
+      "firstSoundSpoken": "juh",
+      "firstSyllable": "jel"
+    },
+    "semantic": {
+      "category": "It is a soft sea creature with no bones.",
+      "use": "It uses its tentacles to catch tiny animals.",
+      "action": "It drifts and pulses through the water.",
+      "properties": "It is soft and see-through, with a round bell and long tentacles.",
+      "location": "You find it in the sea and sometimes washed up on beaches.",
+      "association": "It makes me think of stings and of warnings on the beach."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "sh",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "jug"
+    }
+  },
+  {
+    "id": "animals-starfish",
+    "word": "starfish",
+    "group": "animals",
+    "subgroup": "sea creatures",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-starfish.webp",
+    "imagePrompt": "An orange starfish on sand on a plain white background",
+    "searchQuery": "starfish",
+    "cues": {
+      "definition": "A sea creature with a pointed shape and five arms.",
+      "sentenceCompletion": "We found an orange ___ in the rock pool.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "star"
+    },
+    "semantic": {
+      "category": "It is a sea creature.",
+      "use": "It slowly eats shellfish on the seabed.",
+      "action": "It crawls slowly along rocks and sand.",
+      "properties": "It has five arms joined at the centre and a rough skin.",
+      "location": "You find it on beaches and in rock pools.",
+      "association": "It makes me think of rock pools and seaside holidays."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "sh",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "stamp"
+    }
+  },
+  {
+    "id": "animals-bee",
+    "word": "bee",
+    "group": "animals",
+    "subgroup": "insects and minibeasts",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-bee.webp",
+    "imagePrompt": "A honey bee on a yellow flower on a plain white background",
+    "searchQuery": "honey bee",
+    "cues": {
+      "definition": "A small striped insect that makes honey and can sting.",
+      "sentenceCompletion": "The busy ___ buzzed from flower to flower.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a small flying insect.",
+      "use": "It collects pollen and makes honey.",
+      "action": "It buzzes, pollinates flowers and stings.",
+      "properties": "It is small and furry, with yellow and black stripes and wings.",
+      "location": "You find it in gardens and hives.",
+      "association": "It makes me think of honey and buzzing."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ee",
+      "syllables": 1,
+      "rhyme": "tea",
+      "sameFirstSound": "bed"
+    }
+  },
+  {
+    "id": "animals-ant",
+    "word": "ant",
+    "group": "animals",
+    "subgroup": "insects and minibeasts",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-ant.webp",
+    "imagePrompt": "A single black ant on a white background",
+    "searchQuery": "black ant",
+    "cues": {
+      "definition": "A tiny insect that lives in colonies and carries things much bigger than itself.",
+      "sentenceCompletion": "The tiny ___ carried a crumb back to the nest.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "aah"
+    },
+    "semantic": {
+      "category": "It is a tiny insect.",
+      "use": "It works in a colony to feed the queen.",
+      "action": "It marches in lines and carries food.",
+      "properties": "It is tiny and black, with six legs and feelers.",
+      "location": "You find it in gardens and in nests under the ground.",
+      "association": "It makes me think of picnics and hard work."
+    },
+    "phonological": {
+      "firstSound": "a",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": null,
+      "sameFirstSound": "apple"
+    }
+  },
+  {
+    "id": "animals-spider",
+    "word": "spider",
+    "group": "animals",
+    "subgroup": "insects and minibeasts",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-spider.webp",
+    "imagePrompt": "A garden spider on a web on a plain white background",
+    "searchQuery": "garden spider",
+    "cues": {
+      "definition": "A small creature with eight legs that spins webs.",
+      "sentenceCompletion": "The ___ spun a silky web across the window.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "spi"
+    },
+    "semantic": {
+      "category": "It is a small creature with eight legs.",
+      "use": "It spins webs to catch flies.",
+      "action": "It spins, scuttles and traps insects.",
+      "properties": "It has eight thin legs and a small round body.",
+      "location": "You find it in corners, on walls and in gardens.",
+      "association": "It makes me think of webs and of being scared."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "wider",
+      "sameFirstSound": "sofa"
+    }
+  },
+  {
+    "id": "animals-snail",
+    "word": "snail",
+    "group": "animals",
+    "subgroup": "insects and minibeasts",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-snail.webp",
+    "imagePrompt": "A garden snail with a spiral shell on a leaf on a plain white background",
+    "searchQuery": "garden snail",
+    "cues": {
+      "definition": "A slow creature with a spiral shell on its back that leaves a slimy trail.",
+      "sentenceCompletion": "The slow ___ left a silvery trail across the path.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a slow-moving minibeast.",
+      "use": "It eats leaves in the garden.",
+      "action": "It creeps slowly and pulls into its shell.",
+      "properties": "It has a soft body, a spiral shell and two feelers.",
+      "location": "You find it in gardens, especially after rain.",
+      "association": "It makes me think of slowness and a slimy trail."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "mail",
+      "sameFirstSound": "snow"
+    }
+  },
+  {
+    "id": "animals-wasp",
+    "word": "wasp",
+    "group": "animals",
+    "subgroup": "insects and minibeasts",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-wasp.webp",
+    "imagePrompt": "A wasp with yellow and black stripes on a light surface on a plain white background",
+    "searchQuery": "wasp insect",
+    "cues": {
+      "definition": "A flying insect with yellow and black stripes and a painful sting.",
+      "sentenceCompletion": "The ___ buzzed around the jam jar at the picnic.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is a stinging insect.",
+      "use": "It builds nests and hunts other insects.",
+      "action": "It buzzes and stings.",
+      "properties": "It has yellow and black stripes, a thin waist and wings.",
+      "location": "You find it in gardens and in nests under the eaves.",
+      "association": "It makes me think of summer picnics and being stung."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": null,
+      "sameFirstSound": "watch"
+    }
+  },
+  {
+    "id": "animals-ladybird",
+    "word": "ladybird",
+    "group": "animals",
+    "subgroup": "insects and minibeasts",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-ladybird.webp",
+    "imagePrompt": "A red ladybird with black spots on a green leaf on a plain white background",
+    "searchQuery": "ladybird",
+    "cues": {
+      "definition": "A small round beetle that is red with black spots.",
+      "sentenceCompletion": "The red ___ with black spots landed on the leaf.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "lll",
+      "firstSyllable": "la"
+    },
+    "semantic": {
+      "category": "It is a small beetle.",
+      "use": "It eats greenfly in the garden.",
+      "action": "It crawls on leaves and flies away.",
+      "properties": "It is small and round, red with black spots.",
+      "location": "You find it on leaves and flowers.",
+      "association": "It makes me think of luck and of a nursery rhyme."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "d",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "lemon"
+    }
+  },
+  {
+    "id": "animals-worm",
+    "word": "worm",
+    "group": "animals",
+    "subgroup": "insects and minibeasts",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-worm.webp",
+    "imagePrompt": "An earthworm on soil on a plain white background",
+    "searchQuery": "earthworm",
+    "cues": {
+      "definition": "A long wriggly creature with no legs that lives in soil.",
+      "sentenceCompletion": "The robin pulled a ___ out of the lawn.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is a minibeast with no legs.",
+      "use": "It helps to improve the soil.",
+      "action": "It wriggles and burrows in the ground.",
+      "properties": "It is long, pink and slimy, with no legs.",
+      "location": "You find it in soil and in the garden.",
+      "association": "It makes me think of fishing bait and of rain."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "firm",
+      "sameFirstSound": "window"
+    }
+  },
+  {
+    "id": "animals-caterpillar",
+    "word": "caterpillar",
+    "group": "animals",
+    "subgroup": "insects and minibeasts",
+    "wordClass": "noun",
+    "letters": 11,
+    "syllables": 4,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-caterpillar.webp",
+    "imagePrompt": "A green caterpillar on a leaf on a plain white background",
+    "searchQuery": "green caterpillar",
+    "cues": {
+      "definition": "A long crawling insect that eats leaves and later turns into a butterfly.",
+      "sentenceCompletion": "The hungry green ___ ate holes in the cabbage leaf.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cat"
+    },
+    "semantic": {
+      "category": "It is the young stage of an insect.",
+      "use": "It eats leaves, then changes into something with wings.",
+      "action": "It crawls and munches leaves.",
+      "properties": "It is long and soft, with lots of tiny legs.",
+      "location": "You find it on leaves and plants.",
+      "association": "It makes me think of a very hungry story."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "er",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "cabbage"
+    }
+  },
+  {
+    "id": "animals-butterfly",
+    "word": "butterfly",
+    "group": "animals",
+    "subgroup": "insects and minibeasts",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "animals-butterfly.webp",
+    "imagePrompt": "A colourful butterfly with wings open on a flower on a plain white background",
+    "searchQuery": "butterfly",
+    "cues": {
+      "definition": "A pretty insect with large colourful wings that flutters from flower to flower.",
+      "sentenceCompletion": "The colourful ___ fluttered from flower to flower.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "but"
+    },
+    "semantic": {
+      "category": "It is a flying insect.",
+      "use": "It drinks nectar from flowers.",
+      "action": "It flutters and lands softly on blooms.",
+      "properties": "It has large, patterned, colourful wings.",
+      "location": "You find it in gardens and meadows in summer.",
+      "association": "It makes me think of summer days and flowers."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ie",
+      "syllables": 3,
+      "rhyme": "sky",
+      "sameFirstSound": "bridge"
+    }
+  }
+]

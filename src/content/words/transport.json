@@ -1,0 +1,1997 @@
+[
+  {
+    "id": "transport-car",
+    "word": "car",
+    "group": "transport",
+    "subgroup": "road vehicles",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-car.webp",
+    "imagePrompt": "A silver hatchback car parked, seen from the side",
+    "searchQuery": "hatchback car",
+    "cues": {
+      "definition": "A vehicle with four wheels and an engine that takes a family along the road.",
+      "sentenceCompletion": "She turned the key and drove off in her ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is a road vehicle.",
+      "use": "You use it to travel from place to place.",
+      "action": "You drive it along the road.",
+      "properties": "It has four wheels, doors and windows.",
+      "location": "You find it on the road or on a driveway.",
+      "association": "It makes me think of traffic jams and holidays."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "r",
+      "syllables": 1,
+      "rhyme": "star",
+      "sameFirstSound": "cup"
+    }
+  },
+  {
+    "id": "transport-van",
+    "word": "van",
+    "group": "transport",
+    "subgroup": "road vehicles",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-van.webp",
+    "imagePrompt": "A white delivery van parked, seen from the side",
+    "searchQuery": "white van",
+    "cues": {
+      "definition": "A boxy vehicle used to deliver parcels and move tools around.",
+      "sentenceCompletion": "The plumber arrived in a white ___.",
+      "firstLetter": "v",
+      "firstSoundSpoken": "vuh"
+    },
+    "semantic": {
+      "category": "It is a road vehicle.",
+      "use": "You use it to carry goods, tools and parcels.",
+      "action": "It drives around making deliveries.",
+      "properties": "It is tall and boxy with big doors at the back.",
+      "location": "You see it on roads and outside houses and shops.",
+      "association": "It makes me think of deliveries and moving house."
+    },
+    "phonological": {
+      "firstSound": "v",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "man",
+      "sameFirstSound": "violin"
+    }
+  },
+  {
+    "id": "transport-lorry",
+    "word": "lorry",
+    "group": "transport",
+    "subgroup": "road vehicles",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-lorry.webp",
+    "imagePrompt": "A large articulated lorry on a plain road",
+    "searchQuery": "lorry truck",
+    "cues": {
+      "definition": "A very large vehicle that carries heavy loads over long distances.",
+      "sentenceCompletion": "The motorway was full of big ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh",
+      "firstSyllable": "lor"
+    },
+    "semantic": {
+      "category": "It is a road vehicle.",
+      "use": "You use it to move heavy goods across the country.",
+      "action": "It rumbles along carrying a huge load.",
+      "properties": "It is long and tall with a cab at the front.",
+      "location": "You see it on motorways and at depots.",
+      "association": "It makes me think of roadworks and long delays."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "sorry",
+      "sameFirstSound": "ladder"
+    }
+  },
+  {
+    "id": "transport-taxi",
+    "word": "taxi",
+    "group": "transport",
+    "subgroup": "road vehicles",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-taxi.webp",
+    "imagePrompt": "A black London taxi cab parked at the roadside",
+    "searchQuery": "black taxi cab",
+    "cues": {
+      "definition": "A car with a driver that you pay to take you where you want to go.",
+      "sentenceCompletion": "We were late, so we hailed a ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tax"
+    },
+    "semantic": {
+      "category": "It is a road vehicle.",
+      "use": "You use it to get somewhere when you do not have your own transport.",
+      "action": "You wave it down and tell the driver your destination.",
+      "properties": "It often has a sign on the roof and a meter inside.",
+      "location": "You find it waiting outside stations and in busy streets.",
+      "association": "It makes me think of a night out and a fare to pay."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "table"
+    }
+  },
+  {
+    "id": "transport-tractor",
+    "word": "tractor",
+    "group": "transport",
+    "subgroup": "road vehicles",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-tractor.webp",
+    "imagePrompt": "A red farm tractor with large rear wheels",
+    "searchQuery": "farm tractor",
+    "cues": {
+      "definition": "A strong farm vehicle with huge back wheels used to pull machinery.",
+      "sentenceCompletion": "The farmer ploughed the field with his ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "truh",
+      "firstSyllable": "trac"
+    },
+    "semantic": {
+      "category": "It is a farm vehicle.",
+      "use": "You use it to plough fields and pull heavy loads.",
+      "action": "It chugs slowly across the mud.",
+      "properties": "It is big and noisy with enormous back wheels.",
+      "location": "You find it on a farm or in a country lane.",
+      "association": "It makes me think of fields, mud and harvest time."
+    },
+    "phonological": {
+      "firstSound": "tr",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "factor",
+      "sameFirstSound": "tree"
+    }
+  },
+  {
+    "id": "transport-ambulance",
+    "word": "ambulance",
+    "group": "transport",
+    "subgroup": "road vehicles",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-ambulance.webp",
+    "imagePrompt": "A white and green ambulance seen from the side",
+    "searchQuery": "ambulance",
+    "cues": {
+      "definition": "An emergency vehicle that rushes sick or hurt people to hospital.",
+      "sentenceCompletion": "A siren wailed as the ___ sped to the hospital.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "ah",
+      "firstSyllable": "am"
+    },
+    "semantic": {
+      "category": "It is an emergency vehicle.",
+      "use": "You use it to get a badly ill person to hospital fast.",
+      "action": "It races along with its siren and flashing lights going.",
+      "properties": "It is large and bright with flashing lights on top.",
+      "location": "You see it on the road and outside hospitals.",
+      "association": "It makes me think of paramedics and emergencies."
+    },
+    "phonological": {
+      "firstSound": "a",
+      "lastSound": "s",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "apple"
+    }
+  },
+  {
+    "id": "transport-caravan",
+    "word": "caravan",
+    "group": "transport",
+    "subgroup": "road vehicles",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-caravan.webp",
+    "imagePrompt": "A white touring caravan parked on grass",
+    "searchQuery": "touring caravan",
+    "cues": {
+      "definition": "A small home on wheels that a car pulls so you can stay away on holiday.",
+      "sentenceCompletion": "We hitched the ___ to the car and set off on holiday.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "car"
+    },
+    "semantic": {
+      "category": "It is a vehicle that you tow behind another one.",
+      "use": "You use it as a home away from home on holiday.",
+      "action": "You tow it behind a car and park it on a site.",
+      "properties": "It is boxy and white with a door and small windows.",
+      "location": "You find it on campsites and on holiday roads.",
+      "association": "It makes me think of seaside holidays and slow traffic."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "n",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "kitchen"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "transport-bus",
+    "word": "bus",
+    "group": "transport",
+    "subgroup": "buses and trains",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-bus.webp",
+    "imagePrompt": "A red double decker bus seen from the side",
+    "searchQuery": "double decker bus",
+    "cues": {
+      "definition": "A big vehicle with lots of seats that follows a route and picks up passengers.",
+      "sentenceCompletion": "I caught the ___ into town.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is public transport.",
+      "use": "You use it to travel around town cheaply.",
+      "action": "You get on, pay and sit down while it drives along its route.",
+      "properties": "It is large, tall and has many windows.",
+      "location": "You find it on town roads and at the roadside.",
+      "association": "It makes me think of the daily commute and a pass."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "fuss",
+      "sameFirstSound": "ball"
+    }
+  },
+  {
+    "id": "transport-coach",
+    "word": "coach",
+    "group": "transport",
+    "subgroup": "buses and trains",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-coach.webp",
+    "imagePrompt": "A white long distance coach on a road",
+    "searchQuery": "tour coach",
+    "cues": {
+      "definition": "A comfortable vehicle for long journeys that takes groups on trips.",
+      "sentenceCompletion": "We took a day trip to the seaside by ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is public transport for longer journeys.",
+      "use": "You use it to travel between towns or go on day trips.",
+      "action": "You book a seat and ride along the motorway.",
+      "properties": "It is long and comfortable with tinted windows.",
+      "location": "You find it at depots and on motorways.",
+      "association": "It makes me think of outings and holiday tours."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "ch",
+      "syllables": 1,
+      "rhyme": "poach",
+      "sameFirstSound": "carrot"
+    }
+  },
+  {
+    "id": "transport-train",
+    "word": "train",
+    "group": "transport",
+    "subgroup": "buses and trains",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-train.webp",
+    "imagePrompt": "A passenger train on a railway track",
+    "searchQuery": "passenger train",
+    "cues": {
+      "definition": "A long vehicle made of carriages that runs along metal tracks.",
+      "sentenceCompletion": "We took the ___ to London.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "truh"
+    },
+    "semantic": {
+      "category": "It is public transport.",
+      "use": "You use it to travel quickly between towns and cities.",
+      "action": "It speeds along the tracks and stops at stations.",
+      "properties": "It is long, with an engine at the front and carriages behind.",
+      "location": "You find it on railway lines.",
+      "association": "It makes me think of commuters and platforms."
+    },
+    "phonological": {
+      "firstSound": "tr",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "rain",
+      "sameFirstSound": "trumpet"
+    }
+  },
+  {
+    "id": "transport-tram",
+    "word": "tram",
+    "group": "transport",
+    "subgroup": "buses and trains",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-tram.webp",
+    "imagePrompt": "A tram running along a city street under overhead wires",
+    "searchQuery": "tram street",
+    "cues": {
+      "definition": "A vehicle like a train that runs along rails in the street, powered from wires above.",
+      "sentenceCompletion": "In some cities you can ride on a ___ along the street.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "truh"
+    },
+    "semantic": {
+      "category": "It is public transport.",
+      "use": "You use it to get around a city.",
+      "action": "It glides along rails set into the road.",
+      "properties": "It is long and narrow with a pole or arm reaching up to the wires.",
+      "location": "You find it in city streets.",
+      "association": "It makes me think of old-fashioned city travel."
+    },
+    "phonological": {
+      "firstSound": "tr",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "ham",
+      "sameFirstSound": "trout"
+    }
+  },
+  {
+    "id": "transport-minibus",
+    "word": "minibus",
+    "group": "transport",
+    "subgroup": "buses and trains",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-minibus.webp",
+    "imagePrompt": "A white minibus parked at the roadside",
+    "searchQuery": "minibus",
+    "cues": {
+      "definition": "A small passenger vehicle with a dozen seats, between a van and a full-sized coach.",
+      "sentenceCompletion": "The football team travelled to the match in a ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "min"
+    },
+    "semantic": {
+      "category": "It is a passenger vehicle.",
+      "use": "You use it to take a small group of people together.",
+      "action": "You climb in and the driver takes the whole group.",
+      "properties": "It is boxy with rows of seats and several windows.",
+      "location": "You see it outside schools, clubs and care homes.",
+      "association": "It makes me think of team trips and community outings."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "s",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "monkey"
+    }
+  },
+  {
+    "id": "transport-railway",
+    "word": "railway",
+    "group": "transport",
+    "subgroup": "buses and trains",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-railway.webp",
+    "imagePrompt": "Railway tracks with sleepers seen from above",
+    "searchQuery": "railway track",
+    "cues": {
+      "definition": "Two long metal lines on the ground along which trains run.",
+      "sentenceCompletion": "The line ran through the countryside as a disused ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh",
+      "firstSyllable": "rail"
+    },
+    "semantic": {
+      "category": "It is a transport route.",
+      "use": "You use it to carry trains from one town to another.",
+      "action": "It stretches out for miles across the land.",
+      "properties": "It is made of long metal lines laid on wooden sleepers.",
+      "location": "You find it crossing the countryside and running into stations.",
+      "association": "It makes me think of steam engines and level crossings."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "ay",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "rabbit"
+    }
+  },
+  {
+    "id": "transport-bicycle",
+    "word": "bicycle",
+    "group": "transport",
+    "subgroup": "two wheels and small wheels",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-bicycle.webp",
+    "imagePrompt": "A plain bicycle standing upright, seen from the side",
+    "searchQuery": "bicycle",
+    "cues": {
+      "definition": "A vehicle with two wheels and pedals that you ride by pushing with your legs.",
+      "sentenceCompletion": "He pedalled down the lane on his ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bi"
+    },
+    "semantic": {
+      "category": "It is a two-wheeled vehicle.",
+      "use": "You use it to get around and to keep fit.",
+      "action": "You pedal and steer with the handlebars.",
+      "properties": "It has two wheels, a frame, pedals and a chain.",
+      "location": "You find it in a shed or on a quiet path.",
+      "association": "It makes me think of exercise and country lanes."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": "tricycle",
+      "sameFirstSound": "banana"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "transport-motorbike",
+    "word": "motorbike",
+    "group": "transport",
+    "subgroup": "two wheels and small wheels",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-motorbike.webp",
+    "imagePrompt": "A black motorbike standing upright, seen from the side",
+    "searchQuery": "motorbike",
+    "cues": {
+      "definition": "A two-wheeled vehicle with an engine that you sit astride.",
+      "sentenceCompletion": "He put on his helmet and rode off on his ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mo"
+    },
+    "semantic": {
+      "category": "It is a two-wheeled vehicle.",
+      "use": "You use it to travel fast and weave through traffic.",
+      "action": "You twist the handle to make it go faster.",
+      "properties": "It has two wheels, an engine and a loud noise.",
+      "location": "You find it on roads and in garages.",
+      "association": "It makes me think of leather jackets and speed."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "k",
+      "syllables": 3,
+      "rhyme": "hike",
+      "sameFirstSound": "mountain"
+    }
+  },
+  {
+    "id": "transport-scooter",
+    "word": "scooter",
+    "group": "transport",
+    "subgroup": "two wheels and small wheels",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-scooter.webp",
+    "imagePrompt": "A kick scooter standing upright with two small wheels and a handlebar",
+    "searchQuery": "kick scooter",
+    "cues": {
+      "definition": "A ride with two small wheels and a handlebar that you stand on and push along with one foot.",
+      "sentenceCompletion": "She pushed off with her foot and glided along on her ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "scoo"
+    },
+    "semantic": {
+      "category": "It is a small wheeled vehicle.",
+      "use": "You use it to get along the street without walking.",
+      "action": "You stand on it and push with one foot.",
+      "properties": "It has a flat board, two small wheels and a tall handlebar.",
+      "location": "You see it on pavements and in parks.",
+      "association": "It makes me think of children and short journeys."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "computer",
+      "sameFirstSound": "soap"
+    }
+  },
+  {
+    "id": "transport-pram",
+    "word": "pram",
+    "group": "transport",
+    "subgroup": "two wheels and small wheels",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-pram.webp",
+    "imagePrompt": "An empty pram with a hood on a plain background",
+    "searchQuery": "baby pram",
+    "cues": {
+      "definition": "A wheeled carriage with a hood that you push to take a baby for a walk.",
+      "sentenceCompletion": "She pushed the baby along the path in the ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is something with wheels for a baby.",
+      "use": "You use it to take a baby out for a walk.",
+      "action": "You push it along by its handle.",
+      "properties": "It has a hood, a soft mattress and four wheels.",
+      "location": "You see it in parks and on pavements.",
+      "association": "It makes me think of babies and strolls in the park."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "ham",
+      "sameFirstSound": "pen"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "transport-skateboard",
+    "word": "skateboard",
+    "group": "transport",
+    "subgroup": "two wheels and small wheels",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-skateboard.webp",
+    "imagePrompt": "A skateboard standing on its wheels on a plain background",
+    "searchQuery": "skateboard",
+    "cues": {
+      "definition": "A short deck on four small wheels that you stand on and ride.",
+      "sentenceCompletion": "He did a trick on his ___ at the park.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "skate"
+    },
+    "semantic": {
+      "category": "It is a small wheeled toy and sports item.",
+      "use": "You use it for fun, tricks and getting around.",
+      "action": "You push off with one foot and balance as it rolls.",
+      "properties": "It has a wooden deck and four small wheels.",
+      "location": "You see it at skate parks and on pavements.",
+      "association": "It makes me think of teenagers and ramps."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": "cardboard",
+      "sameFirstSound": "spoon"
+    }
+  },
+  {
+    "id": "transport-tricycle",
+    "word": "tricycle",
+    "group": "transport",
+    "subgroup": "two wheels and small wheels",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-tricycle.webp",
+    "imagePrompt": "An adult three-wheeled pedal cycle with a basket at the back, side view on a white background",
+    "searchQuery": "adult tricycle",
+    "cues": {
+      "definition": "It is a pedal cycle with three wheels.",
+      "sentenceCompletion": "It has pedals, a saddle and three wheels. It is a ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tri"
+    },
+    "semantic": {
+      "category": "It is something you ride.",
+      "use": "You use it to get about without having to balance.",
+      "action": "You sit on it and pedal.",
+      "properties": "It has three wheels, handlebars and a saddle.",
+      "location": "You see it on paths and in parks.",
+      "association": "It makes me think of a steady ride with a basket of shopping."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "train"
+    }
+  },
+  {
+    "id": "transport-helmet",
+    "word": "helmet",
+    "group": "transport",
+    "subgroup": "two wheels and small wheels",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-helmet.webp",
+    "imagePrompt": "A black cycling helmet on a plain background",
+    "searchQuery": "bicycle helmet",
+    "cues": {
+      "definition": "A hard shell that protects your head if you fall off a bike.",
+      "sentenceCompletion": "Always wear a ___ when you ride a bike.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hel"
+    },
+    "semantic": {
+      "category": "It is protective equipment.",
+      "use": "You use it to protect your skull in a fall.",
+      "action": "You put it on and fasten the strap under your chin.",
+      "properties": "It is hard and rounded with a strap and air holes.",
+      "location": "You find it with a bike or on a rider.",
+      "association": "It makes me think of safety and cyclists."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "house"
+    }
+  },
+  {
+    "id": "transport-aeroplane",
+    "word": "aeroplane",
+    "group": "transport",
+    "subgroup": "air and space",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-aeroplane.webp",
+    "imagePrompt": "A white passenger aeroplane flying in a blue sky",
+    "searchQuery": "aeroplane",
+    "cues": {
+      "definition": "A large machine with wings that carries passengers through the sky.",
+      "sentenceCompletion": "We flew to Spain on an ___.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "air",
+      "firstSyllable": "aer"
+    },
+    "semantic": {
+      "category": "It is a flying vehicle.",
+      "use": "You use it to travel long distances quickly.",
+      "action": "It takes off, flies high and then lands.",
+      "properties": "It is long with two wings, a tail and jet engines.",
+      "location": "You find it in the sky and at runways.",
+      "association": "It makes me think of holidays and airports."
+    },
+    "phonological": {
+      "firstSound": "air",
+      "lastSound": "ay",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "area"
+    }
+  },
+  {
+    "id": "transport-helicopter",
+    "word": "helicopter",
+    "group": "transport",
+    "subgroup": "air and space",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 4,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-helicopter.webp",
+    "imagePrompt": "A helicopter on the ground with rotor blades",
+    "searchQuery": "helicopter",
+    "cues": {
+      "definition": "An aircraft with spinning blades on top that can take off straight upwards.",
+      "sentenceCompletion": "The rescue ___ hovered over the cliff.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hel"
+    },
+    "semantic": {
+      "category": "It is a flying vehicle.",
+      "use": "You use it for rescues, news reports and short flights.",
+      "action": "It hovers in the air with its blades whirling.",
+      "properties": "It has spinning blades on top and a small tail.",
+      "location": "You find it on a helipad or in the sky.",
+      "association": "It makes me think of air ambulances and loud whirring."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "er",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "hammer"
+    }
+  },
+  {
+    "id": "transport-rocket",
+    "word": "rocket",
+    "group": "transport",
+    "subgroup": "air and space",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-rocket.webp",
+    "imagePrompt": "A white space rocket standing on a launch pad",
+    "searchQuery": "space rocket",
+    "cues": {
+      "definition": "A tall tube-shaped craft that blasts people or satellites into space.",
+      "sentenceCompletion": "The astronauts blasted off in a ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh",
+      "firstSyllable": "rock"
+    },
+    "semantic": {
+      "category": "It is a vehicle for space.",
+      "use": "You use it to travel beyond the Earth.",
+      "action": "It blasts off with fire and smoke beneath it.",
+      "properties": "It is tall and pointed with fins at the bottom.",
+      "location": "You find it on a launch pad.",
+      "association": "It makes me think of astronauts and the moon."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "pocket",
+      "sameFirstSound": "ring"
+    }
+  },
+  {
+    "id": "transport-parachute",
+    "word": "parachute",
+    "group": "transport",
+    "subgroup": "air and space",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-parachute.webp",
+    "imagePrompt": "An open colourful parachute in a blue sky",
+    "searchQuery": "parachute",
+    "cues": {
+      "definition": "A large piece of fabric that opens above you so you float down slowly.",
+      "sentenceCompletion": "He jumped out of the plane and opened his ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "par"
+    },
+    "semantic": {
+      "category": "It is a piece of safety and sports equipment.",
+      "use": "You use it to land safely after jumping from a height.",
+      "action": "You pull a cord and it opens like a huge umbrella.",
+      "properties": "It is a large round canopy with strings and a harness.",
+      "location": "You see it in the sky above a field.",
+      "association": "It makes me think of skydiving and brave jumps."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": "flute",
+      "sameFirstSound": "pencil"
+    }
+  },
+  {
+    "id": "transport-glider",
+    "word": "glider",
+    "group": "transport",
+    "subgroup": "air and space",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-glider.webp",
+    "imagePrompt": "A white glider aircraft flying with long wings",
+    "searchQuery": "glider aircraft",
+    "cues": {
+      "definition": "A light aircraft with long wings and no engine that floats on the air.",
+      "sentenceCompletion": "The ___ soared silently over the hills.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh",
+      "firstSyllable": "gli"
+    },
+    "semantic": {
+      "category": "It is a flying vehicle.",
+      "use": "You use it to fly for sport without an engine.",
+      "action": "It rides the rising air and floats quietly.",
+      "properties": "It has very long thin wings and a narrow body.",
+      "location": "You see it in the sky above hills.",
+      "association": "It makes me think of quiet flights and hilltops."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "rider",
+      "sameFirstSound": "garden"
+    }
+  },
+  {
+    "id": "transport-satellite",
+    "word": "satellite",
+    "group": "transport",
+    "subgroup": "air and space",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-satellite.webp",
+    "imagePrompt": "A satellite with solar panels in space",
+    "searchQuery": "satellite in space",
+    "cues": {
+      "definition": "A machine that circles the Earth in space and sends signals back.",
+      "sentenceCompletion": "The weather forecast uses pictures from a ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sat"
+    },
+    "semantic": {
+      "category": "It is a machine in space.",
+      "use": "You use it for television, phones and weather forecasts.",
+      "action": "It circles the Earth sending signals down.",
+      "properties": "It has flat panels like wings and a metal body.",
+      "location": "You find it high above the Earth.",
+      "association": "It makes me think of the weather and sat nav."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": "night",
+      "sameFirstSound": "salt"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "transport-ferry",
+    "word": "ferry",
+    "group": "transport",
+    "subgroup": "boats",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-ferry.webp",
+    "imagePrompt": "A passenger ferry at sea",
+    "searchQuery": "passenger ferry",
+    "cues": {
+      "definition": "A boat that carries cars and people across a stretch of water.",
+      "sentenceCompletion": "We took the ___ across the water to the island.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "fer"
+    },
+    "semantic": {
+      "category": "It is a boat.",
+      "use": "You use it to cross the water with your car.",
+      "action": "It sails back and forth between two ports.",
+      "properties": "It is large and wide with a car deck and a funnel.",
+      "location": "You find it at sea and at ports.",
+      "association": "It makes me think of crossing the Channel and sea breezes."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "merry",
+      "sameFirstSound": "fish"
+    }
+  },
+  {
+    "id": "transport-yacht",
+    "word": "yacht",
+    "group": "transport",
+    "subgroup": "boats",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-yacht.webp",
+    "imagePrompt": "A white sailing yacht on calm blue sea",
+    "searchQuery": "sailing yacht",
+    "cues": {
+      "definition": "A sleek sailing vessel used for racing or leisure at sea.",
+      "sentenceCompletion": "The millionaire sailed his luxury ___ around the bay.",
+      "firstLetter": "y",
+      "firstSoundSpoken": "yuh"
+    },
+    "semantic": {
+      "category": "It is a boat.",
+      "use": "You use it for racing and relaxing on the water.",
+      "action": "It glides along as the wind fills its sails.",
+      "properties": "It is sleek and white with a tall mast and sails.",
+      "location": "You find it in marinas and out at sea.",
+      "association": "It makes me think of wealth and sunny seas."
+    },
+    "phonological": {
+      "firstSound": "y",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "hot",
+      "sameFirstSound": "yellow"
+    }
+  },
+  {
+    "id": "transport-canoe",
+    "word": "canoe",
+    "group": "transport",
+    "subgroup": "boats",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-canoe.webp",
+    "imagePrompt": "A single canoe on calm water with a paddle",
+    "searchQuery": "canoe paddle",
+    "cues": {
+      "definition": "A narrow boat that you paddle with a single blade.",
+      "sentenceCompletion": "He paddled the ___ down the river.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "ca"
+    },
+    "semantic": {
+      "category": "It is a small boat.",
+      "use": "You use it to explore rivers and lakes.",
+      "action": "You kneel inside and dip the paddle in the water.",
+      "properties": "It is long and narrow with pointed ends.",
+      "location": "You find it on rivers and lakes.",
+      "association": "It makes me think of calm rivers and wildlife."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "oo",
+      "syllables": 2,
+      "rhyme": "shoe",
+      "sameFirstSound": "kitten"
+    }
+  },
+  {
+    "id": "transport-barge",
+    "word": "barge",
+    "group": "transport",
+    "subgroup": "boats",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-barge.webp",
+    "imagePrompt": "A narrowboat barge moored on a canal",
+    "searchQuery": "canal barge",
+    "cues": {
+      "definition": "A long flat-bottomed boat that carries cargo along canals and rivers.",
+      "sentenceCompletion": "The ___ chugged slowly along the canal.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a boat.",
+      "use": "You use it to carry heavy loads along waterways.",
+      "action": "It moves very slowly along the canal.",
+      "properties": "It is long and flat with a low wide hull.",
+      "location": "You find it on canals and rivers.",
+      "association": "It makes me think of locks and slow journeys."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "j",
+      "syllables": 1,
+      "rhyme": "large",
+      "sameFirstSound": "bread"
+    }
+  },
+  {
+    "id": "transport-submarine",
+    "word": "submarine",
+    "group": "transport",
+    "subgroup": "boats",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-submarine.webp",
+    "imagePrompt": "A grey submarine on the surface of the sea",
+    "searchQuery": "submarine",
+    "cues": {
+      "definition": "A vessel that can travel underwater.",
+      "sentenceCompletion": "The crew dived deep below the waves in a ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sub"
+    },
+    "semantic": {
+      "category": "It is a vessel that goes under the sea.",
+      "use": "You use it to travel and explore deep under the water.",
+      "action": "It dives down and hides beneath the waves.",
+      "properties": "It is long, round and grey with a tall tower on top.",
+      "location": "You find it in the deep sea and at naval bases.",
+      "association": "It makes me think of the navy and periscopes."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "n",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "sock"
+    }
+  },
+  {
+    "id": "transport-lifeboat",
+    "word": "lifeboat",
+    "group": "transport",
+    "subgroup": "boats",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-lifeboat.webp",
+    "imagePrompt": "An orange and blue lifeboat on a slipway",
+    "searchQuery": "lifeboat",
+    "cues": {
+      "definition": "A rescue vessel that goes out to help people in trouble at sea.",
+      "sentenceCompletion": "The sailors were rescued by the ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh",
+      "firstSyllable": "life"
+    },
+    "semantic": {
+      "category": "It is a rescue vessel.",
+      "use": "You use it to save people in danger at sea.",
+      "action": "It races out through the storm to rescue people.",
+      "properties": "It is bright orange or blue and built to stay afloat in rough water.",
+      "location": "You find it at coastal stations and at sea.",
+      "association": "It makes me think of brave volunteers and storms."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "coat",
+      "sameFirstSound": "lemon"
+    }
+  },
+  {
+    "id": "transport-wheel",
+    "word": "wheel",
+    "group": "transport",
+    "subgroup": "vehicle parts",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-wheel.webp",
+    "imagePrompt": "A single bicycle wheel with spokes on a plain background",
+    "searchQuery": "bicycle wheel",
+    "cues": {
+      "definition": "A round part that turns to make a vehicle move along.",
+      "sentenceCompletion": "The bicycle had a puncture in its front ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is part of a vehicle.",
+      "use": "You use it to roll along the ground.",
+      "action": "It spins round and round.",
+      "properties": "It is round, with spokes and a rubber rim.",
+      "location": "You find it on bikes, cars and lorries.",
+      "association": "It makes me think of rolling and going places."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "feel",
+      "sameFirstSound": "wolf"
+    }
+  },
+  {
+    "id": "transport-tyre",
+    "word": "tyre",
+    "group": "transport",
+    "subgroup": "vehicle parts",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-tyre.webp",
+    "imagePrompt": "A stack of black car tyres on a plain background",
+    "searchQuery": "black car tyre",
+    "cues": {
+      "definition": "A rubber ring around a wheel that grips the road.",
+      "sentenceCompletion": "I had to pump up the flat ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is part of a vehicle.",
+      "use": "You use it to grip the road and cushion the ride.",
+      "action": "It rolls along the ground and can go flat.",
+      "properties": "It is black, thick, rubbery and round.",
+      "location": "You find it on a car, a bike or in a garage.",
+      "association": "It makes me think of punctures and tread."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "er",
+      "syllables": 1,
+      "rhyme": "fire",
+      "sameFirstSound": "tooth"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "transport-steering-wheel",
+    "word": "steering wheel",
+    "group": "transport",
+    "subgroup": "vehicle parts",
+    "wordClass": "noun",
+    "letters": 13,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "transport-steering-wheel.webp",
+    "imagePrompt": "A car steering wheel seen from the driver's seat",
+    "searchQuery": "car steering wheel",
+    "cues": {
+      "definition": "The round part inside a car that the driver turns to change direction.",
+      "sentenceCompletion": "He kept both hands on the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "steer"
+    },
+    "semantic": {
+      "category": "It is part of a vehicle.",
+      "use": "You use it to guide a car left and right.",
+      "action": "You turn it to change direction.",
+      "properties": "It is round and covered in leather or plastic.",
+      "location": "You find it inside a car in front of the driver.",
+      "association": "It makes me think of driving lessons."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": "appeal",
+      "sameFirstSound": "spider"
+    }
+  },
+  {
+    "id": "transport-windscreen",
+    "word": "windscreen",
+    "group": "transport",
+    "subgroup": "vehicle parts",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-windscreen.webp",
+    "imagePrompt": "A car windscreen seen from outside with wipers",
+    "searchQuery": "car windscreen",
+    "cues": {
+      "definition": "The large glass at the front of a car that you look out through.",
+      "sentenceCompletion": "The wipers cleared the rain from the ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "wind"
+    },
+    "semantic": {
+      "category": "It is part of a vehicle.",
+      "use": "You use it to see the road ahead and keep out the weather.",
+      "action": "It gets wiped clean and sometimes cracks.",
+      "properties": "It is large, curved, clear glass.",
+      "location": "You find it at the front of a car.",
+      "association": "It makes me think of wipers and de-icing on cold mornings."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "queen",
+      "sameFirstSound": "water"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "transport-engine",
+    "word": "engine",
+    "group": "transport",
+    "subgroup": "vehicle parts",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-engine.webp",
+    "imagePrompt": "A clean car engine block seen from above",
+    "searchQuery": "car engine",
+    "cues": {
+      "definition": "The machine inside a vehicle that burns fuel to make it go.",
+      "sentenceCompletion": "The car would not start because of a fault in the ___.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "eh",
+      "firstSyllable": "en"
+    },
+    "semantic": {
+      "category": "It is part of a vehicle.",
+      "use": "You use it to power a vehicle.",
+      "action": "It roars into life when you turn the key.",
+      "properties": "It is a heavy metal machine with pipes and cables.",
+      "location": "You find it under the front cover of a vehicle.",
+      "association": "It makes me think of mechanics and oily hands."
+    },
+    "phonological": {
+      "firstSound": "e",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "elbow"
+    }
+  },
+  {
+    "id": "transport-number-plate",
+    "word": "number plate",
+    "group": "transport",
+    "subgroup": "vehicle parts",
+    "wordClass": "noun",
+    "letters": 11,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "transport-number-plate.webp",
+    "imagePrompt": "A white UK number plate on the rear of a car",
+    "searchQuery": "number plate",
+    "cues": {
+      "definition": "A rectangular sign at the front and back of a car showing letters and digits that identify it.",
+      "sentenceCompletion": "The police wrote down the car's ___.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "nuh",
+      "firstSyllable": "num"
+    },
+    "semantic": {
+      "category": "It is part of a vehicle.",
+      "use": "You use it to identify a vehicle.",
+      "action": "It is checked by cameras and the police.",
+      "properties": "It is flat and rectangular, with black letters on white or yellow.",
+      "location": "You find it at the front and back of a car.",
+      "association": "It makes me think of registration and speed cameras."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "needle"
+    }
+  },
+  {
+    "id": "transport-headlight",
+    "word": "headlight",
+    "group": "transport",
+    "subgroup": "vehicle parts",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-headlight.webp",
+    "imagePrompt": "A car headlight switched on, close up",
+    "searchQuery": "car headlight",
+    "cues": {
+      "definition": "A bright lamp at the front of a vehicle that shines onto the road in the dark.",
+      "sentenceCompletion": "At night he switched on his ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "head"
+    },
+    "semantic": {
+      "category": "It is part of a vehicle.",
+      "use": "You use it to see the road in the dark.",
+      "action": "It shines a beam on the road ahead.",
+      "properties": "It is a round or oval glass lamp, bright and white.",
+      "location": "You find it at the front of a car.",
+      "association": "It makes me think of night driving and dazzle."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "kite",
+      "sameFirstSound": "hat"
+    }
+  },
+  {
+    "id": "transport-traffic-lights",
+    "word": "traffic lights",
+    "group": "transport",
+    "subgroup": "road features",
+    "wordClass": "noun",
+    "letters": 13,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "transport-traffic-lights.webp",
+    "imagePrompt": "Traffic lights showing red on a pole",
+    "searchQuery": "traffic lights",
+    "cues": {
+      "definition": "A set of red, amber and green signals on a pole that tell drivers when to stop and go.",
+      "sentenceCompletion": "Wait here until the ___ turn green.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "truh",
+      "firstSyllable": "traf"
+    },
+    "semantic": {
+      "category": "It is part of the road.",
+      "use": "You use them to control the flow of vehicles.",
+      "action": "They change from red to amber to green.",
+      "properties": "They are three coloured signals on a tall pole.",
+      "location": "You find them at junctions and crossings.",
+      "association": "They make me think of waiting in a queue."
+    },
+    "phonological": {
+      "firstSound": "tr",
+      "lastSound": "ts",
+      "syllables": 3,
+      "rhyme": "kites",
+      "sameFirstSound": "tree"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "transport-roundabout",
+    "word": "roundabout",
+    "group": "transport",
+    "subgroup": "road features",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-roundabout.webp",
+    "imagePrompt": "Aerial view of a road roundabout junction",
+    "searchQuery": "road roundabout",
+    "cues": {
+      "definition": "A circular junction where vehicles all circle one way before turning off.",
+      "sentenceCompletion": "Take the second exit at the ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh",
+      "firstSyllable": "round"
+    },
+    "semantic": {
+      "category": "It is part of the road.",
+      "use": "You use it to join roads without stopping.",
+      "action": "You circle it and turn off at your exit.",
+      "properties": "It is a circle in the road, often with grass in the middle.",
+      "location": "You find it where several roads meet.",
+      "association": "It makes me think of giving way and choosing an exit."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "rope"
+    }
+  },
+  {
+    "id": "transport-petrol-pump",
+    "word": "petrol pump",
+    "group": "transport",
+    "subgroup": "road features",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "transport-petrol-pump.webp",
+    "imagePrompt": "A petrol pump with a nozzle on a forecourt",
+    "searchQuery": "petrol pump",
+    "cues": {
+      "definition": "A machine at a filling station that puts fuel into your tank.",
+      "sentenceCompletion": "He filled up the tank at the ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pet"
+    },
+    "semantic": {
+      "category": "It is something at a filling station.",
+      "use": "You use it to fill a vehicle with fuel.",
+      "action": "You take the nozzle and squeeze the handle.",
+      "properties": "It has a hose, a nozzle and a screen with figures.",
+      "location": "You find it at a filling station.",
+      "association": "It makes me think of fuel prices and the smell of fuel."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "p",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "pillow"
+    }
+  },
+  {
+    "id": "transport-bus-stop",
+    "word": "bus stop",
+    "group": "transport",
+    "subgroup": "road features",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "transport-bus-stop.webp",
+    "imagePrompt": "A bus stop with a pole, sign and shelter",
+    "searchQuery": "bus stop",
+    "cues": {
+      "definition": "A roadside place with a sign and shelter where you wait to be picked up and taken into town.",
+      "sentenceCompletion": "She waited in the rain at the ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bus"
+    },
+    "semantic": {
+      "category": "It is part of the street.",
+      "use": "You use it to wait for your ride into town.",
+      "action": "You stand or sit there until your ride arrives.",
+      "properties": "It has a tall pole with a sign, and often a glass shelter.",
+      "location": "You find it at the roadside in towns and villages.",
+      "association": "It makes me think of queueing and timetables."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "p",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "butter"
+    }
+  },
+  {
+    "id": "transport-motorway",
+    "word": "motorway",
+    "group": "transport",
+    "subgroup": "road features",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-motorway.webp",
+    "imagePrompt": "A busy motorway with several lanes",
+    "searchQuery": "motorway",
+    "cues": {
+      "definition": "A very wide, fast road with many lanes that links cities.",
+      "sentenceCompletion": "We sped north on the ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mo"
+    },
+    "semantic": {
+      "category": "It is a type of road.",
+      "use": "You use it to travel long distances quickly.",
+      "action": "You drive fast along it without stopping at junctions.",
+      "properties": "It is wide, with several lanes and a hard shoulder.",
+      "location": "You find it linking towns and cities.",
+      "association": "It makes me think of services and long journeys."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "ay",
+      "syllables": 3,
+      "rhyme": "away",
+      "sameFirstSound": "mouse"
+    }
+  },
+  {
+    "id": "transport-pavement",
+    "word": "pavement",
+    "group": "transport",
+    "subgroup": "road features",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-pavement.webp",
+    "imagePrompt": "A paved footpath beside a road",
+    "searchQuery": "pavement footpath",
+    "cues": {
+      "definition": "The hard path at the side of a road where people walk.",
+      "sentenceCompletion": "Please walk on the ___, not in the road.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pave"
+    },
+    "semantic": {
+      "category": "It is part of the street.",
+      "use": "You use it to walk safely beside the road.",
+      "action": "You walk along it past the shops and houses.",
+      "properties": "It is flat, hard and made of slabs or tarmac.",
+      "location": "You find it along the sides of streets.",
+      "association": "It makes me think of walking to the shops."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "potato"
+    }
+  },
+  {
+    "id": "transport-cone",
+    "word": "cone",
+    "group": "transport",
+    "subgroup": "road features",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-cone.webp",
+    "imagePrompt": "An orange road cone on a plain surface",
+    "searchQuery": "orange road cone",
+    "cues": {
+      "definition": "A bright orange plastic marker shaped like a tall pointed hat.",
+      "sentenceCompletion": "Roadworkers put an orange ___ beside the hole.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is a road marker.",
+      "use": "You use it to warn drivers about hazards or roadworks.",
+      "action": "You place it on the road to mark off an area.",
+      "properties": "It is bright orange, pointed and made of plastic.",
+      "location": "You find it at roadworks.",
+      "association": "It makes me think of roadworks and diversions."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "bone",
+      "sameFirstSound": "kettle"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "transport-signpost",
+    "word": "signpost",
+    "group": "transport",
+    "subgroup": "road features",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-signpost.webp",
+    "imagePrompt": "A white road signpost beside a lane with pointing arms",
+    "searchQuery": "signpost",
+    "cues": {
+      "definition": "An upright pole by the road with arms or boards showing which way places lie.",
+      "sentenceCompletion": "The walkers checked the ___ to see which way to go.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sign"
+    },
+    "semantic": {
+      "category": "It is a road marker.",
+      "use": "You use it to find the way to a place.",
+      "action": "It points the way and gives the distance.",
+      "properties": "It is an upright pole with arms or boards.",
+      "location": "You find it at crossroads and on country paths.",
+      "association": "It makes me think of finding my way and being lost."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "toast",
+      "sameFirstSound": "sand"
+    }
+  },
+  {
+    "id": "transport-suitcase",
+    "word": "suitcase",
+    "group": "transport",
+    "subgroup": "travel items",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-suitcase.webp",
+    "imagePrompt": "A closed hard-shell suitcase standing upright",
+    "searchQuery": "suitcase",
+    "cues": {
+      "definition": "A rectangular holder with a handle that you pack your clothes in for a trip.",
+      "sentenceCompletion": "I packed my clothes in a ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "suit"
+    },
+    "semantic": {
+      "category": "It is a travel item.",
+      "use": "You use it to carry your clothes on a trip.",
+      "action": "You pack it, zip it shut and wheel it along.",
+      "properties": "It is rectangular with a handle and often small wheels.",
+      "location": "You find it in a hotel room or on an airport trolley.",
+      "association": "It makes me think of holidays and packing."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "salad"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "transport-ticket",
+    "word": "ticket",
+    "group": "transport",
+    "subgroup": "travel items",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-ticket.webp",
+    "imagePrompt": "A paper rail ticket on a plain background",
+    "searchQuery": "rail ticket",
+    "cues": {
+      "definition": "A small piece of card or paper that proves you paid to travel or get in.",
+      "sentenceCompletion": "The inspector asked to see my ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tick"
+    },
+    "semantic": {
+      "category": "It is a travel item.",
+      "use": "You use it to prove you have paid to travel.",
+      "action": "You buy it, keep it safe and show it to the inspector.",
+      "properties": "It is small, flat and made of paper or card.",
+      "location": "You find it in your pocket or a machine at the station.",
+      "association": "It makes me think of queues and barriers."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "cricket",
+      "sameFirstSound": "telephone"
+    }
+  },
+  {
+    "id": "transport-passport",
+    "word": "passport",
+    "group": "transport",
+    "subgroup": "travel items",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-passport.webp",
+    "imagePrompt": "A closed passport booklet with a plain dark cover",
+    "searchQuery": "passport booklet",
+    "cues": {
+      "definition": "A small official booklet with your photo that you show at borders to travel abroad.",
+      "sentenceCompletion": "I had to show my ___ at the border.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pass"
+    },
+    "semantic": {
+      "category": "It is a travel document.",
+      "use": "You use it to prove who you are when travelling abroad.",
+      "action": "You hand it over at the border to be checked.",
+      "properties": "It is a small booklet with a photo page and stamps.",
+      "location": "You find it in your bag or a drawer at home.",
+      "association": "It makes me think of foreign holidays and queues."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "paper"
+    }
+  },
+  {
+    "id": "transport-map",
+    "word": "map",
+    "group": "transport",
+    "subgroup": "travel items",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-map.webp",
+    "imagePrompt": "A paper road map unfolded on a plain background",
+    "searchQuery": "paper road map",
+    "cues": {
+      "definition": "A drawing of an area showing roads, towns and rivers.",
+      "sentenceCompletion": "We got lost, so I opened the ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm"
+    },
+    "semantic": {
+      "category": "It is a travel item.",
+      "use": "You use it to find your way around.",
+      "action": "You unfold it and trace your route with a finger.",
+      "properties": "It is a large folded sheet covered in lines and names.",
+      "location": "You find it in the glove box or in a bookshop.",
+      "association": "It makes me think of planning a route."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "cap",
+      "sameFirstSound": "milk"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "transport-compass",
+    "word": "compass",
+    "group": "transport",
+    "subgroup": "travel items",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-compass.webp",
+    "imagePrompt": "A brass magnetic compass on a white surface",
+    "searchQuery": "magnetic compass",
+    "cues": {
+      "definition": "A small instrument with a needle that always points north.",
+      "sentenceCompletion": "The walker checked her ___ to find north.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "com"
+    },
+    "semantic": {
+      "category": "It is a navigation tool.",
+      "use": "You use it to find which way you are heading.",
+      "action": "You hold it flat and watch the needle settle.",
+      "properties": "It is small and round with a needle and letters round the edge.",
+      "location": "You find it in a rucksack or on a ship.",
+      "association": "It makes me think of hiking and explorers."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "cabbage"
+    }
+  },
+  {
+    "id": "transport-anchor",
+    "word": "anchor",
+    "group": "transport",
+    "subgroup": "travel items",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-anchor.webp",
+    "imagePrompt": "A black ship's anchor lying on flat ground",
+    "searchQuery": "ship anchor",
+    "cues": {
+      "definition": "A heavy hooked piece of metal dropped into the sea to hold a ship in place.",
+      "sentenceCompletion": "The sailors dropped the ___ to stop the ship drifting.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "ah",
+      "firstSyllable": "an"
+    },
+    "semantic": {
+      "category": "It is a piece of ship equipment.",
+      "use": "You use it to keep a vessel from drifting.",
+      "action": "You drop it on a chain to the seabed.",
+      "properties": "It is heavy, black and shaped like a hook with two curved arms.",
+      "location": "You find it on a ship or at a harbour wall.",
+      "association": "It makes me think of sailors and tattoos."
+    },
+    "phonological": {
+      "firstSound": "a",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "banker",
+      "sameFirstSound": "ankle"
+    }
+  },
+  {
+    "id": "transport-lifebuoy",
+    "word": "lifebuoy",
+    "group": "transport",
+    "subgroup": "travel items",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "transport-lifebuoy.webp",
+    "imagePrompt": "An orange and white lifebuoy ring on a plain background",
+    "searchQuery": "lifebuoy",
+    "cues": {
+      "definition": "A ring that floats which you throw to someone who has fallen in the water.",
+      "sentenceCompletion": "He threw the ___ to the man in the water.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh",
+      "firstSyllable": "life"
+    },
+    "semantic": {
+      "category": "It is a piece of safety equipment.",
+      "use": "You use it to save someone who has fallen in the water.",
+      "action": "You throw it to the person and pull them in.",
+      "properties": "It is a bright ring, orange or red and white.",
+      "location": "You find it on boats, piers and harbour walls.",
+      "association": "It makes me think of rescues and the seaside."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "oy",
+      "syllables": 2,
+      "rhyme": "toy",
+      "sameFirstSound": "lamp"
+    }
+  }
+]

@@ -1,0 +1,1794 @@
+[
+ {
+  "wordId": "adjectives-red",
+  "kind": "phrase",
+  "text": "a red shape",
+  "distractors": [
+   "a blue shape",
+   "a green shape",
+   "a yellow shape"
+  ],
+  "answer": "shape",
+  "answerDistractors": [
+   "square",
+   "triangle",
+   "star"
+  ]
+ },
+ {
+  "wordId": "adjectives-blue",
+  "kind": "phrase",
+  "text": "a blue shape",
+  "distractors": [
+   "a red shape",
+   "a pink shape",
+   "a brown shape"
+  ],
+  "answer": "shape",
+  "answerDistractors": [
+   "square",
+   "triangle",
+   "star"
+  ]
+ },
+ {
+  "wordId": "adjectives-green",
+  "kind": "phrase",
+  "text": "a green shape",
+  "distractors": [
+   "a purple shape",
+   "a red shape",
+   "a grey shape"
+  ],
+  "answer": "shape",
+  "answerDistractors": [
+   "square",
+   "triangle",
+   "star"
+  ]
+ },
+ {
+  "wordId": "adjectives-yellow",
+  "kind": "phrase",
+  "text": "a yellow shape",
+  "distractors": [
+   "a blue shape",
+   "a pink shape",
+   "a green shape"
+  ],
+  "answer": "shape",
+  "answerDistractors": [
+   "square",
+   "triangle",
+   "star"
+  ]
+ },
+ {
+  "wordId": "adjectives-purple",
+  "kind": "phrase",
+  "text": "a purple shape",
+  "distractors": [
+   "a yellow shape",
+   "a red shape",
+   "a green shape"
+  ],
+  "answer": "shape",
+  "answerDistractors": [
+   "square",
+   "triangle",
+   "star"
+  ]
+ },
+ {
+  "wordId": "adjectives-pink",
+  "kind": "phrase",
+  "text": "a pink shape",
+  "distractors": [
+   "a brown shape",
+   "a blue shape",
+   "a green shape"
+  ],
+  "answer": "shape",
+  "answerDistractors": [
+   "square",
+   "triangle",
+   "star"
+  ]
+ },
+ {
+  "wordId": "adjectives-brown",
+  "kind": "phrase",
+  "text": "a brown shape",
+  "distractors": [
+   "a pink shape",
+   "a yellow shape",
+   "a purple shape"
+  ],
+  "answer": "shape",
+  "answerDistractors": [
+   "square",
+   "triangle",
+   "star"
+  ]
+ },
+ {
+  "wordId": "adjectives-grey",
+  "kind": "phrase",
+  "text": "a grey shape",
+  "distractors": [
+   "a red shape",
+   "a blue shape",
+   "a yellow shape"
+  ],
+  "answer": "shape",
+  "answerDistractors": [
+   "square",
+   "triangle",
+   "star"
+  ]
+ },
+ {
+  "wordId": "adjectives-narrow",
+  "kind": "phrase",
+  "text": "a narrow alley",
+  "distractors": [
+   "a wide street",
+   "a busy road",
+   "a green field"
+  ],
+  "answer": "alley",
+  "answerDistractors": [
+   "beach",
+   "garden",
+   "bridge"
+  ]
+ },
+ {
+  "wordId": "adjectives-narrow",
+  "kind": "sentence",
+  "text": "The alley is between two brick buildings.",
+  "distractors": [
+   "The alley is between two glass buildings.",
+   "The beach is between two brick buildings.",
+   "The alley is between two wooden fences."
+  ],
+  "answer": "brick",
+  "answerDistractors": [
+   "glass",
+   "wooden",
+   "straw"
+  ]
+ },
+ {
+  "wordId": "adjectives-prickly",
+  "kind": "phrase",
+  "text": "a cactus in a pot",
+  "distractors": [
+   "a candle in a jar",
+   "a cake in a tin",
+   "a book in a bag"
+  ],
+  "answer": "pot",
+  "answerDistractors": [
+   "jar",
+   "bag",
+   "box"
+  ]
+ },
+ {
+  "wordId": "adjectives-prickly",
+  "kind": "sentence",
+  "text": "The cactus is in a clay pot.",
+  "distractors": [
+   "The cactus is in a glass jar.",
+   "The tulip is in a clay pot.",
+   "The cactus is in a blue pot."
+  ],
+  "answer": "cactus",
+  "answerDistractors": [
+   "tulip",
+   "carrot",
+   "candle"
+  ]
+ },
+ {
+  "wordId": "adjectives-cold",
+  "kind": "phrase",
+  "text": "a snowman in the snow",
+  "distractors": [
+   "a sandcastle on the beach",
+   "a scarecrow in a field",
+   "a kitten in a basket"
+  ],
+  "answer": "snow",
+  "answerDistractors": [
+   "sand",
+   "grass",
+   "water"
+  ]
+ },
+ {
+  "wordId": "adjectives-cold",
+  "kind": "sentence",
+  "text": "The snowman is wearing a scarf.",
+  "distractors": [
+   "The snowman is wearing sunglasses.",
+   "The snowman is standing on sand.",
+   "The dog is wearing a scarf."
+  ],
+  "answer": "scarf",
+  "answerDistractors": [
+   "shorts",
+   "apron",
+   "sunglasses"
+  ]
+ },
+ {
+  "wordId": "adjectives-burnt",
+  "kind": "phrase",
+  "text": "two slices of toast",
+  "distractors": [
+   "two bowls of soup",
+   "two cups of tea",
+   "two bars of soap"
+  ],
+  "answer": "toast",
+  "answerDistractors": [
+   "cheese",
+   "cake",
+   "pizza"
+  ]
+ },
+ {
+  "wordId": "adjectives-burnt",
+  "kind": "sentence",
+  "text": "The toast is on a white plate.",
+  "distractors": [
+   "The toast is on a wooden board.",
+   "The cake is on a white plate.",
+   "The toast is in a white bowl."
+  ],
+  "answer": "plate",
+  "answerDistractors": [
+   "bowl",
+   "tin",
+   "box"
+  ]
+ },
+ {
+  "wordId": "adjectives-angry",
+  "kind": "phrase",
+  "text": "an angry woman",
+  "distractors": [
+   "a happy woman",
+   "a sleepy woman",
+   "a smiling woman"
+  ],
+  "answer": "woman",
+  "answerDistractors": [
+   "man",
+   "boy",
+   "baby"
+  ]
+ },
+ {
+  "wordId": "adjectives-angry",
+  "kind": "sentence",
+  "text": "The woman is wearing a black jumper.",
+  "distractors": [
+   "The woman is wearing a red jumper.",
+   "The man is wearing a black jumper.",
+   "The woman is wearing a black hat."
+  ],
+  "answer": "black",
+  "answerDistractors": [
+   "red",
+   "green",
+   "yellow"
+  ]
+ },
+ {
+  "wordId": "adjectives-fast",
+  "kind": "phrase",
+  "text": "a running cheetah",
+  "distractors": [
+   "a sleeping cheetah",
+   "a sitting cheetah",
+   "a swimming cheetah"
+  ],
+  "answer": "cheetah",
+  "answerDistractors": [
+   "elephant",
+   "tortoise",
+   "snail"
+  ]
+ },
+ {
+  "wordId": "adjectives-fast",
+  "kind": "sentence",
+  "text": "The cheetah is running across the grass.",
+  "distractors": [
+   "The cheetah is sleeping on the grass.",
+   "The cheetah is running across the snow.",
+   "The lion is running across the grass."
+  ],
+  "answer": "grass",
+  "answerDistractors": [
+   "sand",
+   "snow",
+   "water"
+  ]
+ },
+ {
+  "wordId": "adjectives-slow",
+  "kind": "phrase",
+  "text": "a snail on some moss",
+  "distractors": [
+   "a spider on a web",
+   "a bee on a flower",
+   "a frog on a log"
+  ],
+  "answer": "moss",
+  "answerDistractors": [
+   "sand",
+   "snow",
+   "ice"
+  ]
+ },
+ {
+  "wordId": "adjectives-slow",
+  "kind": "sentence",
+  "text": "The snail has a brown shell.",
+  "distractors": [
+   "The snail has a blue shell.",
+   "The slug has a brown shell.",
+   "The snail has a brown wing."
+  ],
+  "answer": "brown",
+  "answerDistractors": [
+   "blue",
+   "green",
+   "pink"
+  ]
+ },
+ {
+  "wordId": "adjectives-crowded",
+  "kind": "phrase",
+  "text": "a crowd of people",
+  "distractors": [
+   "a pair of dogs",
+   "a row of cars",
+   "a pile of books"
+  ],
+  "answer": "people",
+  "answerDistractors": [
+   "dogs",
+   "cows",
+   "birds"
+  ]
+ },
+ {
+  "wordId": "adjectives-crowded",
+  "kind": "sentence",
+  "text": "There are lots of people near a train.",
+  "distractors": [
+   "There are lots of people near a bus.",
+   "There are lots of cows near a train.",
+   "There are only two people near a train."
+  ],
+  "answer": "train",
+  "answerDistractors": [
+   "bus",
+   "boat",
+   "shop"
+  ]
+ },
+ {
+  "wordId": "animals-dog",
+  "kind": "phrase",
+  "text": "a large black dog",
+  "distractors": [
+   "a small orange cat",
+   "a tall brown horse",
+   "a little grey mouse"
+  ],
+  "answer": "dog",
+  "answerDistractors": [
+   "cat",
+   "horse",
+   "rabbit"
+  ]
+ },
+ {
+  "wordId": "animals-dog",
+  "kind": "sentence",
+  "text": "The dog is lying on the snow.",
+  "distractors": [
+   "The dog is running on the snow.",
+   "The cat is lying on the snow.",
+   "The dog is lying on the grass."
+  ],
+  "answer": "lying",
+  "answerDistractors": [
+   "running",
+   "jumping",
+   "swimming"
+  ]
+ },
+ {
+  "wordId": "animals-cat",
+  "kind": "phrase",
+  "text": "a cat with blue eyes",
+  "distractors": [
+   "a cat with green eyes",
+   "a dog with brown eyes",
+   "a rabbit with red eyes"
+  ],
+  "answer": "eyes",
+  "answerDistractors": [
+   "wings",
+   "horns",
+   "wheels"
+  ]
+ },
+ {
+  "wordId": "animals-cat",
+  "kind": "sentence",
+  "text": "The cat has long white whiskers.",
+  "distractors": [
+   "The cat has long black whiskers.",
+   "The dog has long white whiskers.",
+   "The cat has long white feathers."
+  ],
+  "answer": "whiskers",
+  "answerDistractors": [
+   "feathers",
+   "wings",
+   "horns"
+  ]
+ },
+ {
+  "wordId": "animals-hamster",
+  "kind": "phrase",
+  "text": "a small brown hamster",
+  "distractors": [
+   "a large white rabbit",
+   "a big black dog",
+   "a tiny green frog"
+  ],
+  "answer": "hamster",
+  "answerDistractors": [
+   "rabbit",
+   "kitten",
+   "puppy"
+  ]
+ },
+ {
+  "wordId": "animals-hamster",
+  "kind": "sentence",
+  "text": "The hamster has brown fur.",
+  "distractors": [
+   "The hamster has blue fur.",
+   "The rabbit has brown fur.",
+   "The hamster has brown wings."
+  ],
+  "answer": "brown",
+  "answerDistractors": [
+   "blue",
+   "green",
+   "purple"
+  ]
+ },
+ {
+  "wordId": "animals-rabbit",
+  "kind": "phrase",
+  "text": "a rabbit on the grass",
+  "distractors": [
+   "a duck on the water",
+   "a cat on the sofa",
+   "a sheep in the snow"
+  ],
+  "answer": "grass",
+  "answerDistractors": [
+   "sand",
+   "snow",
+   "road"
+  ]
+ },
+ {
+  "wordId": "animals-rabbit",
+  "kind": "sentence",
+  "text": "The rabbit has long ears.",
+  "distractors": [
+   "The rabbit has long wings.",
+   "The duck has long ears.",
+   "The rabbit has long horns."
+  ],
+  "answer": "ears",
+  "answerDistractors": [
+   "wings",
+   "horns",
+   "wheels"
+  ]
+ },
+ {
+  "wordId": "animals-budgie",
+  "kind": "phrase",
+  "text": "a blue and white budgie",
+  "distractors": [
+   "a red and black parrot",
+   "a pink and grey parrot",
+   "a black and white penguin"
+  ],
+  "answer": "budgie",
+  "answerDistractors": [
+   "owl",
+   "penguin",
+   "duck"
+  ]
+ },
+ {
+  "wordId": "animals-budgie",
+  "kind": "sentence",
+  "text": "The budgie is sitting on a branch.",
+  "distractors": [
+   "The budgie is flying over a branch.",
+   "The cat is sitting on a branch.",
+   "The budgie is sitting on a rock."
+  ],
+  "answer": "branch",
+  "answerDistractors": [
+   "wall",
+   "chair",
+   "roof"
+  ]
+ },
+ {
+  "wordId": "animals-tortoise",
+  "kind": "phrase",
+  "text": "a tortoise on some stones",
+  "distractors": [
+   "a snail on a leaf",
+   "a frog in a pond",
+   "a bird in a tree"
+  ],
+  "answer": "stones",
+  "answerDistractors": [
+   "water",
+   "snow",
+   "ice"
+  ]
+ },
+ {
+  "wordId": "animals-tortoise",
+  "kind": "sentence",
+  "text": "The tortoise has a dark brown shell.",
+  "distractors": [
+   "The tortoise has a bright pink shell.",
+   "The snail has a dark brown shell.",
+   "The tortoise has a dark brown wing."
+  ],
+  "answer": "shell",
+  "answerDistractors": [
+   "coat",
+   "wing",
+   "horn"
+  ]
+ },
+ {
+  "wordId": "animals-goldfish",
+  "kind": "phrase",
+  "text": "an orange goldfish",
+  "distractors": [
+   "a blue goldfish",
+   "a white shark",
+   "a green frog"
+  ],
+  "answer": "goldfish",
+  "answerDistractors": [
+   "shark",
+   "dolphin",
+   "frog"
+  ]
+ },
+ {
+  "wordId": "animals-goldfish",
+  "kind": "sentence",
+  "text": "The goldfish has orange scales.",
+  "distractors": [
+   "The goldfish has blue scales.",
+   "The goldfish has orange feathers.",
+   "The shark has orange scales."
+  ],
+  "answer": "scales",
+  "answerDistractors": [
+   "feathers",
+   "fur",
+   "wool"
+  ]
+ },
+ {
+  "wordId": "animals-cow",
+  "kind": "phrase",
+  "text": "a black and white cow",
+  "distractors": [
+   "a brown and white horse",
+   "a pink and grey pig",
+   "a black and white sheep"
+  ],
+  "answer": "cow",
+  "answerDistractors": [
+   "pig",
+   "horse",
+   "goat"
+  ]
+ },
+ {
+  "wordId": "animals-cow",
+  "kind": "sentence",
+  "text": "The cow is standing among yellow flowers.",
+  "distractors": [
+   "The cow is standing among red flowers.",
+   "The pig is standing among yellow flowers.",
+   "The cow is lying among yellow flowers."
+  ],
+  "answer": "yellow",
+  "answerDistractors": [
+   "red",
+   "blue",
+   "purple"
+  ]
+ },
+ {
+  "wordId": "animals-pig",
+  "kind": "phrase",
+  "text": "a pig lying in mud",
+  "distractors": [
+   "a dog lying on a sofa",
+   "a cat sitting on a wall",
+   "a sheep standing in a field"
+  ],
+  "answer": "mud",
+  "answerDistractors": [
+   "snow",
+   "water",
+   "grass"
+  ]
+ },
+ {
+  "wordId": "animals-pig",
+  "kind": "sentence",
+  "text": "The pig has pink skin.",
+  "distractors": [
+   "The pig has blue skin.",
+   "The cow has pink skin.",
+   "The pig has pink feathers."
+  ],
+  "answer": "pink",
+  "answerDistractors": [
+   "blue",
+   "purple",
+   "yellow"
+  ]
+ },
+ {
+  "wordId": "animals-sheep",
+  "kind": "phrase",
+  "text": "three woolly sheep",
+  "distractors": [
+   "three brown cows",
+   "three black pigs",
+   "three white geese"
+  ],
+  "answer": "sheep",
+  "answerDistractors": [
+   "cows",
+   "pigs",
+   "goats"
+  ]
+ },
+ {
+  "wordId": "animals-sheep",
+  "kind": "sentence",
+  "text": "The sheep are on green grass.",
+  "distractors": [
+   "The sheep are on white snow.",
+   "The cows are on green grass.",
+   "The sheep are on a green road."
+  ],
+  "answer": "green",
+  "answerDistractors": [
+   "white",
+   "blue",
+   "red"
+  ]
+ },
+ {
+  "wordId": "animals-horse",
+  "kind": "phrase",
+  "text": "a brown horse",
+  "distractors": [
+   "a white pig",
+   "a black cow",
+   "a grey sheep"
+  ],
+  "answer": "horse",
+  "answerDistractors": [
+   "cow",
+   "pig",
+   "goat"
+  ]
+ },
+ {
+  "wordId": "animals-horse",
+  "kind": "sentence",
+  "text": "The horse is standing on the grass.",
+  "distractors": [
+   "The horse is standing on the sand.",
+   "The cow is standing on the grass.",
+   "The horse is swimming on the grass."
+  ],
+  "answer": "grass",
+  "answerDistractors": [
+   "sand",
+   "snow",
+   "road"
+  ]
+ },
+ {
+  "wordId": "animals-goat",
+  "kind": "phrase",
+  "text": "a goat with horns",
+  "distractors": [
+   "a horse with a saddle",
+   "a dog with a lead",
+   "a cat with a bell"
+  ],
+  "answer": "horns",
+  "answerDistractors": [
+   "wings",
+   "wheels",
+   "feathers"
+  ]
+ },
+ {
+  "wordId": "animals-goat",
+  "kind": "sentence",
+  "text": "The goat is standing in a dry field.",
+  "distractors": [
+   "The goat is standing in a snowy field.",
+   "The sheep is standing in a dry field.",
+   "The goat is lying in a dry field."
+  ],
+  "answer": "dry",
+  "answerDistractors": [
+   "wet",
+   "snowy",
+   "flooded"
+  ]
+ },
+ {
+  "wordId": "animals-chicken",
+  "kind": "phrase",
+  "text": "a brown chicken",
+  "distractors": [
+   "a white chicken",
+   "a black duck",
+   "a grey pigeon"
+  ],
+  "answer": "chicken",
+  "answerDistractors": [
+   "duck",
+   "swan",
+   "owl"
+  ]
+ },
+ {
+  "wordId": "animals-chicken",
+  "kind": "sentence",
+  "text": "The chicken is standing on gravel.",
+  "distractors": [
+   "The chicken is standing on grass.",
+   "The chicken is sitting on gravel.",
+   "The duck is standing on gravel."
+  ],
+  "answer": "gravel",
+  "answerDistractors": [
+   "grass",
+   "water",
+   "snow"
+  ]
+ },
+ {
+  "wordId": "animals-donkey",
+  "kind": "phrase",
+  "text": "a donkey eating grass",
+  "distractors": [
+   "a horse drinking water",
+   "a dog chewing a bone",
+   "a cat drinking milk"
+  ],
+  "answer": "grass",
+  "answerDistractors": [
+   "bread",
+   "fish",
+   "cake"
+  ]
+ },
+ {
+  "wordId": "animals-donkey",
+  "kind": "sentence",
+  "text": "The donkey has a white nose.",
+  "distractors": [
+   "The donkey has a red nose.",
+   "The horse has a white nose.",
+   "The donkey has a white wing."
+  ],
+  "answer": "white",
+  "answerDistractors": [
+   "red",
+   "blue",
+   "green"
+  ]
+ },
+ {
+  "wordId": "animals-fox",
+  "kind": "phrase",
+  "text": "a red fox",
+  "distractors": [
+   "a grey wolf",
+   "a white rabbit",
+   "a black cat"
+  ],
+  "answer": "fox",
+  "answerDistractors": [
+   "wolf",
+   "bear",
+   "cat"
+  ]
+ },
+ {
+  "wordId": "animals-fox",
+  "kind": "sentence",
+  "text": "The fox is sitting in long grass.",
+  "distractors": [
+   "The fox is sitting in deep snow.",
+   "The fox is running in long grass.",
+   "The cat is sitting in long grass."
+  ],
+  "answer": "grass",
+  "answerDistractors": [
+   "water",
+   "snow",
+   "sand"
+  ]
+ },
+ {
+  "wordId": "animals-hedgehog",
+  "kind": "phrase",
+  "text": "a spiky hedgehog",
+  "distractors": [
+   "a fluffy rabbit",
+   "a smooth snake",
+   "a furry squirrel"
+  ],
+  "answer": "hedgehog",
+  "answerDistractors": [
+   "rabbit",
+   "snake",
+   "frog"
+  ]
+ },
+ {
+  "wordId": "animals-hedgehog",
+  "kind": "sentence",
+  "text": "The hedgehog is walking through the grass.",
+  "distractors": [
+   "The hedgehog is swimming through the grass.",
+   "The rabbit is walking through the grass.",
+   "The hedgehog is walking through the snow."
+  ],
+  "answer": "grass",
+  "answerDistractors": [
+   "snow",
+   "sand",
+   "water"
+  ]
+ },
+ {
+  "wordId": "animals-squirrel",
+  "kind": "phrase",
+  "text": "a grey squirrel",
+  "distractors": [
+   "a white mouse",
+   "a brown rabbit",
+   "a black cat"
+  ],
+  "answer": "squirrel",
+  "answerDistractors": [
+   "rabbit",
+   "fox",
+   "cat"
+  ]
+ },
+ {
+  "wordId": "animals-squirrel",
+  "kind": "sentence",
+  "text": "The squirrel has a big bushy tail.",
+  "distractors": [
+   "The squirrel has a big smooth tail.",
+   "The rabbit has a big bushy tail.",
+   "The squirrel has a big bushy wing."
+  ],
+  "answer": "bushy",
+  "answerDistractors": [
+   "bald",
+   "smooth",
+   "scaly"
+  ]
+ },
+ {
+  "wordId": "animals-deer",
+  "kind": "phrase",
+  "text": "a deer with antlers",
+  "distractors": [
+   "a horse with a saddle",
+   "a dog with a collar",
+   "a pig with a curly tail"
+  ],
+  "answer": "antlers",
+  "answerDistractors": [
+   "wings",
+   "wheels",
+   "feathers"
+  ]
+ },
+ {
+  "wordId": "animals-deer",
+  "kind": "sentence",
+  "text": "The deer is standing in long grass.",
+  "distractors": [
+   "The deer is standing in deep snow.",
+   "The deer is swimming in long grass.",
+   "The horse is standing in long grass."
+  ],
+  "answer": "grass",
+  "answerDistractors": [
+   "snow",
+   "sand",
+   "water"
+  ]
+ },
+ {
+  "wordId": "animals-otter",
+  "kind": "phrase",
+  "text": "an otter in the water",
+  "distractors": [
+   "a duck on the grass",
+   "a rabbit in the snow",
+   "a cat on the sofa"
+  ],
+  "answer": "water",
+  "answerDistractors": [
+   "sand",
+   "grass",
+   "snow"
+  ]
+ },
+ {
+  "wordId": "animals-otter",
+  "kind": "sentence",
+  "text": "The otter is floating in calm water.",
+  "distractors": [
+   "The otter is floating on dry sand.",
+   "The otter is running in calm water.",
+   "The fox is floating in calm water."
+  ],
+  "answer": "floating",
+  "answerDistractors": [
+   "running",
+   "climbing",
+   "digging"
+  ]
+ },
+ {
+  "wordId": "animals-lion",
+  "kind": "phrase",
+  "text": "a lion with a mane",
+  "distractors": [
+   "a tiger with stripes",
+   "a zebra with spots",
+   "a cat with a collar"
+  ],
+  "answer": "mane",
+  "answerDistractors": [
+   "beak",
+   "shell",
+   "trunk"
+  ]
+ },
+ {
+  "wordId": "animals-lion",
+  "kind": "sentence",
+  "text": "The lion is lying in dry grass.",
+  "distractors": [
+   "The lion is running in dry grass.",
+   "The tiger is lying in dry grass.",
+   "The lion is lying in the water."
+  ],
+  "answer": "lying",
+  "answerDistractors": [
+   "running",
+   "jumping",
+   "swimming"
+  ]
+ },
+ {
+  "wordId": "animals-tiger",
+  "kind": "phrase",
+  "text": "a tiger in the water",
+  "distractors": [
+   "a lion on a rock",
+   "a zebra in a field",
+   "a bear in a cave"
+  ],
+  "answer": "water",
+  "answerDistractors": [
+   "snow",
+   "sand",
+   "mud"
+  ]
+ },
+ {
+  "wordId": "animals-tiger",
+  "kind": "sentence",
+  "text": "The tiger has orange fur with black stripes.",
+  "distractors": [
+   "The tiger has orange fur with black spots.",
+   "The tiger has blue fur with black stripes.",
+   "The zebra has orange fur with black stripes."
+  ],
+  "answer": "stripes",
+  "answerDistractors": [
+   "spots",
+   "feathers",
+   "wings"
+  ]
+ },
+ {
+  "wordId": "animals-giraffe",
+  "kind": "phrase",
+  "text": "a giraffe with a long neck",
+  "distractors": [
+   "a zebra with black stripes",
+   "a horse with a short neck",
+   "a lion with a big mane"
+  ],
+  "answer": "neck",
+  "answerDistractors": [
+   "wing",
+   "beak",
+   "trunk"
+  ]
+ },
+ {
+  "wordId": "animals-giraffe",
+  "kind": "sentence",
+  "text": "The giraffe has brown spots on its neck.",
+  "distractors": [
+   "The giraffe has brown stripes on its neck.",
+   "The zebra has brown spots on its neck.",
+   "The giraffe has brown spots on its wing."
+  ],
+  "answer": "spots",
+  "answerDistractors": [
+   "stripes",
+   "feathers",
+   "wings"
+  ]
+ },
+ {
+  "wordId": "animals-zebra",
+  "kind": "phrase",
+  "text": "a striped zebra",
+  "distractors": [
+   "a spotted giraffe",
+   "a brown horse",
+   "a grey donkey"
+  ],
+  "answer": "zebra",
+  "answerDistractors": [
+   "giraffe",
+   "cow",
+   "pig"
+  ]
+ },
+ {
+  "wordId": "animals-zebra",
+  "kind": "sentence",
+  "text": "The zebra is standing on sandy ground.",
+  "distractors": [
+   "The zebra is standing on snowy ground.",
+   "The zebra is lying on sandy ground.",
+   "The horse is standing on sandy ground."
+  ],
+  "answer": "sandy",
+  "answerDistractors": [
+   "grassy",
+   "snowy",
+   "wet"
+  ]
+ },
+ {
+  "wordId": "animals-monkey",
+  "kind": "phrase",
+  "text": "a monkey in a tree",
+  "distractors": [
+   "a parrot in a cage",
+   "a cat on a roof",
+   "a bear in a cave"
+  ],
+  "answer": "tree",
+  "answerDistractors": [
+   "boat",
+   "car",
+   "bed"
+  ]
+ },
+ {
+  "wordId": "animals-monkey",
+  "kind": "sentence",
+  "text": "The monkey has golden fur.",
+  "distractors": [
+   "The monkey has blue fur.",
+   "The cat has golden fur.",
+   "The monkey has golden wings."
+  ],
+  "answer": "golden",
+  "answerDistractors": [
+   "blue",
+   "green",
+   "purple"
+  ]
+ },
+ {
+  "wordId": "animals-crocodile",
+  "kind": "phrase",
+  "text": "a crocodile on a rock",
+  "distractors": [
+   "a snake on a branch",
+   "a frog on a leaf",
+   "a fish in a bowl"
+  ],
+  "answer": "rock",
+  "answerDistractors": [
+   "bed",
+   "chair",
+   "boat"
+  ]
+ },
+ {
+  "wordId": "animals-crocodile",
+  "kind": "sentence",
+  "text": "The crocodile has rough scaly skin.",
+  "distractors": [
+   "The crocodile has rough fluffy skin.",
+   "The crocodile has rough scaly fur.",
+   "The snake has rough scaly skin."
+  ],
+  "answer": "scaly",
+  "answerDistractors": [
+   "smooth",
+   "fluffy",
+   "feathery"
+  ]
+ },
+ {
+  "wordId": "animals-kangaroo",
+  "kind": "phrase",
+  "text": "a grey kangaroo",
+  "distractors": [
+   "a brown rabbit",
+   "a white sheep",
+   "a black cat"
+  ],
+  "answer": "kangaroo",
+  "answerDistractors": [
+   "rabbit",
+   "sheep",
+   "goat"
+  ]
+ },
+ {
+  "wordId": "animals-kangaroo",
+  "kind": "sentence",
+  "text": "The kangaroo has a long thick tail.",
+  "distractors": [
+   "The kangaroo has a long thick beak.",
+   "The rabbit has a long thick tail.",
+   "The kangaroo has a long thick horn."
+  ],
+  "answer": "tail",
+  "answerDistractors": [
+   "beak",
+   "wing",
+   "horn"
+  ]
+ },
+ {
+  "wordId": "animals-duck",
+  "kind": "phrase",
+  "text": "a duck with a yellow beak",
+  "distractors": [
+   "a swan with a black beak",
+   "a duck with a red beak",
+   "a pigeon with a long beak"
+  ],
+  "answer": "beak",
+  "answerDistractors": [
+   "hat",
+   "scarf",
+   "wheel"
+  ]
+ },
+ {
+  "wordId": "animals-duck",
+  "kind": "sentence",
+  "text": "The duck has orange feet.",
+  "distractors": [
+   "The duck has blue feet.",
+   "The swan has orange feet.",
+   "The duck has orange paws."
+  ],
+  "answer": "orange",
+  "answerDistractors": [
+   "blue",
+   "pink",
+   "purple"
+  ]
+ },
+ {
+  "wordId": "animals-swan",
+  "kind": "phrase",
+  "text": "a white swan",
+  "distractors": [
+   "a black swan",
+   "a grey goose",
+   "a brown duck"
+  ],
+  "answer": "swan",
+  "answerDistractors": [
+   "owl",
+   "eagle",
+   "pigeon"
+  ]
+ },
+ {
+  "wordId": "animals-swan",
+  "kind": "sentence",
+  "text": "The swan is swimming on blue water.",
+  "distractors": [
+   "The swan is flying over blue water.",
+   "The duck is swimming on blue water.",
+   "The swan is swimming on green water."
+  ],
+  "answer": "swimming",
+  "answerDistractors": [
+   "flying",
+   "running",
+   "walking"
+  ]
+ },
+ {
+  "wordId": "animals-owl",
+  "kind": "phrase",
+  "text": "an owl with dark eyes",
+  "distractors": [
+   "a cat with green eyes",
+   "a rabbit with pink eyes",
+   "a fish with blue eyes"
+  ],
+  "answer": "eyes",
+  "answerDistractors": [
+   "wheels",
+   "horns",
+   "boots"
+  ]
+ },
+ {
+  "wordId": "animals-owl",
+  "kind": "sentence",
+  "text": "The owl has white feathers.",
+  "distractors": [
+   "The owl has white fur.",
+   "The owl has bright red feathers.",
+   "The cat has white feathers."
+  ],
+  "answer": "feathers",
+  "answerDistractors": [
+   "fur",
+   "scales",
+   "wool"
+  ]
+ },
+ {
+  "wordId": "animals-robin",
+  "kind": "phrase",
+  "text": "a robin with an orange chest",
+  "distractors": [
+   "a duck with a green head",
+   "a swan with a long neck",
+   "a pigeon with a grey chest"
+  ],
+  "answer": "chest",
+  "answerDistractors": [
+   "hat",
+   "wheel",
+   "shoe"
+  ]
+ },
+ {
+  "wordId": "animals-robin",
+  "kind": "sentence",
+  "text": "The robin is standing on a mossy log.",
+  "distractors": [
+   "The robin is flying over a mossy log.",
+   "The pigeon is standing on a mossy log.",
+   "The robin is standing on a snowy log."
+  ],
+  "answer": "log",
+  "answerDistractors": [
+   "roof",
+   "bed",
+   "chair"
+  ]
+ },
+ {
+  "wordId": "animals-penguin",
+  "kind": "phrase",
+  "text": "a black and white penguin",
+  "distractors": [
+   "a brown and white owl",
+   "a grey and white seal",
+   "a red and black ladybird"
+  ],
+  "answer": "penguin",
+  "answerDistractors": [
+   "owl",
+   "robin",
+   "eagle"
+  ]
+ },
+ {
+  "wordId": "animals-penguin",
+  "kind": "sentence",
+  "text": "The penguin is walking on dry ground.",
+  "distractors": [
+   "The penguin is swimming on dry ground.",
+   "The penguin is walking on snow.",
+   "The owl is walking on dry ground."
+  ],
+  "answer": "walking",
+  "answerDistractors": [
+   "swimming",
+   "flying",
+   "sleeping"
+  ]
+ },
+ {
+  "wordId": "animals-eagle",
+  "kind": "phrase",
+  "text": "a bald eagle",
+  "distractors": [
+   "a barn owl",
+   "a mallard duck",
+   "a pink flamingo"
+  ],
+  "answer": "eagle",
+  "answerDistractors": [
+   "owl",
+   "duck",
+   "robin"
+  ]
+ },
+ {
+  "wordId": "animals-eagle",
+  "kind": "sentence",
+  "text": "The eagle has a sharp yellow beak.",
+  "distractors": [
+   "The eagle has a sharp red beak.",
+   "The owl has a sharp yellow beak.",
+   "The eagle has a sharp yellow horn."
+  ],
+  "answer": "yellow",
+  "answerDistractors": [
+   "red",
+   "blue",
+   "green"
+  ]
+ },
+ {
+  "wordId": "animals-pigeon",
+  "kind": "phrase",
+  "text": "a grey pigeon",
+  "distractors": [
+   "a white swan",
+   "a black crow",
+   "a brown duck"
+  ],
+  "answer": "pigeon",
+  "answerDistractors": [
+   "swan",
+   "owl",
+   "eagle"
+  ]
+ },
+ {
+  "wordId": "animals-pigeon",
+  "kind": "sentence",
+  "text": "The pigeon is standing near the water.",
+  "distractors": [
+   "The pigeon is standing near the shop.",
+   "The pigeon is flying near the water.",
+   "The seagull is standing near the water."
+  ],
+  "answer": "water",
+  "answerDistractors": [
+   "bus",
+   "fire",
+   "shop"
+  ]
+ },
+ {
+  "wordId": "animals-fish",
+  "kind": "phrase",
+  "text": "a small blue fish",
+  "distractors": [
+   "a big red crab",
+   "a small green frog",
+   "a large grey shark"
+  ],
+  "answer": "fish",
+  "answerDistractors": [
+   "crab",
+   "frog",
+   "snail"
+  ]
+ },
+ {
+  "wordId": "animals-fish",
+  "kind": "sentence",
+  "text": "The fish has bright blue scales.",
+  "distractors": [
+   "The fish has bright red scales.",
+   "The fish has bright blue feathers.",
+   "The crab has bright blue scales."
+  ],
+  "answer": "scales",
+  "answerDistractors": [
+   "feathers",
+   "fur",
+   "wool"
+  ]
+ },
+ {
+  "wordId": "animals-crab",
+  "kind": "phrase",
+  "text": "a red crab on a rock",
+  "distractors": [
+   "a fish in the sea",
+   "a snail on a leaf",
+   "a spider on a web"
+  ],
+  "answer": "rock",
+  "answerDistractors": [
+   "sofa",
+   "table",
+   "plate"
+  ]
+ },
+ {
+  "wordId": "animals-crab",
+  "kind": "sentence",
+  "text": "The crab has two big claws.",
+  "distractors": [
+   "The crab has two big wings.",
+   "The lobster has two big claws.",
+   "The crab has two big horns."
+  ],
+  "answer": "claws",
+  "answerDistractors": [
+   "wings",
+   "horns",
+   "wheels"
+  ]
+ },
+ {
+  "wordId": "animals-shark",
+  "kind": "phrase",
+  "text": "a shark in the sea",
+  "distractors": [
+   "a whale on a beach",
+   "a dolphin in a pool",
+   "a crab on a rock"
+  ],
+  "answer": "sea",
+  "answerDistractors": [
+   "bath",
+   "bowl",
+   "pond"
+  ]
+ },
+ {
+  "wordId": "animals-shark",
+  "kind": "sentence",
+  "text": "The shark is swimming near small fish.",
+  "distractors": [
+   "The shark is swimming near small boats.",
+   "The dolphin is swimming near small fish.",
+   "The shark is flying over small fish."
+  ],
+  "answer": "fish",
+  "answerDistractors": [
+   "birds",
+   "boats",
+   "crabs"
+  ]
+ },
+ {
+  "wordId": "animals-dolphin",
+  "kind": "phrase",
+  "text": "a dolphin in the waves",
+  "distractors": [
+   "a seal on the beach",
+   "a duck on the grass",
+   "a whale in the snow"
+  ],
+  "answer": "waves",
+  "answerDistractors": [
+   "grass",
+   "snow",
+   "sand"
+  ]
+ },
+ {
+  "wordId": "animals-dolphin",
+  "kind": "sentence",
+  "text": "The dolphin is swimming in dark water.",
+  "distractors": [
+   "The dolphin is swimming on dry sand.",
+   "The seal is swimming in dark water.",
+   "The dolphin is swimming in red water."
+  ],
+  "answer": "dark",
+  "answerDistractors": [
+   "red",
+   "pink",
+   "yellow"
+  ]
+ },
+ {
+  "wordId": "animals-lobster",
+  "kind": "phrase",
+  "text": "a lobster on a plate",
+  "distractors": [
+   "a crab on a rock",
+   "a fish in a net",
+   "a cake on a stand"
+  ],
+  "answer": "plate",
+  "answerDistractors": [
+   "rock",
+   "net",
+   "tree"
+  ]
+ },
+ {
+  "wordId": "animals-lobster",
+  "kind": "sentence",
+  "text": "The lobster is red.",
+  "distractors": [
+   "The lobster is blue.",
+   "The crab is red.",
+   "The lobster is green."
+  ],
+  "answer": "red",
+  "answerDistractors": [
+   "blue",
+   "green",
+   "black"
+  ]
+ },
+ {
+  "wordId": "animals-jellyfish",
+  "kind": "phrase",
+  "text": "two jellyfish in blue water",
+  "distractors": [
+   "two crabs in blue water",
+   "four sharks in blue water",
+   "two ducks on blue water"
+  ],
+  "answer": "water",
+  "answerDistractors": [
+   "sand",
+   "grass",
+   "snow"
+  ]
+ },
+ {
+  "wordId": "animals-jellyfish",
+  "kind": "sentence",
+  "text": "The jellyfish have long thin tentacles.",
+  "distractors": [
+   "The jellyfish have long thin wings.",
+   "The crabs have long thin tentacles.",
+   "The jellyfish have long thin feathers."
+  ],
+  "answer": "tentacles",
+  "answerDistractors": [
+   "wings",
+   "feathers",
+   "horns"
+  ]
+ },
+ {
+  "wordId": "animals-starfish",
+  "kind": "phrase",
+  "text": "a starfish on a rock",
+  "distractors": [
+   "a crab on a plate",
+   "a snail on a leaf",
+   "a fish in a bowl"
+  ],
+  "answer": "rock",
+  "answerDistractors": [
+   "sofa",
+   "table",
+   "bed"
+  ]
+ },
+ {
+  "wordId": "animals-starfish",
+  "kind": "sentence",
+  "text": "The starfish has five arms.",
+  "distractors": [
+   "The starfish has three arms.",
+   "The starfish has six arms.",
+   "The crab has five arms."
+  ],
+  "answer": "five",
+  "answerDistractors": [
+   "three",
+   "four",
+   "six"
+  ]
+ },
+ {
+  "wordId": "animals-bee",
+  "kind": "phrase",
+  "text": "a bee on a finger",
+  "distractors": [
+   "a bee on a flower",
+   "a snail on a leaf",
+   "a spider on a web"
+  ],
+  "answer": "finger",
+  "answerDistractors": [
+   "flower",
+   "leaf",
+   "stick"
+  ]
+ },
+ {
+  "wordId": "animals-bee",
+  "kind": "sentence",
+  "text": "The bee is sitting on a hand.",
+  "distractors": [
+   "The bee is sitting on a flower.",
+   "The ant is sitting on a hand.",
+   "The bee is flying over a hand."
+  ],
+  "answer": "hand",
+  "answerDistractors": [
+   "flower",
+   "leaf",
+   "rock"
+  ]
+ },
+ {
+  "wordId": "animals-spider",
+  "kind": "phrase",
+  "text": "a spider on a web",
+  "distractors": [
+   "a bee on a flower",
+   "a snail on a leaf",
+   "a fly on a window"
+  ],
+  "answer": "web",
+  "answerDistractors": [
+   "plate",
+   "chair",
+   "bed"
+  ]
+ },
+ {
+  "wordId": "animals-spider",
+  "kind": "sentence",
+  "text": "The spider has long thin legs.",
+  "distractors": [
+   "The spider has long thin wings.",
+   "The bee has long thin legs.",
+   "The spider has long thin horns."
+  ],
+  "answer": "legs",
+  "answerDistractors": [
+   "wings",
+   "horns",
+   "feathers"
+  ]
+ },
+ {
+  "wordId": "animals-snail",
+  "kind": "phrase",
+  "text": "a snail on a stone",
+  "distractors": [
+   "a slug on a leaf",
+   "a bee on a flower",
+   "a spider on a web"
+  ],
+  "answer": "stone",
+  "answerDistractors": [
+   "table",
+   "plate",
+   "chair"
+  ]
+ },
+ {
+  "wordId": "animals-snail",
+  "kind": "sentence",
+  "text": "The snail has a striped shell.",
+  "distractors": [
+   "The snail has a spotted shell.",
+   "The slug has a striped shell.",
+   "The snail has a striped wing."
+  ],
+  "answer": "striped",
+  "answerDistractors": [
+   "spotted",
+   "checked",
+   "blue"
+  ]
+ },
+ {
+  "wordId": "animals-ladybird",
+  "kind": "phrase",
+  "text": "a ladybird on a leaf",
+  "distractors": [
+   "a bee on a flower",
+   "a spider on a web",
+   "a snail on a stone"
+  ],
+  "answer": "leaf",
+  "answerDistractors": [
+   "plate",
+   "chair",
+   "sofa"
+  ]
+ },
+ {
+  "wordId": "animals-ladybird",
+  "kind": "sentence",
+  "text": "The ladybird is red with black spots.",
+  "distractors": [
+   "The ladybird is red with black stripes.",
+   "The ladybird is blue with black spots.",
+   "The bee is red with black spots."
+  ],
+  "answer": "spots",
+  "answerDistractors": [
+   "stripes",
+   "feathers",
+   "stars"
+  ]
+ }
+]

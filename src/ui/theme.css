@@ -1,0 +1,405 @@
+/* SMRT Speech theme layer.
+ *
+ * smrt-tokens.css is the visual asset pack's token file, installed unchanged. This file adds
+ * the few extra tokens the app needs (documented below) and maps the app's own short names
+ * onto the pack's variables, so every screen takes its colours from the pack.
+ *
+ * Themes: <html data-theme="light|dark"> sets the app chrome. The therapy canvas carries its
+ * own data-theme="light", so activities stay white with dark text whichever theme is chosen.
+ */
+
+/* ---- Extension tokens (not in the pack) ----------------------------------------------------
+ * --smrt-border-strong   control outlines: the pack border is too faint (under 3:1) for the
+ *                        edge of a button or input, so controls use this darker step
+ * --smrt-on-primary      text and icons on a filled primary surface
+ * --smrt-on-success      text and icons on a filled success surface
+ * --smrt-*-soft          quiet tinted backgrounds for notices, tags and selected states
+ * --smrt-track           empty part of a progress bar or chart bar
+ * --smrt-<module>-soft   tinted panel behind each module's artwork
+ */
+:root,
+[data-theme='light'] {
+  color-scheme: light;
+  --smrt-border-strong: #8a7a8d;
+  --smrt-on-primary: #faf5f2;
+  --smrt-on-success: #ffffff;
+  --smrt-accent-soft: #f8e7e1;
+  --smrt-success-soft: #e4f1ea;
+  --smrt-warning-soft: #f8eddb;
+  --smrt-error-soft: #f8e6e9;
+  --smrt-track: #e9dfe7;
+  --smrt-comprehension-soft: #f0e8f3;
+  --smrt-naming-soft: #f9e9e5;
+  --smrt-reading-soft: #e6eff5;
+  --smrt-writing-soft: #e7f0ea;
+  --smrt-shell-image: var(--smrt-bg-light, none);
+}
+
+[data-theme='dark'] {
+  color-scheme: dark;
+  --smrt-border-strong: #a898ab;
+  --smrt-on-primary: #261f2d;
+  --smrt-on-success: #1e2a22;
+  --smrt-accent-soft: #4d3b40;
+  --smrt-success-soft: #2c4638;
+  --smrt-warning-soft: #4a3d2a;
+  --smrt-error-soft: #4e3138;
+  --smrt-track: #4b3d52;
+  --smrt-comprehension-soft: #44354b;
+  --smrt-naming-soft: #4d3a3a;
+  --smrt-reading-soft: #33424f;
+  --smrt-writing-soft: #354538;
+  --smrt-shell-image: var(--smrt-bg-dark, none);
+}
+
+/* ---- The app's short names, resolved wherever a theme is set ------------------------------ */
+:root,
+[data-theme] {
+  --primary: var(--smrt-primary);
+  --primary-dark: var(--smrt-primary-hover);
+  --primary-soft: var(--smrt-surface-soft);
+  --accent: var(--smrt-accent);
+  --accent-soft: var(--smrt-accent-soft);
+  --ink: var(--smrt-text);
+  --ink-soft: var(--smrt-muted);
+  --line: var(--smrt-border);
+  --line-strong: var(--smrt-border-strong);
+  --bg: var(--smrt-background);
+  --surface: var(--smrt-surface);
+  --good: var(--smrt-success);
+  --good-soft: var(--smrt-success-soft);
+  --warn: var(--smrt-warning);
+  --warn-soft: var(--smrt-warning-soft);
+  --danger: var(--smrt-error);
+  --danger-soft: var(--smrt-error-soft);
+  --on-primary: var(--smrt-on-primary);
+  --on-good: var(--smrt-on-success);
+  --track: var(--smrt-track);
+  --shadow: var(--smrt-shadow);
+  --font: var(--smrt-font);
+  color: var(--smrt-text);
+}
+
+/* ---- App shell ----------------------------------------------------------------------------- */
+
+/* The decorative background belongs to the shell only: home, management and settings. */
+.screen {
+  background: var(--bg) var(--smrt-shell-image) center / cover no-repeat;
+}
+
+.topbar {
+  background: var(--surface);
+}
+
+/* Brand: the pack's mark, with the name as live text beside it. */
+.wordmark {
+  color: var(--ink);
+}
+
+.wordmark img {
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+  flex: none;
+}
+
+.wordmark .light {
+  color: var(--primary);
+}
+
+.patient-bar {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--smrt-radius-card);
+  box-shadow: var(--shadow);
+  padding: 16px 22px;
+}
+
+.patient-bar > svg {
+  color: var(--primary);
+  flex: none;
+}
+
+/* ---- Module tiles (home) ------------------------------------------------------------------- */
+
+.tile {
+  position: relative;
+  gap: 22px;
+  min-height: 168px;
+  padding: 22px 24px 22px 30px;
+  border-radius: var(--smrt-radius-card);
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+/* Category marker: a coloured bar, always alongside the artwork and the module name. */
+.tile::before,
+.activity-card::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 10px;
+  background: var(--module, var(--smrt-primary));
+}
+
+.tile .art {
+  width: 104px;
+  height: 104px;
+  border-radius: 22px;
+  flex: none;
+  background: var(--module-soft);
+  padding: 6px;
+}
+
+.tile .art img,
+.activity-card .art img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border-radius: 18px;
+}
+
+.tile .name {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.tile .count {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--module);
+}
+
+[data-module='comprehension'] {
+  --module: var(--smrt-comprehension);
+  --module-soft: var(--smrt-comprehension-soft);
+}
+
+[data-module='naming'] {
+  --module: var(--smrt-naming);
+  --module-soft: var(--smrt-naming-soft);
+}
+
+[data-module='reading'] {
+  --module: var(--smrt-reading);
+  --module-soft: var(--smrt-reading-soft);
+}
+
+[data-module='writing'] {
+  --module: var(--smrt-writing);
+  --module-soft: var(--smrt-writing-soft);
+}
+
+/* ---- Activity launch cards (module screen) ------------------------------------------------- */
+
+.activity-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 18px;
+}
+
+.activity-card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  min-height: 132px;
+  padding: 18px 20px 18px 28px;
+  border-radius: var(--smrt-radius-card);
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: var(--shadow);
+  text-align: left;
+  overflow: hidden;
+}
+
+.activity-card:active,
+.tile:active {
+  transform: scale(0.985);
+}
+
+.activity-card .art {
+  width: 84px;
+  height: 84px;
+  border-radius: 20px;
+  flex: none;
+  background: var(--module-soft);
+  padding: 5px;
+}
+
+.activity-card .title {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.activity-card .step {
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--module);
+}
+
+.activity-card > svg {
+  flex: none;
+  color: var(--ink-soft);
+}
+
+.module-head {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.module-head img {
+  width: 72px;
+  height: 72px;
+  border-radius: 18px;
+  flex: none;
+}
+
+@media (orientation: portrait) and (max-width: 900px) {
+  .activity-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---- Shared surfaces ----------------------------------------------------------------------- */
+
+.list-item {
+  border: 1px solid var(--line);
+  color: var(--ink);
+  box-shadow: none;
+}
+
+button.list-item {
+  border: 2px solid var(--line-strong);
+}
+
+.stat {
+  border-radius: 20px;
+}
+
+.modal {
+  border: 1px solid var(--line);
+  border-radius: var(--smrt-radius-card);
+  color: var(--ink);
+}
+
+.input,
+select.input,
+textarea.input {
+  color: var(--ink);
+}
+
+/* Drop-downs are drawn the same way in both themes, with a plain arrow in the text colour. */
+select.input {
+  -webkit-appearance: none;
+  appearance: none;
+  padding-right: 48px;
+  background-color: var(--surface);
+  background-image: linear-gradient(45deg, transparent 50%, currentColor 50%), linear-gradient(135deg, currentColor 50%, transparent 50%);
+  background-position:
+    calc(100% - 26px) 50%,
+    calc(100% - 18px) 50%;
+  background-size:
+    8px 8px,
+    8px 8px;
+  background-repeat: no-repeat;
+}
+
+.notice {
+  border-color: var(--line-strong);
+  color: var(--ink);
+}
+
+.notice.warn {
+  border-color: var(--warn);
+}
+
+.btn.accent {
+  color: var(--ink);
+}
+
+/* Section icon beside a card heading on management and settings screens. */
+.card-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.card-title svg {
+  width: 30px;
+  height: 30px;
+  flex: none;
+  color: var(--primary);
+}
+
+/* ---- Therapy canvas ------------------------------------------------------------------------ */
+
+/* White or near-white with dark text in every theme, and nothing decorative. */
+.session {
+  background: #fff;
+  color: #32283c;
+}
+
+/* ---- Print: always light -------------------------------------------------------------------- */
+
+@media print {
+  :root,
+  [data-theme] {
+    --smrt-background: #fff;
+    --smrt-surface: #fff;
+    --smrt-surface-soft: #f4eaed;
+    --smrt-text: #32283c;
+    --smrt-muted: #625766;
+    --smrt-border: #cdbfcb;
+    --smrt-primary: #563b59;
+    --smrt-shell-image: none;
+    --smrt-shadow: none;
+  }
+}
+
+/* Describe on the smallest iPad in landscape: give the prompt columns more of the width and
+   drop the small reveal icon, so every prompt label fits beside its three mark buttons. */
+@media (orientation: landscape) and (max-width: 1100px) {
+  .describe-grid {
+    grid-template-columns: 1.3fr minmax(180px, 0.9fr) 1.3fr;
+  }
+
+  .prompt-card .head svg {
+    display: none;
+  }
+}
+
+/* Describe in portrait: the picture sits on top and the two prompt columns share the width
+   below it, so labels and mark buttons never overlap. */
+@media (orientation: portrait) {
+  .describe-grid {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: minmax(130px, 26%) minmax(0, 1fr);
+    align-items: start;
+  }
+
+  .describe-grid > .side {
+    grid-column: 1 / -1;
+    grid-row: 1;
+    height: 100% !important;
+  }
+
+  .describe-grid > .describe-col {
+    grid-row: 2;
+  }
+
+  .prompt-card .head svg {
+    display: none;
+  }
+}

@@ -1,0 +1,2005 @@
+[
+  {
+    "id": "places-bakery",
+    "word": "bakery",
+    "group": "places",
+    "subgroup": "shops",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-bakery.webp",
+    "imagePrompt": "A high street bakery shop front with loaves and cakes in the window",
+    "searchQuery": "bakery shop",
+    "cues": {
+      "definition": "A shop that sells fresh bread, rolls and cakes.",
+      "sentenceCompletion": "I bought a crusty loaf from the ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bay"
+    },
+    "semantic": {
+      "category": "It is a shop.",
+      "use": "You go there to buy bread and cakes.",
+      "action": "You queue up, point at what you want and pay at the counter.",
+      "properties": "It smells warm and sweet, with shelves of loaves and trays of buns.",
+      "location": "You find it on the high street.",
+      "association": "It makes me think of fresh bread in the morning."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ee",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "bucket"
+    }
+  },
+  {
+    "id": "places-chemist",
+    "word": "chemist",
+    "group": "places",
+    "subgroup": "shops",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-chemist.webp",
+    "imagePrompt": "A high street chemist shop front with a green cross sign and no text",
+    "searchQuery": "pharmacy shop",
+    "cues": {
+      "definition": "A shop that sells medicines, plasters and toiletries.",
+      "sentenceCompletion": "I collected my prescription from the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "chem"
+    },
+    "semantic": {
+      "category": "It is a shop.",
+      "use": "You go there to collect medicine or buy remedies.",
+      "action": "You hand over a prescription and wait for your tablets.",
+      "properties": "It is bright inside, with shelves of creams, vitamins and toothpaste.",
+      "location": "You find it on the high street or in a shopping centre.",
+      "association": "It makes me think of tablets, cough mixture and plasters."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "kettle"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-bookshop",
+    "word": "bookshop",
+    "group": "places",
+    "subgroup": "shops",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-bookshop.webp",
+    "imagePrompt": "The front of a small high street store with shelves of novels on display in the window",
+    "searchQuery": "bookshop front",
+    "cues": {
+      "definition": "It is a place where you buy novels and other things to read.",
+      "sentenceCompletion": "I wanted a new novel, so I went to the ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "book"
+    },
+    "semantic": {
+      "category": "It is a kind of store on the high street.",
+      "use": "You go there to buy something to read.",
+      "action": "You browse the shelves and choose a title.",
+      "properties": "It is quiet, with rows of shelves and paper covers.",
+      "location": "You find it on the high street.",
+      "association": "It makes me think of novels and birthday presents."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "p",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bus"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-newsagent",
+    "word": "newsagent",
+    "group": "places",
+    "subgroup": "shops",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-newsagent.webp",
+    "imagePrompt": "A small newsagent shop front with newspapers and magazines on a stand outside",
+    "searchQuery": "newsagent shop",
+    "cues": {
+      "definition": "A small shop that sells newspapers, magazines and sweets.",
+      "sentenceCompletion": "I popped into the ___ to buy a paper.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "nnn",
+      "firstSyllable": "news"
+    },
+    "semantic": {
+      "category": "It is a shop.",
+      "use": "You go there to buy a paper, a magazine or a bar of chocolate.",
+      "action": "You pick up your paper and pay at the till.",
+      "properties": "It is small and crowded, with racks of magazines and jars of sweets.",
+      "location": "You find it on the corner of a street.",
+      "association": "It makes me think of the morning paper and lottery tickets."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "nurse"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-supermarket",
+    "word": "supermarket",
+    "group": "places",
+    "subgroup": "shops",
+    "wordClass": "noun",
+    "letters": 11,
+    "syllables": 4,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-supermarket.webp",
+    "imagePrompt": "A large modern supermarket building with trolleys in front",
+    "searchQuery": "supermarket",
+    "cues": {
+      "definition": "A very large shop where you buy food and household goods.",
+      "sentenceCompletion": "We do our weekly food shop at the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "soo"
+    },
+    "semantic": {
+      "category": "It is a big shop.",
+      "use": "You go there to buy your groceries for the week.",
+      "action": "You push a trolley along the aisles and pay at the checkout.",
+      "properties": "It is huge and bright, with long aisles and freezers.",
+      "location": "You find it in a town or on a retail park.",
+      "association": "It makes me think of trolleys, queues and carrier bags."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "t",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "sock"
+    }
+  },
+  {
+    "id": "places-market",
+    "word": "market",
+    "group": "places",
+    "subgroup": "shops",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-market.webp",
+    "imagePrompt": "A busy outdoor market with stalls under striped awnings selling fruit and vegetables",
+    "searchQuery": "street market",
+    "cues": {
+      "definition": "An outdoor place where traders sell fruit, vegetables and goods from stalls.",
+      "sentenceCompletion": "On Saturdays we buy fresh fish at the ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mar"
+    },
+    "semantic": {
+      "category": "It is a place to buy goods.",
+      "use": "You go there to buy cheap fresh food and bargains.",
+      "action": "You wander between stalls and chat to the sellers.",
+      "properties": "It is noisy and lively, with stalls under awnings.",
+      "location": "You find it in the town square on certain days of the week.",
+      "association": "It makes me think of bargains and shouting stallholders."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "mirror"
+    }
+  },
+  {
+    "id": "places-salon",
+    "word": "salon",
+    "group": "places",
+    "subgroup": "shops",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-salon.webp",
+    "imagePrompt": "The inside of a hair salon with a styling chair and a large mirror",
+    "searchQuery": "hair salon",
+    "cues": {
+      "definition": "A shop where you go to have your hair cut and styled.",
+      "sentenceCompletion": "I booked a haircut at the hair ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sal"
+    },
+    "semantic": {
+      "category": "It is a shop that offers a service.",
+      "use": "You go there to have your hair washed, cut and styled.",
+      "action": "You sit in a chair while a stylist works with scissors and a dryer.",
+      "properties": "It has big mirrors, sinks and rows of chairs.",
+      "location": "You find it on the high street.",
+      "association": "It makes me think of shampoo, hairspray and a fresh haircut."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "sandwich"
+    }
+  },
+  {
+    "id": "places-library",
+    "word": "library",
+    "group": "places",
+    "subgroup": "public buildings",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-library.webp",
+    "imagePrompt": "A public library interior with tall shelves full of books",
+    "searchQuery": "public library",
+    "cues": {
+      "definition": "A building where you borrow books for free.",
+      "sentenceCompletion": "I returned my books to the ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "lll",
+      "firstSyllable": "li"
+    },
+    "semantic": {
+      "category": "It is a public building.",
+      "use": "You go there to borrow books and read in peace.",
+      "action": "You browse the shelves and take your books to the desk.",
+      "properties": "It is quiet and calm, with rows of shelves and reading tables.",
+      "location": "You find it in most towns.",
+      "association": "It makes me think of silence and shelves of books."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "ee",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "ladder"
+    }
+  },
+  {
+    "id": "places-town-hall",
+    "word": "town hall",
+    "group": "places",
+    "subgroup": "public buildings",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "places-town-hall.webp",
+    "imagePrompt": "A traditional stone town hall building with a clock tower",
+    "searchQuery": "town hall building",
+    "cues": {
+      "definition": "A large civic building where the local council meets.",
+      "sentenceCompletion": "The mayor gave a speech outside the ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "town"
+    },
+    "semantic": {
+      "category": "It is a civic building.",
+      "use": "You go there for council business and some official events.",
+      "action": "Councillors meet there to make decisions for the area.",
+      "properties": "It is grand and imposing, often with a clock tower and columns.",
+      "location": "You find it in the centre of a city or borough.",
+      "association": "It makes me think of councils, weddings and a mayor."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "table"
+    }
+  },
+  {
+    "id": "places-post-office",
+    "word": "post office",
+    "group": "places",
+    "subgroup": "public buildings",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "places-post-office.webp",
+    "imagePrompt": "A small British post office building with a red front and a postbox outside",
+    "searchQuery": "british post office",
+    "cues": {
+      "definition": "A place where you send parcels, buy stamps and collect pensions.",
+      "sentenceCompletion": "I need to buy stamps at the ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "post"
+    },
+    "semantic": {
+      "category": "It is a public service building.",
+      "use": "You go there to send parcels and letters.",
+      "action": "You queue at a counter and hand over your parcel to be weighed.",
+      "properties": "It is small and busy, with counters and shelves of cards.",
+      "location": "You find it on the high street or inside a shop.",
+      "association": "It makes me think of stamps, envelopes and queues."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "s",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "pencil"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-bank",
+    "word": "bank",
+    "group": "places",
+    "subgroup": "public buildings",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-bank.webp",
+    "imagePrompt": "A high street bank building with glass doors and a cash machine in the wall",
+    "searchQuery": "bank building",
+    "cues": {
+      "definition": "A place where you keep your money and can pay in cheques.",
+      "sentenceCompletion": "I went to the ___ to take out some cash.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a financial building.",
+      "use": "You go there to save money or sort out your account.",
+      "action": "You speak to a cashier or use the cash machine outside.",
+      "properties": "It has a long counter, glass screens and a cash machine outside.",
+      "location": "You find it on the high street.",
+      "association": "It makes me think of savings, cheques and cash."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "tank",
+      "sameFirstSound": "boat"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-school",
+    "word": "school",
+    "group": "places",
+    "subgroup": "public buildings",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-school.webp",
+    "imagePrompt": "A brick primary school building with a playing field in front and no people",
+    "searchQuery": "school building",
+    "cues": {
+      "definition": "A place where children go to learn lessons.",
+      "sentenceCompletion": "The children walk to ___ every morning.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "skuh"
+    },
+    "semantic": {
+      "category": "It is a place of education.",
+      "use": "You go there to learn reading, writing and maths.",
+      "action": "Children sit at desks and listen to a teacher.",
+      "properties": "It is a long brick building with classrooms and a yard.",
+      "location": "You find it in every town and village.",
+      "association": "It makes me think of uniforms, lessons and the bell."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "cool",
+      "sameFirstSound": "sky"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-university",
+    "word": "university",
+    "group": "places",
+    "subgroup": "public buildings",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 5,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-university.webp",
+    "imagePrompt": "A large university building with a clock tower and lawn in front",
+    "searchQuery": "university building",
+    "cues": {
+      "definition": "A place where adults study for a degree after school.",
+      "sentenceCompletion": "After college, he went to ___ to study law.",
+      "firstLetter": "u",
+      "firstSoundSpoken": "yoo",
+      "firstSyllable": "u"
+    },
+    "semantic": {
+      "category": "It is a place of higher education.",
+      "use": "You go there to study for a degree.",
+      "action": "Students attend lectures, write essays and sit exams.",
+      "properties": "It is made up of big lecture halls, libraries and student halls.",
+      "location": "You find it in a city or on a large campus.",
+      "association": "It makes me think of lectures, gowns and graduation."
+    },
+    "phonological": {
+      "firstSound": "y",
+      "lastSound": "ee",
+      "syllables": 5,
+      "rhyme": null,
+      "sameFirstSound": "yellow"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-courthouse",
+    "word": "courthouse",
+    "group": "places",
+    "subgroup": "public buildings",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-courthouse.webp",
+    "imagePrompt": "A grand stone courthouse building with steps and pillars",
+    "searchQuery": "courthouse building",
+    "cues": {
+      "definition": "A building where judges and juries hear legal cases.",
+      "sentenceCompletion": "The trial took place at the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "court"
+    },
+    "semantic": {
+      "category": "It is a legal building.",
+      "use": "You go there to settle legal cases and hear verdicts.",
+      "action": "A judge hears the evidence and decides what should happen.",
+      "properties": "It is a grand stone building with steps and heavy doors.",
+      "location": "You find it in a large town or city.",
+      "association": "It makes me think of judges, wigs and trials."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": "mouse",
+      "sameFirstSound": "kitten"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-hospital",
+    "word": "hospital",
+    "group": "places",
+    "subgroup": "public buildings",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-hospital.webp",
+    "imagePrompt": "A large hospital building with an ambulance bay at the entrance",
+    "searchQuery": "hospital building",
+    "cues": {
+      "definition": "A large building where sick and injured people are treated.",
+      "sentenceCompletion": "He was taken by ambulance to the ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hos"
+    },
+    "semantic": {
+      "category": "It is a health building.",
+      "use": "You go there to be treated when you are ill or hurt.",
+      "action": "Doctors and nurses look after patients on the wards.",
+      "properties": "It is large and clean, with long corridors and many beds.",
+      "location": "You find it in most big towns.",
+      "association": "It makes me think of wards, nurses and ambulances."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "hat"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-clinic",
+    "word": "clinic",
+    "group": "places",
+    "subgroup": "public buildings",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-clinic.webp",
+    "imagePrompt": "A modern single-storey health clinic building with glass doors",
+    "searchQuery": "health clinic",
+    "cues": {
+      "definition": "A small health centre where you see a nurse or doctor.",
+      "sentenceCompletion": "She had her blood test at the ___ this morning.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "clin"
+    },
+    "semantic": {
+      "category": "It is a health building.",
+      "use": "You go there for check-ups and routine treatment.",
+      "action": "You wait to be called, then see a nurse or doctor.",
+      "properties": "It is small and clean, with a waiting room and treatment rooms.",
+      "location": "You find it in a town or village.",
+      "association": "It makes me think of appointments and waiting rooms."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "k",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "cup"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-pub",
+    "word": "pub",
+    "group": "places",
+    "subgroup": "eating and leisure",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": false,
+    "image": "places-pub.webp",
+    "imagePrompt": "A traditional British pub exterior with brick walls and hanging flower baskets",
+    "searchQuery": "british pub",
+    "cues": {
+      "definition": "A place where adults go to drink beer and chat.",
+      "sentenceCompletion": "On Friday we met our friends at the ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is a place for socialising.",
+      "use": "You go there to meet friends and have a pint.",
+      "action": "You order drinks at the bar and sit with friends.",
+      "properties": "It is cosy and warm, with a wooden bar and a fireplace.",
+      "location": "You find it in almost every British village.",
+      "association": "It makes me think of pints, quizzes and Sunday roasts."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "b",
+      "syllables": 1,
+      "rhyme": "club",
+      "sameFirstSound": "pig"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-cafe",
+    "word": "cafe",
+    "group": "places",
+    "subgroup": "eating and leisure",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-cafe.webp",
+    "imagePrompt": "A small cafe front with a table and two chairs outside",
+    "searchQuery": "cafe",
+    "cues": {
+      "definition": "A small place where you buy coffee, tea and light meals.",
+      "sentenceCompletion": "We had a coffee and a scone at the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "ca"
+    },
+    "semantic": {
+      "category": "It is a place to eat and drink.",
+      "use": "You go there to have a drink, a snack or a light lunch.",
+      "action": "You order at the counter and sit with your drink.",
+      "properties": "It is small and friendly, with tables and a coffee machine.",
+      "location": "You find it on the high street or in a park.",
+      "association": "It makes me think of coffee, cake and a chat."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "ay",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "kite"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-cinema",
+    "word": "cinema",
+    "group": "places",
+    "subgroup": "eating and leisure",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-cinema.webp",
+    "imagePrompt": "A cinema building with a lit entrance and empty foyer",
+    "searchQuery": "cinema building",
+    "cues": {
+      "definition": "A place where you watch films on a huge screen.",
+      "sentenceCompletion": "We bought popcorn at the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "cin"
+    },
+    "semantic": {
+      "category": "It is a place of entertainment.",
+      "use": "You go there to watch the latest films.",
+      "action": "You find your seat, the lights go down and the film begins.",
+      "properties": "It is dark inside, with rows of seats and a giant screen.",
+      "location": "You find it in a town centre or retail park.",
+      "association": "It makes me think of popcorn, trailers and big films."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "sun"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-theatre",
+    "word": "theatre",
+    "group": "places",
+    "subgroup": "eating and leisure",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-theatre.webp",
+    "imagePrompt": "A traditional theatre building with a red curtain visible on an empty stage",
+    "searchQuery": "theatre building",
+    "cues": {
+      "definition": "A building where actors perform plays on a stage.",
+      "sentenceCompletion": "We saw a play at the ___ last night.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "thh",
+      "firstSyllable": "the"
+    },
+    "semantic": {
+      "category": "It is a place of entertainment.",
+      "use": "You go there to watch plays, musicals and shows.",
+      "action": "You sit in the audience and clap when the actors bow.",
+      "properties": "It has a stage, red curtains, balconies and velvet seats.",
+      "location": "You find it in a city or large town.",
+      "association": "It makes me think of curtains, applause and the interval."
+    },
+    "phonological": {
+      "firstSound": "th",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "thumb"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-museum",
+    "word": "museum",
+    "group": "places",
+    "subgroup": "eating and leisure",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-museum.webp",
+    "imagePrompt": "A grand stone museum building with a wide staircase at the front",
+    "searchQuery": "museum building",
+    "cues": {
+      "definition": "A building where old and interesting objects are displayed for visitors.",
+      "sentenceCompletion": "We saw dinosaur bones at the ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mu"
+    },
+    "semantic": {
+      "category": "It is a place of culture.",
+      "use": "You go there to learn about history and see old objects.",
+      "action": "You walk around the galleries and read the labels.",
+      "properties": "It has large halls, glass cases and displays.",
+      "location": "You find it in a city or large town.",
+      "association": "It makes me think of fossils, exhibits and school trips."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "m",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "mug"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-stadium",
+    "word": "stadium",
+    "group": "places",
+    "subgroup": "eating and leisure",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-stadium.webp",
+    "imagePrompt": "An empty football stadium with rows of seats and green pitch",
+    "searchQuery": "football stadium",
+    "cues": {
+      "definition": "A huge open arena with rows of seats where crowds watch football.",
+      "sentenceCompletion": "Thousands of fans packed into the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sta"
+    },
+    "semantic": {
+      "category": "It is a sports venue.",
+      "use": "You go there to watch a big match or a concert.",
+      "action": "Crowds cheer, sing and wave scarves while the match goes on.",
+      "properties": "It is huge and circular, with tiers of seats around a pitch.",
+      "location": "You find it in a city.",
+      "association": "It makes me think of roaring crowds and floodlights."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "m",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "sofa"
+    }
+  },
+  {
+    "id": "places-gym",
+    "word": "gym",
+    "group": "places",
+    "subgroup": "eating and leisure",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-gym.webp",
+    "imagePrompt": "The inside of a gym with weight machines and dumbbells on a rack",
+    "searchQuery": "gym interior",
+    "cues": {
+      "definition": "A place with weights and machines where you exercise.",
+      "sentenceCompletion": "I go to the ___ three times a week.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "juh"
+    },
+    "semantic": {
+      "category": "It is a place for exercise.",
+      "use": "You go there to keep fit and build strength.",
+      "action": "You lift weights, run on machines and stretch.",
+      "properties": "It is full of machines, mirrors, mats and heavy weights.",
+      "location": "You find it in a leisure centre or on a high street.",
+      "association": "It makes me think of sweat, treadmills and dumbbells."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "trim",
+      "sameFirstSound": "jug"
+    }
+  },
+  {
+    "id": "places-swimming-pool",
+    "word": "swimming pool",
+    "group": "places",
+    "subgroup": "eating and leisure",
+    "wordClass": "noun",
+    "letters": 12,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "places-swimming-pool.webp",
+    "imagePrompt": "An empty indoor public swimming pool with lane ropes and blue water",
+    "searchQuery": "indoor swimming pool",
+    "cues": {
+      "definition": "A large indoor tank of water where people go to do lengths.",
+      "sentenceCompletion": "She does forty lengths at the local ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "swim"
+    },
+    "semantic": {
+      "category": "It is a place for exercise.",
+      "use": "You go there to keep fit or have fun in the water.",
+      "action": "You dive in, kick and glide up and down the lanes.",
+      "properties": "It is big and blue, smelling of chlorine, with lane ropes.",
+      "location": "You find it in a leisure centre.",
+      "association": "It makes me think of goggles, floats and chlorine."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "soap"
+    }
+  },
+  {
+    "id": "places-church",
+    "word": "church",
+    "group": "places",
+    "subgroup": "worship and historic",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-church.webp",
+    "imagePrompt": "A stone village church with a spire and a gravel path",
+    "searchQuery": "village church",
+    "cues": {
+      "definition": "A Christian building with a spire where people pray on Sundays.",
+      "sentenceCompletion": "We got married in the village ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch"
+    },
+    "semantic": {
+      "category": "It is a place of worship.",
+      "use": "You go there to pray and attend services.",
+      "action": "People sing hymns and listen to a sermon.",
+      "properties": "It is made of stone, with a spire, stained glass and wooden pews.",
+      "location": "You find it in almost every village.",
+      "association": "It makes me think of bells, hymns and weddings."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "ch",
+      "syllables": 1,
+      "rhyme": "search",
+      "sameFirstSound": "chair"
+    }
+  },
+  {
+    "id": "places-cathedral",
+    "word": "cathedral",
+    "group": "places",
+    "subgroup": "worship and historic",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-cathedral.webp",
+    "imagePrompt": "A huge medieval cathedral with twin towers and stained glass",
+    "searchQuery": "cathedral exterior",
+    "cues": {
+      "definition": "A very large, grand church led by a bishop.",
+      "sentenceCompletion": "Tourists admired the stained glass windows in the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "ca"
+    },
+    "semantic": {
+      "category": "It is a place of worship.",
+      "use": "You go there to pray, attend big services or admire the architecture.",
+      "action": "Choirs sing there and visitors look up at the high ceilings.",
+      "properties": "It is enormous and ancient, with towers, arches and stained glass.",
+      "location": "You find it in a city.",
+      "association": "It makes me think of echoing choirs and tall spires."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "carpet"
+    }
+  },
+  {
+    "id": "places-mosque",
+    "word": "mosque",
+    "group": "places",
+    "subgroup": "worship and historic",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-mosque.webp",
+    "imagePrompt": "A white mosque with a dome and a tall minaret",
+    "searchQuery": "mosque building",
+    "cues": {
+      "definition": "A Muslim place of worship with a dome and a minaret.",
+      "sentenceCompletion": "Muslims go to pray at the ___ on Fridays.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm"
+    },
+    "semantic": {
+      "category": "It is a place of worship.",
+      "use": "You go there to pray and attend services.",
+      "action": "People take off their shoes and kneel to pray.",
+      "properties": "It has a dome, a tall slender tower and beautiful tiles.",
+      "location": "You find it in towns and cities.",
+      "association": "It makes me think of prayer, domes and the call to prayer."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": null,
+      "sameFirstSound": "monkey"
+    }
+  },
+  {
+    "id": "places-castle",
+    "word": "castle",
+    "group": "places",
+    "subgroup": "worship and historic",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-castle.webp",
+    "imagePrompt": "A medieval stone castle with towers and battlements on a hill",
+    "searchQuery": "stone castle",
+    "cues": {
+      "definition": "A huge stone fortress with towers and thick walls.",
+      "sentenceCompletion": "The knight lived in a stone ___ with a drawbridge.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cas"
+    },
+    "semantic": {
+      "category": "It is a historic building.",
+      "use": "You go there to visit history or learn about the past.",
+      "action": "Visitors climb the towers and walk along the walls.",
+      "properties": "It is huge and strong, with battlements, towers and a moat.",
+      "location": "You find it on a hill or by a river.",
+      "association": "It makes me think of knights, kings and drawbridges."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "hassle",
+      "sameFirstSound": "carrot"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-palace",
+    "word": "palace",
+    "group": "places",
+    "subgroup": "worship and historic",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-palace.webp",
+    "imagePrompt": "A grand royal palace with a gold gate and a flag on top",
+    "searchQuery": "royal palace",
+    "cues": {
+      "definition": "A grand home for a king or queen.",
+      "sentenceCompletion": "The queen waved from the balcony of the ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pal"
+    },
+    "semantic": {
+      "category": "It is a grand historic building.",
+      "use": "You go there to see how royalty live or to attend state events.",
+      "action": "Royals live and work there, and guards stand outside.",
+      "properties": "It is large and ornate, with many windows and gilded gates.",
+      "location": "You find it in a capital city.",
+      "association": "It makes me think of crowns, kings and queens."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": "malice",
+      "sameFirstSound": "pillow"
+    }
+  },
+  {
+    "id": "places-lighthouse",
+    "word": "lighthouse",
+    "group": "places",
+    "subgroup": "worship and historic",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-lighthouse.webp",
+    "imagePrompt": "A tall white lighthouse on a rocky headland under a clear sky",
+    "searchQuery": "lighthouse",
+    "cues": {
+      "definition": "A tall tower by the sea with a bright flashing beam to warn ships.",
+      "sentenceCompletion": "The beam from the ___ guided ships away from the rocks.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "lll",
+      "firstSyllable": "light"
+    },
+    "semantic": {
+      "category": "It is a coastal tower.",
+      "use": "It warns ships and keeps sailors safe at night.",
+      "action": "It shines a beam round and round in the dark.",
+      "properties": "It is tall and narrow, often painted in stripes, with a lamp on top.",
+      "location": "You find it on a rocky coast.",
+      "association": "It makes me think of storms, rocks and ships at night."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "lemon"
+    }
+  },
+  {
+    "id": "places-windmill",
+    "word": "windmill",
+    "group": "places",
+    "subgroup": "worship and historic",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-windmill.webp",
+    "imagePrompt": "A traditional white windmill with four sails in a green field",
+    "searchQuery": "windmill",
+    "cues": {
+      "definition": "A tall building with big sails that turn in the breeze.",
+      "sentenceCompletion": "The sails of the old ___ turned slowly in the breeze.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "wind"
+    },
+    "semantic": {
+      "category": "It is a historic building.",
+      "use": "It was used to grind grain into flour.",
+      "action": "Its sails turn round and round when the breeze blows.",
+      "properties": "It is tall and round, with four long sails.",
+      "location": "You find it in the countryside.",
+      "association": "It makes me think of flour and the Dutch countryside."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "water"
+    }
+  },
+  {
+    "id": "places-monument",
+    "word": "monument",
+    "group": "places",
+    "subgroup": "worship and historic",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-monument.webp",
+    "imagePrompt": "A tall stone monument column standing on a plinth",
+    "searchQuery": "stone monument",
+    "cues": {
+      "definition": "A tall stone structure built to remember a person or event.",
+      "sentenceCompletion": "He laid a poppy wreath at the war ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mon"
+    },
+    "semantic": {
+      "category": "It is a historic structure.",
+      "use": "It is built to remember someone or something important.",
+      "action": "It stands still and people lay flowers at its base.",
+      "properties": "It is tall and made of stone, often carved with names.",
+      "location": "You find it in a town centre or park.",
+      "association": "It makes me think of remembrance and wreaths."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "magnet"
+    }
+  },
+  {
+    "id": "places-station",
+    "word": "station",
+    "group": "places",
+    "subgroup": "travel places",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-station.webp",
+    "imagePrompt": "A railway station platform with a train waiting and nobody on the platform",
+    "searchQuery": "railway station",
+    "cues": {
+      "definition": "A place where trains stop to let passengers on and off.",
+      "sentenceCompletion": "We waited on the platform at the railway ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sta"
+    },
+    "semantic": {
+      "category": "It is a transport building.",
+      "use": "You go there to catch a train.",
+      "action": "You buy a ticket, find your platform and board the train.",
+      "properties": "It has platforms, tracks, a ticket office and a big clock.",
+      "location": "You find it in towns and cities.",
+      "association": "It makes me think of tickets, platforms and delays."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "nation",
+      "sameFirstSound": "spoon"
+    }
+  },
+  {
+    "id": "places-airport",
+    "word": "airport",
+    "group": "places",
+    "subgroup": "travel places",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-airport.webp",
+    "imagePrompt": "A large airport terminal building with an aeroplane parked at a gate",
+    "searchQuery": "airport terminal",
+    "cues": {
+      "definition": "A large place where planes take off and land.",
+      "sentenceCompletion": "We checked in our suitcases at the ___.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "air",
+      "firstSyllable": "air"
+    },
+    "semantic": {
+      "category": "It is a transport hub.",
+      "use": "You go there to catch a flight.",
+      "action": "You check in, go through security and board a plane.",
+      "properties": "It is huge and busy, with terminals, runways and planes.",
+      "location": "You find it outside a large town or city.",
+      "association": "It makes me think of suitcases, passports and holidays."
+    },
+    "phonological": {
+      "firstSound": "air",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "area"
+    }
+  },
+  {
+    "id": "places-harbour",
+    "word": "harbour",
+    "group": "places",
+    "subgroup": "travel places",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-harbour.webp",
+    "imagePrompt": "A small fishing harbour with boats moored and a stone wall",
+    "searchQuery": "fishing harbour",
+    "cues": {
+      "definition": "A sheltered place by the sea where boats are moored.",
+      "sentenceCompletion": "The fishing boats were tied up in the ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "har"
+    },
+    "semantic": {
+      "category": "It is a coastal place.",
+      "use": "Boats shelter and unload their catch there.",
+      "action": "Boats sail in and out and are tied up to the wall.",
+      "properties": "It has a stone wall, bobbing boats and nets.",
+      "location": "You find it on the coast.",
+      "association": "It makes me think of fishing boats and seagulls."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "arbour",
+      "sameFirstSound": "hammer"
+    }
+  },
+  {
+    "id": "places-garage",
+    "word": "garage",
+    "group": "places",
+    "subgroup": "travel places",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-garage.webp",
+    "imagePrompt": "A car repair garage with an open workshop door and a car on a ramp",
+    "searchQuery": "car repair garage",
+    "cues": {
+      "definition": "A workshop where mechanics repair and service cars.",
+      "sentenceCompletion": "I took my car to the ___ for its MOT.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh",
+      "firstSyllable": "ga"
+    },
+    "semantic": {
+      "category": "It is a workshop.",
+      "use": "You go there to get your car fixed or serviced.",
+      "action": "Mechanics lift the car up and work underneath it.",
+      "properties": "It has ramps, tools, tyres and a smell of oil.",
+      "location": "You find it beside a main road.",
+      "association": "It makes me think of oil, spanners and repair bills."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "zh",
+      "syllables": 2,
+      "rhyme": "mirage",
+      "sameFirstSound": "goat"
+    }
+  },
+  {
+    "id": "places-car-park",
+    "word": "car park",
+    "group": "places",
+    "subgroup": "travel places",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "places-car-park.webp",
+    "imagePrompt": "An empty tarmac car park with painted white bays",
+    "searchQuery": "car park",
+    "cues": {
+      "definition": "A flat area where drivers leave their vehicles while they shop or work.",
+      "sentenceCompletion": "It was hard to find a space at the busy ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "car"
+    },
+    "semantic": {
+      "category": "It is a place for vehicles.",
+      "use": "You leave your vehicle there while you are out.",
+      "action": "You find a bay, take a ticket and leave your vehicle.",
+      "properties": "It is a flat expanse of tarmac with painted lines.",
+      "location": "You find it next to shops and stations.",
+      "association": "It makes me think of tickets, bays and circling for a space."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "k",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "kitchen"
+    }
+  },
+  {
+    "id": "places-bridge",
+    "word": "bridge",
+    "group": "places",
+    "subgroup": "travel places",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-bridge.webp",
+    "imagePrompt": "A stone arched bridge over a calm river",
+    "searchQuery": "stone bridge",
+    "cues": {
+      "definition": "A structure that carries a road or path over water.",
+      "sentenceCompletion": "We walked across the old stone ___ over the river.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a structure for crossing.",
+      "use": "You use it to cross a river or a valley.",
+      "action": "You walk or drive across it to the other side.",
+      "properties": "It is long and sturdy, with arches or steel cables.",
+      "location": "You find it over a river or road.",
+      "association": "It makes me think of rivers and crossing to the other side."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "j",
+      "syllables": 1,
+      "rhyme": "ridge",
+      "sameFirstSound": "bucket"
+    }
+  },
+  {
+    "id": "places-tunnel",
+    "word": "tunnel",
+    "group": "places",
+    "subgroup": "travel places",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-tunnel.webp",
+    "imagePrompt": "A dark brick tunnel opening in a hillside with a railway track leading in",
+    "searchQuery": "railway tunnel",
+    "cues": {
+      "definition": "A long passage dug through a hill or under a river.",
+      "sentenceCompletion": "The train disappeared into a dark ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tun"
+    },
+    "semantic": {
+      "category": "It is a passage for travel.",
+      "use": "It lets roads and trains pass through hills or under water.",
+      "action": "You drive or ride through it and come out the other side.",
+      "properties": "It is long, dark and curved, with lights along the wall.",
+      "location": "You find it under a hill or river.",
+      "association": "It makes me think of darkness and echoes."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "funnel",
+      "sameFirstSound": "tiger"
+    }
+  },
+  {
+    "id": "places-pier",
+    "word": "pier",
+    "group": "places",
+    "subgroup": "travel places",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-pier.webp",
+    "imagePrompt": "A wooden seaside pier stretching out over calm sea",
+    "searchQuery": "seaside pier",
+    "cues": {
+      "definition": "A long platform that stretches out from the shore over the sea.",
+      "sentenceCompletion": "We ate chips on the seaside ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is a seaside structure.",
+      "use": "You walk along it for a stroll and fun by the sea.",
+      "action": "You stroll to the end and look out over the water.",
+      "properties": "It is long and narrow, built on wooden or metal legs.",
+      "location": "You find it at a seaside resort.",
+      "association": "It makes me think of seaside holidays and candy floss."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "ear",
+      "syllables": 1,
+      "rhyme": "deer",
+      "sameFirstSound": "parcel"
+    }
+  },
+  {
+    "id": "places-park",
+    "word": "park",
+    "group": "places",
+    "subgroup": "outdoor places",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-park.webp",
+    "imagePrompt": "A public park with a lawn, trees and a path",
+    "searchQuery": "public park",
+    "cues": {
+      "definition": "A large public green space with grass, trees and paths.",
+      "sentenceCompletion": "We took the dog for a walk in the ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is an outdoor public space.",
+      "use": "You go there to relax, walk the dog or have a picnic.",
+      "action": "You stroll along the paths and sit on the grass.",
+      "properties": "It is green and open, with trees, benches and a pond.",
+      "location": "You find it in a town or city.",
+      "association": "It makes me think of picnics, ducks and dog walks."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "dark",
+      "sameFirstSound": "parrot"
+    }
+  },
+  {
+    "id": "places-playground",
+    "word": "playground",
+    "group": "places",
+    "subgroup": "outdoor places",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-playground.webp",
+    "imagePrompt": "An empty children playground with a slide and a set of swings",
+    "searchQuery": "children playground",
+    "cues": {
+      "definition": "A place outside with swings and slides for children.",
+      "sentenceCompletion": "The children ran to the swings in the ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "play"
+    },
+    "semantic": {
+      "category": "It is an outdoor area for children.",
+      "use": "Children go there to run about and burn off energy.",
+      "action": "They climb, swing and slide.",
+      "properties": "It has brightly coloured slides, swings and a soft ground.",
+      "location": "You find it in a park or beside a school.",
+      "association": "It makes me think of swings, slides and laughing children."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "pepper"
+    }
+  },
+  {
+    "id": "places-farm",
+    "word": "farm",
+    "group": "places",
+    "subgroup": "outdoor places",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-farm.webp",
+    "imagePrompt": "A farm with a red barn and a field with a fence",
+    "searchQuery": "farm barn field",
+    "cues": {
+      "definition": "Land with fields and buildings where crops are grown and animals are kept.",
+      "sentenceCompletion": "The cows were milked at the ___ every morning.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is a place where food is produced.",
+      "use": "Crops and animals are raised there for food.",
+      "action": "Tractors plough the fields and animals graze.",
+      "properties": "It has barns, fields, fences and muddy tracks.",
+      "location": "You find it in the countryside.",
+      "association": "It makes me think of tractors, cows and hay."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "harm",
+      "sameFirstSound": "fork"
+    }
+  },
+  {
+    "id": "places-campsite",
+    "word": "campsite",
+    "group": "places",
+    "subgroup": "outdoor places",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-campsite.webp",
+    "imagePrompt": "A grassy campsite field with a few pitched tents",
+    "searchQuery": "campsite",
+    "cues": {
+      "definition": "A field where people pitch tents and stay on holiday.",
+      "sentenceCompletion": "We pitched our tent at a quiet ___ near the lake.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "camp"
+    },
+    "semantic": {
+      "category": "It is a holiday place.",
+      "use": "You stay there on a budget holiday outdoors.",
+      "action": "You put up your tent, cook on a stove and sleep outdoors.",
+      "properties": "It is a grassy field with tents, caravans and a toilet block.",
+      "location": "You find it in the countryside or near the coast.",
+      "association": "It makes me think of sleeping bags and campfires."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "king"
+    }
+  },
+  {
+    "id": "places-cemetery",
+    "word": "cemetery",
+    "group": "places",
+    "subgroup": "outdoor places",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 4,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-cemetery.webp",
+    "imagePrompt": "A quiet cemetery with rows of stone headstones on a lawn",
+    "searchQuery": "cemetery headstones",
+    "cues": {
+      "definition": "A place with graves and headstones where the dead are buried.",
+      "sentenceCompletion": "She laid flowers on his grave in the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "cem"
+    },
+    "semantic": {
+      "category": "It is a burial ground.",
+      "use": "People are laid to rest there and loved ones visit to remember.",
+      "action": "Visitors lay flowers and walk quietly between the graves.",
+      "properties": "It is peaceful and green, with rows of headstones.",
+      "location": "You find it in a town, or next to a church.",
+      "association": "It makes me think of headstones and remembering loved ones."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ee",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "salad"
+    }
+  },
+  {
+    "id": "places-allotment",
+    "word": "allotment",
+    "group": "places",
+    "subgroup": "outdoor places",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-allotment.webp",
+    "imagePrompt": "A neat allotment plot with rows of vegetables and a small shed",
+    "searchQuery": "allotment garden",
+    "cues": {
+      "definition": "A small rented plot of land where people grow vegetables.",
+      "sentenceCompletion": "He grows potatoes and runner beans on his ___.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "uh",
+      "firstSyllable": "al"
+    },
+    "semantic": {
+      "category": "It is a place for growing food.",
+      "use": "You grow your own vegetables and fruit there.",
+      "action": "You dig, plant seeds, water and weed.",
+      "properties": "It is a tidy patch with rows of vegetables and canes.",
+      "location": "You find it on the edge of a town.",
+      "association": "It makes me think of digging and home-grown vegetables."
+    },
+    "phonological": {
+      "firstSound": "a",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "ago"
+    }
+  },
+  {
+    "id": "places-zoo",
+    "word": "zoo",
+    "group": "places",
+    "subgroup": "outdoor places",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-zoo.webp",
+    "imagePrompt": "A zoo enclosure with a giraffe standing near a fence",
+    "searchQuery": "zoo animals",
+    "cues": {
+      "definition": "A place where wild animals are kept for the public to see.",
+      "sentenceCompletion": "We saw lions and giraffes at the ___.",
+      "firstLetter": "z",
+      "firstSoundSpoken": "zzz"
+    },
+    "semantic": {
+      "category": "It is a visitor attraction.",
+      "use": "You go there to see wild animals you would not normally meet.",
+      "action": "You wander round the enclosures and watch the animals.",
+      "properties": "It has enclosures, cages and paths, with many different animals.",
+      "location": "You find it in or near a city.",
+      "association": "It makes me think of lions, monkeys and elephants."
+    },
+    "phonological": {
+      "firstSound": "z",
+      "lastSound": "oo",
+      "syllables": 1,
+      "rhyme": "blue",
+      "sameFirstSound": "zip"
+    }
+  },
+  {
+    "id": "places-fairground",
+    "word": "fairground",
+    "group": "places",
+    "subgroup": "outdoor places",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-fairground.webp",
+    "imagePrompt": "An empty fairground with a big wheel and colourful rides",
+    "searchQuery": "fairground rides",
+    "cues": {
+      "definition": "A field with rides, stalls and a big wheel.",
+      "sentenceCompletion": "We rode the waltzers at the ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "fair"
+    },
+    "semantic": {
+      "category": "It is a place of entertainment.",
+      "use": "You go there for thrills, games and sweet treats.",
+      "action": "You queue for rides, win prizes and eat candy floss.",
+      "properties": "It is bright and noisy, with flashing lights and a big wheel.",
+      "location": "It arrives in a field or park for a few days.",
+      "association": "It makes me think of candy floss and spinning rides."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "feather"
+    }
+  },
+  {
+    "id": "places-cottage",
+    "word": "cottage",
+    "group": "places",
+    "subgroup": "places to stay",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-cottage.webp",
+    "imagePrompt": "A thatched stone cottage with a flower garden",
+    "searchQuery": "thatched cottage",
+    "cues": {
+      "definition": "A small, cosy house in the countryside.",
+      "sentenceCompletion": "They rented a thatched ___ in the village.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cot"
+    },
+    "semantic": {
+      "category": "It is a small home.",
+      "use": "People live there, or rent it for a holiday.",
+      "action": "You relax by the fire in a quiet village.",
+      "properties": "It is small and old, with low ceilings and a thatched roof.",
+      "location": "You find it in the countryside.",
+      "association": "It makes me think of roses and rural holidays."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "j",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "cabbage"
+    }
+  },
+  {
+    "id": "places-bungalow",
+    "word": "bungalow",
+    "group": "places",
+    "subgroup": "places to stay",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-bungalow.webp",
+    "imagePrompt": "A single-storey bungalow with a neat front lawn",
+    "searchQuery": "bungalow",
+    "cues": {
+      "definition": "A house with all its rooms on one floor.",
+      "sentenceCompletion": "My nan lives in a ___ so she has no stairs.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bun"
+    },
+    "semantic": {
+      "category": "It is a type of house.",
+      "use": "It suits people who find stairs difficult.",
+      "action": "You live with everything on one level.",
+      "properties": "It is low and wide, with only a ground floor.",
+      "location": "You find it in suburbs and seaside towns.",
+      "association": "It makes me think of retirement and neat gardens."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "oh",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "ball"
+    }
+  },
+  {
+    "id": "places-hotel",
+    "word": "hotel",
+    "group": "places",
+    "subgroup": "places to stay",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-hotel.webp",
+    "imagePrompt": "A modern hotel building with a glass entrance and a flag",
+    "searchQuery": "hotel building",
+    "cues": {
+      "definition": "A building where travellers pay to sleep for a night or more.",
+      "sentenceCompletion": "We stayed at a ___ by the sea.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "ho"
+    },
+    "semantic": {
+      "category": "It is a place to stay.",
+      "use": "You stay there when you are away from home.",
+      "action": "You check in at reception and are given a key.",
+      "properties": "It is large, with lots of rooms, a lobby and a restaurant.",
+      "location": "You find it in towns, cities and holiday resorts.",
+      "association": "It makes me think of reception desks and breakfast buffets."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "bell",
+      "sameFirstSound": "horse"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "places-tent",
+    "word": "tent",
+    "group": "places",
+    "subgroup": "places to stay",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-tent.webp",
+    "imagePrompt": "A green camping tent pitched on grass",
+    "searchQuery": "camping tent",
+    "cues": {
+      "definition": "A portable shelter made of fabric and held up with poles.",
+      "sentenceCompletion": "On the camping holiday we slept in a ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is a temporary shelter.",
+      "use": "You sleep in it when you are outdoors on holiday.",
+      "action": "You put it up with poles and pegs and zip yourself in.",
+      "properties": "It is made of canvas or nylon, with a zip door and pegs.",
+      "location": "You find it in a field or at a festival.",
+      "association": "It makes me think of sleeping bags and rain on the roof."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "rent",
+      "sameFirstSound": "tiger"
+    }
+  },
+  {
+    "id": "places-mansion",
+    "word": "mansion",
+    "group": "places",
+    "subgroup": "places to stay",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "places-mansion.webp",
+    "imagePrompt": "A large stately mansion with a gravel drive and tall windows",
+    "searchQuery": "large mansion",
+    "cues": {
+      "definition": "A very large, grand house with many rooms.",
+      "sentenceCompletion": "The millionaire lived in a huge ___ with a long drive.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "man"
+    },
+    "semantic": {
+      "category": "It is a very large home.",
+      "use": "Wealthy families live in it.",
+      "action": "It has servants, huge rooms and large grounds.",
+      "properties": "It is big and grand, with tall windows and a sweeping drive.",
+      "location": "You find it in the countryside or an expensive area.",
+      "association": "It makes me think of wealth, butlers and ballrooms."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "melon"
+    }
+  },
+  {
+    "id": "places-block-of-flats",
+    "word": "block of flats",
+    "group": "places",
+    "subgroup": "places to stay",
+    "wordClass": "noun",
+    "letters": 12,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "places-block-of-flats.webp",
+    "imagePrompt": "A tall modern block of flats with balconies and many windows",
+    "searchQuery": "block of flats",
+    "cues": {
+      "definition": "A tall building divided into many separate homes, one above another.",
+      "sentenceCompletion": "She lives on the fifth floor in a ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "block"
+    },
+    "semantic": {
+      "category": "It is a building people live in.",
+      "use": "Many households live there, each with their own front door.",
+      "action": "You take the lift or stairs to reach your front door.",
+      "properties": "It is tall, with many windows and balconies.",
+      "location": "You find it in towns and cities.",
+      "association": "It makes me think of neighbours above and below."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "s",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "bed"
+    }
+  }
+]

@@ -1,0 +1,2003 @@
+[
+  {
+    "id": "clothing-shirt",
+    "word": "shirt",
+    "group": "clothing",
+    "subgroup": "tops",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-shirt.webp",
+    "imagePrompt": "A plain light blue cotton shirt with a collar, buttoned up, laid flat",
+    "searchQuery": "blue shirt",
+    "cues": {
+      "definition": "A top with a collar and buttons down the front.",
+      "sentenceCompletion": "He pressed his best ___ for the interview.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sh"
+    },
+    "semantic": {
+      "category": "It is a piece of clothing worn on the upper body.",
+      "use": "You wear it to cover your chest and arms.",
+      "action": "You button it up and tuck it in.",
+      "properties": "It has a collar, cuffs and buttons.",
+      "location": "You find it in a wardrobe or on a hanger.",
+      "association": "It makes me think of the office."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "hurt",
+      "sameFirstSound": "shell"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-jumper",
+    "word": "jumper",
+    "group": "clothing",
+    "subgroup": "tops",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-jumper.webp",
+    "imagePrompt": "A thick knitted wool jumper in plain grey, laid flat",
+    "searchQuery": "knitted jumper",
+    "cues": {
+      "definition": "A warm knitted top that you pull over your head.",
+      "sentenceCompletion": "On a cold day I put on a woolly ___.",
+      "firstLetter": "j",
+      "firstSoundSpoken": "juh",
+      "firstSyllable": "jum"
+    },
+    "semantic": {
+      "category": "It is a piece of clothing worn on the upper body.",
+      "use": "You wear it to keep warm.",
+      "action": "You pull it on over your head.",
+      "properties": "It is knitted, soft and thick.",
+      "location": "You find it in a drawer or wardrobe.",
+      "association": "It makes me think of winter evenings."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "bumper",
+      "sameFirstSound": "jelly"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-cardigan",
+    "word": "cardigan",
+    "group": "clothing",
+    "subgroup": "tops",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-cardigan.webp",
+    "imagePrompt": "A navy blue knitted cardigan with buttons down the front, laid flat",
+    "searchQuery": "cardigan",
+    "cues": {
+      "definition": "A knitted top that opens down the front and fastens with buttons.",
+      "sentenceCompletion": "She wore a blue ___ over her blouse.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "car"
+    },
+    "semantic": {
+      "category": "It is a piece of knitwear.",
+      "use": "You wear it to keep warm indoors.",
+      "action": "You slip your arms in and do up the buttons.",
+      "properties": "It is knitted and has buttons and sleeves.",
+      "location": "You find it in a wardrobe or over a chair.",
+      "association": "It makes me think of grandparents."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "n",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "carrot"
+    }
+  },
+  {
+    "id": "clothing-blouse",
+    "word": "blouse",
+    "group": "clothing",
+    "subgroup": "tops",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-blouse.webp",
+    "imagePrompt": "A white women's blouse with a soft collar, on a plain background",
+    "searchQuery": "white blouse",
+    "cues": {
+      "definition": "A light, smart top, usually worn by women.",
+      "sentenceCompletion": "She wore a silk ___ to the wedding.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a piece of clothing worn on the upper body.",
+      "use": "You wear it for work or a smart occasion.",
+      "action": "You put it on and button it up.",
+      "properties": "It is light, thin and often has a collar.",
+      "location": "You find it on a hanger in a wardrobe.",
+      "association": "It makes me think of the office."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "browse",
+      "sameFirstSound": "ball"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-waistcoat",
+    "word": "waistcoat",
+    "group": "clothing",
+    "subgroup": "tops",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-waistcoat.webp",
+    "imagePrompt": "A grey suit waistcoat with buttons, laid flat on a plain background",
+    "searchQuery": "waistcoat",
+    "cues": {
+      "definition": "A sleeveless buttoned top, often worn under a suit jacket.",
+      "sentenceCompletion": "The groom wore a grey ___ with his suit.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wayst",
+      "firstSyllable": "wais"
+    },
+    "semantic": {
+      "category": "It is a piece of formal clothing.",
+      "use": "You wear it as part of a smart suit.",
+      "action": "You button it up over your shirt.",
+      "properties": "It has no sleeves and a row of buttons.",
+      "location": "You find it in a wardrobe with suits.",
+      "association": "It makes me think of weddings."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "goat",
+      "sameFirstSound": "window"
+    }
+  },
+  {
+    "id": "clothing-hoodie",
+    "word": "hoodie",
+    "group": "clothing",
+    "subgroup": "tops",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-hoodie.webp",
+    "imagePrompt": "A plain grey hooded sweatshirt with a front pocket, laid flat",
+    "searchQuery": "grey hoodie",
+    "cues": {
+      "definition": "A casual top with a covering for your head and a front pocket.",
+      "sentenceCompletion": "He pulled up his ___ against the drizzle.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "h",
+      "firstSyllable": "hoo"
+    },
+    "semantic": {
+      "category": "It is a piece of casual clothing.",
+      "use": "You wear it to stay warm and relaxed.",
+      "action": "You pull it over your head and tie the strings.",
+      "properties": "It is soft and baggy, with a large pocket.",
+      "location": "You find it in a bedroom drawer.",
+      "association": "It makes me think of teenagers."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "foodie",
+      "sameFirstSound": "hammer"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-polo-shirt",
+    "word": "polo shirt",
+    "group": "clothing",
+    "subgroup": "tops",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "clothing-polo-shirt.webp",
+    "imagePrompt": "A navy polo shirt with a short collar and two buttons, laid flat",
+    "searchQuery": "polo shirt",
+    "cues": {
+      "definition": "A short-sleeved top with a small collar and a few buttons at the neck.",
+      "sentenceCompletion": "He wore a green ___ to play golf.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "p",
+      "firstSyllable": "po"
+    },
+    "semantic": {
+      "category": "It is a piece of casual clothing.",
+      "use": "You wear it for sport or relaxed work.",
+      "action": "You pull it on over your head.",
+      "properties": "It has short sleeves, a collar and two or three buttons.",
+      "location": "You find it in a drawer or at a golf club.",
+      "association": "It makes me think of golf."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": "hurt",
+      "sameFirstSound": "pencil"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-trousers",
+    "word": "trousers",
+    "group": "clothing",
+    "subgroup": "trousers and skirts",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-trousers.webp",
+    "imagePrompt": "A pair of plain dark grey trousers laid flat, front view",
+    "searchQuery": "grey trousers",
+    "cues": {
+      "definition": "Clothing for your legs, with two long legs and a waist.",
+      "sentenceCompletion": "He put on a clean pair of ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "t",
+      "firstSyllable": "trou"
+    },
+    "semantic": {
+      "category": "It is a piece of clothing worn on the lower body.",
+      "use": "You wear them to cover your legs.",
+      "action": "You step into them and pull them up.",
+      "properties": "They have two legs, pockets and a zip.",
+      "location": "You find them in a wardrobe.",
+      "association": "They make me think of a suit."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "table"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-jeans",
+    "word": "jeans",
+    "group": "clothing",
+    "subgroup": "trousers and skirts",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-jeans.webp",
+    "imagePrompt": "A pair of blue denim jeans laid flat, front view",
+    "searchQuery": "blue jeans",
+    "cues": {
+      "definition": "Blue denim trousers that are hard-wearing and casual.",
+      "sentenceCompletion": "On Saturdays I wear a top and ___.",
+      "firstLetter": "j",
+      "firstSoundSpoken": "j"
+    },
+    "semantic": {
+      "category": "It is a piece of casual clothing worn on the legs.",
+      "use": "You wear them for everyday comfort.",
+      "action": "You pull them on and fasten the zip.",
+      "properties": "They are blue, made of denim and have pockets.",
+      "location": "You find them in a wardrobe or a washing basket.",
+      "association": "They make me think of weekends."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "beans",
+      "sameFirstSound": "jelly"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-shorts",
+    "word": "shorts",
+    "group": "clothing",
+    "subgroup": "trousers and skirts",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-shorts.webp",
+    "imagePrompt": "A pair of beige cotton shorts laid flat, front view",
+    "searchQuery": "cotton shorts",
+    "cues": {
+      "definition": "Trousers that stop above the knee, worn in hot weather.",
+      "sentenceCompletion": "It was so hot that he put on his ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sh"
+    },
+    "semantic": {
+      "category": "It is a piece of clothing worn on the lower body.",
+      "use": "You wear them when it is hot.",
+      "action": "You step into them and pull them up.",
+      "properties": "They have two legs that end above the knee.",
+      "location": "You find them in a drawer in summer.",
+      "association": "They make me think of holidays."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "courts",
+      "sameFirstSound": "ship"
+    }
+  },
+  {
+    "id": "clothing-skirt",
+    "word": "skirt",
+    "group": "clothing",
+    "subgroup": "trousers and skirts",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-skirt.webp",
+    "imagePrompt": "A knee-length navy blue skirt on a plain background",
+    "searchQuery": "navy skirt",
+    "cues": {
+      "definition": "Clothing that hangs from the waist and has no separate legs.",
+      "sentenceCompletion": "She wore a pleated ___ and a white top.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "s"
+    },
+    "semantic": {
+      "category": "It is a piece of clothing worn on the lower body.",
+      "use": "You wear it around your waist instead of trousers.",
+      "action": "You step into it and zip it up.",
+      "properties": "It hangs from the waist and swishes when you walk.",
+      "location": "You find it in a wardrobe.",
+      "association": "It makes me think of school uniform."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "dirt",
+      "sameFirstSound": "sandwich"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-dress",
+    "word": "dress",
+    "group": "clothing",
+    "subgroup": "trousers and skirts",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-dress.webp",
+    "imagePrompt": "A simple plain red knee-length dress on a hanger",
+    "searchQuery": "red dress",
+    "cues": {
+      "definition": "One piece of clothing that covers your body from shoulders to knees.",
+      "sentenceCompletion": "She wore a long red ___ to the party.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "d"
+    },
+    "semantic": {
+      "category": "It is a piece of clothing worn by women.",
+      "use": "You wear it for a special occasion or every day.",
+      "action": "You slip it over your head and zip it up.",
+      "properties": "It is one piece, with a top and a skirt.",
+      "location": "You find it in a wardrobe.",
+      "association": "It makes me think of parties."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "mess",
+      "sameFirstSound": "dog"
+    }
+  },
+  {
+    "id": "clothing-kilt",
+    "word": "kilt",
+    "group": "clothing",
+    "subgroup": "trousers and skirts",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-kilt.webp",
+    "imagePrompt": "A tartan pleated kilt laid flat on a plain background",
+    "searchQuery": "tartan kilt",
+    "cues": {
+      "definition": "A pleated tartan skirt worn by men in Scotland.",
+      "sentenceCompletion": "At the Highland wedding, he wore a ___.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "k"
+    },
+    "semantic": {
+      "category": "It is a piece of traditional Scottish clothing.",
+      "use": "You wear it for formal or traditional occasions.",
+      "action": "You wrap it round your waist and fasten the straps.",
+      "properties": "It is pleated and made of tartan wool.",
+      "location": "You see it in Scotland, often at weddings.",
+      "association": "It makes me think of bagpipes."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "built",
+      "sameFirstSound": "kettle"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-coat",
+    "word": "coat",
+    "group": "clothing",
+    "subgroup": "outerwear",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-coat.webp",
+    "imagePrompt": "A long dark wool winter coat hanging on a plain background",
+    "searchQuery": "winter coat",
+    "cues": {
+      "definition": "A heavy outer garment you wear in cold or wet weather.",
+      "sentenceCompletion": "It was freezing, so I put on my ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "k"
+    },
+    "semantic": {
+      "category": "It is outdoor clothing.",
+      "use": "You wear it to keep warm outside.",
+      "action": "You put it on and do up the zip or buttons.",
+      "properties": "It is thick, long and has big pockets.",
+      "location": "You find it on a peg in the hallway.",
+      "association": "It makes me think of winter."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "boat",
+      "sameFirstSound": "cup"
+    }
+  },
+  {
+    "id": "clothing-jacket",
+    "word": "jacket",
+    "group": "clothing",
+    "subgroup": "outerwear",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-jacket.webp",
+    "imagePrompt": "A plain black zip-up jacket laid flat on a plain background",
+    "searchQuery": "black jacket",
+    "cues": {
+      "definition": "A short outer garment that you wear over your other clothes.",
+      "sentenceCompletion": "I took off my ___ and hung it on the chair.",
+      "firstLetter": "j",
+      "firstSoundSpoken": "j",
+      "firstSyllable": "jack"
+    },
+    "semantic": {
+      "category": "It is outdoor clothing.",
+      "use": "You wear it for warmth on a mild day.",
+      "action": "You put it on and zip it up.",
+      "properties": "It is short, with sleeves and pockets.",
+      "location": "You find it on a hook by the front door.",
+      "association": "It makes me think of autumn."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "packet",
+      "sameFirstSound": "jam"
+    }
+  },
+  {
+    "id": "clothing-anorak",
+    "word": "anorak",
+    "group": "clothing",
+    "subgroup": "outerwear",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-anorak.webp",
+    "imagePrompt": "A bright red hooded anorak with a zip, laid flat",
+    "searchQuery": "red anorak",
+    "cues": {
+      "definition": "A waterproof hooded coat that you pull on for wet weather.",
+      "sentenceCompletion": "He wore a bright red ___ to go hill walking.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "a",
+      "firstSyllable": "an"
+    },
+    "semantic": {
+      "category": "It is a type of waterproof outdoor clothing.",
+      "use": "You wear it to keep rain off.",
+      "action": "You pull it on and tighten the hood.",
+      "properties": "It is light, waterproof and has a hood.",
+      "location": "You find it in the hallway or in a rucksack.",
+      "association": "It makes me think of rainy walks."
+    },
+    "phonological": {
+      "firstSound": "a",
+      "lastSound": "k",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "apple"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-raincoat",
+    "word": "raincoat",
+    "group": "clothing",
+    "subgroup": "outerwear",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-raincoat.webp",
+    "imagePrompt": "A yellow waterproof raincoat with buttons, hanging on a plain background",
+    "searchQuery": "yellow raincoat",
+    "cues": {
+      "definition": "A waterproof outer garment that keeps you dry in a downpour.",
+      "sentenceCompletion": "The sky was grey, so I wore my ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "r",
+      "firstSyllable": "rain"
+    },
+    "semantic": {
+      "category": "It is a type of waterproof outdoor clothing.",
+      "use": "You wear it to stay dry in wet weather.",
+      "action": "You put it on and button it up.",
+      "properties": "It is shiny, waterproof and often yellow or green.",
+      "location": "You find it on a peg by the front door.",
+      "association": "It makes me think of puddles."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "goat",
+      "sameFirstSound": "road"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-blazer",
+    "word": "blazer",
+    "group": "clothing",
+    "subgroup": "outerwear",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-blazer.webp",
+    "imagePrompt": "A navy blue blazer with gold buttons, on a plain background",
+    "searchQuery": "navy blazer",
+    "cues": {
+      "definition": "A smart jacket, often worn with a tie at school or work.",
+      "sentenceCompletion": "He wore a navy ___ with gold buttons.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "b",
+      "firstSyllable": "bla"
+    },
+    "semantic": {
+      "category": "It is a type of smart jacket.",
+      "use": "You wear it for school, work or a smart occasion.",
+      "action": "You put it on over your shirt and button it up.",
+      "properties": "It is tailored and has lapels and pockets.",
+      "location": "You find it in a wardrobe.",
+      "association": "It makes me think of school uniform."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "laser",
+      "sameFirstSound": "bottle"
+    }
+  },
+  {
+    "id": "clothing-gilet",
+    "word": "gilet",
+    "group": "clothing",
+    "subgroup": "outerwear",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-gilet.webp",
+    "imagePrompt": "A padded quilted sleeveless gilet in dark green, laid flat",
+    "searchQuery": "padded gilet",
+    "cues": {
+      "definition": "A padded jacket with no sleeves that keeps your body warm.",
+      "sentenceCompletion": "On the walk I wore a padded ___.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "j",
+      "firstSyllable": "gi"
+    },
+    "semantic": {
+      "category": "It is a type of outdoor clothing.",
+      "use": "You wear it to keep your body warm and leave your arms free.",
+      "action": "You zip it up over a jumper or shirt.",
+      "properties": "It is padded and has no sleeves.",
+      "location": "You find it in a hallway or a wardrobe.",
+      "association": "It makes me think of walks in the countryside."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "ay",
+      "syllables": 2,
+      "rhyme": "day",
+      "sameFirstSound": "jam"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-boots",
+    "word": "boots",
+    "group": "clothing",
+    "subgroup": "footwear",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-boots.webp",
+    "imagePrompt": "A pair of brown leather walking boots with laces, side view",
+    "searchQuery": "brown leather boots",
+    "cues": {
+      "definition": "Strong footwear that covers your ankles.",
+      "sentenceCompletion": "I laced up my hiking ___ and set off.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "b"
+    },
+    "semantic": {
+      "category": "It is a type of footwear.",
+      "use": "You wear them for walking or work in rough weather.",
+      "action": "You pull them on and tie the laces.",
+      "properties": "They are sturdy and cover your ankles.",
+      "location": "You find them by the back door.",
+      "association": "They make me think of country walks."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "suits",
+      "sameFirstSound": "ball"
+    }
+  },
+  {
+    "id": "clothing-shoes",
+    "word": "shoes",
+    "group": "clothing",
+    "subgroup": "footwear",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-shoes.webp",
+    "imagePrompt": "A pair of polished black leather lace-up shoes, side view",
+    "searchQuery": "black leather shoes",
+    "cues": {
+      "definition": "Things you wear on your feet when you go out.",
+      "sentenceCompletion": "Before we left, I put on my ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sh"
+    },
+    "semantic": {
+      "category": "It is a type of footwear.",
+      "use": "You wear them to protect your feet.",
+      "action": "You slip them on and tie the laces.",
+      "properties": "They have a sole, a heel and laces.",
+      "location": "You find them by the front door or in a wardrobe.",
+      "association": "They make me think of going out."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "blues",
+      "sameFirstSound": "shop"
+    }
+  },
+  {
+    "id": "clothing-trainers",
+    "word": "trainers",
+    "group": "clothing",
+    "subgroup": "footwear",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-trainers.webp",
+    "imagePrompt": "A pair of white lace-up trainers with thick soles, side view",
+    "searchQuery": "white trainers",
+    "cues": {
+      "definition": "Comfortable shoes with thick soles, made for sport.",
+      "sentenceCompletion": "I changed into my ___ to go for a run.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "t",
+      "firstSyllable": "trai"
+    },
+    "semantic": {
+      "category": "It is a type of footwear.",
+      "use": "You wear them for sport or everyday comfort.",
+      "action": "You pull them on and tie the laces.",
+      "properties": "They are light, cushioned and have thick soles.",
+      "location": "You find them in the hall or at the gym.",
+      "association": "They make me think of running."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "tomato"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-sandals",
+    "word": "sandals",
+    "group": "clothing",
+    "subgroup": "footwear",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-sandals.webp",
+    "imagePrompt": "A pair of brown leather sandals with straps, top and side view",
+    "searchQuery": "leather sandals",
+    "cues": {
+      "definition": "Open footwear with straps, worn in warm weather.",
+      "sentenceCompletion": "On holiday I wore my leather ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "s",
+      "firstSyllable": "san"
+    },
+    "semantic": {
+      "category": "It is a type of footwear.",
+      "use": "You wear them in hot weather.",
+      "action": "You slip them on and fasten the straps.",
+      "properties": "They are open and have straps and a flat sole.",
+      "location": "You find them in a bag on holiday.",
+      "association": "They make me think of the beach."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": "candles",
+      "sameFirstSound": "soap"
+    }
+  },
+  {
+    "id": "clothing-slippers",
+    "word": "slippers",
+    "group": "clothing",
+    "subgroup": "footwear",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-slippers.webp",
+    "imagePrompt": "A pair of soft tartan slippers on a plain white background",
+    "searchQuery": "tartan slippers",
+    "cues": {
+      "definition": "Soft shoes that you wear around the house.",
+      "sentenceCompletion": "When I got home, I put on my warm ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "s",
+      "firstSyllable": "slip"
+    },
+    "semantic": {
+      "category": "It is a type of footwear.",
+      "use": "You wear them indoors to keep your feet warm.",
+      "action": "You step into them.",
+      "properties": "They are soft, warm and often fluffy.",
+      "location": "You find them by the bed.",
+      "association": "They make me think of a quiet night at home."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": "clippers",
+      "sameFirstSound": "salt"
+    }
+  },
+  {
+    "id": "clothing-wellies",
+    "word": "wellies",
+    "group": "clothing",
+    "subgroup": "footwear",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-wellies.webp",
+    "imagePrompt": "A pair of green rubber wellington boots standing upright",
+    "searchQuery": "green wellington boots",
+    "cues": {
+      "definition": "Tall rubber boots that keep your feet dry in mud and puddles.",
+      "sentenceCompletion": "It was muddy, so I put on my ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "w",
+      "firstSyllable": "wel"
+    },
+    "semantic": {
+      "category": "It is a type of waterproof footwear.",
+      "use": "You wear them in mud and puddles.",
+      "action": "You pull them on over your socks.",
+      "properties": "They are tall, rubber and waterproof.",
+      "location": "You find them by the back door.",
+      "association": "They make me think of muddy fields."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "bellies",
+      "sameFirstSound": "water"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-socks",
+    "word": "socks",
+    "group": "clothing",
+    "subgroup": "footwear",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-socks.webp",
+    "imagePrompt": "A pair of grey wool socks laid flat on a plain background",
+    "searchQuery": "grey socks",
+    "cues": {
+      "definition": "Soft coverings that you wear on your feet inside your shoes.",
+      "sentenceCompletion": "I have a hole in my left ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "s"
+    },
+    "semantic": {
+      "category": "It is a piece of clothing worn on the feet.",
+      "use": "You wear them to keep your feet warm and comfortable.",
+      "action": "You pull them on before your shoes.",
+      "properties": "They are soft and stretchy, and come in pairs.",
+      "location": "You find them in a drawer.",
+      "association": "They make me think of odd ones going missing in the wash."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "box",
+      "sameFirstSound": "sun"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-pyjamas",
+    "word": "pyjamas",
+    "group": "clothing",
+    "subgroup": "underwear and nightwear",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-pyjamas.webp",
+    "imagePrompt": "A pair of blue striped pyjamas, top and trousers laid flat",
+    "searchQuery": "striped pyjamas",
+    "cues": {
+      "definition": "A loose top and trousers that you wear in bed.",
+      "sentenceCompletion": "At bedtime, I change into my ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "p",
+      "firstSyllable": "py"
+    },
+    "semantic": {
+      "category": "It is a type of nightwear.",
+      "use": "You wear them to sleep in.",
+      "action": "You put them on at bedtime.",
+      "properties": "They are soft, loose and often striped.",
+      "location": "You find them under your pillow or in a drawer.",
+      "association": "They make me think of going to bed."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "z",
+      "syllables": 3,
+      "rhyme": "dramas",
+      "sameFirstSound": "pencil"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-dressing-gown",
+    "word": "dressing gown",
+    "group": "clothing",
+    "subgroup": "underwear and nightwear",
+    "wordClass": "noun",
+    "letters": 12,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "clothing-dressing-gown.webp",
+    "imagePrompt": "A thick fluffy white dressing gown with a tied belt, hanging on a hook",
+    "searchQuery": "dressing gown",
+    "cues": {
+      "definition": "A long, warm robe that you wear over your night clothes.",
+      "sentenceCompletion": "When I got up, I put on my ___.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "d",
+      "firstSyllable": "dres"
+    },
+    "semantic": {
+      "category": "It is a type of nightwear.",
+      "use": "You wear it to keep warm in the morning or evening.",
+      "action": "You put it on and tie the belt.",
+      "properties": "It is long, soft and has a belt and two pockets.",
+      "location": "You find it on the back of the bedroom door.",
+      "association": "It makes me think of lazy mornings."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "n",
+      "syllables": 3,
+      "rhyme": "brown",
+      "sameFirstSound": "door"
+    }
+  },
+  {
+    "id": "clothing-nightie",
+    "word": "nightie",
+    "group": "clothing",
+    "subgroup": "underwear and nightwear",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-nightie.webp",
+    "imagePrompt": "A pale pink cotton nightie laid flat on a plain background",
+    "searchQuery": "cotton nightie",
+    "cues": {
+      "definition": "A loose, light dress that women wear to sleep in.",
+      "sentenceCompletion": "At bedtime, she put on her cotton ___.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "n",
+      "firstSyllable": "night"
+    },
+    "semantic": {
+      "category": "It is a type of nightwear.",
+      "use": "You wear it to sleep in.",
+      "action": "You slip it over your head at bedtime.",
+      "properties": "It is loose, light and reaches your knees.",
+      "location": "You find it under the pillow or in a drawer.",
+      "association": "It makes me think of going to bed."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "mighty",
+      "sameFirstSound": "nose"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-knickers",
+    "word": "knickers",
+    "group": "clothing",
+    "subgroup": "underwear and nightwear",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-knickers.webp",
+    "imagePrompt": "A pair of plain white cotton knickers laid flat on a plain background",
+    "searchQuery": "cotton knickers",
+    "cues": {
+      "definition": "Underwear that women wear next to their skin.",
+      "sentenceCompletion": "She put a clean pair of ___ in the drawer.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "n",
+      "firstSyllable": "nick"
+    },
+    "semantic": {
+      "category": "It is a type of underwear.",
+      "use": "You wear them under your other clothes.",
+      "action": "You step into them and pull them up.",
+      "properties": "They are small, soft and stretchy.",
+      "location": "You find them in a drawer.",
+      "association": "They make me think of washing day."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "nail"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-vest",
+    "word": "vest",
+    "group": "clothing",
+    "subgroup": "underwear and nightwear",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-vest.webp",
+    "imagePrompt": "A plain white cotton vest laid flat on a plain background",
+    "searchQuery": "white cotton vest",
+    "cues": {
+      "definition": "A thin sleeveless top that you wear under your shirt.",
+      "sentenceCompletion": "Under his shirt he wore a cotton ___.",
+      "firstLetter": "v",
+      "firstSoundSpoken": "v"
+    },
+    "semantic": {
+      "category": "It is a type of underwear.",
+      "use": "You wear it under your clothes to keep warm.",
+      "action": "You pull it on over your head.",
+      "properties": "It is thin, sleeveless and made of cotton.",
+      "location": "You find it in a drawer.",
+      "association": "It makes me think of keeping warm in winter."
+    },
+    "phonological": {
+      "firstSound": "v",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "nest",
+      "sameFirstSound": "van"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-tights",
+    "word": "tights",
+    "group": "clothing",
+    "subgroup": "underwear and nightwear",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-tights.webp",
+    "imagePrompt": "A pair of sheer black tights laid flat on a plain background",
+    "searchQuery": "black tights",
+    "cues": {
+      "definition": "Thin, stretchy coverings for your feet and legs.",
+      "sentenceCompletion": "Under her skirt she wore black ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "t"
+    },
+    "semantic": {
+      "category": "It is a piece of clothing worn on the legs.",
+      "use": "You wear them under a skirt or dress.",
+      "action": "You pull them up from your toes to your waist.",
+      "properties": "They are thin, stretchy and sheer.",
+      "location": "You find them in a drawer.",
+      "association": "They make me think of ladders and snags."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "kites",
+      "sameFirstSound": "tiger"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-hat",
+    "word": "hat",
+    "group": "clothing",
+    "subgroup": "headwear and winter wear",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-hat.webp",
+    "imagePrompt": "A brown felt hat with a brim on a plain white background",
+    "searchQuery": "brown felt hat",
+    "cues": {
+      "definition": "Something you wear on your head to keep warm or shade your face.",
+      "sentenceCompletion": "It was sunny, so he wore a straw ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "h"
+    },
+    "semantic": {
+      "category": "It is something you wear on your head.",
+      "use": "You wear it to keep warm or out of the sun.",
+      "action": "You put it on and pull it down.",
+      "properties": "It has a crown and a brim.",
+      "location": "You find it on a peg or a shelf.",
+      "association": "It makes me think of weddings and the seaside."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "cat",
+      "sameFirstSound": "house"
+    }
+  },
+  {
+    "id": "clothing-cap",
+    "word": "cap",
+    "group": "clothing",
+    "subgroup": "headwear and winter wear",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-cap.webp",
+    "imagePrompt": "A plain navy baseball cap with a curved peak, side view",
+    "searchQuery": "baseball cap",
+    "cues": {
+      "definition": "A soft hat with a curved peak at the front.",
+      "sentenceCompletion": "He wore a baseball ___ to keep the sun out of his eyes.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "k"
+    },
+    "semantic": {
+      "category": "It is something you wear on your head.",
+      "use": "You wear it to shade your eyes.",
+      "action": "You put it on and pull the peak down.",
+      "properties": "It is soft and has a curved peak at the front.",
+      "location": "You find it on a hook in the hall.",
+      "association": "It makes me think of sport."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "map",
+      "sameFirstSound": "cat"
+    }
+  },
+  {
+    "id": "clothing-scarf",
+    "word": "scarf",
+    "group": "clothing",
+    "subgroup": "headwear and winter wear",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-scarf.webp",
+    "imagePrompt": "A long red and grey knitted scarf laid flat and slightly folded",
+    "searchQuery": "knitted scarf",
+    "cues": {
+      "definition": "A long strip of cloth that you wrap around your neck.",
+      "sentenceCompletion": "It was so cold that I wrapped a woolly ___ round my neck.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "s"
+    },
+    "semantic": {
+      "category": "It is a piece of winter clothing.",
+      "use": "You wear it to keep your neck warm.",
+      "action": "You wrap it round your neck.",
+      "properties": "It is long, soft and often woollen.",
+      "location": "You find it on a peg by the front door.",
+      "association": "It makes me think of winter."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "f",
+      "syllables": 1,
+      "rhyme": "laugh",
+      "sameFirstSound": "salad"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-gloves",
+    "word": "gloves",
+    "group": "clothing",
+    "subgroup": "headwear and winter wear",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-gloves.webp",
+    "imagePrompt": "A pair of black leather gloves laid flat on a plain background",
+    "searchQuery": "leather gloves",
+    "cues": {
+      "definition": "Coverings for your hands with a space for each finger.",
+      "sentenceCompletion": "My hands were cold, so I put on my ___.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "g"
+    },
+    "semantic": {
+      "category": "It is a piece of winter clothing.",
+      "use": "You wear them to keep your hands warm.",
+      "action": "You pull them on over your fingers.",
+      "properties": "They have a separate space for each finger.",
+      "location": "You find them in a coat pocket.",
+      "association": "They make me think of frosty mornings."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "doves",
+      "sameFirstSound": "garden"
+    }
+  },
+  {
+    "id": "clothing-mittens",
+    "word": "mittens",
+    "group": "clothing",
+    "subgroup": "headwear and winter wear",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-mittens.webp",
+    "imagePrompt": "A pair of red knitted mittens with a thumb, laid flat",
+    "searchQuery": "knitted mittens",
+    "cues": {
+      "definition": "Warm coverings for your hands, with one space for your thumb and one for your fingers.",
+      "sentenceCompletion": "In the snow she wore woolly ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "m",
+      "firstSyllable": "mit"
+    },
+    "semantic": {
+      "category": "It is a piece of winter clothing.",
+      "use": "You wear them to keep your hands warm.",
+      "action": "You slip them on over your hands.",
+      "properties": "They are woolly and have a separate thumb.",
+      "location": "You find them in a coat pocket or a drawer.",
+      "association": "They make me think of building a snowman."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": "kittens",
+      "sameFirstSound": "mug"
+    }
+  },
+  {
+    "id": "clothing-earmuffs",
+    "word": "earmuffs",
+    "group": "clothing",
+    "subgroup": "headwear and winter wear",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-earmuffs.webp",
+    "imagePrompt": "A pair of fluffy grey earmuffs with a band, on a plain background",
+    "searchQuery": "fluffy earmuffs",
+    "cues": {
+      "definition": "Soft pads joined by a band that you wear to keep your ears warm.",
+      "sentenceCompletion": "On the frozen pond, he wore fluffy ___.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "eer",
+      "firstSyllable": "ear"
+    },
+    "semantic": {
+      "category": "It is a piece of winter clothing.",
+      "use": "You wear them to keep your ears warm.",
+      "action": "You place them over your ears.",
+      "properties": "They are soft and round, joined by a band.",
+      "location": "You find them in a drawer in winter.",
+      "association": "They make me think of the coldest days."
+    },
+    "phonological": {
+      "firstSound": "ee",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "eagle"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-ring",
+    "word": "ring",
+    "group": "clothing",
+    "subgroup": "jewellery",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-ring.webp",
+    "imagePrompt": "A simple gold ring on a plain white background",
+    "searchQuery": "gold ring",
+    "cues": {
+      "definition": "A small circle of metal that you wear on your finger.",
+      "sentenceCompletion": "He put a gold wedding ___ on her finger.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "r"
+    },
+    "semantic": {
+      "category": "It is a piece of jewellery.",
+      "use": "You wear it as decoration or to show you are married.",
+      "action": "You slip it onto your finger.",
+      "properties": "It is a small, shiny circle, often gold or silver.",
+      "location": "You find it in a jewellery box.",
+      "association": "It makes me think of weddings."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "ng",
+      "syllables": 1,
+      "rhyme": "king",
+      "sameFirstSound": "road"
+    }
+  },
+  {
+    "id": "clothing-necklace",
+    "word": "necklace",
+    "group": "clothing",
+    "subgroup": "jewellery",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-necklace.webp",
+    "imagePrompt": "A silver chain necklace with a small pendant, laid in a curve",
+    "searchQuery": "silver necklace",
+    "cues": {
+      "definition": "A chain or string of beads that you wear around your neck.",
+      "sentenceCompletion": "She wore a pearl ___ to the dinner.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "n",
+      "firstSyllable": "neck"
+    },
+    "semantic": {
+      "category": "It is a piece of jewellery.",
+      "use": "You wear it as decoration.",
+      "action": "You fasten it round your neck.",
+      "properties": "It is a chain or a string of beads.",
+      "location": "You find it in a jewellery box.",
+      "association": "It makes me think of a special occasion."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "nose"
+    }
+  },
+  {
+    "id": "clothing-bracelet",
+    "word": "bracelet",
+    "group": "clothing",
+    "subgroup": "jewellery",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-bracelet.webp",
+    "imagePrompt": "A silver bracelet with small charms, on a plain background",
+    "searchQuery": "silver bracelet",
+    "cues": {
+      "definition": "A band or chain of metal that you wear around your wrist.",
+      "sentenceCompletion": "She wore a silver ___ on her left wrist.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "b",
+      "firstSyllable": "brace"
+    },
+    "semantic": {
+      "category": "It is a piece of jewellery.",
+      "use": "You wear it as decoration.",
+      "action": "You slip it over your hand and fasten it on your wrist.",
+      "properties": "It is a shiny chain or band.",
+      "location": "You find it in a jewellery box.",
+      "association": "It makes me think of birthday presents."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bottle"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-earrings",
+    "word": "earrings",
+    "group": "clothing",
+    "subgroup": "jewellery",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-earrings.webp",
+    "imagePrompt": "A pair of gold hoop earrings on a plain white background",
+    "searchQuery": "gold earrings",
+    "cues": {
+      "definition": "Small pieces of jewellery that you wear on your ears.",
+      "sentenceCompletion": "She put on a pair of silver ___.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "eer",
+      "firstSyllable": "ear"
+    },
+    "semantic": {
+      "category": "It is a piece of jewellery.",
+      "use": "You wear them as decoration.",
+      "action": "You fasten them to your ears.",
+      "properties": "They are small, shiny and come in pairs.",
+      "location": "You find them in a jewellery box.",
+      "association": "They make me think of getting ready for a night out."
+    },
+    "phonological": {
+      "firstSound": "ee",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "eagle"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-brooch",
+    "word": "brooch",
+    "group": "clothing",
+    "subgroup": "jewellery",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-brooch.webp",
+    "imagePrompt": "A silver flower-shaped brooch with a pin, on a plain background",
+    "searchQuery": "silver brooch",
+    "cues": {
+      "definition": "A decorative pin that you fasten to your coat or top.",
+      "sentenceCompletion": "She pinned a silver ___ to her coat.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "b"
+    },
+    "semantic": {
+      "category": "It is a piece of jewellery.",
+      "use": "You wear it as decoration.",
+      "action": "You pin it to your clothes.",
+      "properties": "It is small and shiny and has a pin at the back.",
+      "location": "You find it in a jewellery box.",
+      "association": "It makes me think of my grandmother."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ch",
+      "syllables": 1,
+      "rhyme": "coach",
+      "sameFirstSound": "bread"
+    }
+  },
+  {
+    "id": "clothing-cufflinks",
+    "word": "cufflinks",
+    "group": "clothing",
+    "subgroup": "jewellery",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-cufflinks.webp",
+    "imagePrompt": "A pair of silver square cufflinks on a plain white background",
+    "searchQuery": "silver cufflinks",
+    "cues": {
+      "definition": "Small decorations that fasten the ends of a smart shirt sleeve.",
+      "sentenceCompletion": "To go with his best shirt, he wore silver ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "k",
+      "firstSyllable": "cuff"
+    },
+    "semantic": {
+      "category": "It is a piece of jewellery for men.",
+      "use": "You wear them to fasten your shirt sleeves.",
+      "action": "You push them through the holes in the cuffs.",
+      "properties": "They are small, metal and come in pairs.",
+      "location": "You find them in a small box on a chest of drawers.",
+      "association": "They make me think of a smart suit."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "cup"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-watch",
+    "word": "watch",
+    "group": "clothing",
+    "subgroup": "jewellery",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-watch.webp",
+    "imagePrompt": "A silver wristwatch with a leather strap, on a plain background",
+    "searchQuery": "wristwatch",
+    "cues": {
+      "definition": "You wear it on your wrist to tell the time.",
+      "sentenceCompletion": "I looked at my ___ to see how late it was.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "w"
+    },
+    "semantic": {
+      "category": "It is something you wear on your wrist.",
+      "use": "You use it to tell the time.",
+      "action": "You strap it onto your wrist.",
+      "properties": "It has a round face, hands and a strap.",
+      "location": "You find it on your wrist or by the bed.",
+      "association": "It makes me think of being on time."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "ch",
+      "syllables": 1,
+      "rhyme": "notch",
+      "sameFirstSound": "window"
+    }
+  },
+  {
+    "id": "clothing-umbrella",
+    "word": "umbrella",
+    "group": "clothing",
+    "subgroup": "bags and accessories",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-umbrella.webp",
+    "imagePrompt": "A black open umbrella seen from the side, on a plain white background",
+    "searchQuery": "black umbrella",
+    "cues": {
+      "definition": "You hold it above you to stay dry in the rain.",
+      "sentenceCompletion": "I took my ___ because it looked like rain.",
+      "firstLetter": "u",
+      "firstSoundSpoken": "uh",
+      "firstSyllable": "um"
+    },
+    "semantic": {
+      "category": "It is something you carry in wet weather.",
+      "use": "You use it to keep the rain off.",
+      "action": "You open it and hold it over your head.",
+      "properties": "It has a handle, a frame and a waterproof cover.",
+      "location": "You find it in the hallway or in a stand by the door.",
+      "association": "It makes me think of a rainy day."
+    },
+    "phonological": {
+      "firstSound": "u",
+      "lastSound": "a",
+      "syllables": 3,
+      "rhyme": "fella",
+      "sameFirstSound": "uncle"
+    }
+  },
+  {
+    "id": "clothing-glasses",
+    "word": "glasses",
+    "group": "clothing",
+    "subgroup": "bags and accessories",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-glasses.webp",
+    "imagePrompt": "A pair of black-framed glasses on a plain white background",
+    "searchQuery": "eye glasses",
+    "cues": {
+      "definition": "Frames with lenses that you wear to help you see.",
+      "sentenceCompletion": "I cannot read the menu without my ___.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "g",
+      "firstSyllable": "gla"
+    },
+    "semantic": {
+      "category": "It is something you wear on your face.",
+      "use": "You use them to help you see clearly.",
+      "action": "You put them on your nose and push them up.",
+      "properties": "They have two lenses and two arms.",
+      "location": "You find them on your nose or beside a book.",
+      "association": "They make me think of reading."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": "classes",
+      "sameFirstSound": "garden"
+    }
+  },
+  {
+    "id": "clothing-sunglasses",
+    "word": "sunglasses",
+    "group": "clothing",
+    "subgroup": "bags and accessories",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-sunglasses.webp",
+    "imagePrompt": "A pair of black sunglasses with dark lenses on a plain white background",
+    "searchQuery": "sunglasses",
+    "cues": {
+      "definition": "Dark lenses in a frame that you wear when it is bright and sunny.",
+      "sentenceCompletion": "It was so bright that I put on my ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "s",
+      "firstSyllable": "sun"
+    },
+    "semantic": {
+      "category": "It is something you wear on your face.",
+      "use": "You use them to protect your eyes from bright light.",
+      "action": "You put them on your nose.",
+      "properties": "They have dark lenses and two arms.",
+      "location": "You find them in a bag or on a beach.",
+      "association": "They make me think of holidays."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "z",
+      "syllables": 3,
+      "rhyme": "classes",
+      "sameFirstSound": "sofa"
+    }
+  },
+  {
+    "id": "clothing-handbag",
+    "word": "handbag",
+    "group": "clothing",
+    "subgroup": "bags and accessories",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-handbag.webp",
+    "imagePrompt": "A brown leather handbag with two handles and a clasp, on a plain background",
+    "searchQuery": "leather handbag",
+    "cues": {
+      "definition": "A small bag with handles that you carry your things in.",
+      "sentenceCompletion": "She took her keys out of her ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "h",
+      "firstSyllable": "hand"
+    },
+    "semantic": {
+      "category": "It is something you carry.",
+      "use": "You use it to carry your things.",
+      "action": "You hold it by the handles or hang it from your shoulder.",
+      "properties": "It has handles, a clasp and several pockets.",
+      "location": "You find it on a chair or over a shoulder.",
+      "association": "It makes me think of going shopping."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "g",
+      "syllables": 2,
+      "rhyme": "flag",
+      "sameFirstSound": "house"
+    }
+  },
+  {
+    "id": "clothing-purse",
+    "word": "purse",
+    "group": "clothing",
+    "subgroup": "bags and accessories",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-purse.webp",
+    "imagePrompt": "A small red leather purse with a zip, on a plain background",
+    "searchQuery": "leather purse",
+    "cues": {
+      "definition": "A small case for coins and cards.",
+      "sentenceCompletion": "She counted the coins in her ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "p"
+    },
+    "semantic": {
+      "category": "It is something you carry.",
+      "use": "You use it to keep your money in.",
+      "action": "You open it and take out coins and cards.",
+      "properties": "It is small, flat and often has a zip.",
+      "location": "You find it in a handbag.",
+      "association": "It makes me think of paying in a shop."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "nurse",
+      "sameFirstSound": "pen"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "clothing-wallet",
+    "word": "wallet",
+    "group": "clothing",
+    "subgroup": "bags and accessories",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-wallet.webp",
+    "imagePrompt": "A brown leather wallet, open to show card slots, on a plain background",
+    "searchQuery": "leather wallet",
+    "cues": {
+      "definition": "A flat folding case for notes and cards.",
+      "sentenceCompletion": "He took a banknote out of his ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "w",
+      "firstSyllable": "wol"
+    },
+    "semantic": {
+      "category": "It is something you carry.",
+      "use": "You use it to keep your notes and cards.",
+      "action": "You take it out of your pocket and open it.",
+      "properties": "It is flat, folds in half and has card slots.",
+      "location": "You find it in a pocket.",
+      "association": "It makes me think of paying for something."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "water"
+    }
+  },
+  {
+    "id": "clothing-rucksack",
+    "word": "rucksack",
+    "group": "clothing",
+    "subgroup": "bags and accessories",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-rucksack.webp",
+    "imagePrompt": "A green canvas rucksack with two shoulder straps, on a plain background",
+    "searchQuery": "canvas rucksack",
+    "cues": {
+      "definition": "A large bag that you carry on your back with two straps.",
+      "sentenceCompletion": "For the hike, he packed a lunch in his ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "r",
+      "firstSyllable": "ruck"
+    },
+    "semantic": {
+      "category": "It is something you carry.",
+      "use": "You use it to carry things on a long walk.",
+      "action": "You put it on your back and tighten the straps.",
+      "properties": "It is large, with two straps and several pockets.",
+      "location": "You find it in a hallway or on a hill.",
+      "association": "It makes me think of hiking."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "k",
+      "syllables": 2,
+      "rhyme": "snack",
+      "sameFirstSound": "rabbit"
+    }
+  },
+  {
+    "id": "clothing-tie",
+    "word": "tie",
+    "group": "clothing",
+    "subgroup": "bags and accessories",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-tie.webp",
+    "imagePrompt": "A navy blue striped silk tie laid flat on a plain background",
+    "searchQuery": "silk tie",
+    "cues": {
+      "definition": "A narrow strip of cloth that goes under your shirt collar.",
+      "sentenceCompletion": "For the interview, he wore a shirt and a ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "t"
+    },
+    "semantic": {
+      "category": "It is something you wear with a smart shirt.",
+      "use": "You wear it to look smart.",
+      "action": "You knot it under your collar.",
+      "properties": "It is long, narrow and often striped.",
+      "location": "You find it hanging in a wardrobe.",
+      "association": "It makes me think of a job interview."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "ie",
+      "syllables": 1,
+      "rhyme": "pie",
+      "sameFirstSound": "table"
+    }
+  },
+  {
+    "id": "clothing-belt",
+    "word": "belt",
+    "group": "clothing",
+    "subgroup": "bags and accessories",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "clothing-belt.webp",
+    "imagePrompt": "A brown leather belt with a silver buckle, coiled on a plain background",
+    "searchQuery": "leather belt",
+    "cues": {
+      "definition": "A strap that goes round your waist to hold up your trousers.",
+      "sentenceCompletion": "His trousers were loose, so he tightened his ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "b"
+    },
+    "semantic": {
+      "category": "It is something you wear around your waist.",
+      "use": "You use it to hold up your trousers.",
+      "action": "You thread it through the loops and fasten the buckle.",
+      "properties": "It is long and narrow, with a buckle.",
+      "location": "You find it in a wardrobe or on a hook.",
+      "association": "It makes me think of trousers."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "melt",
+      "sameFirstSound": "bus"
+    }
+  }
+]

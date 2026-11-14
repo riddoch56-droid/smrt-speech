@@ -1,0 +1,1999 @@
+[
+  {
+    "id": "furniture-table",
+    "word": "table",
+    "group": "furniture",
+    "subgroup": "seating and tables",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-table.webp",
+    "imagePrompt": "A plain wooden dining table with four legs, seen from a slight angle on a plain white background",
+    "searchQuery": "wooden dining table",
+    "cues": {
+      "definition": "A flat-topped piece of furniture with legs that you eat meals at.",
+      "sentenceCompletion": "We all sat down to dinner at the ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "ta"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to eat meals or put things on.",
+      "action": "You sit round it and put plates on it.",
+      "properties": "It has a flat top and four legs.",
+      "location": "You find it in a dining room or kitchen.",
+      "association": "It makes me think of family meals."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "cable",
+      "sameFirstSound": "tiger"
+    }
+  },
+  {
+    "id": "furniture-chair",
+    "word": "chair",
+    "group": "furniture",
+    "subgroup": "seating and tables",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-chair.webp",
+    "imagePrompt": "A simple wooden chair with a back and four legs on a plain white background",
+    "searchQuery": "wooden chair",
+    "cues": {
+      "definition": "A piece of furniture with a back and four legs for one person to sit on.",
+      "sentenceCompletion": "She pulled up a ___ and sat down.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to sit down.",
+      "action": "You sit on it and lean back.",
+      "properties": "It has a seat, a back and four legs.",
+      "location": "You find it at a dining table or desk.",
+      "association": "It makes me think of sitting down for a rest."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "air",
+      "syllables": 1,
+      "rhyme": "bear",
+      "sameFirstSound": "cheese"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-sofa",
+    "word": "sofa",
+    "group": "furniture",
+    "subgroup": "seating and tables",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-sofa.webp",
+    "imagePrompt": "A grey three-seater sofa with cushions, front view on a plain white background",
+    "searchQuery": "sofa living room",
+    "cues": {
+      "definition": "A long, soft seat with arms and a back, big enough for two or three people.",
+      "sentenceCompletion": "After dinner we relaxed on the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "so"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to sit or lie down and relax.",
+      "action": "You sink into it to watch television.",
+      "properties": "It is long, soft and padded, with arms.",
+      "location": "You find it in a living room.",
+      "association": "It makes me think of a cosy evening in."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "a",
+      "syllables": 2,
+      "rhyme": "loafer",
+      "sameFirstSound": "sandwich"
+    }
+  },
+  {
+    "id": "furniture-stool",
+    "word": "stool",
+    "group": "furniture",
+    "subgroup": "seating and tables",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-stool.webp",
+    "imagePrompt": "A round wooden stool with three legs on a plain white background",
+    "searchQuery": "wooden stool",
+    "cues": {
+      "definition": "A small seat with legs but no back and no arms.",
+      "sentenceCompletion": "He sat on a high ___ at the bar.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to sit on or to reach something high.",
+      "action": "You perch on it.",
+      "properties": "It has a small round seat and no back.",
+      "location": "You find it at a bar or kitchen counter.",
+      "association": "It makes me think of sitting at a counter."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "cool",
+      "sameFirstSound": "star"
+    }
+  },
+  {
+    "id": "furniture-bench",
+    "word": "bench",
+    "group": "furniture",
+    "subgroup": "seating and tables",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-bench.webp",
+    "imagePrompt": "A wooden park bench with slatted seat and back on a plain white background",
+    "searchQuery": "park bench",
+    "cues": {
+      "definition": "A long wooden seat for several people, often found outdoors.",
+      "sentenceCompletion": "We sat on the park ___ and ate our sandwiches.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to sit down, especially outdoors.",
+      "action": "You sit on it and watch the world go by.",
+      "properties": "It is long, hard and made of wooden slats.",
+      "location": "You find it in a park or a garden.",
+      "association": "It makes me think of feeding the ducks."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ch",
+      "syllables": 1,
+      "rhyme": "wrench",
+      "sameFirstSound": "banana"
+    }
+  },
+  {
+    "id": "furniture-armchair",
+    "word": "armchair",
+    "group": "furniture",
+    "subgroup": "seating and tables",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-armchair.webp",
+    "imagePrompt": "A single padded armchair in plain fabric on a plain white background",
+    "searchQuery": "armchair",
+    "cues": {
+      "definition": "A comfy, padded seat for one person, with a back and sides to rest your arms on.",
+      "sentenceCompletion": "Grandad fell asleep in his favourite ___.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "ar",
+      "firstSyllable": "arm"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to sit and relax in comfort.",
+      "action": "You settle back into it with a book.",
+      "properties": "It is soft and padded, with a high back and wide sides.",
+      "location": "You find it in a living room.",
+      "association": "It makes me think of a quiet afternoon with a newspaper."
+    },
+    "phonological": {
+      "firstSound": "ar",
+      "lastSound": "air",
+      "syllables": 2,
+      "rhyme": "pair",
+      "sameFirstSound": "art"
+    }
+  },
+  {
+    "id": "furniture-desk",
+    "word": "desk",
+    "group": "furniture",
+    "subgroup": "seating and tables",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-desk.webp",
+    "imagePrompt": "A plain wooden office desk with drawers on one side on a plain white background",
+    "searchQuery": "office desk",
+    "cues": {
+      "definition": "A table with drawers where you sit to write or work.",
+      "sentenceCompletion": "She sat at her ___ and answered emails.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to write, read or work on a computer.",
+      "action": "You sit at it and work.",
+      "properties": "It has a flat top and drawers underneath.",
+      "location": "You find it in an office or a study.",
+      "association": "It makes me think of paperwork."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "grotesque",
+      "sameFirstSound": "dog"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-wardrobe",
+    "word": "wardrobe",
+    "group": "furniture",
+    "subgroup": "storage furniture",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-wardrobe.webp",
+    "imagePrompt": "A tall wooden wardrobe with two closed doors on a plain white background",
+    "searchQuery": "wooden wardrobe",
+    "cues": {
+      "definition": "A tall cupboard where you hang up your clothes.",
+      "sentenceCompletion": "I hung my coat up in the ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "ward"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to hang up and store clothes.",
+      "action": "You open its doors and hang things on a rail.",
+      "properties": "It is tall with doors and a rail inside.",
+      "location": "You find it in a bedroom.",
+      "association": "It makes me think of choosing what to wear."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "b",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "water"
+    }
+  },
+  {
+    "id": "furniture-shelf",
+    "word": "shelf",
+    "group": "furniture",
+    "subgroup": "storage furniture",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-shelf.webp",
+    "imagePrompt": "A simple wooden wall shelf fixed to a white wall with a few books on a plain white background",
+    "searchQuery": "wall shelf",
+    "cues": {
+      "definition": "A flat board fixed to a wall for holding things.",
+      "sentenceCompletion": "She put the books back on the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to store or display things.",
+      "action": "You put things on it, up off the floor.",
+      "properties": "It is a long flat board, fixed to a wall.",
+      "location": "You find it on a wall or in a cupboard.",
+      "association": "It makes me think of tidying up books and ornaments."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "f",
+      "syllables": 1,
+      "rhyme": "elf",
+      "sameFirstSound": "shark"
+    }
+  },
+  {
+    "id": "furniture-bookcase",
+    "word": "bookcase",
+    "group": "furniture",
+    "subgroup": "storage furniture",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-bookcase.webp",
+    "imagePrompt": "A tall wooden bookcase full of books on a plain white background",
+    "searchQuery": "bookcase",
+    "cues": {
+      "definition": "A tall piece of furniture with shelves that holds many books.",
+      "sentenceCompletion": "Every novel I own is in the ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "book"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to store lots of books.",
+      "action": "You line up your books on its shelves.",
+      "properties": "It is tall, with several shelves one above the other.",
+      "location": "You find it in a living room or study.",
+      "association": "It makes me think of a library."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": "suitcase",
+      "sameFirstSound": "butter"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-cupboard",
+    "word": "cupboard",
+    "group": "furniture",
+    "subgroup": "storage furniture",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-cupboard.webp",
+    "imagePrompt": "A white kitchen cupboard with its doors open and plates inside on a plain white background",
+    "searchQuery": "kitchen cupboard",
+    "cues": {
+      "definition": "A piece of furniture with doors where you keep plates, food and other things.",
+      "sentenceCompletion": "I put the plates away in the kitchen ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cup"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to keep things tidy and out of sight.",
+      "action": "You open its doors and put things inside.",
+      "properties": "It has doors and shelves inside.",
+      "location": "You find it in a kitchen.",
+      "association": "It makes me think of tins, plates and packets."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "carrot"
+    }
+  },
+  {
+    "id": "furniture-sideboard",
+    "word": "sideboard",
+    "group": "furniture",
+    "subgroup": "storage furniture",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-sideboard.webp",
+    "imagePrompt": "A long low wooden sideboard with doors and drawers on a plain white background",
+    "searchQuery": "wooden sideboard",
+    "cues": {
+      "definition": "A long, low piece of furniture with doors and drawers, often in a dining room.",
+      "sentenceCompletion": "The best plates are kept in the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "side"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to store crockery, linen and ornaments.",
+      "action": "You open its doors to get out the best tableware.",
+      "properties": "It is long and low, with doors and drawers.",
+      "location": "You find it in a dining room.",
+      "association": "It makes me think of Sunday lunch with the good plates."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": "cardboard",
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "furniture-chest-of-drawers",
+    "word": "chest of drawers",
+    "group": "furniture",
+    "subgroup": "storage furniture",
+    "wordClass": "noun",
+    "letters": 14,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "furniture-chest-of-drawers.webp",
+    "imagePrompt": "A wooden chest of drawers with four drawers, front view on a plain white background",
+    "searchQuery": "chest of drawers",
+    "cues": {
+      "definition": "A piece of furniture with several sliding boxes stacked one above the other.",
+      "sentenceCompletion": "I keep my socks and jumpers in the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch",
+      "firstSyllable": "chest"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to keep clothes folded and tidy.",
+      "action": "You pull out the slides and put clothes in.",
+      "properties": "It is a stack of sliding boxes with handles.",
+      "location": "You find it in a bedroom.",
+      "association": "It makes me think of folded jumpers and socks."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "z",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "cheese"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-bed",
+    "word": "bed",
+    "group": "furniture",
+    "subgroup": "bedroom furniture and bedding",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-bed.webp",
+    "imagePrompt": "A neatly made double bed with white sheets and pillows on a plain white background",
+    "searchQuery": "double bed",
+    "cues": {
+      "definition": "A piece of furniture with a soft base that you sleep on at night.",
+      "sentenceCompletion": "I was so tired that I went straight to ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to sleep and rest.",
+      "action": "You lie down in it at night.",
+      "properties": "It is large, flat and soft.",
+      "location": "You find it in a place where you sleep at night.",
+      "association": "It makes me think of a good night of sleep."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "red",
+      "sameFirstSound": "ball"
+    }
+  },
+  {
+    "id": "furniture-pillow",
+    "word": "pillow",
+    "group": "furniture",
+    "subgroup": "bedroom furniture and bedding",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-pillow.webp",
+    "imagePrompt": "A single white pillow, plump and square on a plain white background",
+    "searchQuery": "white pillow",
+    "cues": {
+      "definition": "A soft, rectangular cushion that you rest your head on in bed.",
+      "sentenceCompletion": "I rested my head on the soft ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pil"
+    },
+    "semantic": {
+      "category": "It is part of your bedding.",
+      "use": "You use it to support your head when you sleep.",
+      "action": "You rest your head on it and plump it up.",
+      "properties": "It is soft, squashy and filled with feathers or foam.",
+      "location": "You find it at the top of a bed.",
+      "association": "It makes me think of falling asleep."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "oh",
+      "syllables": 2,
+      "rhyme": "willow",
+      "sameFirstSound": "pencil"
+    }
+  },
+  {
+    "id": "furniture-duvet",
+    "word": "duvet",
+    "group": "furniture",
+    "subgroup": "bedroom furniture and bedding",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-duvet.webp",
+    "imagePrompt": "A white duvet with a plain cover, folded on a plain white background",
+    "searchQuery": "duvet",
+    "cues": {
+      "definition": "A thick, soft cover filled with feathers or fibres that keeps you warm in bed.",
+      "sentenceCompletion": "It was a cold night, so I snuggled under the ___.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "du"
+    },
+    "semantic": {
+      "category": "It is part of your bedding.",
+      "use": "You use it to keep warm while you sleep.",
+      "action": "You pull it up over you at night.",
+      "properties": "It is thick, light and puffy.",
+      "location": "You find it on top of a bed.",
+      "association": "It makes me think of a cosy winter night."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "ay",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "dolphin"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-blanket",
+    "word": "blanket",
+    "group": "furniture",
+    "subgroup": "bedroom furniture and bedding",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-blanket.webp",
+    "imagePrompt": "A folded tartan wool blanket on a plain white background",
+    "searchQuery": "wool blanket",
+    "cues": {
+      "definition": "A large, warm piece of woven cloth that you wrap around yourself to keep warm.",
+      "sentenceCompletion": "It was chilly, so she wrapped a ___ around her legs.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "blan"
+    },
+    "semantic": {
+      "category": "It is part of your bedding.",
+      "use": "You use it to keep warm.",
+      "action": "You wrap it round you or spread it on top.",
+      "properties": "It is large, soft and woven from wool.",
+      "location": "You find it on a sofa or a bed.",
+      "association": "It makes me think of picnics and cold evenings."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bus"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-mattress",
+    "word": "mattress",
+    "group": "furniture",
+    "subgroup": "bedroom furniture and bedding",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-mattress.webp",
+    "imagePrompt": "A bare white mattress standing upright on a plain white background",
+    "searchQuery": "mattress",
+    "cues": {
+      "definition": "A thick, soft, padded base that you lie on to sleep.",
+      "sentenceCompletion": "The old ___ was lumpy, so we bought a new one.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mat"
+    },
+    "semantic": {
+      "category": "It is part of a sleeping set-up.",
+      "use": "You use it to make sleeping comfortable.",
+      "action": "You lie on it and sleep.",
+      "properties": "It is thick, firm, rectangular and padded.",
+      "location": "You find it on a frame, under the sheets.",
+      "association": "It makes me think of a good back and a good night."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": "actress",
+      "sameFirstSound": "monkey"
+    }
+  },
+  {
+    "id": "furniture-headboard",
+    "word": "headboard",
+    "group": "furniture",
+    "subgroup": "bedroom furniture and bedding",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-headboard.webp",
+    "imagePrompt": "A padded fabric headboard against a white wall on a plain white background",
+    "searchQuery": "bed headboard",
+    "cues": {
+      "definition": "An upright panel at the top end of a sleeping place that you lean against.",
+      "sentenceCompletion": "He leaned back against the ___ and read.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "head"
+    },
+    "semantic": {
+      "category": "It is a piece of furniture.",
+      "use": "You use it to lean against and to keep pillows from slipping.",
+      "action": "You sit up and lean back against it.",
+      "properties": "It is a tall panel, sometimes padded or wooden.",
+      "location": "You find it at the top end of the place you sleep.",
+      "association": "It makes me think of reading before sleep."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": "cardboard",
+      "sameFirstSound": "horse"
+    }
+  },
+  {
+    "id": "furniture-kitchen",
+    "word": "kitchen",
+    "group": "furniture",
+    "subgroup": "rooms",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-kitchen.webp",
+    "imagePrompt": "A bright modern kitchen with cupboards, a worktop and a hob on a plain white background",
+    "searchQuery": "modern kitchen interior",
+    "cues": {
+      "definition": "The room in a house where you prepare and cook food.",
+      "sentenceCompletion": "I was cooking dinner in the ___.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "kit"
+    },
+    "semantic": {
+      "category": "It is a room in a house.",
+      "use": "You use it to prepare and cook meals.",
+      "action": "You cook, wash up and make tea in it.",
+      "properties": "It has a cooker, a sink and worktops.",
+      "location": "You find it in a house, often near the dining room.",
+      "association": "It makes me think of cooking and the smell of toast."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "stitching",
+      "sameFirstSound": "key"
+    }
+  },
+  {
+    "id": "furniture-bedroom",
+    "word": "bedroom",
+    "group": "furniture",
+    "subgroup": "rooms",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-bedroom.webp",
+    "imagePrompt": "A tidy bedroom interior with a double bed and a wardrobe on a plain white background",
+    "searchQuery": "bedroom interior",
+    "cues": {
+      "definition": "The room in a house where you sleep.",
+      "sentenceCompletion": "I went upstairs to my ___ to get changed.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bed"
+    },
+    "semantic": {
+      "category": "It is a room in a house.",
+      "use": "You use it to sleep and get dressed.",
+      "action": "You sleep and rest in it.",
+      "properties": "It is quiet, with a large soft sleeping place.",
+      "location": "You find it upstairs in most houses.",
+      "association": "It makes me think of waking up in the morning."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "m",
+      "syllables": 2,
+      "rhyme": "heirloom",
+      "sameFirstSound": "boat"
+    }
+  },
+  {
+    "id": "furniture-bathroom",
+    "word": "bathroom",
+    "group": "furniture",
+    "subgroup": "rooms",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-bathroom.webp",
+    "imagePrompt": "A clean white family bathroom with a basin and toilet, seen from the doorway on a plain white background",
+    "searchQuery": "bathroom interior",
+    "cues": {
+      "definition": "The room in a house where you wash.",
+      "sentenceCompletion": "I brushed my teeth in the ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bath"
+    },
+    "semantic": {
+      "category": "It is a room in a house.",
+      "use": "You use it to wash and get ready.",
+      "action": "You wash, brush your teeth and shave in it.",
+      "properties": "It is small, tiled and often steamy.",
+      "location": "You find it upstairs near the bedrooms.",
+      "association": "It makes me think of getting clean."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "m",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bus"
+    }
+  },
+  {
+    "id": "furniture-hallway",
+    "word": "hallway",
+    "group": "furniture",
+    "subgroup": "rooms",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-hallway.webp",
+    "imagePrompt": "A bright hallway in a house with a narrow table and coat hooks on a plain white background",
+    "searchQuery": "house hallway",
+    "cues": {
+      "definition": "The narrow space just inside the front entrance of a house.",
+      "sentenceCompletion": "I hung my coat up in the ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hall"
+    },
+    "semantic": {
+      "category": "It is a room or space in a house.",
+      "use": "You use it to get from the front entrance to other rooms.",
+      "action": "You walk along it and take off your coat.",
+      "properties": "It is long, narrow and usually has coat hooks.",
+      "location": "You find it just inside the front entrance.",
+      "association": "It makes me think of shoes and coats."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "ay",
+      "syllables": 2,
+      "rhyme": "doorway",
+      "sameFirstSound": "hammer"
+    }
+  },
+  {
+    "id": "furniture-attic",
+    "word": "attic",
+    "group": "furniture",
+    "subgroup": "rooms",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-attic.webp",
+    "imagePrompt": "The inside of a loft attic with sloping wooden beams and a few boxes on a plain white background",
+    "searchQuery": "house attic",
+    "cues": {
+      "definition": "The room at the very top of a house, right under the roof.",
+      "sentenceCompletion": "The old suitcases are stored up in the ___.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "ah",
+      "firstSyllable": "at"
+    },
+    "semantic": {
+      "category": "It is a space in a house.",
+      "use": "You use it to store things you do not need often.",
+      "action": "You climb up and put boxes away.",
+      "properties": "It is dusty, with a sloping ceiling.",
+      "location": "You find it at the very top of a house.",
+      "association": "It makes me think of old boxes and cobwebs."
+    },
+    "phonological": {
+      "firstSound": "a",
+      "lastSound": "k",
+      "syllables": 2,
+      "rhyme": "static",
+      "sameFirstSound": "apple"
+    }
+  },
+  {
+    "id": "furniture-conservatory",
+    "word": "conservatory",
+    "group": "furniture",
+    "subgroup": "rooms",
+    "wordClass": "noun",
+    "letters": 12,
+    "syllables": 4,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-conservatory.webp",
+    "imagePrompt": "A glass conservatory with wicker chairs, attached to a brick house on a plain white background",
+    "searchQuery": "conservatory",
+    "cues": {
+      "definition": "A room made mostly of glass, attached to the back of a house.",
+      "sentenceCompletion": "We have our morning tea in the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "con"
+    },
+    "semantic": {
+      "category": "It is a room in a house.",
+      "use": "You use it to sit in the sunshine, even on a cool day.",
+      "action": "You sit in it and look out at the garden.",
+      "properties": "It has glass walls and a glass ceiling.",
+      "location": "You find it at the back of a house.",
+      "association": "It makes me think of sunny afternoons and pot plants."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "ee",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "candle"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-sink",
+    "word": "sink",
+    "group": "furniture",
+    "subgroup": "bathroom fixtures",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-sink.webp",
+    "imagePrompt": "A white ceramic bathroom sink with a chrome tap on a plain white background",
+    "searchQuery": "bathroom sink",
+    "cues": {
+      "definition": "A bowl fixed to a wall or worktop where you wash your hands or dishes.",
+      "sentenceCompletion": "She rinsed the plates in the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a fixture in a bathroom or kitchen.",
+      "use": "You use it to wash your hands and dishes.",
+      "action": "You fill it with water and wash things in it.",
+      "properties": "It is a bowl with a plughole.",
+      "location": "You find it in a kitchen or washroom.",
+      "association": "It makes me think of washing up."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "drink",
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "furniture-tap",
+    "word": "tap",
+    "group": "furniture",
+    "subgroup": "bathroom fixtures",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-tap.webp",
+    "imagePrompt": "A single chrome kitchen tap over a sink on a plain white background",
+    "searchQuery": "chrome tap",
+    "cues": {
+      "definition": "A fitting you turn or lift to make water flow out.",
+      "sentenceCompletion": "I turned the ___ on to fill the kettle.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is a fixture in a bathroom or kitchen.",
+      "use": "You use it to get water.",
+      "action": "You turn it and water pours out.",
+      "properties": "It is metal, shiny and has a spout.",
+      "location": "You find it above a basin or in the kitchen.",
+      "association": "It makes me think of running water."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "map",
+      "sameFirstSound": "tiger"
+    }
+  },
+  {
+    "id": "furniture-bath",
+    "word": "bath",
+    "group": "furniture",
+    "subgroup": "bathroom fixtures",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-bath.webp",
+    "imagePrompt": "A white freestanding bath with taps, front view on a plain white background",
+    "searchQuery": "white bath tub",
+    "cues": {
+      "definition": "A long, deep tub that you fill with water and lie in to wash.",
+      "sentenceCompletion": "I ran a hot ___ and had a long soak.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a fixture in a bathroom.",
+      "use": "You use it to wash your whole body.",
+      "action": "You fill it with water and lie in it.",
+      "properties": "It is long, deep, smooth and white.",
+      "location": "You find it in a washroom.",
+      "association": "It makes me think of bubbles and a long soak."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "th",
+      "syllables": 1,
+      "rhyme": "path",
+      "sameFirstSound": "banana"
+    }
+  },
+  {
+    "id": "furniture-shower",
+    "word": "shower",
+    "group": "furniture",
+    "subgroup": "bathroom fixtures",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-shower.webp",
+    "imagePrompt": "A glass shower cubicle with a chrome shower head on a plain white background",
+    "searchQuery": "shower cubicle",
+    "cues": {
+      "definition": "A fitting that sprays water over you from above so you can wash standing up.",
+      "sentenceCompletion": "I had a quick ___ before work.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh",
+      "firstSyllable": "show"
+    },
+    "semantic": {
+      "category": "It is a fixture in a bathroom.",
+      "use": "You use it to wash quickly while standing.",
+      "action": "You stand under it while water sprays down.",
+      "properties": "It has a spray head on a hose or fixed to the wall.",
+      "location": "You find it in a washroom.",
+      "association": "It makes me think of getting ready in the morning."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "flower",
+      "sameFirstSound": "ship"
+    }
+  },
+  {
+    "id": "furniture-toilet",
+    "word": "toilet",
+    "group": "furniture",
+    "subgroup": "bathroom fixtures",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-toilet.webp",
+    "imagePrompt": "A white ceramic toilet with the lid closed on a plain white background",
+    "searchQuery": "toilet bowl",
+    "cues": {
+      "definition": "A fitted bowl with a seat that you use when you need to go to the loo.",
+      "sentenceCompletion": "Excuse me, I need to go to the ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "toi"
+    },
+    "semantic": {
+      "category": "It is a fixture in a bathroom.",
+      "use": "You use it when you need the loo.",
+      "action": "You sit on it and flush it afterwards.",
+      "properties": "It is a white ceramic bowl with a seat and a lid.",
+      "location": "You find it in a small room in a house.",
+      "association": "It makes me think of a flush."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "tomato"
+    }
+  },
+  {
+    "id": "furniture-bidet",
+    "word": "bidet",
+    "group": "furniture",
+    "subgroup": "bathroom fixtures",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-bidet.webp",
+    "imagePrompt": "A white ceramic bidet fixed to a tiled floor on a plain white background",
+    "searchQuery": "bidet",
+    "cues": {
+      "definition": "A low bowl fitted next to the loo, used for washing yourself.",
+      "sentenceCompletion": "In some hotels abroad, there is a ___ beside the loo.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bi"
+    },
+    "semantic": {
+      "category": "It is a fixture in a bathroom.",
+      "use": "You use it to wash your lower body.",
+      "action": "You sit over it and use the running water.",
+      "properties": "It is low, white and oval, with its own tap.",
+      "location": "You find it in a washroom, beside the loo.",
+      "association": "It makes me think of a hotel abroad."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ay",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bicycle"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-door",
+    "word": "door",
+    "group": "furniture",
+    "subgroup": "parts of a house",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-door.webp",
+    "imagePrompt": "A closed wooden front door painted blue with a brass handle on a plain white background",
+    "searchQuery": "front door",
+    "cues": {
+      "definition": "A panel on hinges that you open and close to go in or out of a room.",
+      "sentenceCompletion": "I knocked on the ___, but nobody answered.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh"
+    },
+    "semantic": {
+      "category": "It is part of a house.",
+      "use": "You use it to enter or leave a room.",
+      "action": "You open it, walk through and close it.",
+      "properties": "It is flat, tall and has a handle and hinges.",
+      "location": "You find it at the entrance of every room.",
+      "association": "It makes me think of knocking and walking in."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "or",
+      "syllables": 1,
+      "rhyme": "floor",
+      "sameFirstSound": "dog"
+    }
+  },
+  {
+    "id": "furniture-window",
+    "word": "window",
+    "group": "furniture",
+    "subgroup": "parts of a house",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-window.webp",
+    "imagePrompt": "A white-framed sash window seen from outside on a brick wall on a plain white background",
+    "searchQuery": "sash window",
+    "cues": {
+      "definition": "A glass-filled opening in a wall that lets in light and air.",
+      "sentenceCompletion": "On a hot day I opened the ___ to let in some air.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "win"
+    },
+    "semantic": {
+      "category": "It is part of a house.",
+      "use": "You use it to let in light and look outside.",
+      "action": "You look through it and open it for fresh air.",
+      "properties": "It is made of glass in a frame.",
+      "location": "You find it in the wall of a room.",
+      "association": "It makes me think of looking out at the rain."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "oh",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "water"
+    }
+  },
+  {
+    "id": "furniture-stairs",
+    "word": "stairs",
+    "group": "furniture",
+    "subgroup": "parts of a house",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-stairs.webp",
+    "imagePrompt": "A carpeted indoor staircase with a wooden banister, seen from the bottom on a plain white background",
+    "searchQuery": "indoor staircase",
+    "cues": {
+      "definition": "A set of steps that takes you up or down between floors.",
+      "sentenceCompletion": "She ran up the ___ to answer the phone.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is part of a house.",
+      "use": "You use it to get from one floor to another.",
+      "action": "You climb them up and walk them down.",
+      "properties": "They have steps and a handrail.",
+      "location": "You find them in a house with an upstairs.",
+      "association": "They make me think of going up to bed."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "pears",
+      "sameFirstSound": "stamp"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-roof",
+    "word": "roof",
+    "group": "furniture",
+    "subgroup": "parts of a house",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-roof.webp",
+    "imagePrompt": "A house with a tiled red roof seen against a plain sky on a plain white background",
+    "searchQuery": "tiled house roof",
+    "cues": {
+      "definition": "The covering on top of a building that keeps out the rain.",
+      "sentenceCompletion": "The wind blew a tile off the ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "rrr"
+    },
+    "semantic": {
+      "category": "It is part of a house.",
+      "use": "You use it to keep out rain and cold.",
+      "action": "It shelters the whole house.",
+      "properties": "It is high up, sloped and covered with tiles or slates.",
+      "location": "You find it at the very top of a building.",
+      "association": "It makes me think of rain on tiles."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "f",
+      "syllables": 1,
+      "rhyme": "proof",
+      "sameFirstSound": "rabbit"
+    }
+  },
+  {
+    "id": "furniture-chimney",
+    "word": "chimney",
+    "group": "furniture",
+    "subgroup": "parts of a house",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-chimney.webp",
+    "imagePrompt": "A brick chimney stack with chimney pots on a roof on a plain white background",
+    "searchQuery": "brick chimney",
+    "cues": {
+      "definition": "A tall brick or stone shaft that lets smoke out of a house.",
+      "sentenceCompletion": "Smoke rose from the ___ on the cold morning.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch",
+      "firstSyllable": "chim"
+    },
+    "semantic": {
+      "category": "It is part of a house.",
+      "use": "You use it to carry smoke away from a fire.",
+      "action": "Smoke goes up it and out of the house.",
+      "properties": "It is tall, narrow and made of brick.",
+      "location": "You find it standing above the roof.",
+      "association": "It makes me think of Father Christmas."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "cheese"
+    }
+  },
+  {
+    "id": "furniture-fireplace",
+    "word": "fireplace",
+    "group": "furniture",
+    "subgroup": "parts of a house",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-fireplace.webp",
+    "imagePrompt": "A stone fireplace with logs burning inside on a plain white background",
+    "searchQuery": "stone fireplace",
+    "cues": {
+      "definition": "An open space in a wall of a room where you light a fire.",
+      "sentenceCompletion": "On cold nights we sat by the ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "fire"
+    },
+    "semantic": {
+      "category": "It is part of a house.",
+      "use": "You use it to heat a room with a real fire.",
+      "action": "You light logs in it and watch them burn.",
+      "properties": "It is an open space with a hearth and a mantelpiece.",
+      "location": "You find it in a living room.",
+      "association": "It makes me think of toasting by the flames."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "finger"
+    }
+  },
+  {
+    "id": "furniture-radiator",
+    "word": "radiator",
+    "group": "furniture",
+    "subgroup": "parts of a house",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-radiator.webp",
+    "imagePrompt": "A white panel radiator fixed to a wall on a plain white background",
+    "searchQuery": "wall radiator",
+    "cues": {
+      "definition": "A metal panel on a wall that heats up and warms a room.",
+      "sentenceCompletion": "The room was cold, so I turned up the ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "rrr",
+      "firstSyllable": "ra"
+    },
+    "semantic": {
+      "category": "It is part of a house.",
+      "use": "You use it to heat a room.",
+      "action": "It heats up when the heating is on.",
+      "properties": "It is a flat, white metal panel with a valve.",
+      "location": "You find it on a wall under a window.",
+      "association": "It makes me think of drying wet socks."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": "alligator",
+      "sameFirstSound": "rabbit"
+    }
+  },
+  {
+    "id": "furniture-letterbox",
+    "word": "letterbox",
+    "group": "furniture",
+    "subgroup": "parts of a house",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-letterbox.webp",
+    "imagePrompt": "A brass letterbox flap in a closed painted front door on a plain white background",
+    "searchQuery": "brass letterbox",
+    "cues": {
+      "definition": "A slot in a front door where the post comes through.",
+      "sentenceCompletion": "The postman pushed the letters through the ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "lll",
+      "firstSyllable": "let"
+    },
+    "semantic": {
+      "category": "It is part of a house.",
+      "use": "You use it to let the post be delivered.",
+      "action": "You push letters through it.",
+      "properties": "It is a narrow slot with a flap.",
+      "location": "You find it in a front door.",
+      "association": "It makes me think of post on the mat."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "s",
+      "syllables": 3,
+      "rhyme": "chatterbox",
+      "sameFirstSound": "lemon"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-doorbell",
+    "word": "doorbell",
+    "group": "furniture",
+    "subgroup": "parts of a house",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-doorbell.webp",
+    "imagePrompt": "A round white doorbell button on a brick wall beside a front door on a plain white background",
+    "searchQuery": "doorbell button",
+    "cues": {
+      "definition": "A button by the front entrance that rings when a visitor presses it.",
+      "sentenceCompletion": "The visitor pressed the ___ and waited.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "door"
+    },
+    "semantic": {
+      "category": "It is part of a house.",
+      "use": "You use it to tell people inside that you have arrived.",
+      "action": "You press it and it rings.",
+      "properties": "It is a small button that chimes.",
+      "location": "You find it beside the front entrance.",
+      "association": "It makes me think of a visitor arriving."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "dinner"
+    }
+  },
+  {
+    "id": "furniture-curtains",
+    "word": "curtains",
+    "group": "furniture",
+    "subgroup": "soft furnishings and lighting",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-curtains.webp",
+    "imagePrompt": "A pair of plain blue curtains hanging from a rail at a window on a plain white background",
+    "searchQuery": "curtains",
+    "cues": {
+      "definition": "Pieces of cloth that hang at a window and are pulled shut at night.",
+      "sentenceCompletion": "Before going to sleep, I closed the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cur"
+    },
+    "semantic": {
+      "category": "It is a soft furnishing.",
+      "use": "You use it to block out light and keep a room private.",
+      "action": "You draw them shut at night and open them in the morning.",
+      "properties": "They are long, soft and made of cloth.",
+      "location": "You find them hanging at a window.",
+      "association": "They make me think of the morning light."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "carrot"
+    }
+  },
+  {
+    "id": "furniture-cushion",
+    "word": "cushion",
+    "group": "furniture",
+    "subgroup": "soft furnishings and lighting",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-cushion.webp",
+    "imagePrompt": "A single square patterned cushion on a plain white background",
+    "searchQuery": "sofa cushion",
+    "cues": {
+      "definition": "A soft, padded bag of cloth that you put on a seat to make it more comfy.",
+      "sentenceCompletion": "She put a ___ behind her back.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cush"
+    },
+    "semantic": {
+      "category": "It is a soft furnishing.",
+      "use": "You use it to make a seat more comfortable.",
+      "action": "You lean on it or put it behind your back.",
+      "properties": "It is soft, square and stuffed with feathers or foam.",
+      "location": "You find it on a sofa or chair.",
+      "association": "It makes me think of a comfy sofa."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "cake"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-carpet",
+    "word": "carpet",
+    "group": "furniture",
+    "subgroup": "soft furnishings and lighting",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-carpet.webp",
+    "imagePrompt": "A close-up of a plain beige fitted carpet on a plain white background",
+    "searchQuery": "beige carpet",
+    "cues": {
+      "definition": "A thick floor covering made of soft fibres that covers a whole room.",
+      "sentenceCompletion": "We had a new ___ fitted in the lounge.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "car"
+    },
+    "semantic": {
+      "category": "It is a soft furnishing.",
+      "use": "You use it to keep a room warm and quiet underfoot.",
+      "action": "You walk on it and vacuum it.",
+      "properties": "It is soft, thick and covers the floor from wall to wall.",
+      "location": "You find it on the floor of a room or the stairs.",
+      "association": "It makes me think of bare feet and the vacuum."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "car"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-lamp",
+    "word": "lamp",
+    "group": "furniture",
+    "subgroup": "soft furnishings and lighting",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-lamp.webp",
+    "imagePrompt": "A table lamp with a cream shade, switched on on a plain white background",
+    "searchQuery": "table lamp",
+    "cues": {
+      "definition": "A light with a shade that stands on a table or the floor.",
+      "sentenceCompletion": "It was getting dark, so I switched on the ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "lll"
+    },
+    "semantic": {
+      "category": "It is a light in a house.",
+      "use": "You use it to light up a room.",
+      "action": "You switch it on and it glows.",
+      "properties": "It has a base, a bulb and a shade.",
+      "location": "You find it on a table or beside a sofa.",
+      "association": "It makes me think of reading at night."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "camp",
+      "sameFirstSound": "lemon"
+    }
+  },
+  {
+    "id": "furniture-mirror",
+    "word": "mirror",
+    "group": "furniture",
+    "subgroup": "soft furnishings and lighting",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-mirror.webp",
+    "imagePrompt": "A round mirror with a thin wooden frame, hanging on a white wall on a plain white background",
+    "searchQuery": "wall mirror",
+    "cues": {
+      "definition": "A flat sheet of glass in which you can see your own reflection.",
+      "sentenceCompletion": "She looked at herself in the ___ and fixed her hair.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mi"
+    },
+    "semantic": {
+      "category": "It is a household furnishing.",
+      "use": "You use it to see what you look like.",
+      "action": "You look into it and see yourself.",
+      "properties": "It is smooth, shiny and made of glass.",
+      "location": "You find it on a wall or above a basin.",
+      "association": "It makes me think of getting ready to go out."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "r",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "monkey"
+    }
+  },
+  {
+    "id": "furniture-chandelier",
+    "word": "chandelier",
+    "group": "furniture",
+    "subgroup": "soft furnishings and lighting",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-chandelier.webp",
+    "imagePrompt": "A crystal chandelier with many small bulbs hanging from a ceiling on a plain white background",
+    "searchQuery": "crystal chandelier",
+    "cues": {
+      "definition": "A large, fancy light with many arms that hangs from the ceiling.",
+      "sentenceCompletion": "The grand hall had a sparkling ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "shh",
+      "firstSyllable": "chan"
+    },
+    "semantic": {
+      "category": "It is a light in a house.",
+      "use": "You use it to light up a large room and make it look grand.",
+      "action": "It hangs from the ceiling and sparkles.",
+      "properties": "It has many glass drops and little bulbs.",
+      "location": "You find it in a ballroom or hotel hall.",
+      "association": "It makes me think of posh dinner parties."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "ee",
+      "syllables": 3,
+      "rhyme": "near",
+      "sameFirstSound": "shoe"
+    }
+  },
+  {
+    "id": "furniture-blinds",
+    "word": "blinds",
+    "group": "furniture",
+    "subgroup": "soft furnishings and lighting",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-blinds.webp",
+    "imagePrompt": "A pair of white slatted venetian blinds drawn halfway across a window on a plain white background",
+    "searchQuery": "window blinds",
+    "cues": {
+      "definition": "Slatted covers that you raise or tilt to control the light at a window.",
+      "sentenceCompletion": "The sun was too bright, so I lowered the ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a soft furnishing.",
+      "use": "You use it to control the sunlight.",
+      "action": "You pull a cord to raise or lower them.",
+      "properties": "They are made of thin slats or fabric.",
+      "location": "You find them at a window.",
+      "association": "They make me think of a bright sunny office."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "minds",
+      "sameFirstSound": "bread"
+    }
+  },
+  {
+    "id": "furniture-shed",
+    "word": "shed",
+    "group": "furniture",
+    "subgroup": "garden structures",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-shed.webp",
+    "imagePrompt": "A small wooden garden shed with a closed door on a plain white background",
+    "searchQuery": "garden shed",
+    "cues": {
+      "definition": "A small wooden building in a garden where you keep tools.",
+      "sentenceCompletion": "The lawnmower is kept in the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh"
+    },
+    "semantic": {
+      "category": "It is a structure in a garden.",
+      "use": "You use it to store tools and equipment.",
+      "action": "You go in it to fetch the spade or mower.",
+      "properties": "It is small, wooden and has a door and a roof.",
+      "location": "You find it at the bottom of a garden.",
+      "association": "It makes me think of spiders and spades."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "red",
+      "sameFirstSound": "ship"
+    }
+  },
+  {
+    "id": "furniture-fence",
+    "word": "fence",
+    "group": "furniture",
+    "subgroup": "garden structures",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-fence.webp",
+    "imagePrompt": "A wooden panel fence in a garden seen from the front on a plain white background",
+    "searchQuery": "garden fence",
+    "cues": {
+      "definition": "A wooden or metal barrier that marks the edge of a garden.",
+      "sentenceCompletion": "Our neighbour painted the ___ brown.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is a structure in a garden.",
+      "use": "You use it to mark a boundary and keep out strangers.",
+      "action": "It runs along the edge of the garden.",
+      "properties": "It is made of upright wooden panels.",
+      "location": "You find it round the edge of a garden.",
+      "association": "It makes me think of chatting with neighbours."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "tense",
+      "sameFirstSound": "fish"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-gate",
+    "word": "gate",
+    "group": "furniture",
+    "subgroup": "garden structures",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-gate.webp",
+    "imagePrompt": "A closed wooden garden gate set in a hedge on a plain white background",
+    "searchQuery": "garden gate",
+    "cues": {
+      "definition": "A hinged opening in a fence that you open to walk through.",
+      "sentenceCompletion": "Please close the ___ so the dog cannot get out.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh"
+    },
+    "semantic": {
+      "category": "It is a structure in a garden.",
+      "use": "You use it to enter or leave a garden.",
+      "action": "You swing it open and shut it behind you.",
+      "properties": "It is a frame on hinges with a latch.",
+      "location": "You find it at the front or end of a garden.",
+      "association": "It makes me think of a creaky hinge."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "late",
+      "sameFirstSound": "goat"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-greenhouse",
+    "word": "greenhouse",
+    "group": "furniture",
+    "subgroup": "garden structures",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-greenhouse.webp",
+    "imagePrompt": "A small glass greenhouse with tomato plants inside on a plain white background",
+    "searchQuery": "garden greenhouse",
+    "cues": {
+      "definition": "A small glass building where you grow plants and keep them warm.",
+      "sentenceCompletion": "He grows his tomatoes in the ___.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh",
+      "firstSyllable": "green"
+    },
+    "semantic": {
+      "category": "It is a structure in a garden.",
+      "use": "You use it to grow plants that need warmth.",
+      "action": "You go in to water seedlings and pick tomatoes.",
+      "properties": "It has glass walls and a glass roof.",
+      "location": "You find it in a garden.",
+      "association": "It makes me think of seedlings and sunshine."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": "mouse",
+      "sameFirstSound": "grapes"
+    }
+  },
+  {
+    "id": "furniture-patio",
+    "word": "patio",
+    "group": "furniture",
+    "subgroup": "garden structures",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-patio.webp",
+    "imagePrompt": "A paved garden patio with a table and chairs on a plain white background",
+    "searchQuery": "garden patio",
+    "cues": {
+      "definition": "A paved area next to a house where you sit outside.",
+      "sentenceCompletion": "On sunny days we eat out on the ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pa"
+    },
+    "semantic": {
+      "category": "It is a part of a garden.",
+      "use": "You use it to sit and eat outdoors.",
+      "action": "You put out chairs and enjoy the sun.",
+      "properties": "It is a flat, paved area.",
+      "location": "You find it just outside the back door.",
+      "association": "It makes me think of a summer barbecue."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "oh",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "pencil"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "furniture-gazebo",
+    "word": "gazebo",
+    "group": "furniture",
+    "subgroup": "garden structures",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "furniture-gazebo.webp",
+    "imagePrompt": "A garden gazebo with a roof and open sides on a plain white background",
+    "searchQuery": "garden gazebo",
+    "cues": {
+      "definition": "A small open garden building with a roof and no walls, for shade.",
+      "sentenceCompletion": "We sat in the shade under the ___.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh",
+      "firstSyllable": "ga"
+    },
+    "semantic": {
+      "category": "It is a structure in a garden.",
+      "use": "You use it to shelter from sun or rain outside.",
+      "action": "You sit in it with a cool drink.",
+      "properties": "It has a roof held up by posts with open sides.",
+      "location": "You find it on a lawn or in a park.",
+      "association": "It makes me think of a summer party outdoors."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "oh",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "goat"
+    }
+  },
+  {
+    "id": "furniture-washing-line",
+    "word": "washing line",
+    "group": "furniture",
+    "subgroup": "garden structures",
+    "wordClass": "noun",
+    "letters": 11,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "furniture-washing-line.webp",
+    "imagePrompt": "A rotary or straight washing line with clothes pegged out on it in a garden",
+    "searchQuery": "washing line",
+    "cues": {
+      "definition": "A cord stretched across a garden where you hang wet clothes to dry.",
+      "sentenceCompletion": "The sheets were drying on the ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "wash"
+    },
+    "semantic": {
+      "category": "It is a structure in a garden.",
+      "use": "You use it to dry clothes in the fresh air.",
+      "action": "You peg your wet clothes on it.",
+      "properties": "It is a long cord held up by two posts.",
+      "location": "You find it in a back garden.",
+      "association": "It makes me think of a windy day and fresh sheets."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "n",
+      "syllables": 3,
+      "rhyme": "wine",
+      "sameFirstSound": "water"
+    },
+    "hasImage": false
+  }
+]

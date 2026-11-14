@@ -1,0 +1,766 @@
+{
+  "version": "1.0",
+  "assets": [
+    {
+      "id": "comprehension",
+      "svg": "modules/comprehension.svg",
+      "png": "modules/comprehension.png",
+      "jpeg": "modules/comprehension.jpg",
+      "role": "modules",
+      "glyph": "headphones"
+    },
+    {
+      "id": "naming",
+      "svg": "modules/naming.svg",
+      "png": "modules/naming.png",
+      "jpeg": "modules/naming.jpg",
+      "role": "modules",
+      "glyph": "speech"
+    },
+    {
+      "id": "reading",
+      "svg": "modules/reading.svg",
+      "png": "modules/reading.png",
+      "jpeg": "modules/reading.jpg",
+      "role": "modules",
+      "glyph": "book"
+    },
+    {
+      "id": "writing",
+      "svg": "modules/writing.svg",
+      "png": "modules/writing.png",
+      "jpeg": "modules/writing.jpg",
+      "role": "modules",
+      "glyph": "pencil"
+    },
+    {
+      "id": "listen",
+      "svg": "activities/comprehension/listen.svg",
+      "png": "activities/comprehension/listen.png",
+      "jpeg": "activities/comprehension/listen.jpg",
+      "role": "activities/comprehension",
+      "glyph": "ear"
+    },
+    {
+      "id": "read",
+      "svg": "activities/comprehension/read.svg",
+      "png": "activities/comprehension/read.png",
+      "jpeg": "activities/comprehension/read.jpg",
+      "role": "activities/comprehension",
+      "glyph": "book"
+    },
+    {
+      "id": "listen-and-read",
+      "svg": "activities/comprehension/listen-and-read.svg",
+      "png": "activities/comprehension/listen-and-read.png",
+      "jpeg": "activities/comprehension/listen-and-read.jpg",
+      "role": "activities/comprehension",
+      "glyph": "speaker"
+    },
+    {
+      "id": "naming-practice",
+      "svg": "activities/naming/naming-practice.svg",
+      "png": "activities/naming/naming-practice.png",
+      "jpeg": "activities/naming/naming-practice.jpg",
+      "role": "activities/naming",
+      "glyph": "picture"
+    },
+    {
+      "id": "describe",
+      "svg": "activities/naming/describe.svg",
+      "png": "activities/naming/describe.png",
+      "jpeg": "activities/naming/describe.jpg",
+      "role": "activities/naming",
+      "glyph": "speech"
+    },
+    {
+      "id": "naming-test",
+      "svg": "activities/naming/naming-test.svg",
+      "png": "activities/naming/naming-test.png",
+      "jpeg": "activities/naming/naming-test.jpg",
+      "role": "activities/naming",
+      "glyph": "clipboard"
+    },
+    {
+      "id": "flashcards",
+      "svg": "activities/naming/flashcards.svg",
+      "png": "activities/naming/flashcards.png",
+      "jpeg": "activities/naming/flashcards.jpg",
+      "role": "activities/naming",
+      "glyph": "copy"
+    },
+    {
+      "id": "phrase-matching",
+      "svg": "activities/reading/phrase-matching.svg",
+      "png": "activities/reading/phrase-matching.png",
+      "jpeg": "activities/reading/phrase-matching.jpg",
+      "role": "activities/reading",
+      "glyph": "sentence"
+    },
+    {
+      "id": "phrase-completion",
+      "svg": "activities/reading/phrase-completion.svg",
+      "png": "activities/reading/phrase-completion.png",
+      "jpeg": "activities/reading/phrase-completion.jpg",
+      "role": "activities/reading",
+      "glyph": "blank"
+    },
+    {
+      "id": "sentence-matching",
+      "svg": "activities/reading/sentence-matching.svg",
+      "png": "activities/reading/sentence-matching.png",
+      "jpeg": "activities/reading/sentence-matching.jpg",
+      "role": "activities/reading",
+      "glyph": "book"
+    },
+    {
+      "id": "sentence-completion",
+      "svg": "activities/reading/sentence-completion.svg",
+      "png": "activities/reading/sentence-completion.png",
+      "jpeg": "activities/reading/sentence-completion.jpg",
+      "role": "activities/reading",
+      "glyph": "question"
+    },
+    {
+      "id": "fill-in-the-blank",
+      "svg": "activities/writing/fill-in-the-blank.svg",
+      "png": "activities/writing/fill-in-the-blank.png",
+      "jpeg": "activities/writing/fill-in-the-blank.jpg",
+      "role": "activities/writing",
+      "glyph": "blank"
+    },
+    {
+      "id": "copy",
+      "svg": "activities/writing/copy.svg",
+      "png": "activities/writing/copy.png",
+      "jpeg": "activities/writing/copy.jpg",
+      "role": "activities/writing",
+      "glyph": "copy"
+    },
+    {
+      "id": "spell-what-you-see",
+      "svg": "activities/writing/spell-what-you-see.svg",
+      "png": "activities/writing/spell-what-you-see.png",
+      "jpeg": "activities/writing/spell-what-you-see.jpg",
+      "role": "activities/writing",
+      "glyph": "picture"
+    },
+    {
+      "id": "spell-what-you-hear",
+      "svg": "activities/writing/spell-what-you-hear.svg",
+      "png": "activities/writing/spell-what-you-hear.png",
+      "jpeg": "activities/writing/spell-what-you-hear.jpg",
+      "role": "activities/writing",
+      "glyph": "ear"
+    },
+    {
+      "id": "home",
+      "svg": "ui/navigation/home.svg",
+      "png": "ui/navigation/home.png",
+      "jpeg": "ui/navigation/home.jpg",
+      "role": "ui/navigation",
+      "glyph": "home"
+    },
+    {
+      "id": "users",
+      "svg": "ui/navigation/users.svg",
+      "png": "ui/navigation/users.png",
+      "jpeg": "ui/navigation/users.jpg",
+      "role": "ui/navigation",
+      "glyph": "users"
+    },
+    {
+      "id": "chart",
+      "svg": "ui/navigation/chart.svg",
+      "png": "ui/navigation/chart.png",
+      "jpeg": "ui/navigation/chart.jpg",
+      "role": "ui/navigation",
+      "glyph": "chart"
+    },
+    {
+      "id": "gear",
+      "svg": "ui/navigation/gear.svg",
+      "png": "ui/navigation/gear.png",
+      "jpeg": "ui/navigation/gear.jpg",
+      "role": "ui/navigation",
+      "glyph": "gear"
+    },
+    {
+      "id": "back",
+      "svg": "ui/navigation/back.svg",
+      "png": "ui/navigation/back.png",
+      "jpeg": "ui/navigation/back.jpg",
+      "role": "ui/navigation",
+      "glyph": "back"
+    },
+    {
+      "id": "next",
+      "svg": "ui/navigation/next.svg",
+      "png": "ui/navigation/next.png",
+      "jpeg": "ui/navigation/next.jpg",
+      "role": "ui/navigation",
+      "glyph": "next"
+    },
+    {
+      "id": "info",
+      "svg": "ui/navigation/info.svg",
+      "png": "ui/navigation/info.png",
+      "jpeg": "ui/navigation/info.jpg",
+      "role": "ui/navigation",
+      "glyph": "info"
+    },
+    {
+      "id": "help",
+      "svg": "ui/navigation/help.svg",
+      "png": "ui/navigation/help.png",
+      "jpeg": "ui/navigation/help.jpg",
+      "role": "ui/navigation",
+      "glyph": "help"
+    },
+    {
+      "id": "grid",
+      "svg": "ui/navigation/grid.svg",
+      "png": "ui/navigation/grid.png",
+      "jpeg": "ui/navigation/grid.jpg",
+      "role": "ui/navigation",
+      "glyph": "grid"
+    },
+    {
+      "id": "list",
+      "svg": "ui/navigation/list.svg",
+      "png": "ui/navigation/list.png",
+      "jpeg": "ui/navigation/list.jpg",
+      "role": "ui/navigation",
+      "glyph": "list"
+    },
+    {
+      "id": "search",
+      "svg": "ui/navigation/search.svg",
+      "png": "ui/navigation/search.png",
+      "jpeg": "ui/navigation/search.jpg",
+      "role": "ui/navigation",
+      "glyph": "search"
+    },
+    {
+      "id": "lock",
+      "svg": "ui/navigation/lock.svg",
+      "png": "ui/navigation/lock.png",
+      "jpeg": "ui/navigation/lock.jpg",
+      "role": "ui/navigation",
+      "glyph": "lock"
+    },
+    {
+      "id": "repeat",
+      "svg": "ui/actions/repeat.svg",
+      "png": "ui/actions/repeat.png",
+      "jpeg": "ui/actions/repeat.jpg",
+      "role": "ui/actions",
+      "glyph": "repeat"
+    },
+    {
+      "id": "speaker",
+      "svg": "ui/actions/speaker.svg",
+      "png": "ui/actions/speaker.png",
+      "jpeg": "ui/actions/speaker.jpg",
+      "role": "ui/actions",
+      "glyph": "speaker"
+    },
+    {
+      "id": "mute",
+      "svg": "ui/actions/mute.svg",
+      "png": "ui/actions/mute.png",
+      "jpeg": "ui/actions/mute.jpg",
+      "role": "ui/actions",
+      "glyph": "mute"
+    },
+    {
+      "id": "hint",
+      "svg": "ui/actions/hint.svg",
+      "png": "ui/actions/hint.png",
+      "jpeg": "ui/actions/hint.jpg",
+      "role": "ui/actions",
+      "glyph": "hint"
+    },
+    {
+      "id": "microphone",
+      "svg": "ui/actions/microphone.svg",
+      "png": "ui/actions/microphone.png",
+      "jpeg": "ui/actions/microphone.jpg",
+      "role": "ui/actions",
+      "glyph": "microphone"
+    },
+    {
+      "id": "play",
+      "svg": "ui/actions/play.svg",
+      "png": "ui/actions/play.png",
+      "jpeg": "ui/actions/play.jpg",
+      "role": "ui/actions",
+      "glyph": "play"
+    },
+    {
+      "id": "pause",
+      "svg": "ui/actions/pause.svg",
+      "png": "ui/actions/pause.png",
+      "jpeg": "ui/actions/pause.jpg",
+      "role": "ui/actions",
+      "glyph": "pause"
+    },
+    {
+      "id": "stop",
+      "svg": "ui/actions/stop.svg",
+      "png": "ui/actions/stop.png",
+      "jpeg": "ui/actions/stop.jpg",
+      "role": "ui/actions",
+      "glyph": "stop"
+    },
+    {
+      "id": "check",
+      "svg": "ui/actions/check.svg",
+      "png": "ui/actions/check.png",
+      "jpeg": "ui/actions/check.jpg",
+      "role": "ui/actions",
+      "glyph": "check"
+    },
+    {
+      "id": "cross",
+      "svg": "ui/actions/cross.svg",
+      "png": "ui/actions/cross.png",
+      "jpeg": "ui/actions/cross.jpg",
+      "role": "ui/actions",
+      "glyph": "cross"
+    },
+    {
+      "id": "plus",
+      "svg": "ui/actions/plus.svg",
+      "png": "ui/actions/plus.png",
+      "jpeg": "ui/actions/plus.jpg",
+      "role": "ui/actions",
+      "glyph": "plus"
+    },
+    {
+      "id": "minus",
+      "svg": "ui/actions/minus.svg",
+      "png": "ui/actions/minus.png",
+      "jpeg": "ui/actions/minus.jpg",
+      "role": "ui/actions",
+      "glyph": "minus"
+    },
+    {
+      "id": "edit",
+      "svg": "ui/actions/edit.svg",
+      "png": "ui/actions/edit.png",
+      "jpeg": "ui/actions/edit.jpg",
+      "role": "ui/actions",
+      "glyph": "edit"
+    },
+    {
+      "id": "delete",
+      "svg": "ui/actions/delete.svg",
+      "png": "ui/actions/delete.png",
+      "jpeg": "ui/actions/delete.jpg",
+      "role": "ui/actions",
+      "glyph": "delete"
+    },
+    {
+      "id": "camera",
+      "svg": "ui/actions/camera.svg",
+      "png": "ui/actions/camera.png",
+      "jpeg": "ui/actions/camera.jpg",
+      "role": "ui/actions",
+      "glyph": "camera"
+    },
+    {
+      "id": "download",
+      "svg": "ui/actions/download.svg",
+      "png": "ui/actions/download.png",
+      "jpeg": "ui/actions/download.jpg",
+      "role": "ui/actions",
+      "glyph": "download"
+    },
+    {
+      "id": "upload",
+      "svg": "ui/actions/upload.svg",
+      "png": "ui/actions/upload.png",
+      "jpeg": "ui/actions/upload.jpg",
+      "role": "ui/actions",
+      "glyph": "upload"
+    },
+    {
+      "id": "filter",
+      "svg": "ui/actions/filter.svg",
+      "png": "ui/actions/filter.png",
+      "jpeg": "ui/actions/filter.jpg",
+      "role": "ui/actions",
+      "glyph": "filter"
+    },
+    {
+      "id": "eye",
+      "svg": "ui/actions/eye.svg",
+      "png": "ui/actions/eye.png",
+      "jpeg": "ui/actions/eye.jpg",
+      "role": "ui/actions",
+      "glyph": "eye"
+    },
+    {
+      "id": "eye-off",
+      "svg": "ui/actions/eye-off.svg",
+      "png": "ui/actions/eye-off.png",
+      "jpeg": "ui/actions/eye-off.jpg",
+      "role": "ui/actions",
+      "glyph": "eye-off"
+    },
+    {
+      "id": "shuffle",
+      "svg": "ui/actions/shuffle.svg",
+      "png": "ui/actions/shuffle.png",
+      "jpeg": "ui/actions/shuffle.jpg",
+      "role": "ui/actions",
+      "glyph": "shuffle"
+    },
+    {
+      "id": "backup",
+      "svg": "ui/actions/backup.svg",
+      "png": "ui/actions/backup.png",
+      "jpeg": "ui/actions/backup.jpg",
+      "role": "ui/actions",
+      "glyph": "backup"
+    },
+    {
+      "id": "print",
+      "svg": "ui/actions/print.svg",
+      "png": "ui/actions/print.png",
+      "jpeg": "ui/actions/print.jpg",
+      "role": "ui/actions",
+      "glyph": "print"
+    },
+    {
+      "id": "calendar",
+      "svg": "ui/actions/calendar.svg",
+      "png": "ui/actions/calendar.png",
+      "jpeg": "ui/actions/calendar.jpg",
+      "role": "ui/actions",
+      "glyph": "calendar"
+    },
+    {
+      "id": "archive",
+      "svg": "ui/actions/archive.svg",
+      "png": "ui/actions/archive.png",
+      "jpeg": "ui/actions/archive.jpg",
+      "role": "ui/actions",
+      "glyph": "archive"
+    },
+    {
+      "id": "star",
+      "svg": "ui/actions/star.svg",
+      "png": "ui/actions/star.png",
+      "jpeg": "ui/actions/star.jpg",
+      "role": "ui/actions",
+      "glyph": "star"
+    },
+    {
+      "id": "flag",
+      "svg": "ui/actions/flag.svg",
+      "png": "ui/actions/flag.png",
+      "jpeg": "ui/actions/flag.jpg",
+      "role": "ui/actions",
+      "glyph": "flag"
+    },
+    {
+      "id": "word",
+      "svg": "ui/actions/word.svg",
+      "png": "ui/actions/word.png",
+      "jpeg": "ui/actions/word.jpg",
+      "role": "ui/actions",
+      "glyph": "word"
+    },
+    {
+      "id": "letter",
+      "svg": "ui/actions/letter.svg",
+      "png": "ui/actions/letter.png",
+      "jpeg": "ui/actions/letter.jpg",
+      "role": "ui/actions",
+      "glyph": "letter"
+    },
+    {
+      "id": "syllable",
+      "svg": "ui/actions/syllable.svg",
+      "png": "ui/actions/syllable.png",
+      "jpeg": "ui/actions/syllable.jpg",
+      "role": "ui/actions",
+      "glyph": "syllable"
+    },
+    {
+      "id": "progress",
+      "svg": "ui/actions/progress.svg",
+      "png": "ui/actions/progress.png",
+      "jpeg": "ui/actions/progress.jpg",
+      "role": "ui/actions",
+      "glyph": "progress"
+    },
+    {
+      "id": "keyboard",
+      "svg": "ui/actions/keyboard.svg",
+      "png": "ui/actions/keyboard.png",
+      "jpeg": "ui/actions/keyboard.jpg",
+      "role": "ui/actions",
+      "glyph": "keyboard"
+    },
+    {
+      "id": "cloud-off",
+      "svg": "ui/actions/cloud-off.svg",
+      "png": "ui/actions/cloud-off.png",
+      "jpeg": "ui/actions/cloud-off.jpg",
+      "role": "ui/actions",
+      "glyph": "cloud-off"
+    },
+    {
+      "id": "category",
+      "svg": "ui/actions/category.svg",
+      "png": "ui/actions/category.png",
+      "jpeg": "ui/actions/category.jpg",
+      "role": "ui/actions",
+      "glyph": "category"
+    },
+    {
+      "id": "correct",
+      "svg": "ui/feedback/correct.svg",
+      "png": "ui/feedback/correct.png",
+      "jpeg": "ui/feedback/correct.jpg",
+      "role": "ui/feedback",
+      "glyph": "check"
+    },
+    {
+      "id": "try-again",
+      "svg": "ui/feedback/try-again.svg",
+      "png": "ui/feedback/try-again.png",
+      "jpeg": "ui/feedback/try-again.jpg",
+      "role": "ui/feedback",
+      "glyph": "repeat"
+    },
+    {
+      "id": "completed",
+      "svg": "ui/feedback/completed.svg",
+      "png": "ui/feedback/completed.png",
+      "jpeg": "ui/feedback/completed.jpg",
+      "role": "ui/feedback",
+      "glyph": "star"
+    },
+    {
+      "id": "incorrect",
+      "svg": "ui/feedback/incorrect.svg",
+      "png": "ui/feedback/incorrect.png",
+      "jpeg": "ui/feedback/incorrect.jpg",
+      "role": "ui/feedback",
+      "glyph": "cross"
+    },
+    {
+      "id": "hint-used",
+      "svg": "ui/feedback/hint-used.svg",
+      "png": "ui/feedback/hint-used.png",
+      "jpeg": "ui/feedback/hint-used.jpg",
+      "role": "ui/feedback",
+      "glyph": "hint"
+    },
+    {
+      "id": "skipped",
+      "svg": "ui/feedback/skipped.svg",
+      "png": "ui/feedback/skipped.png",
+      "jpeg": "ui/feedback/skipped.jpg",
+      "role": "ui/feedback",
+      "glyph": "next"
+    },
+    {
+      "id": "patient-id",
+      "svg": "ui/patients/patient-id.svg",
+      "png": "ui/patients/patient-id.png",
+      "jpeg": "ui/patients/patient-id.jpg",
+      "role": "ui/patients",
+      "glyph": "users"
+    },
+    {
+      "id": "patient-history",
+      "svg": "ui/patients/patient-history.svg",
+      "png": "ui/patients/patient-history.png",
+      "jpeg": "ui/patients/patient-history.jpg",
+      "role": "ui/patients",
+      "glyph": "chart"
+    },
+    {
+      "id": "patient-lock",
+      "svg": "ui/patients/patient-lock.svg",
+      "png": "ui/patients/patient-lock.png",
+      "jpeg": "ui/patients/patient-lock.jpg",
+      "role": "ui/patients",
+      "glyph": "lock"
+    },
+    {
+      "id": "add-patient",
+      "svg": "ui/patients/add-patient.svg",
+      "png": "ui/patients/add-patient.png",
+      "jpeg": "ui/patients/add-patient.jpg",
+      "role": "ui/patients",
+      "glyph": "plus"
+    },
+    {
+      "id": "archive-patient",
+      "svg": "ui/patients/archive-patient.svg",
+      "png": "ui/patients/archive-patient.png",
+      "jpeg": "ui/patients/archive-patient.jpg",
+      "role": "ui/patients",
+      "glyph": "archive"
+    },
+    {
+      "id": "session-report",
+      "svg": "ui/reports/session-report.svg",
+      "png": "ui/reports/session-report.png",
+      "jpeg": "ui/reports/session-report.jpg",
+      "role": "ui/reports",
+      "glyph": "file"
+    },
+    {
+      "id": "progress-report",
+      "svg": "ui/reports/progress-report.svg",
+      "png": "ui/reports/progress-report.png",
+      "jpeg": "ui/reports/progress-report.jpg",
+      "role": "ui/reports",
+      "glyph": "chart"
+    },
+    {
+      "id": "export-pdf",
+      "svg": "ui/reports/export-pdf.svg",
+      "png": "ui/reports/export-pdf.png",
+      "jpeg": "ui/reports/export-pdf.jpg",
+      "role": "ui/reports",
+      "glyph": "download"
+    },
+    {
+      "id": "export-csv",
+      "svg": "ui/reports/export-csv.svg",
+      "png": "ui/reports/export-csv.png",
+      "jpeg": "ui/reports/export-csv.jpg",
+      "role": "ui/reports",
+      "glyph": "list"
+    },
+    {
+      "id": "print-report",
+      "svg": "ui/reports/print-report.svg",
+      "png": "ui/reports/print-report.png",
+      "jpeg": "ui/reports/print-report.jpg",
+      "role": "ui/reports",
+      "glyph": "print"
+    },
+    {
+      "id": "settings",
+      "svg": "ui/settings/settings.svg",
+      "png": "ui/settings/settings.png",
+      "jpeg": "ui/settings/settings.jpg",
+      "role": "ui/settings",
+      "glyph": "gear"
+    },
+    {
+      "id": "voice",
+      "svg": "ui/settings/voice.svg",
+      "png": "ui/settings/voice.png",
+      "jpeg": "ui/settings/voice.jpg",
+      "role": "ui/settings",
+      "glyph": "speaker"
+    },
+    {
+      "id": "offline",
+      "svg": "ui/settings/offline.svg",
+      "png": "ui/settings/offline.png",
+      "jpeg": "ui/settings/offline.jpg",
+      "role": "ui/settings",
+      "glyph": "cloud-off"
+    },
+    {
+      "id": "privacy",
+      "svg": "ui/settings/privacy.svg",
+      "png": "ui/settings/privacy.png",
+      "jpeg": "ui/settings/privacy.jpg",
+      "role": "ui/settings",
+      "glyph": "lock"
+    },
+    {
+      "id": "backup",
+      "svg": "ui/settings/backup.svg",
+      "png": "ui/settings/backup.png",
+      "jpeg": "ui/settings/backup.jpg",
+      "role": "ui/settings",
+      "glyph": "backup"
+    },
+    {
+      "id": "custom-words",
+      "svg": "ui/settings/custom-words.svg",
+      "png": "ui/settings/custom-words.png",
+      "jpeg": "ui/settings/custom-words.jpg",
+      "role": "ui/settings",
+      "glyph": "word"
+    },
+    {
+      "id": "image-credits",
+      "svg": "ui/settings/image-credits.svg",
+      "png": "ui/settings/image-credits.png",
+      "jpeg": "ui/settings/image-credits.jpg",
+      "role": "ui/settings",
+      "glyph": "picture"
+    },
+    {
+      "id": "accessibility",
+      "svg": "ui/settings/accessibility.svg",
+      "png": "ui/settings/accessibility.png",
+      "jpeg": "ui/settings/accessibility.jpg",
+      "role": "ui/settings",
+      "glyph": "eye"
+    },
+    {
+      "id": "tile",
+      "svg": "ui/controls/tile.svg",
+      "png": "ui/controls/tile.png",
+      "jpeg": "ui/controls/tile.jpg",
+      "role": "ui/controls",
+      "glyph": "letter"
+    },
+    {
+      "id": "answer-slot",
+      "svg": "ui/controls/answer-slot.svg",
+      "png": "ui/controls/answer-slot.png",
+      "jpeg": "ui/controls/answer-slot.jpg",
+      "role": "ui/controls",
+      "glyph": "blank"
+    },
+    {
+      "id": "choice",
+      "svg": "ui/controls/choice.svg",
+      "png": "ui/controls/choice.png",
+      "jpeg": "ui/controls/choice.jpg",
+      "role": "ui/controls",
+      "glyph": "check"
+    },
+    {
+      "id": "hint-control",
+      "svg": "ui/controls/hint-control.svg",
+      "png": "ui/controls/hint-control.png",
+      "jpeg": "ui/controls/hint-control.jpg",
+      "role": "ui/controls",
+      "glyph": "hint"
+    },
+    {
+      "id": "repeat-control",
+      "svg": "ui/controls/repeat-control.svg",
+      "png": "ui/controls/repeat-control.png",
+      "jpeg": "ui/controls/repeat-control.jpg",
+      "role": "ui/controls",
+      "glyph": "repeat"
+    },
+    {
+      "id": "record-control",
+      "svg": "ui/controls/record-control.svg",
+      "png": "ui/controls/record-control.png",
+      "jpeg": "ui/controls/record-control.jpg",
+      "role": "ui/controls",
+      "glyph": "microphone"
+    }
+  ],
+  "note": "Each icon has SVG, transparent PNG and cream-backed JPEG; SVG preferred for crisp UI."
+}

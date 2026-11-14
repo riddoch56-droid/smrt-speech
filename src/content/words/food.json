@@ -1,0 +1,1988 @@
+[
+  {
+    "id": "food-apple",
+    "word": "apple",
+    "group": "food",
+    "subgroup": "fruit",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-apple.webp",
+    "imagePrompt": "A single red apple with a short stem and one leaf",
+    "searchQuery": "red apple",
+    "cues": {
+      "definition": "A round crunchy fruit with red or green skin.",
+      "sentenceCompletion": "She took a big bite of a crisp green ___.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "ah",
+      "firstSyllable": "ap"
+    },
+    "semantic": {
+      "category": "It is a fruit.",
+      "use": "You eat it as a healthy snack.",
+      "action": "You bite it, or peel and slice it.",
+      "properties": "It is round, crunchy and sweet or sharp.",
+      "location": "You find it on a tree or in a fruit bowl.",
+      "association": "It makes me think of orchards and autumn."
+    },
+    "phonological": {
+      "firstSound": "a",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "chapel",
+      "sameFirstSound": "ant"
+    }
+  },
+  {
+    "id": "food-banana",
+    "word": "banana",
+    "group": "food",
+    "subgroup": "fruit",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-banana.webp",
+    "imagePrompt": "A single ripe yellow banana, slightly curved",
+    "searchQuery": "banana fruit",
+    "cues": {
+      "definition": "A long curved fruit with a yellow skin you peel.",
+      "sentenceCompletion": "A monkey in a cartoon always eats a ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "ba"
+    },
+    "semantic": {
+      "category": "It is a fruit.",
+      "use": "You eat it as a quick snack.",
+      "action": "You peel the skin back and bite it.",
+      "properties": "It is long, curved, yellow and soft inside.",
+      "location": "You find it in a bunch at the greengrocer.",
+      "association": "It makes me think of monkeys and slippery skins."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": "bandana",
+      "sameFirstSound": "balloon"
+    }
+  },
+  {
+    "id": "food-orange",
+    "word": "orange",
+    "group": "food",
+    "subgroup": "fruit",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-orange.webp",
+    "imagePrompt": "A single whole orange with a dimpled skin",
+    "searchQuery": "orange fruit",
+    "cues": {
+      "definition": "A round citrus fruit with a bright colour and a thick peel.",
+      "sentenceCompletion": "I peeled the ___ and shared the segments.",
+      "firstLetter": "o",
+      "firstSoundSpoken": "orr",
+      "firstSyllable": "or"
+    },
+    "semantic": {
+      "category": "It is a fruit.",
+      "use": "You eat it for vitamin C or squeeze it for a drink.",
+      "action": "You peel it and pull it into segments.",
+      "properties": "It is round, bright and juicy with a dimpled skin.",
+      "location": "You find it in a fruit bowl or on a tree in warm countries.",
+      "association": "It makes me think of breakfast and Spain."
+    },
+    "phonological": {
+      "firstSound": "o",
+      "lastSound": "j",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "octopus"
+    }
+  },
+  {
+    "id": "food-pear",
+    "word": "pear",
+    "group": "food",
+    "subgroup": "fruit",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-pear.webp",
+    "imagePrompt": "A single green pear with a short stalk",
+    "searchQuery": "pear fruit",
+    "cues": {
+      "definition": "A fruit that is narrow at the top and wide at the bottom.",
+      "sentenceCompletion": "I peeled and sliced a juicy ___ for pudding.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is a fruit.",
+      "use": "You eat it fresh or cook it in puddings.",
+      "action": "You bite it or slice it.",
+      "properties": "It is smooth, soft and juicy with a narrow top.",
+      "location": "You find it on a tree or in a fruit bowl.",
+      "association": "It makes me think of orchards and sweet juice."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "air",
+      "syllables": 1,
+      "rhyme": "chair",
+      "sameFirstSound": "pen"
+    }
+  },
+  {
+    "id": "food-plum",
+    "word": "plum",
+    "group": "food",
+    "subgroup": "fruit",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-plum.webp",
+    "imagePrompt": "A single purple plum with a dusty bloom on the skin",
+    "searchQuery": "purple plum",
+    "cues": {
+      "definition": "A small round fruit with dark purple skin and a hard stone inside.",
+      "sentenceCompletion": "The jam was made from ripe purple ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is a fruit.",
+      "use": "You eat it fresh or make it into jam.",
+      "action": "You bite round the stone and spit it out.",
+      "properties": "It is small, smooth, purple and juicy.",
+      "location": "You find it on a tree or at the market.",
+      "association": "It makes me think of summer and jam."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "drum",
+      "sameFirstSound": "pencil"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "food-grapes",
+    "word": "grapes",
+    "group": "food",
+    "subgroup": "fruit",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-grapes.webp",
+    "imagePrompt": "A bunch of green grapes hanging together on a stem",
+    "searchQuery": "bunch of grapes",
+    "cues": {
+      "definition": "Small round fruit that grow in bunches and can be green or purple.",
+      "sentenceCompletion": "At the cinema she ate a bunch of juicy red ___.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh"
+    },
+    "semantic": {
+      "category": "They are a fruit.",
+      "use": "You eat them as a snack or make them into wine.",
+      "action": "You pick them off the stem and pop them in your mouth.",
+      "properties": "They are small, round, smooth and sweet.",
+      "location": "You find them on a vine or in a fruit bowl.",
+      "association": "They make me think of vineyards and raisins."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "shapes",
+      "sameFirstSound": "garden"
+    }
+  },
+  {
+    "id": "food-lemon",
+    "word": "lemon",
+    "group": "food",
+    "subgroup": "fruit",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-lemon.webp",
+    "imagePrompt": "A single whole yellow lemon",
+    "searchQuery": "yellow lemon",
+    "cues": {
+      "definition": "A sour yellow citrus fruit.",
+      "sentenceCompletion": "I squeezed fresh ___ juice over the pancakes.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh",
+      "firstSyllable": "lem"
+    },
+    "semantic": {
+      "category": "It is a fruit.",
+      "use": "You squeeze it to add a sharp taste to food and drinks.",
+      "action": "You slice it and squeeze out the juice.",
+      "properties": "It is yellow, oval and very sour.",
+      "location": "You find it in the fruit aisle or in the kitchen.",
+      "association": "It makes me think of gin and tonic and pancake day."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "ladder"
+    }
+  },
+  {
+    "id": "food-strawberry",
+    "word": "strawberry",
+    "group": "food",
+    "subgroup": "fruit",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-strawberry.webp",
+    "imagePrompt": "A single red strawberry with a green leafy top",
+    "searchQuery": "strawberry fruit",
+    "cues": {
+      "definition": "A small red fruit with tiny seeds on the outside.",
+      "sentenceCompletion": "At Wimbledon they serve ___ and cream.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "straw"
+    },
+    "semantic": {
+      "category": "It is a fruit.",
+      "use": "You eat it fresh, in desserts or made into jam.",
+      "action": "You pick it off the plant and pull off the green top.",
+      "properties": "It is red, heart-shaped, juicy and sweet.",
+      "location": "You find it in a garden or in a punnet at the shop.",
+      "association": "It makes me think of summer and tennis."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ee",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "food-leek",
+    "word": "leek",
+    "group": "food",
+    "subgroup": "vegetables",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-leek.webp",
+    "imagePrompt": "A single fresh leek with a white base and green leaves",
+    "searchQuery": "leek vegetable",
+    "cues": {
+      "definition": "A long vegetable with a white base and green leaves, related to the onion.",
+      "sentenceCompletion": "The Welsh wear a daffodil or a ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh"
+    },
+    "semantic": {
+      "category": "It is a vegetable.",
+      "use": "You cook it in soups and pies.",
+      "action": "You wash it and slice it into rings.",
+      "properties": "It is long, thick, white at one end and green at the other.",
+      "location": "You find it in the vegetable aisle or in a field.",
+      "association": "It makes me think of Wales and soup."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "week",
+      "sameFirstSound": "lamp"
+    }
+  },
+  {
+    "id": "food-carrot",
+    "word": "carrot",
+    "group": "food",
+    "subgroup": "vegetables",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-carrot.webp",
+    "imagePrompt": "A single orange carrot with a few green leaves on top",
+    "searchQuery": "carrot",
+    "cues": {
+      "definition": "A long orange vegetable that grows underground.",
+      "sentenceCompletion": "Rabbits love to nibble a crunchy ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "car"
+    },
+    "semantic": {
+      "category": "It is a vegetable.",
+      "use": "You eat it raw or boiled with a roast dinner.",
+      "action": "You peel it and chop it into sticks or slices.",
+      "properties": "It is long, thin, orange and crunchy.",
+      "location": "You find it in the ground, in a field or in the fridge.",
+      "association": "It makes me think of rabbits and good eyesight."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "parrot",
+      "sameFirstSound": "key"
+    }
+  },
+  {
+    "id": "food-potato",
+    "word": "potato",
+    "group": "food",
+    "subgroup": "vegetables",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-potato.webp",
+    "imagePrompt": "A single whole brown potato with a rough skin",
+    "searchQuery": "potato",
+    "cues": {
+      "definition": "A round vegetable that grows underground and can be boiled, mashed or fried.",
+      "sentenceCompletion": "I would like roast ___ with my Sunday dinner.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "po"
+    },
+    "semantic": {
+      "category": "It is a vegetable.",
+      "use": "You cook it as a main part of a meal.",
+      "action": "You peel it, then boil, bake, mash or roast it.",
+      "properties": "It is brown, lumpy and starchy.",
+      "location": "You find it in a sack in the kitchen or in a field.",
+      "association": "It makes me think of chips and mash."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "oh",
+      "syllables": 3,
+      "rhyme": "tomato",
+      "sameFirstSound": "pencil"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "food-onion",
+    "word": "onion",
+    "group": "food",
+    "subgroup": "vegetables",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-onion.webp",
+    "imagePrompt": "A single whole brown onion with papery skin",
+    "searchQuery": "brown onion",
+    "cues": {
+      "definition": "A round vegetable with papery skin and layers that can make you cry.",
+      "sentenceCompletion": "Chopping an ___ always makes my eyes water.",
+      "firstLetter": "o",
+      "firstSoundSpoken": "uh",
+      "firstSyllable": "on"
+    },
+    "semantic": {
+      "category": "It is a vegetable.",
+      "use": "You cook it to add flavour to many savoury meals.",
+      "action": "You peel it and chop it, and it makes you cry.",
+      "properties": "It is round, layered and has a strong smell.",
+      "location": "You find it in the kitchen or on a burger.",
+      "association": "It makes me think of tears and frying."
+    },
+    "phonological": {
+      "firstSound": "u",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "bunion",
+      "sameFirstSound": "umbrella"
+    }
+  },
+  {
+    "id": "food-cabbage",
+    "word": "cabbage",
+    "group": "food",
+    "subgroup": "vegetables",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-cabbage.webp",
+    "imagePrompt": "A single whole green cabbage",
+    "searchQuery": "green cabbage",
+    "cues": {
+      "definition": "A large round vegetable made of tightly packed green leaves.",
+      "sentenceCompletion": "Cut up the ___ and boil it for a few minutes.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cab"
+    },
+    "semantic": {
+      "category": "It is a vegetable.",
+      "use": "You boil it or shred it to eat with a meal.",
+      "action": "You cut it up and boil it or shred it raw.",
+      "properties": "It is large, round, green and leafy.",
+      "location": "You find it in a field, in a garden or at the greengrocer.",
+      "association": "It makes me think of coleslaw and school dinners."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "j",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "cat"
+    }
+  },
+  {
+    "id": "food-broccoli",
+    "word": "broccoli",
+    "group": "food",
+    "subgroup": "vegetables",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-broccoli.webp",
+    "imagePrompt": "A single head of fresh green broccoli",
+    "searchQuery": "broccoli",
+    "cues": {
+      "definition": "A green vegetable that looks like a small tree.",
+      "sentenceCompletion": "The doctor told me to eat more green vegetables, like ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "broc"
+    },
+    "semantic": {
+      "category": "It is a vegetable.",
+      "use": "You steam or boil it as a healthy side dish.",
+      "action": "You cut it into florets and steam it.",
+      "properties": "It is green, bumpy and shaped like a little tree.",
+      "location": "You find it in the vegetable aisle or in the freezer.",
+      "association": "It makes me think of healthy eating and trees."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ee",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "boat"
+    }
+  },
+  {
+    "id": "food-cucumber",
+    "word": "cucumber",
+    "group": "food",
+    "subgroup": "vegetables",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-cucumber.webp",
+    "imagePrompt": "A single whole green cucumber",
+    "searchQuery": "green cucumber",
+    "cues": {
+      "definition": "A long green vegetable that is cool and watery inside.",
+      "sentenceCompletion": "There was a slice of ___ in the sandwiches.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cu"
+    },
+    "semantic": {
+      "category": "It is a vegetable.",
+      "use": "You eat it raw in salads and sandwiches.",
+      "action": "You peel it and slice it.",
+      "properties": "It is long, green, smooth and juicy.",
+      "location": "You find it in the fridge or in a salad.",
+      "association": "It makes me think of salads and summer picnics."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "camera"
+    }
+  },
+  {
+    "id": "food-cauliflower",
+    "word": "cauliflower",
+    "group": "food",
+    "subgroup": "vegetables",
+    "wordClass": "noun",
+    "letters": 11,
+    "syllables": 4,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-cauliflower.webp",
+    "imagePrompt": "A single whole white cauliflower with green leaves around the base",
+    "searchQuery": "cauliflower",
+    "cues": {
+      "definition": "A vegetable with a large white head made of tight little clusters.",
+      "sentenceCompletion": "My favourite Sunday dish is ___ with cheese sauce.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cau"
+    },
+    "semantic": {
+      "category": "It is a vegetable.",
+      "use": "You boil, roast or bake it as a side dish.",
+      "action": "You cut it into pieces and boil or roast it.",
+      "properties": "It is white, bumpy and round with green leaves.",
+      "location": "You find it in the vegetable aisle or in a field.",
+      "association": "It makes me think of cheese sauce and roast dinners."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "er",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "kettle"
+    }
+  },
+  {
+    "id": "food-bread",
+    "word": "bread",
+    "group": "food",
+    "subgroup": "bakery and breakfast",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-bread.webp",
+    "imagePrompt": "A sliced loaf of brown bread on a board",
+    "searchQuery": "loaf of bread",
+    "cues": {
+      "definition": "A food made from baked dough that you slice and eat.",
+      "sentenceCompletion": "I need to buy a loaf of ___ and some milk.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a baked food.",
+      "use": "You eat it with meals or make sandwiches and toast.",
+      "action": "You slice it and spread it with butter.",
+      "properties": "It is soft or crusty, and brown or white.",
+      "location": "You find it in a bakery, a shop or a bin on the worktop.",
+      "association": "It makes me think of the baker and fresh baking smells."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "head",
+      "sameFirstSound": "bus"
+    }
+  },
+  {
+    "id": "food-toast",
+    "word": "toast",
+    "group": "food",
+    "subgroup": "bakery and breakfast",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-toast.webp",
+    "imagePrompt": "A single slice of golden toast on a white background",
+    "searchQuery": "slice of toast",
+    "cues": {
+      "definition": "Bread that has been heated until it is crisp and brown.",
+      "sentenceCompletion": "He had butter and jam on his ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is a breakfast food.",
+      "use": "You eat it for breakfast with butter or jam.",
+      "action": "You heat a slice of bread until it is brown and crisp.",
+      "properties": "It is crisp, warm and golden brown.",
+      "location": "You find it on the breakfast table.",
+      "association": "It makes me think of breakfast and the smell of morning."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "most",
+      "sameFirstSound": "table"
+    }
+  },
+  {
+    "id": "food-bun",
+    "word": "bun",
+    "group": "food",
+    "subgroup": "bakery and breakfast",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-bun.webp",
+    "imagePrompt": "A single round bread bun on a plain background",
+    "searchQuery": "bread bun",
+    "cues": {
+      "definition": "A small round soft bread roll, often sweet.",
+      "sentenceCompletion": "She split the hot cross ___ and spread butter on it.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a baked food.",
+      "use": "You eat it as a snack or with a filling.",
+      "action": "You split it open and fill it or butter it.",
+      "properties": "It is small, round and soft.",
+      "location": "You find it in a bakery or a cafe.",
+      "association": "It makes me think of Easter and the bakery."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "sun",
+      "sameFirstSound": "bed"
+    }
+  },
+  {
+    "id": "food-croissant",
+    "word": "croissant",
+    "group": "food",
+    "subgroup": "bakery and breakfast",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-croissant.webp",
+    "imagePrompt": "A single golden croissant, crescent shaped",
+    "searchQuery": "croissant",
+    "cues": {
+      "definition": "A curved, flaky pastry that is often eaten for breakfast in France.",
+      "sentenceCompletion": "With my coffee I had a buttery ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "crois"
+    },
+    "semantic": {
+      "category": "It is a pastry.",
+      "use": "You eat it for breakfast or a snack.",
+      "action": "You tear off pieces and dunk or butter them.",
+      "properties": "It is curved, golden and flaky.",
+      "location": "You find it in a bakery or a cafe.",
+      "association": "It makes me think of Paris and morning coffee."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "car"
+    }
+  },
+  {
+    "id": "food-crumpet",
+    "word": "crumpet",
+    "group": "food",
+    "subgroup": "bakery and breakfast",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-crumpet.webp",
+    "imagePrompt": "A single round crumpet with a holey top",
+    "searchQuery": "crumpet",
+    "cues": {
+      "definition": "A round, flat, spongy bread with holes on top, eaten toasted.",
+      "sentenceCompletion": "On a cold day I like a hot buttered ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "crum"
+    },
+    "semantic": {
+      "category": "It is a bread product.",
+      "use": "You toast it and eat it with butter or jam.",
+      "action": "You toast it until the butter melts into the holes.",
+      "properties": "It is round, flat, spongy and full of holes.",
+      "location": "You find it at the breakfast table or in the bakery aisle.",
+      "association": "It makes me think of cold afternoons and warm butter."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "cow"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "food-porridge",
+    "word": "porridge",
+    "group": "food",
+    "subgroup": "bakery and breakfast",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-porridge.webp",
+    "imagePrompt": "A serving of creamy porridge topped with berries, seen from above",
+    "searchQuery": "serving of porridge",
+    "cues": {
+      "definition": "A hot, thick breakfast made from boiled oats.",
+      "sentenceCompletion": "On cold mornings I make a warm pot of ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "por"
+    },
+    "semantic": {
+      "category": "It is a breakfast food.",
+      "use": "You eat it hot to start the day.",
+      "action": "You stir the oats in a pan with milk until thick.",
+      "properties": "It is warm, creamy and thick.",
+      "location": "You find it at the breakfast table.",
+      "association": "It makes me think of Scotland and winter mornings."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "j",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "pocket"
+    }
+  },
+  {
+    "id": "food-cereal",
+    "word": "cereal",
+    "group": "food",
+    "subgroup": "bakery and breakfast",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-cereal.webp",
+    "imagePrompt": "A serving of breakfast cereal flakes with milk, shown from above",
+    "searchQuery": "breakfast cereal",
+    "cues": {
+      "definition": "Crunchy flakes or grains you eat with milk for breakfast.",
+      "sentenceCompletion": "Every morning I pour milk on my ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "ce"
+    },
+    "semantic": {
+      "category": "It is a breakfast food.",
+      "use": "You eat it as a quick breakfast.",
+      "action": "You pour it out and add milk.",
+      "properties": "It is dry, crunchy and comes in flakes or hoops.",
+      "location": "You find it in the cupboard or at the breakfast table.",
+      "association": "It makes me think of mornings and cartoon mascots."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": "serial",
+      "sameFirstSound": "sock"
+    }
+  },
+  {
+    "id": "food-muffin",
+    "word": "muffin",
+    "group": "food",
+    "subgroup": "bakery and breakfast",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-muffin.webp",
+    "imagePrompt": "A single baked blueberry muffin in a paper case",
+    "searchQuery": "blueberry muffin",
+    "cues": {
+      "definition": "A small round cake baked in a paper case.",
+      "sentenceCompletion": "She bought a coffee and a blueberry ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "muf"
+    },
+    "semantic": {
+      "category": "It is a baked cake.",
+      "use": "You eat it as a snack with coffee.",
+      "action": "You peel off the paper case and bite into it.",
+      "properties": "It is round, soft and has a rounded top.",
+      "location": "You find it in a cafe or a bakery.",
+      "association": "It makes me think of cafes and coffee breaks."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "puffin",
+      "sameFirstSound": "moon"
+    }
+  },
+  {
+    "id": "food-egg",
+    "word": "egg",
+    "group": "food",
+    "subgroup": "dairy and eggs",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-egg.webp",
+    "imagePrompt": "A single whole white hen egg on a plain surface",
+    "searchQuery": "hen egg",
+    "cues": {
+      "definition": "An oval food with a hard shell, a white and a yolk.",
+      "sentenceCompletion": "For breakfast I had a boiled ___.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "eh"
+    },
+    "semantic": {
+      "category": "It is a food from a hen.",
+      "use": "You eat it boiled, fried or scrambled for protein.",
+      "action": "You crack the shell and cook it.",
+      "properties": "It is oval, smooth and has a fragile shell.",
+      "location": "You find it in the fridge or on a farm.",
+      "association": "It makes me think of breakfast and Easter."
+    },
+    "phonological": {
+      "firstSound": "e",
+      "lastSound": "g",
+      "syllables": 1,
+      "rhyme": "leg",
+      "sameFirstSound": "elbow"
+    }
+  },
+  {
+    "id": "food-milk",
+    "word": "milk",
+    "group": "food",
+    "subgroup": "dairy and eggs",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-milk.webp",
+    "imagePrompt": "A tall jug of fresh milk on a plain background",
+    "searchQuery": "jug of milk",
+    "cues": {
+      "definition": "A white drink that comes from cows.",
+      "sentenceCompletion": "Can you put some ___ in my tea?",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm"
+    },
+    "semantic": {
+      "category": "It is a dairy product.",
+      "use": "You drink it or pour it on cereal and into tea.",
+      "action": "You pour it and drink it cold.",
+      "properties": "It is white, creamy and cold.",
+      "location": "You find it in the fridge or on the doorstep.",
+      "association": "It makes me think of cows and cereal."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "silk",
+      "sameFirstSound": "mirror"
+    }
+  },
+  {
+    "id": "food-cheese",
+    "word": "cheese",
+    "group": "food",
+    "subgroup": "dairy and eggs",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-cheese.webp",
+    "imagePrompt": "A wedge of yellow cheddar cheese on a plain background",
+    "searchQuery": "wedge of cheese",
+    "cues": {
+      "definition": "A solid food made from milk, often yellow, that can be sliced or grated.",
+      "sentenceCompletion": "I would like a ham and ___ sandwich.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch"
+    },
+    "semantic": {
+      "category": "It is a dairy product.",
+      "use": "You eat it in sandwiches or grated on pasta.",
+      "action": "You slice it, grate it or melt it.",
+      "properties": "It is firm, yellow and sometimes crumbly or smelly.",
+      "location": "You find it in the fridge or at the deli.",
+      "association": "It makes me think of mice and pizza."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "please",
+      "sameFirstSound": "chair"
+    }
+  },
+  {
+    "id": "food-butter",
+    "word": "butter",
+    "group": "food",
+    "subgroup": "dairy and eggs",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-butter.webp",
+    "imagePrompt": "A block of butter partly unwrapped on a plain background",
+    "searchQuery": "block of butter",
+    "cues": {
+      "definition": "A soft yellow fat made from cream that you spread on bread.",
+      "sentenceCompletion": "Spread some ___ on my toast, please.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "but"
+    },
+    "semantic": {
+      "category": "It is a dairy product.",
+      "use": "You spread it on bread or use it in cooking.",
+      "action": "You cut a piece and spread it with a knife.",
+      "properties": "It is soft, yellow and smooth, and melts when warm.",
+      "location": "You find it in the fridge.",
+      "association": "It makes me think of toast and baking."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "gutter",
+      "sameFirstSound": "ball"
+    }
+  },
+  {
+    "id": "food-yoghurt",
+    "word": "yoghurt",
+    "group": "food",
+    "subgroup": "dairy and eggs",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-yoghurt.webp",
+    "imagePrompt": "A white pot of plain yoghurt with a spoon, no label",
+    "searchQuery": "pot of yoghurt",
+    "cues": {
+      "definition": "A thick, creamy food made from milk, often eaten from a small pot.",
+      "sentenceCompletion": "For pudding I had a fruit ___.",
+      "firstLetter": "y",
+      "firstSoundSpoken": "yuh",
+      "firstSyllable": "yog"
+    },
+    "semantic": {
+      "category": "It is a dairy product.",
+      "use": "You eat it as a snack or with fruit.",
+      "action": "You peel off the lid and eat it with a spoon.",
+      "properties": "It is thick, smooth, cool and sometimes sour.",
+      "location": "You find it in the fridge.",
+      "association": "It makes me think of breakfast and healthy eating."
+    },
+    "phonological": {
+      "firstSound": "y",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "yacht"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "food-cream",
+    "word": "cream",
+    "group": "food",
+    "subgroup": "dairy and eggs",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-cream.webp",
+    "imagePrompt": "A jug of thick double cream, plain and unlabelled",
+    "searchQuery": "double cream",
+    "cues": {
+      "definition": "A thick white liquid that is taken from the top of milk.",
+      "sentenceCompletion": "She poured some ___ over the strawberries.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is a dairy product.",
+      "use": "You pour it on puddings or whip it.",
+      "action": "You whip it into soft peaks with a whisk.",
+      "properties": "It is thick, white and rich.",
+      "location": "You find it in the fridge.",
+      "association": "It makes me think of strawberries and scones."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "dream",
+      "sameFirstSound": "king"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "food-soup",
+    "word": "soup",
+    "group": "food",
+    "subgroup": "meals and savoury dishes",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-soup.webp",
+    "imagePrompt": "A serving of tomato soup with a spoon, seen from above",
+    "searchQuery": "serving of soup",
+    "cues": {
+      "definition": "A hot liquid food made from vegetables or meat in a stock.",
+      "sentenceCompletion": "On a cold day I warm up with a hot bowl of ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a hot dish.",
+      "use": "You eat it as a starter or a light meal.",
+      "action": "You heat it and sip it with a spoon.",
+      "properties": "It is hot, thin or thick and often has pieces in it.",
+      "location": "You find it in a tin or in a pan.",
+      "association": "It makes me think of lunch and colds."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "group",
+      "sameFirstSound": "sofa"
+    }
+  },
+  {
+    "id": "food-sandwich",
+    "word": "sandwich",
+    "group": "food",
+    "subgroup": "meals and savoury dishes",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-sandwich.webp",
+    "imagePrompt": "A sandwich cut in two triangles, showing the filling",
+    "searchQuery": "ham sandwich",
+    "cues": {
+      "definition": "Two slices of bread with a filling in between.",
+      "sentenceCompletion": "For lunch I had a cheese and pickle ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sand"
+    },
+    "semantic": {
+      "category": "It is a light meal.",
+      "use": "You eat it for lunch or a picnic.",
+      "action": "You put the filling between two slices of bread and bite.",
+      "properties": "It is flat and made of bread with a filling.",
+      "location": "You find it in a lunch box, a shop or a picnic.",
+      "association": "It makes me think of picnics and packed lunches."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "j",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "sock"
+    }
+  },
+  {
+    "id": "food-pizza",
+    "word": "pizza",
+    "group": "food",
+    "subgroup": "meals and savoury dishes",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-pizza.webp",
+    "imagePrompt": "A whole round pizza with melted cheese and toppings, from above",
+    "searchQuery": "whole pizza",
+    "cues": {
+      "definition": "A flat round Italian dish with a tomato and cheese topping.",
+      "sentenceCompletion": "On Friday night we ordered a takeaway ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "piz"
+    },
+    "semantic": {
+      "category": "It is a meal from Italy.",
+      "use": "You eat it for dinner or a takeaway.",
+      "action": "You cut it into slices and eat it with your hands.",
+      "properties": "It is flat, round, hot and cheesy.",
+      "location": "You find it at a restaurant, in a takeaway or in the freezer.",
+      "association": "It makes me think of Italy and takeaways."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "pen"
+    }
+  },
+  {
+    "id": "food-sausage",
+    "word": "sausage",
+    "group": "food",
+    "subgroup": "meals and savoury dishes",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-sausage.webp",
+    "imagePrompt": "A single cooked sausage on a plain background",
+    "searchQuery": "cooked sausage",
+    "cues": {
+      "definition": "A tube of minced meat in a skin that you fry or grill.",
+      "sentenceCompletion": "The full English has bacon, eggs and a ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sau"
+    },
+    "semantic": {
+      "category": "It is a meat food.",
+      "use": "You eat it for breakfast, in a roll or with mash.",
+      "action": "You fry or grill it until it is brown.",
+      "properties": "It is long, round, brown and juicy.",
+      "location": "You find it in the butcher, in the fridge or at a barbecue.",
+      "association": "It makes me think of barbecues and Bonfire Night."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "j",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "food-bacon",
+    "word": "bacon",
+    "group": "food",
+    "subgroup": "meals and savoury dishes",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-bacon.webp",
+    "imagePrompt": "Three rashers of cooked streaky bacon on a plain background",
+    "searchQuery": "bacon rashers",
+    "cues": {
+      "definition": "Thin salty slices of cured pork, fried or grilled.",
+      "sentenceCompletion": "I love a roll with crispy ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "ba"
+    },
+    "semantic": {
+      "category": "It is a meat food.",
+      "use": "You eat it for breakfast or in a sandwich.",
+      "action": "You fry or grill it until it is crisp.",
+      "properties": "It is salty, smoky, and striped pink and white.",
+      "location": "You find it in the fridge or in a frying pan.",
+      "association": "It makes me think of a fry-up and the smell of breakfast."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "taken",
+      "sameFirstSound": "bag"
+    }
+  },
+  {
+    "id": "food-steak",
+    "word": "steak",
+    "group": "food",
+    "subgroup": "meals and savoury dishes",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-steak.webp",
+    "imagePrompt": "A single cooked steak with grill marks on a plain background",
+    "searchQuery": "cooked steak",
+    "cues": {
+      "definition": "A thick slice of beef that is grilled or fried.",
+      "sentenceCompletion": "He ordered a medium rare ___ and chips.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a meat food.",
+      "use": "You eat it as the main part of a meal.",
+      "action": "You fry or grill it and cut it with a knife.",
+      "properties": "It is thick, brown and juicy.",
+      "location": "You find it at a restaurant or in the butcher.",
+      "association": "It makes me think of a pub dinner and chips."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "lake",
+      "sameFirstSound": "sea"
+    }
+  },
+  {
+    "id": "food-burger",
+    "word": "burger",
+    "group": "food",
+    "subgroup": "meals and savoury dishes",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-burger.webp",
+    "imagePrompt": "A burger in a bun with salad, from the side, no wrapper",
+    "searchQuery": "hamburger",
+    "cues": {
+      "definition": "A round meat patty served in a bun.",
+      "sentenceCompletion": "At the barbecue he put a ___ in a bun.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bur"
+    },
+    "semantic": {
+      "category": "It is a fast food.",
+      "use": "You eat it for lunch or a takeaway.",
+      "action": "You hold it in both hands and bite it.",
+      "properties": "It is round, juicy and stacked in a bun.",
+      "location": "You find it at a barbecue, a cafe or a takeaway.",
+      "association": "It makes me think of barbecues and fast food."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "book"
+    }
+  },
+  {
+    "id": "food-spaghetti",
+    "word": "spaghetti",
+    "group": "food",
+    "subgroup": "meals and savoury dishes",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-spaghetti.webp",
+    "imagePrompt": "A heap of cooked spaghetti with tomato sauce, seen from above",
+    "searchQuery": "spaghetti with sauce",
+    "cues": {
+      "definition": "Long thin strands of pasta.",
+      "sentenceCompletion": "Twirl the ___ round your fork.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "spa"
+    },
+    "semantic": {
+      "category": "It is a pasta dish.",
+      "use": "You eat it for dinner with a sauce.",
+      "action": "You boil it and twirl it on a fork.",
+      "properties": "It is long, thin and slippery.",
+      "location": "You find it in a packet in the cupboard or at an Italian restaurant.",
+      "association": "It makes me think of Italy and bolognese."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ee",
+      "syllables": 3,
+      "rhyme": "confetti",
+      "sameFirstSound": "spider"
+    }
+  },
+  {
+    "id": "food-pie",
+    "word": "pie",
+    "group": "food",
+    "subgroup": "meals and savoury dishes",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-pie.webp",
+    "imagePrompt": "A whole baked pie with a golden crust on a plain background",
+    "searchQuery": "baked meat pie",
+    "cues": {
+      "definition": "A baked dish with pastry on the outside and a filling inside.",
+      "sentenceCompletion": "For dinner we had a steak and kidney ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is a baked dish.",
+      "use": "You eat it hot for dinner.",
+      "action": "You cut it into slices and serve it.",
+      "properties": "It is round, golden and crusty.",
+      "location": "You find it in the oven or at the bakery.",
+      "association": "It makes me think of pubs and gravy."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "eye",
+      "syllables": 1,
+      "rhyme": "sky",
+      "sameFirstSound": "pen"
+    }
+  },
+  {
+    "id": "food-cake",
+    "word": "cake",
+    "group": "food",
+    "subgroup": "sweet things and snacks",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-cake.webp",
+    "imagePrompt": "A single iced sponge cake on a plain background",
+    "searchQuery": "sponge cake",
+    "cues": {
+      "definition": "A sweet baked food, often for a party.",
+      "sentenceCompletion": "Everyone sang as she blew out the candles on her birthday ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is a sweet food.",
+      "use": "You eat it at parties and with tea.",
+      "action": "You slice it and share it out.",
+      "properties": "It is soft, sweet and sometimes iced.",
+      "location": "You find it in a bakery or at a party.",
+      "association": "It makes me think of birthdays and candles."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "lake",
+      "sameFirstSound": "car"
+    }
+  },
+  {
+    "id": "food-biscuit",
+    "word": "biscuit",
+    "group": "food",
+    "subgroup": "sweet things and snacks",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-biscuit.webp",
+    "imagePrompt": "A single round plain biscuit on a plain background",
+    "searchQuery": "plain biscuit",
+    "cues": {
+      "definition": "A small, flat, dry, sweet baked treat that you dip in tea.",
+      "sentenceCompletion": "He dunked his ___ in his tea.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bis"
+    },
+    "semantic": {
+      "category": "It is a sweet snack.",
+      "use": "You eat it with a hot drink.",
+      "action": "You dunk it in tea and eat it.",
+      "properties": "It is small, flat, dry and crunchy.",
+      "location": "You find it in a tin or in the cupboard.",
+      "association": "It makes me think of a cuppa and a tin of treats."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bike"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "food-chocolate",
+    "word": "chocolate",
+    "group": "food",
+    "subgroup": "sweet things and snacks",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-chocolate.webp",
+    "imagePrompt": "A single bar of chocolate with some squares broken off, unlabelled",
+    "searchQuery": "chocolate bar",
+    "cues": {
+      "definition": "A sweet brown food made from cocoa.",
+      "sentenceCompletion": "She gave me a box of ___ for Valentine day.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch",
+      "firstSyllable": "choc"
+    },
+    "semantic": {
+      "category": "It is a sweet food.",
+      "use": "You eat it as a treat or a gift.",
+      "action": "You break off a piece and let it melt in your mouth.",
+      "properties": "It is brown, sweet and melts when warm.",
+      "location": "You find it in a shop, in a box or in the cupboard.",
+      "association": "It makes me think of Easter and Valentine gifts."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "chair"
+    }
+  },
+  {
+    "id": "food-crisps",
+    "word": "crisps",
+    "group": "food",
+    "subgroup": "sweet things and snacks",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-crisps.webp",
+    "imagePrompt": "A small pile of potato crisps on a plain white background",
+    "searchQuery": "potato crisps",
+    "cues": {
+      "definition": "Thin slices of potato fried until crunchy, eaten from a packet.",
+      "sentenceCompletion": "At the pub he had a packet of salt and vinegar ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "They are a salty snack.",
+      "use": "You eat them as a snack.",
+      "action": "You open the packet and munch them.",
+      "properties": "They are thin, salty and crunchy.",
+      "location": "You find them at the pub or in a lunch box.",
+      "association": "They make me think of the pub and a packed lunch."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "wisps",
+      "sameFirstSound": "cow"
+    }
+  },
+  {
+    "id": "food-jam",
+    "word": "jam",
+    "group": "food",
+    "subgroup": "sweet things and snacks",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-jam.webp",
+    "imagePrompt": "An open jar of strawberry jam with a spoon, label removed",
+    "searchQuery": "jar of jam",
+    "cues": {
+      "definition": "A sweet sticky fruit spread for bread and scones.",
+      "sentenceCompletion": "She spread strawberry ___ on her toast.",
+      "firstLetter": "j",
+      "firstSoundSpoken": "juh"
+    },
+    "semantic": {
+      "category": "It is a sweet spread.",
+      "use": "You spread it on bread or scones.",
+      "action": "You scoop it with a knife and spread it.",
+      "properties": "It is sticky, sweet and red or purple.",
+      "location": "You find it in a jar in the cupboard.",
+      "association": "It makes me think of scones and toast."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "ham",
+      "sameFirstSound": "jug"
+    }
+  },
+  {
+    "id": "food-honey",
+    "word": "honey",
+    "group": "food",
+    "subgroup": "sweet things and snacks",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-honey.webp",
+    "imagePrompt": "A jar of golden honey with a wooden dipper, no label",
+    "searchQuery": "jar of honey",
+    "cues": {
+      "definition": "A sweet sticky golden food made by bees.",
+      "sentenceCompletion": "Bees make sweet golden ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hon"
+    },
+    "semantic": {
+      "category": "It is a sweet food.",
+      "use": "You eat it on toast or put it in tea.",
+      "action": "You drizzle it with a spoon.",
+      "properties": "It is golden, thick and sticky.",
+      "location": "You find it in a jar or in a hive.",
+      "association": "It makes me think of bees."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "money",
+      "sameFirstSound": "hat"
+    }
+  },
+  {
+    "id": "food-doughnut",
+    "word": "doughnut",
+    "group": "food",
+    "subgroup": "sweet things and snacks",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-doughnut.webp",
+    "imagePrompt": "A single ring doughnut with icing on a plain background",
+    "searchQuery": "ring doughnut",
+    "cues": {
+      "definition": "A sweet fried ring of dough, often iced or sugared.",
+      "sentenceCompletion": "At the fair I bought a sugary ___.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "dough"
+    },
+    "semantic": {
+      "category": "It is a sweet food.",
+      "use": "You eat it as a treat.",
+      "action": "You bite into it and sugar goes everywhere.",
+      "properties": "It is round, soft, sweet and has a hole in the middle.",
+      "location": "You find it in a bakery or at a fair.",
+      "association": "It makes me think of fairs and sticky fingers."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "door"
+    }
+  },
+  {
+    "id": "food-popcorn",
+    "word": "popcorn",
+    "group": "food",
+    "subgroup": "sweet things and snacks",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-popcorn.webp",
+    "imagePrompt": "A small heap of white popcorn on a plain background",
+    "searchQuery": "popcorn",
+    "cues": {
+      "definition": "Puffed white kernels that are eaten at the cinema.",
+      "sentenceCompletion": "At the cinema I always buy a tub of ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pop"
+    },
+    "semantic": {
+      "category": "It is a snack.",
+      "use": "You eat it at the cinema.",
+      "action": "You scoop it out of a tub and munch it.",
+      "properties": "It is light, puffy, white and crunchy.",
+      "location": "You find it at the cinema or in a microwave.",
+      "association": "It makes me think of films and the cinema."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "pillow"
+    }
+  },
+  {
+    "id": "food-tea",
+    "word": "tea",
+    "group": "food",
+    "subgroup": "drinks",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-tea.webp",
+    "imagePrompt": "A single tea bag with a string and a blank tag on a white background",
+    "searchQuery": "tea bag",
+    "cues": {
+      "definition": "A hot brown drink made from dried leaves and boiling water.",
+      "sentenceCompletion": "Shall I put the kettle on and make a pot of ___?",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is a hot drink.",
+      "use": "You drink it to warm up and relax.",
+      "action": "You pour on boiling water and add milk.",
+      "properties": "It is hot, brown and a little bitter.",
+      "location": "You find it in the kitchen or at a cafe.",
+      "association": "It makes me think of the British afternoon and biscuits."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "ee",
+      "syllables": 1,
+      "rhyme": "sea",
+      "sameFirstSound": "table"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "food-coffee",
+    "word": "coffee",
+    "group": "food",
+    "subgroup": "drinks",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-coffee.webp",
+    "imagePrompt": "A small heap of roasted coffee beans on a plain background",
+    "searchQuery": "coffee beans",
+    "cues": {
+      "definition": "A hot dark drink made from roasted beans.",
+      "sentenceCompletion": "Every morning I wake up with a strong ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cof"
+    },
+    "semantic": {
+      "category": "It is a hot drink.",
+      "use": "You drink it to wake you up.",
+      "action": "You grind the beans, add hot water and pour.",
+      "properties": "It is hot, dark and strong-smelling.",
+      "location": "You find it in a cafe or in the kitchen.",
+      "association": "It makes me think of mornings and cafes."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "toffee",
+      "sameFirstSound": "cat"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "food-juice",
+    "word": "juice",
+    "group": "food",
+    "subgroup": "drinks",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-juice.webp",
+    "imagePrompt": "A tall jug of orange juice, plain and unlabelled",
+    "searchQuery": "jug of juice",
+    "cues": {
+      "definition": "A sweet drink squeezed from fruit.",
+      "sentenceCompletion": "Squeezed fresh orange ___ is my favourite breakfast drink.",
+      "firstLetter": "j",
+      "firstSoundSpoken": "juh"
+    },
+    "semantic": {
+      "category": "It is a cold drink.",
+      "use": "You drink it with breakfast.",
+      "action": "You squeeze the fruit and pour it.",
+      "properties": "It is sweet, cold and fruity.",
+      "location": "You find it in the fridge.",
+      "association": "It makes me think of breakfast."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "loose",
+      "sameFirstSound": "jungle"
+    }
+  },
+  {
+    "id": "food-beer",
+    "word": "beer",
+    "group": "food",
+    "subgroup": "drinks",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": false,
+    "image": "food-beer.webp",
+    "imagePrompt": "A pint of golden beer with a foam head on a plain background",
+    "searchQuery": "pint of beer",
+    "cues": {
+      "definition": "A fizzy golden alcoholic drink brewed from barley and hops.",
+      "sentenceCompletion": "After the match they all went to the pub for a pint of ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is an alcoholic drink.",
+      "use": "You drink it socially, often at the pub.",
+      "action": "You pour it into a tall pint and sip it.",
+      "properties": "It is golden, fizzy and has a white foam on top.",
+      "location": "You find it at the pub or the bar.",
+      "association": "It makes me think of the pub and football."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "eer",
+      "syllables": 1,
+      "rhyme": "ear",
+      "sameFirstSound": "bed"
+    }
+  },
+  {
+    "id": "food-wine",
+    "word": "wine",
+    "group": "food",
+    "subgroup": "drinks",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": false,
+    "image": "food-wine.webp",
+    "imagePrompt": "A glass of red wine on a plain background",
+    "searchQuery": "glass of wine",
+    "cues": {
+      "definition": "An alcoholic drink made from fermented grapes.",
+      "sentenceCompletion": "With the roast dinner we drank red ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is an alcoholic drink.",
+      "use": "You drink it with a meal or at a party.",
+      "action": "You swirl it and sip it.",
+      "properties": "It is red, white or pink, and tastes dry or sweet.",
+      "location": "You find it at a restaurant, in a vineyard or on a rack.",
+      "association": "It makes me think of dinner parties and France."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "line",
+      "sameFirstSound": "window"
+    }
+  },
+  {
+    "id": "food-lemonade",
+    "word": "lemonade",
+    "group": "food",
+    "subgroup": "drinks",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-lemonade.webp",
+    "imagePrompt": "A tall jug of cloudy lemonade with lemon slices, plain background",
+    "searchQuery": "jug of lemonade",
+    "cues": {
+      "definition": "A sweet fizzy or cloudy drink with a sharp flavour.",
+      "sentenceCompletion": "At the fete we sat with a cold fizzy ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh",
+      "firstSyllable": "lem"
+    },
+    "semantic": {
+      "category": "It is a cold drink.",
+      "use": "You drink it on a hot day.",
+      "action": "You pour it over ice and sip it.",
+      "properties": "It is pale, fizzy or cloudy, sweet and sharp.",
+      "location": "You find it at a picnic, a cafe or in a shop fridge.",
+      "association": "It makes me think of sunny days and picnics."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "d",
+      "syllables": 3,
+      "rhyme": "parade",
+      "sameFirstSound": "lorry"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "food-smoothie",
+    "word": "smoothie",
+    "group": "food",
+    "subgroup": "drinks",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "food-smoothie.webp",
+    "imagePrompt": "A tall pink fruit smoothie with a straw, plain background",
+    "searchQuery": "fruit smoothie",
+    "cues": {
+      "definition": "A thick cold drink made by blending fruit.",
+      "sentenceCompletion": "She blended a strawberry and banana ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "smoo"
+    },
+    "semantic": {
+      "category": "It is a cold drink.",
+      "use": "You drink it as a healthy snack or breakfast.",
+      "action": "You blend fruit, then pour and sip it.",
+      "properties": "It is thick, cold and often pink or green.",
+      "location": "You find it in a juice bar or a cafe.",
+      "association": "It makes me think of healthy living and blenders."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "snake"
+    }
+  }
+]

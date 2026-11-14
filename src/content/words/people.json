@@ -1,0 +1,2015 @@
+[
+  {
+    "id": "people-doctor",
+    "word": "doctor",
+    "group": "people",
+    "subgroup": "health workers",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-doctor.webp",
+    "imagePrompt": "A friendly adult doctor in a white coat with a stethoscope around the neck, standing and facing the camera",
+    "searchQuery": "doctor stethoscope",
+    "cues": {
+      "definition": "This person examines you when you are ill and decides what treatment you need.",
+      "sentenceCompletion": "When I felt unwell, I made an appointment to see the ___.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "doc"
+    },
+    "semantic": {
+      "category": "It is a person who works in health care.",
+      "use": "They find out what is wrong with you and help you get better.",
+      "action": "They listen to your chest and write prescriptions.",
+      "properties": "They often wear a white coat and have a stethoscope round their neck.",
+      "location": "You find them at a surgery or on a hospital ward.",
+      "association": "It makes me think of check-ups and medicine."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "door"
+    }
+  },
+  {
+    "id": "people-nurse",
+    "word": "nurse",
+    "group": "people",
+    "subgroup": "health workers",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-nurse.webp",
+    "imagePrompt": "A smiling adult nurse in a blue tunic with a fob watch, standing facing the camera",
+    "searchQuery": "nurse in uniform",
+    "cues": {
+      "definition": "This person looks after patients, gives them their medicine and checks how they are.",
+      "sentenceCompletion": "The ___ took my temperature and blood pressure.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "nuh"
+    },
+    "semantic": {
+      "category": "It is a person who works in health care.",
+      "use": "They look after people who are ill or injured.",
+      "action": "They take your pulse, change dressings and give injections.",
+      "properties": "They usually wear a tunic or scrubs and a name badge.",
+      "location": "You find them on a hospital ward or in a clinic.",
+      "association": "It makes me think of beds, wards and caring."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "purse",
+      "sameFirstSound": "nest"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-dentist",
+    "word": "dentist",
+    "group": "people",
+    "subgroup": "health workers",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-dentist.webp",
+    "imagePrompt": "An adult dentist wearing a mask, gloves and scrubs, holding a small mirror and probe, seen from the front",
+    "searchQuery": "dentist at work",
+    "cues": {
+      "definition": "This person checks your teeth and fills the holes in them.",
+      "sentenceCompletion": "I have a check-up booked with the ___ next week.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "den"
+    },
+    "semantic": {
+      "category": "It is a person who works in health care.",
+      "use": "They keep your teeth and gums healthy.",
+      "action": "They look in your mouth, drill and fill cavities.",
+      "properties": "They wear a mask and gloves and shine a bright lamp.",
+      "location": "You find them in a clinic with a reclining chair.",
+      "association": "It makes me think of toothpaste, fillings and a bright lamp."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "desk"
+    }
+  },
+  {
+    "id": "people-surgeon",
+    "word": "surgeon",
+    "group": "people",
+    "subgroup": "health workers",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-surgeon.webp",
+    "imagePrompt": "An adult surgeon in green scrubs, cap, mask and gloves holding their hands up, plain background",
+    "searchQuery": "surgeon scrubs",
+    "cues": {
+      "definition": "This person is a doctor who carries out operations on patients.",
+      "sentenceCompletion": "The ___ operated on my knee and it healed well.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sur"
+    },
+    "semantic": {
+      "category": "It is a person who works in health care.",
+      "use": "They repair or remove parts of the body when treatment is needed.",
+      "action": "They cut carefully with a scalpel and stitch the wound closed.",
+      "properties": "They wear green scrubs, a cap, a mask and sterile gloves.",
+      "location": "You find them in an operating theatre.",
+      "association": "It makes me think of theatres, scalpels and anaesthetic."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "sofa"
+    }
+  },
+  {
+    "id": "people-paramedic",
+    "word": "paramedic",
+    "group": "people",
+    "subgroup": "health workers",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 4,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-paramedic.webp",
+    "imagePrompt": "An adult paramedic in a green high-visibility uniform with a medical bag, standing facing the camera",
+    "searchQuery": "paramedic uniform",
+    "cues": {
+      "definition": "This person arrives in an ambulance and gives urgent treatment at the scene.",
+      "sentenceCompletion": "When he collapsed, the ___ gave him oxygen on the way to hospital.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "par"
+    },
+    "semantic": {
+      "category": "It is a person who works in health care.",
+      "use": "They give emergency treatment and take patients to hospital.",
+      "action": "They rush to accidents and check people who are badly hurt.",
+      "properties": "They wear a green uniform and carry a large bag of equipment.",
+      "location": "You find them in an ambulance or at the scene of an accident.",
+      "association": "It makes me think of sirens, blue lights and emergencies."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "k",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "pencil"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-optician",
+    "word": "optician",
+    "group": "people",
+    "subgroup": "health workers",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-optician.webp",
+    "imagePrompt": "An adult optician in a white coat standing beside an eye test machine, facing the camera",
+    "searchQuery": "optician eye test",
+    "cues": {
+      "definition": "This person tests your eyes and helps you choose glasses.",
+      "sentenceCompletion": "I went to the ___ to have my eyes tested.",
+      "firstLetter": "o",
+      "firstSoundSpoken": "oh",
+      "firstSyllable": "op"
+    },
+    "semantic": {
+      "category": "It is a person who works in health care.",
+      "use": "They check how well you can see and sell glasses and contact lenses.",
+      "action": "They ask you to read letters off a chart and shine a light in your eyes.",
+      "properties": "They work with lenses and frames and wear a smart white coat.",
+      "location": "You find them in a high street shop with racks of frames.",
+      "association": "It makes me think of letter charts and new glasses."
+    },
+    "phonological": {
+      "firstSound": "o",
+      "lastSound": "n",
+      "syllables": 3,
+      "rhyme": "musician",
+      "sameFirstSound": "orange"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-vet",
+    "word": "vet",
+    "group": "people",
+    "subgroup": "health workers",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-vet.webp",
+    "imagePrompt": "An adult vet in a blue tunic holding a small brown dog on a table, facing the camera",
+    "searchQuery": "vet with dog",
+    "cues": {
+      "definition": "This is a doctor who treats sick or injured animals.",
+      "sentenceCompletion": "I took my sick cat to the ___.",
+      "firstLetter": "v",
+      "firstSoundSpoken": "vuh"
+    },
+    "semantic": {
+      "category": "It is a person who works with animals and health.",
+      "use": "They treat pets and farm animals when they are ill.",
+      "action": "They examine animals, give them injections and mend their injuries.",
+      "properties": "They wear a tunic and often hold a cat, dog or rabbit.",
+      "location": "You find them in an animal clinic or on a farm.",
+      "association": "It makes me think of pets, injections and cat baskets."
+    },
+    "phonological": {
+      "firstSound": "v",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "wet",
+      "sameFirstSound": "van"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-midwife",
+    "word": "midwife",
+    "group": "people",
+    "subgroup": "health workers",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-midwife.webp",
+    "imagePrompt": "An adult midwife in a blue tunic holding a newborn baby wrapped in a white blanket, facing the camera",
+    "searchQuery": "midwife with newborn",
+    "cues": {
+      "definition": "This person helps a mother give birth and cares for her before and after.",
+      "sentenceCompletion": "The ___ was with her all through the birth.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mid"
+    },
+    "semantic": {
+      "category": "It is a person who works in health care.",
+      "use": "They look after mothers and help babies to be born.",
+      "action": "They check the baby's heartbeat and guide the mother through labour.",
+      "properties": "They wear a tunic and are calm and reassuring.",
+      "location": "You find them in a maternity ward or visiting at home.",
+      "association": "It makes me think of newborns, bumps and the delivery room."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "f",
+      "syllables": 2,
+      "rhyme": "wife",
+      "sameFirstSound": "mirror"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-police-officer",
+    "word": "police officer",
+    "group": "people",
+    "subgroup": "emergency and uniformed services",
+    "wordClass": "noun",
+    "letters": 13,
+    "syllables": 5,
+    "frequencyBand": 1,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "people-police-officer.webp",
+    "imagePrompt": "An adult police officer in a dark uniform and flat cap with a high-visibility vest, standing facing the camera",
+    "searchQuery": "police officer uniform",
+    "cues": {
+      "definition": "This person in uniform keeps order, stops crime and helps in an emergency.",
+      "sentenceCompletion": "When we were lost, we asked a ___ for directions.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "po"
+    },
+    "semantic": {
+      "category": "It is a person who works in public protection.",
+      "use": "They keep people safe and catch criminals.",
+      "action": "They patrol the streets, arrest suspects and write reports.",
+      "properties": "They wear a dark uniform with a badge and carry a radio.",
+      "location": "You find them on the streets or at a station.",
+      "association": "It makes me think of patrols, sirens and the law."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "er",
+      "syllables": 5,
+      "rhyme": null,
+      "sameFirstSound": "pillow"
+    }
+  },
+  {
+    "id": "people-firefighter",
+    "word": "firefighter",
+    "group": "people",
+    "subgroup": "emergency and uniformed services",
+    "wordClass": "noun",
+    "letters": 11,
+    "syllables": 4,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-firefighter.webp",
+    "imagePrompt": "An adult firefighter in a yellow helmet and protective jacket holding a hose, standing facing the camera",
+    "searchQuery": "firefighter uniform",
+    "cues": {
+      "definition": "This person puts out blazes and rescues people from danger.",
+      "sentenceCompletion": "The ___ climbed the ladder to rescue the cat.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "fire"
+    },
+    "semantic": {
+      "category": "It is a person who works in the emergency services.",
+      "use": "They tackle blazes and rescue people trapped by smoke.",
+      "action": "They spray water from a hose and climb ladders.",
+      "properties": "They wear a helmet, heavy boots and a thick protective jacket.",
+      "location": "You find them at an incident or at their station.",
+      "association": "It makes me think of flames, hoses and red engines."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "er",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "feather"
+    }
+  },
+  {
+    "id": "people-soldier",
+    "word": "soldier",
+    "group": "people",
+    "subgroup": "emergency and uniformed services",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-soldier.webp",
+    "imagePrompt": "An adult soldier in camouflage uniform and beret standing at ease, facing the camera",
+    "searchQuery": "soldier camouflage",
+    "cues": {
+      "definition": "This person serves in the army and wears a camouflage uniform.",
+      "sentenceCompletion": "My grandfather was a ___ in the army during the war.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sol"
+    },
+    "semantic": {
+      "category": "It is a person who serves in the armed forces.",
+      "use": "They defend the country and follow orders.",
+      "action": "They march, train and carry equipment.",
+      "properties": "They wear camouflage clothing and heavy boots.",
+      "location": "You find them in barracks or on a parade ground.",
+      "association": "It makes me think of the army, marching and medals."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "spoon"
+    }
+  },
+  {
+    "id": "people-sailor",
+    "word": "sailor",
+    "group": "people",
+    "subgroup": "emergency and uniformed services",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-sailor.webp",
+    "imagePrompt": "An adult sailor in a navy blue uniform with a white cap standing on a ship deck, facing the camera",
+    "searchQuery": "sailor uniform",
+    "cues": {
+      "definition": "This person works on a ship and spends months at sea.",
+      "sentenceCompletion": "The ___ coiled the rope on the deck of the ship.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sail"
+    },
+    "semantic": {
+      "category": "It is a person who works at sea.",
+      "use": "They crew ships and boats and keep them running.",
+      "action": "They tie ropes, steer and scrub the deck.",
+      "properties": "They wear a navy uniform and a white cap and have a weathered look.",
+      "location": "You find them on a ship or in a harbour.",
+      "association": "It makes me think of waves, anchors and the navy."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "tailor",
+      "sameFirstSound": "sandwich"
+    }
+  },
+  {
+    "id": "people-pilot",
+    "word": "pilot",
+    "group": "people",
+    "subgroup": "emergency and uniformed services",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-pilot.webp",
+    "imagePrompt": "An adult pilot in a white shirt with epaulettes and a peaked cap standing beside an aircraft cockpit door, facing the camera",
+    "searchQuery": "airline pilot uniform",
+    "cues": {
+      "definition": "This person sits at the controls and flies an aeroplane.",
+      "sentenceCompletion": "The ___ welcomed us on board and said we would land soon.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pi"
+    },
+    "semantic": {
+      "category": "It is a person who works in transport.",
+      "use": "They fly aeroplanes and get passengers safely to their destination.",
+      "action": "They steer the plane, take off and land it.",
+      "properties": "They wear a smart uniform with stripes on the shoulders and a peaked cap.",
+      "location": "You find them in a cockpit.",
+      "association": "It makes me think of runways, clouds and holidays abroad."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "pepper"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-lifeguard",
+    "word": "lifeguard",
+    "group": "people",
+    "subgroup": "emergency and uniformed services",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-lifeguard.webp",
+    "imagePrompt": "An adult lifeguard in red shorts and a red top sitting on a tall chair beside a pool, holding a rescue float, facing the camera",
+    "searchQuery": "lifeguard at pool",
+    "cues": {
+      "definition": "This person watches over swimmers and rescues them if they get into trouble.",
+      "sentenceCompletion": "The ___ blew a whistle and dived in to rescue the swimmer.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh",
+      "firstSyllable": "life"
+    },
+    "semantic": {
+      "category": "It is a person who works in public safety.",
+      "use": "They keep swimmers safe at the beach or pool.",
+      "action": "They watch the water and dive in to rescue people.",
+      "properties": "They wear red and yellow and have a whistle and a float.",
+      "location": "You find them on a beach or at a swimming pool.",
+      "association": "It makes me think of red flags, whistles and the seaside."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "ladder"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-security-guard",
+    "word": "security guard",
+    "group": "people",
+    "subgroup": "emergency and uniformed services",
+    "wordClass": "noun",
+    "letters": 13,
+    "syllables": 5,
+    "frequencyBand": 3,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "people-security-guard.webp",
+    "imagePrompt": "An adult security guard in a dark uniform and high-visibility jacket with a radio on the shoulder, standing facing the camera",
+    "searchQuery": "security guard uniform",
+    "cues": {
+      "definition": "This person in uniform watches over a building and stops trouble.",
+      "sentenceCompletion": "At the shopping centre, a ___ stood by the entrance.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "se"
+    },
+    "semantic": {
+      "category": "It is a person who works in protection.",
+      "use": "They watch over buildings and keep out people who should not be there.",
+      "action": "They patrol, check bags and monitor cameras.",
+      "properties": "They wear a dark uniform with a badge and carry a radio.",
+      "location": "You find them at shop doors, banks and events.",
+      "association": "It makes me think of cameras, bag checks and doormen."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "d",
+      "syllables": 5,
+      "rhyme": "yard",
+      "sameFirstSound": "sausage"
+    }
+  },
+  {
+    "id": "people-builder",
+    "word": "builder",
+    "group": "people",
+    "subgroup": "trades and outdoor work",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-builder.webp",
+    "imagePrompt": "An adult builder in a hard hat and high-visibility vest holding a brick and trowel, facing the camera",
+    "searchQuery": "builder hard hat",
+    "cues": {
+      "definition": "This person constructs houses and walls using bricks and cement.",
+      "sentenceCompletion": "The ___ laid the bricks for the new wall.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "build"
+    },
+    "semantic": {
+      "category": "It is a person who works in a trade.",
+      "use": "They put up houses, extensions and walls.",
+      "action": "They lay bricks, mix cement and use a spirit level.",
+      "properties": "They wear a hard hat, boots and a high-visibility vest.",
+      "location": "You find them on a construction site.",
+      "association": "It makes me think of bricks, scaffolding and mugs of tea."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bottle"
+    }
+  },
+  {
+    "id": "people-plumber",
+    "word": "plumber",
+    "group": "people",
+    "subgroup": "trades and outdoor work",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-plumber.webp",
+    "imagePrompt": "An adult plumber in overalls kneeling and holding a large wrench beside copper pipes, facing the camera",
+    "searchQuery": "plumber with wrench",
+    "cues": {
+      "definition": "This person fixes leaking pipes and installs taps and boilers.",
+      "sentenceCompletion": "The kitchen tap was dripping, so we called a ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "pluh",
+      "firstSyllable": "plum"
+    },
+    "semantic": {
+      "category": "It is a person who works in a trade.",
+      "use": "They fix leaks, fit baths and repair central heating.",
+      "action": "They tighten pipes with a wrench and cut copper tubing.",
+      "properties": "They carry a toolbag and wear overalls.",
+      "location": "You find them under sinks and in boiler cupboards.",
+      "association": "It makes me think of leaks, pipes and a call-out fee."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "summer",
+      "sameFirstSound": "plate"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-electrician",
+    "word": "electrician",
+    "group": "people",
+    "subgroup": "trades and outdoor work",
+    "wordClass": "noun",
+    "letters": 11,
+    "syllables": 4,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-electrician.webp",
+    "imagePrompt": "An adult electrician in work clothes holding a screwdriver and a bundle of cables beside an open fuse box, facing the camera",
+    "searchQuery": "electrician at work",
+    "cues": {
+      "definition": "This person wires buildings and repairs sockets and switches.",
+      "sentenceCompletion": "When the lights kept flickering, we called an ___.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "ih",
+      "firstSyllable": "e"
+    },
+    "semantic": {
+      "category": "It is a person who works in a trade.",
+      "use": "They install wiring and fix faults in your power.",
+      "action": "They connect cables, test circuits and replace sockets.",
+      "properties": "They carry insulated tools and a toolbag.",
+      "location": "You find them at fuse boxes and ceilings in houses.",
+      "association": "It makes me think of wires, fuses and the power cut."
+    },
+    "phonological": {
+      "firstSound": "e",
+      "lastSound": "n",
+      "syllables": 4,
+      "rhyme": "musician",
+      "sameFirstSound": "elbow"
+    }
+  },
+  {
+    "id": "people-carpenter",
+    "word": "carpenter",
+    "group": "people",
+    "subgroup": "trades and outdoor work",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-carpenter.webp",
+    "imagePrompt": "An adult carpenter in a work apron holding a hand saw over a plank of wood on a workbench, facing the camera",
+    "searchQuery": "carpenter sawing wood",
+    "cues": {
+      "definition": "This person makes and fits things from wood, such as doors and shelves.",
+      "sentenceCompletion": "The ___ cut the plank to size and fitted the shelf.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "car"
+    },
+    "semantic": {
+      "category": "It is a person who works in a trade.",
+      "use": "They make furniture, doors and roof beams from timber.",
+      "action": "They saw, plane and hammer wood.",
+      "properties": "They carry a pencil behind their ear and are covered in sawdust.",
+      "location": "You find them in a workshop or on a building site.",
+      "association": "It makes me think of sawdust, planks and the smell of timber."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "carrot"
+    }
+  },
+  {
+    "id": "people-gardener",
+    "word": "gardener",
+    "group": "people",
+    "subgroup": "trades and outdoor work",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-gardener.webp",
+    "imagePrompt": "An adult gardener in a straw hat and gloves holding a spade beside a flower bed, facing the camera",
+    "searchQuery": "gardener with spade",
+    "cues": {
+      "definition": "This person looks after lawns, hedges and flowerbeds outdoors.",
+      "sentenceCompletion": "On Saturday the ___ was out trimming the hedge.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh",
+      "firstSyllable": "gar"
+    },
+    "semantic": {
+      "category": "It is a person who works outdoors.",
+      "use": "They keep lawns tidy and help plants to grow.",
+      "action": "They dig, weed, plant seeds and mow the lawn.",
+      "properties": "They wear gloves and boots and often have muddy knees.",
+      "location": "You find them outdoors in borders and on lawns.",
+      "association": "It makes me think of weeding, seeds and green fingers."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "gate"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-farmer",
+    "word": "farmer",
+    "group": "people",
+    "subgroup": "trades and outdoor work",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-farmer.webp",
+    "imagePrompt": "An adult farmer in a flat cap and waxed jacket standing in a field with a gate behind, facing the camera",
+    "searchQuery": "farmer in field",
+    "cues": {
+      "definition": "This person grows crops or keeps cattle and sheep on the land.",
+      "sentenceCompletion": "The ___ got up at dawn to milk the cows.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "far"
+    },
+    "semantic": {
+      "category": "It is a person who works outdoors.",
+      "use": "They grow food and look after livestock.",
+      "action": "They plough fields, feed animals and drive a tractor.",
+      "properties": "They wear wellies and a waxed jacket and have weathered hands.",
+      "location": "You find them in fields and barns in the countryside.",
+      "association": "It makes me think of tractors, harvests and muddy boots."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "calmer",
+      "sameFirstSound": "fork"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-mechanic",
+    "word": "mechanic",
+    "group": "people",
+    "subgroup": "trades and outdoor work",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-mechanic.webp",
+    "imagePrompt": "An adult mechanic in grubby blue overalls holding a spanner beside a car with its bonnet up, facing the camera",
+    "searchQuery": "car mechanic",
+    "cues": {
+      "definition": "This person repairs car engines in a garage.",
+      "sentenceCompletion": "My car would not start, so I took it to a ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "me"
+    },
+    "semantic": {
+      "category": "It is a person who works in a trade.",
+      "use": "They repair vehicles and service engines.",
+      "action": "They lift the bonnet, use spanners and change parts.",
+      "properties": "They wear overalls with oil on their hands.",
+      "location": "You find them under a car or in a garage.",
+      "association": "It makes me think of spanners, oil and MOT tests."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "k",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "mountain"
+    }
+  },
+  {
+    "id": "people-fisherman",
+    "word": "fisherman",
+    "group": "people",
+    "subgroup": "trades and outdoor work",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-fisherman.webp",
+    "imagePrompt": "An adult fisherman in oilskins and a woolly hat standing on a boat holding a net full of silver catch, facing the camera",
+    "searchQuery": "fisherman with net",
+    "cues": {
+      "definition": "This person goes out in a boat to catch seafood for a living.",
+      "sentenceCompletion": "The ___ hauled his nets in at dawn.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "fish"
+    },
+    "semantic": {
+      "category": "It is a person who works at sea.",
+      "use": "They catch seafood and sell it to shops and markets.",
+      "action": "They cast nets, haul in lines and gut the catch.",
+      "properties": "They wear oilskins and rubber boots and have rough hands.",
+      "location": "You find them on trawlers and quaysides.",
+      "association": "It makes me think of nets, harbours and early mornings."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "n",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "fountain"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-chef",
+    "word": "chef",
+    "group": "people",
+    "subgroup": "shops and food",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-chef.webp",
+    "imagePrompt": "An adult chef in a white double-breasted jacket and tall white hat holding a pan, facing the camera",
+    "searchQuery": "chef in whites",
+    "cues": {
+      "definition": "This person prepares food in a restaurant kitchen.",
+      "sentenceCompletion": "The ___ tasted the sauce and added more salt.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "shh"
+    },
+    "semantic": {
+      "category": "It is a person who works with food.",
+      "use": "They make meals for guests in a restaurant.",
+      "action": "They chop, fry, season and plate up the food.",
+      "properties": "They wear a white jacket and a tall white hat.",
+      "location": "You find them in a restaurant kitchen.",
+      "association": "It makes me think of knives, pans and a busy kitchen."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "f",
+      "syllables": 1,
+      "rhyme": "deaf",
+      "sameFirstSound": "shoe"
+    }
+  },
+  {
+    "id": "people-waiter",
+    "word": "waiter",
+    "group": "people",
+    "subgroup": "shops and food",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-waiter.webp",
+    "imagePrompt": "An adult waiter in a white shirt, black waistcoat and bow tie holding a tray with glasses, facing the camera",
+    "searchQuery": "waiter with tray",
+    "cues": {
+      "definition": "This person brings food and drink to your table in a restaurant.",
+      "sentenceCompletion": "The ___ brought us the menu and a jug of water.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "wai"
+    },
+    "semantic": {
+      "category": "It is a person who works with food and drink.",
+      "use": "They take your order and serve your meal.",
+      "action": "They carry plates on a tray and top up your glass.",
+      "properties": "They wear a white shirt, a black waistcoat and a bow tie.",
+      "location": "You find them in restaurants and cafes.",
+      "association": "It makes me think of menus, tips and a table for two."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "later",
+      "sameFirstSound": "window"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-baker",
+    "word": "baker",
+    "group": "people",
+    "subgroup": "shops and food",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-baker.webp",
+    "imagePrompt": "An adult baker in a white apron and cap holding a tray of fresh golden loaves, facing the camera",
+    "searchQuery": "baker with bread",
+    "cues": {
+      "definition": "This person makes loaves, rolls and cakes in the early hours.",
+      "sentenceCompletion": "The ___ was up at four o'clock to make the loaves.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "ba"
+    },
+    "semantic": {
+      "category": "It is a person who works with food.",
+      "use": "They make bread and cakes for the shop.",
+      "action": "They knead dough, shape loaves and slide trays into a hot oven.",
+      "properties": "They wear a white apron and are often dusted with flour.",
+      "location": "You find them in a shop with an oven behind the counter.",
+      "association": "It makes me think of warm loaves and flour."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "maker",
+      "sameFirstSound": "banana"
+    }
+  },
+  {
+    "id": "people-butcher",
+    "word": "butcher",
+    "group": "people",
+    "subgroup": "shops and food",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-butcher.webp",
+    "imagePrompt": "An adult butcher in a white coat, apron and hat standing behind a counter of raw meat holding a large knife, facing the camera",
+    "searchQuery": "butcher at counter",
+    "cues": {
+      "definition": "This person sells fresh cuts of meat in a shop.",
+      "sentenceCompletion": "I bought the sausages and chops from the ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "butch"
+    },
+    "semantic": {
+      "category": "It is a person who works with food.",
+      "use": "They cut and sell meat to customers.",
+      "action": "They carve joints, mince beef and weigh your order.",
+      "properties": "They wear a white coat, a striped apron and a hat.",
+      "location": "You find them behind a counter in a shop.",
+      "association": "It makes me think of sausages, joints and a sharp cleaver."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "button"
+    }
+  },
+  {
+    "id": "people-barber",
+    "word": "barber",
+    "group": "people",
+    "subgroup": "shops and food",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-barber.webp",
+    "imagePrompt": "An adult barber in a black apron trimming a seated man's beard with clippers in a barber shop, facing the camera",
+    "searchQuery": "barber at work",
+    "cues": {
+      "definition": "This person cuts men's hair and trims beards.",
+      "sentenceCompletion": "I went to the ___ for a short back and sides.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bar"
+    },
+    "semantic": {
+      "category": "It is a person who works in personal care.",
+      "use": "They cut and shave men's heads and faces.",
+      "action": "They clip, trim and shave with a razor.",
+      "properties": "They wear an apron and use clippers and a comb.",
+      "location": "You find them in a shop with a striped pole outside.",
+      "association": "It makes me think of a striped pole, razors and short cuts."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bucket"
+    }
+  },
+  {
+    "id": "people-hairdresser",
+    "word": "hairdresser",
+    "group": "people",
+    "subgroup": "shops and food",
+    "wordClass": "noun",
+    "letters": 11,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-hairdresser.webp",
+    "imagePrompt": "An adult hairdresser in a black apron holding scissors and a comb, standing behind a seated client in a salon chair, facing the camera",
+    "searchQuery": "hairdresser salon",
+    "cues": {
+      "definition": "This person washes, cuts and styles your head of locks in a salon.",
+      "sentenceCompletion": "I booked an appointment at the ___ for a cut and a blow dry.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hair"
+    },
+    "semantic": {
+      "category": "It is a person who works in personal care.",
+      "use": "They make people look smart by cutting and colouring their locks.",
+      "action": "They wash, snip, dry and style your head.",
+      "properties": "They hold scissors and a comb and wear an apron.",
+      "location": "You find them in a salon.",
+      "association": "It makes me think of salons, dye and a good trim."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "hammer"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-florist",
+    "word": "florist",
+    "group": "people",
+    "subgroup": "shops and food",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-florist.webp",
+    "imagePrompt": "An adult florist in a green apron holding a large bouquet of mixed flowers in a flower shop, facing the camera",
+    "searchQuery": "florist with bouquet",
+    "cues": {
+      "definition": "This person arranges and sells bunches of blooms.",
+      "sentenceCompletion": "I ordered a bouquet for my mum from the ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "flor"
+    },
+    "semantic": {
+      "category": "It is a person who works in a shop.",
+      "use": "They make bouquets and wreaths for gifts and weddings.",
+      "action": "They trim stems, wrap bunches and arrange blooms.",
+      "properties": "They wear an apron and are surrounded by colourful petals.",
+      "location": "You find them in a flower shop or at a market stall.",
+      "association": "It makes me think of bouquets, roses and weddings."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "flag"
+    }
+  },
+  {
+    "id": "people-teacher",
+    "word": "teacher",
+    "group": "people",
+    "subgroup": "office, school and faith",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-teacher.webp",
+    "imagePrompt": "An adult teacher standing at a whiteboard in a classroom, holding a marker pen, facing the camera",
+    "searchQuery": "teacher at whiteboard",
+    "cues": {
+      "definition": "This person stands in front of a class and helps pupils to learn.",
+      "sentenceCompletion": "The ___ asked the class to open their books.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "teach"
+    },
+    "semantic": {
+      "category": "It is a person who works in a school.",
+      "use": "They help children learn and set homework.",
+      "action": "They explain lessons, mark books and write on the board.",
+      "properties": "They stand at the front of a classroom with a marker pen.",
+      "location": "You find them in a classroom.",
+      "association": "It makes me think of classrooms, homework and registers."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "creature",
+      "sameFirstSound": "table"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-judge",
+    "word": "judge",
+    "group": "people",
+    "subgroup": "office, school and faith",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-judge.webp",
+    "imagePrompt": "An adult judge in a black robe and white wig seated at a wooden bench in a courtroom, facing the camera",
+    "searchQuery": "judge in wig",
+    "cues": {
+      "definition": "This person in a robe decides what should happen in a court case.",
+      "sentenceCompletion": "The ___ banged the gavel and said, \"Order in court.\"",
+      "firstLetter": "j",
+      "firstSoundSpoken": "juh"
+    },
+    "semantic": {
+      "category": "It is a person who works in the law.",
+      "use": "They hear court cases and pass sentence.",
+      "action": "They listen to both sides and make decisions.",
+      "properties": "They wear a dark robe and often a white wig.",
+      "location": "You find them in a courtroom, sitting up high.",
+      "association": "It makes me think of courts, gavels and verdicts."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "j",
+      "syllables": 1,
+      "rhyme": "fudge",
+      "sameFirstSound": "jam"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-scientist",
+    "word": "scientist",
+    "group": "people",
+    "subgroup": "office, school and faith",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-scientist.webp",
+    "imagePrompt": "An adult scientist in a white lab coat and goggles holding a glass flask of blue liquid in a laboratory, facing the camera",
+    "searchQuery": "scientist in lab",
+    "cues": {
+      "definition": "This person does experiments in a laboratory to learn how things work.",
+      "sentenceCompletion": "The ___ looked at the sample through a microscope.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sci"
+    },
+    "semantic": {
+      "category": "It is a person who works in research.",
+      "use": "They carry out experiments and discover new things.",
+      "action": "They test ideas, record results and use a microscope.",
+      "properties": "They wear a white coat and goggles.",
+      "location": "You find them in a laboratory.",
+      "association": "It makes me think of flasks, microscopes and discoveries."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "scissors"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-librarian",
+    "word": "librarian",
+    "group": "people",
+    "subgroup": "office, school and faith",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 4,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-librarian.webp",
+    "imagePrompt": "An adult librarian standing beside shelves of books holding a stack of books, facing the camera",
+    "searchQuery": "librarian with books",
+    "cues": {
+      "definition": "This person looks after books and helps you to borrow them.",
+      "sentenceCompletion": "I asked the ___ to help me find a novel.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh",
+      "firstSyllable": "li"
+    },
+    "semantic": {
+      "category": "It is a person who works with books.",
+      "use": "They help people find and borrow books.",
+      "action": "They stamp books, shelve them and ask for quiet.",
+      "properties": "They are surrounded by shelves and wear glasses.",
+      "location": "You find them in a quiet building full of books.",
+      "association": "It makes me think of quiet, shelves and overdue fines."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "n",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "lemon"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-photographer",
+    "word": "photographer",
+    "group": "people",
+    "subgroup": "office, school and faith",
+    "wordClass": "noun",
+    "letters": 12,
+    "syllables": 4,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-photographer.webp",
+    "imagePrompt": "An adult photographer holding a large camera up to their eye, facing the camera",
+    "searchQuery": "photographer with camera",
+    "cues": {
+      "definition": "This person takes pictures with a camera as a job.",
+      "sentenceCompletion": "The wedding ___ asked everyone to stand together.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "pho"
+    },
+    "semantic": {
+      "category": "It is a person who works with images.",
+      "use": "They capture people and places on camera.",
+      "action": "They focus, click the shutter and edit pictures.",
+      "properties": "They hold a camera and sometimes carry a tripod.",
+      "location": "You find them at weddings, events and studios.",
+      "association": "It makes me think of flashes, lenses and portraits."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "er",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "fish"
+    }
+  },
+  {
+    "id": "people-vicar",
+    "word": "vicar",
+    "group": "people",
+    "subgroup": "office, school and faith",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-vicar.webp",
+    "imagePrompt": "An adult vicar in a black shirt with a white clerical collar standing in front of a stone church door, facing the camera",
+    "searchQuery": "vicar clerical collar",
+    "cues": {
+      "definition": "This person leads services in a village church.",
+      "sentenceCompletion": "The ___ gave a short sermon on Sunday morning.",
+      "firstLetter": "v",
+      "firstSoundSpoken": "vuh",
+      "firstSyllable": "vi"
+    },
+    "semantic": {
+      "category": "It is a person who works in a church.",
+      "use": "They lead prayers and conduct weddings and funerals.",
+      "action": "They preach, bless people and visit the sick.",
+      "properties": "They wear a white collar at the neck of a black shirt.",
+      "location": "You find them in a church or its hall.",
+      "association": "It makes me think of sermons, church bells and Sunday."
+    },
+    "phonological": {
+      "firstSound": "v",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "quicker",
+      "sameFirstSound": "violin"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-architect",
+    "word": "architect",
+    "group": "people",
+    "subgroup": "office, school and faith",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-architect.webp",
+    "imagePrompt": "An adult architect at a drawing table holding a pencil and a rolled plan with a model building beside, facing the camera",
+    "searchQuery": "architect with plans",
+    "cues": {
+      "definition": "This person designs buildings and draws the plans.",
+      "sentenceCompletion": "The ___ showed us drawings of the new house.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "ah",
+      "firstSyllable": "ar"
+    },
+    "semantic": {
+      "category": "It is a person who works in design.",
+      "use": "They design homes, offices and public spaces.",
+      "action": "They sketch, measure and draw up plans.",
+      "properties": "They work with rulers, pencils and scale models.",
+      "location": "You find them in a design office or on a building site.",
+      "association": "It makes me think of blueprints and tall buildings."
+    },
+    "phonological": {
+      "firstSound": "ar",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "arm"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-nun",
+    "word": "nun",
+    "group": "people",
+    "subgroup": "office, school and faith",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-nun.webp",
+    "imagePrompt": "An adult nun in a black and white habit and veil with hands clasped, facing the camera",
+    "searchQuery": "nun in habit",
+    "cues": {
+      "definition": "This woman has devoted her life to religion and lives in a convent.",
+      "sentenceCompletion": "The ___ wore a black habit and a white veil.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "nuh"
+    },
+    "semantic": {
+      "category": "It is a person who has a religious calling.",
+      "use": "She devotes her life to prayer and service.",
+      "action": "She prays, studies and looks after others.",
+      "properties": "She wears a long habit and a veil.",
+      "location": "You find her in a convent or a church.",
+      "association": "It makes me think of convents, habits and prayer."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "sun",
+      "sameFirstSound": "nail"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-monk",
+    "word": "monk",
+    "group": "people",
+    "subgroup": "office, school and faith",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-monk.webp",
+    "imagePrompt": "An adult monk in a brown hooded robe tied with a rope belt, hands clasped, facing the camera",
+    "searchQuery": "monk in robe",
+    "cues": {
+      "definition": "This man lives in a monastery and spends his days in prayer.",
+      "sentenceCompletion": "The ___ wore a brown robe tied with a rope.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm"
+    },
+    "semantic": {
+      "category": "It is a person who has a religious calling.",
+      "use": "He devotes his life to prayer and quiet work.",
+      "action": "He prays, studies and lives simply.",
+      "properties": "He wears a hooded robe tied with a rope belt.",
+      "location": "You find him in a monastery.",
+      "association": "It makes me think of robes, silence and chanting."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "junk",
+      "sameFirstSound": "mug"
+    }
+  },
+  {
+    "id": "people-dancer",
+    "word": "dancer",
+    "group": "people",
+    "subgroup": "arts and sport",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-dancer.webp",
+    "imagePrompt": "An adult ballet dancer in a white tutu mid pose on tiptoe, full body, facing the camera",
+    "searchQuery": "ballet dancer",
+    "cues": {
+      "definition": "This person performs graceful movements to music on stage.",
+      "sentenceCompletion": "The ballet ___ spun across the stage on tiptoe.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "dan"
+    },
+    "semantic": {
+      "category": "It is a person who performs.",
+      "use": "They entertain audiences with movement and rhythm.",
+      "action": "They spin, leap and move to music.",
+      "properties": "They are slim and flexible and wear a leotard or a tutu.",
+      "location": "You find them on a stage or in a studio with mirrors.",
+      "association": "It makes me think of ballet shoes, tutus and the stage."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "answer",
+      "sameFirstSound": "daisy"
+    }
+  },
+  {
+    "id": "people-drummer",
+    "word": "drummer",
+    "group": "people",
+    "subgroup": "arts and sport",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-drummer.webp",
+    "imagePrompt": "An adult drummer seated at a drum kit holding sticks in both hands, facing the camera",
+    "searchQuery": "drummer at drum kit",
+    "cues": {
+      "definition": "This person plays the beat in a band using sticks.",
+      "sentenceCompletion": "The band's ___ counted in the next song with four clicks of the sticks.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "drum"
+    },
+    "semantic": {
+      "category": "It is a person who plays an instrument.",
+      "use": "They keep time for a band.",
+      "action": "They beat out rhythms with sticks and pedals.",
+      "properties": "They sit behind a kit of cymbals and skins.",
+      "location": "You find them at the back of a band on stage.",
+      "association": "It makes me think of rock bands, cymbals and loud beats."
+    },
+    "phonological": {
+      "firstSound": "dr",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "summer",
+      "sameFirstSound": "dragon"
+    }
+  },
+  {
+    "id": "people-clown",
+    "word": "clown",
+    "group": "people",
+    "subgroup": "arts and sport",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-clown.webp",
+    "imagePrompt": "An adult clown with a red nose, colourful wig and baggy spotted costume, smiling, facing the camera",
+    "searchQuery": "clown costume",
+    "cues": {
+      "definition": "This funny performer has a red nose and a colourful wig.",
+      "sentenceCompletion": "At the circus, the ___ honked a horn and fell over.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is a person who performs.",
+      "use": "They make people laugh at circuses and parties.",
+      "action": "They juggle, honk horns and do silly tricks.",
+      "properties": "They have a red nose, big shoes, bright wig and face paint.",
+      "location": "You find them in a circus ring.",
+      "association": "It makes me think of circuses, red noses and custard pies."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "town",
+      "sameFirstSound": "cup"
+    }
+  },
+  {
+    "id": "people-magician",
+    "word": "magician",
+    "group": "people",
+    "subgroup": "arts and sport",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-magician.webp",
+    "imagePrompt": "An adult magician in a black tuxedo and top hat holding a wand in one hand and a playing card in the other, facing the camera",
+    "searchQuery": "magician top hat",
+    "cues": {
+      "definition": "This performer does tricks like pulling a rabbit from a hat.",
+      "sentenceCompletion": "The ___ pulled a rabbit out of his hat.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "ma"
+    },
+    "semantic": {
+      "category": "It is a person who performs.",
+      "use": "They amuse audiences with tricks that seem impossible.",
+      "action": "They wave a wand and make things disappear.",
+      "properties": "They wear a top hat and a black cloak.",
+      "location": "You find them on stage or at a children's party.",
+      "association": "It makes me think of rabbits, cards and wands."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "n",
+      "syllables": 3,
+      "rhyme": "musician",
+      "sameFirstSound": "map"
+    }
+  },
+  {
+    "id": "people-jockey",
+    "word": "jockey",
+    "group": "people",
+    "subgroup": "arts and sport",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-jockey.webp",
+    "imagePrompt": "An adult jockey in colourful silks and helmet riding a brown racehorse, side view, facing the camera",
+    "searchQuery": "jockey on horse",
+    "cues": {
+      "definition": "This person rides racehorses in competitions.",
+      "sentenceCompletion": "The ___ urged his horse over the last fence.",
+      "firstLetter": "j",
+      "firstSoundSpoken": "juh",
+      "firstSyllable": "jock"
+    },
+    "semantic": {
+      "category": "It is a person in sport.",
+      "use": "They ride horses in races.",
+      "action": "They crouch low and urge the horse to gallop.",
+      "properties": "They are small and light and wear bright silk colours and a helmet.",
+      "location": "You find them at a racecourse.",
+      "association": "It makes me think of racecourses, bets and thoroughbreds."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "hockey",
+      "sameFirstSound": "jelly"
+    }
+  },
+  {
+    "id": "people-boxer",
+    "word": "boxer",
+    "group": "people",
+    "subgroup": "arts and sport",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-boxer.webp",
+    "imagePrompt": "An adult boxer in shorts and red gloves in a fighting stance inside a boxing ring, facing the camera",
+    "searchQuery": "boxer in ring",
+    "cues": {
+      "definition": "This sportsperson wears padded gloves and fights in a ring.",
+      "sentenceCompletion": "The ___ raised his gloves and danced round the ring.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "box"
+    },
+    "semantic": {
+      "category": "It is a person in sport.",
+      "use": "They compete in fights in a ring.",
+      "action": "They punch, dodge and bob around the ring.",
+      "properties": "They wear padded gloves, shorts and a gum shield.",
+      "location": "You find them in a ring or a gym.",
+      "association": "It makes me think of gloves, rings and knockouts."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bed"
+    }
+  },
+  {
+    "id": "people-ref",
+    "word": "ref",
+    "group": "people",
+    "subgroup": "arts and sport",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-ref.webp",
+    "imagePrompt": "An adult football referee in a black kit holding a whistle in his mouth and a yellow card raised in one hand, facing the camera",
+    "searchQuery": "football referee",
+    "cues": {
+      "definition": "This person blows a whistle and enforces the rules in a match.",
+      "sentenceCompletion": "The ___ blew the whistle and showed a yellow card.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh"
+    },
+    "semantic": {
+      "category": "It is a person in sport.",
+      "use": "They make sure the players follow the rules.",
+      "action": "They blow a whistle and hold up cards.",
+      "properties": "They wear a plain kit, often black, and carry a whistle.",
+      "location": "You find them in the middle of a pitch.",
+      "association": "It makes me think of whistles, red cards and offside."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "f",
+      "syllables": 1,
+      "rhyme": "chef",
+      "sameFirstSound": "radio"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-mime",
+    "word": "mime",
+    "group": "people",
+    "subgroup": "arts and sport",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-mime.webp",
+    "imagePrompt": "An adult mime artist with white face paint and a striped top, standing with hands pressed against an invisible wall, facing the camera",
+    "searchQuery": "mime artist",
+    "cues": {
+      "definition": "This performer acts without speaking, using only movements and a painted face.",
+      "sentenceCompletion": "The street performer, a silent ___, pretended to be trapped in a box.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm"
+    },
+    "semantic": {
+      "category": "It is a person who performs.",
+      "use": "They entertain people without saying a word.",
+      "action": "They act out scenes, such as being stuck behind a wall.",
+      "properties": "They have a white painted face and wear a striped top.",
+      "location": "You find them on city streets and at festivals.",
+      "association": "It makes me think of silence and white face paint."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "time",
+      "sameFirstSound": "milk"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-baby",
+    "word": "baby",
+    "group": "people",
+    "subgroup": "family and life stages",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-baby.webp",
+    "imagePrompt": "A smiling baby sitting up on a plain white blanket, facing the camera",
+    "searchQuery": "baby sitting",
+    "cues": {
+      "definition": "This is a very young child who cannot yet walk or talk.",
+      "sentenceCompletion": "The ___ was crying and needed a feed.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "ba"
+    },
+    "semantic": {
+      "category": "It is a very young child.",
+      "use": "They need constant care from their parents.",
+      "action": "They cry, sleep, crawl and gurgle.",
+      "properties": "They are tiny, with soft skin and chubby cheeks.",
+      "location": "You find them in a cot, a pram or someone's arms.",
+      "association": "It makes me think of nappies, bottles and cuddles."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "maybe",
+      "sameFirstSound": "balloon"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-bride",
+    "word": "bride",
+    "group": "people",
+    "subgroup": "family and life stages",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-bride.webp",
+    "imagePrompt": "A smiling adult bride in a white wedding dress and veil holding a bouquet, facing the camera",
+    "searchQuery": "bride in wedding dress",
+    "cues": {
+      "definition": "This is the woman who gets married on her wedding day.",
+      "sentenceCompletion": "The ___ wore a long white dress and veil.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "bruh"
+    },
+    "semantic": {
+      "category": "It is a person at a wedding.",
+      "use": "She marries her partner in a ceremony.",
+      "action": "She walks down the aisle and says her vows.",
+      "properties": "She wears a white dress and a veil and carries a bouquet.",
+      "location": "You find her at a church or a wedding venue.",
+      "association": "It makes me think of white dresses, confetti and rings."
+    },
+    "phonological": {
+      "firstSound": "br",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "ride",
+      "sameFirstSound": "bridge"
+    }
+  },
+  {
+    "id": "people-groom",
+    "word": "groom",
+    "group": "people",
+    "subgroup": "family and life stages",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-groom.webp",
+    "imagePrompt": "A smiling adult groom in a dark suit with a buttonhole flower and waistcoat, facing the camera",
+    "searchQuery": "groom in suit",
+    "cues": {
+      "definition": "This is the man who gets married on his wedding day.",
+      "sentenceCompletion": "The ___ waited nervously at the front of the church.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "gruh"
+    },
+    "semantic": {
+      "category": "It is a person at a wedding.",
+      "use": "He marries his partner in a ceremony.",
+      "action": "He stands at the altar and says his vows.",
+      "properties": "He wears a smart suit with a buttonhole flower.",
+      "location": "You find him at a church or a wedding venue.",
+      "association": "It makes me think of suits, speeches and wedding rings."
+    },
+    "phonological": {
+      "firstSound": "gr",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "room",
+      "sameFirstSound": "grass"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-twins",
+    "word": "twins",
+    "group": "people",
+    "subgroup": "family and life stages",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-twins.webp",
+    "imagePrompt": "Two identical young adult sisters in matching outfits standing side by side, facing the camera",
+    "searchQuery": "identical twins",
+    "cues": {
+      "definition": "These are two people of the same age who were born to the same mother at the same time.",
+      "sentenceCompletion": "They look identical because they are ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is a pair of siblings.",
+      "use": "They are two people who grew up together.",
+      "action": "They look alike and often finish each other's sentences.",
+      "properties": "They are the same age and often dress the same.",
+      "location": "You find them together at home or in a school class.",
+      "association": "It makes me think of matching outfits and double trouble."
+    },
+    "phonological": {
+      "firstSound": "tw",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "pins",
+      "sameFirstSound": "tent"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-gran",
+    "word": "gran",
+    "group": "people",
+    "subgroup": "family and life stages",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-gran.webp",
+    "imagePrompt": "A smiling elderly woman with grey hair and glasses wearing a cardigan, sitting in an armchair, facing the camera",
+    "searchQuery": "grandmother",
+    "cues": {
+      "definition": "This is your parent's mother, and she is probably grey and loving.",
+      "sentenceCompletion": "On Sunday we visit my ___ for tea.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "gruh"
+    },
+    "semantic": {
+      "category": "It is a member of the family.",
+      "use": "She loves her family and often looks after the little ones.",
+      "action": "She knits, bakes and gives you sweets.",
+      "properties": "She has grey hair, glasses and a kind smile.",
+      "location": "You find her at home in her armchair.",
+      "association": "It makes me think of knitting, tea and stories."
+    },
+    "phonological": {
+      "firstSound": "gr",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "plan",
+      "sameFirstSound": "grape"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-grandad",
+    "word": "grandad",
+    "group": "people",
+    "subgroup": "family and life stages",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-grandad.webp",
+    "imagePrompt": "A smiling elderly man with white hair and glasses wearing a knitted cardigan and flat cap, facing the camera",
+    "searchQuery": "grandfather",
+    "cues": {
+      "definition": "This is your parent's father, and he is probably grey and loving.",
+      "sentenceCompletion": "My ___ tells wonderful stories about the old days.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "gruh",
+      "firstSyllable": "grand"
+    },
+    "semantic": {
+      "category": "It is a member of the family.",
+      "use": "He loves his family and often looks after the little ones.",
+      "action": "He tells stories, reads the paper and potters about.",
+      "properties": "He has white hair, glasses and a kind smile.",
+      "location": "You find him at home in his armchair.",
+      "association": "It makes me think of stories, flat caps and slippers."
+    },
+    "phonological": {
+      "firstSound": "gr",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "grill"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "people-teenager",
+    "word": "teenager",
+    "group": "people",
+    "subgroup": "family and life stages",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "people-teenager.webp",
+    "imagePrompt": "A young person aged about sixteen in a hoodie and jeans holding a mobile phone, facing the camera",
+    "searchQuery": "teenager with phone",
+    "cues": {
+      "definition": "This is a young person between thirteen and nineteen years old.",
+      "sentenceCompletion": "My daughter is a ___ and spends hours in her room.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "teen"
+    },
+    "semantic": {
+      "category": "It is a stage of life.",
+      "use": "They are growing up and becoming independent.",
+      "action": "They study, hang out with friends and use their phones.",
+      "properties": "They are not a child but not yet an adult.",
+      "location": "You find them at school, in a bedroom or with friends.",
+      "association": "It makes me think of school, exams and moods."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "tiger"
+    },
+    "hasImage": false
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "frozen": "2026-11-14",
+  "items": [
+    {
+      "wordId": "animals-dog",
+      "order": 1
+    },
+    {
+      "wordId": "animals-cat",
+      "order": 2
+    },
+    {
+      "wordId": "transport-car",
+      "order": 3
+    },
+    {
+      "wordId": "furniture-bed",
+      "order": 4
+    },
+    {
+      "wordId": "food-apple",
+      "order": 5
+    },
+    {
+      "wordId": "nature-tree",
+      "order": 6
+    },
+    {
+      "wordId": "household-cup",
+      "order": 7
+    },
+    {
+      "wordId": "furniture-door",
+      "order": 8
+    },
+    {
+      "wordId": "animals-horse",
+      "order": 9
+    },
+    {
+      "wordId": "verbs-run",
+      "order": 10
+    },
+    {
+      "wordId": "verbs-read",
+      "order": 11
+    },
+    {
+      "wordId": "body-foot",
+      "order": 12
+    },
+    {
+      "wordId": "food-lemon",
+      "order": 13
+    },
+    {
+      "wordId": "clothing-glasses",
+      "order": 14
+    },
+    {
+      "wordId": "places-church",
+      "order": 15
+    },
+    {
+      "wordId": "household-scissors",
+      "order": 16
+    },
+    {
+      "wordId": "household-hammer",
+      "order": 17
+    },
+    {
+      "wordId": "clothing-umbrella",
+      "order": 18
+    },
+    {
+      "wordId": "animals-butterfly",
+      "order": 19
+    },
+    {
+      "wordId": "people-clown",
+      "order": 20
+    },
+    {
+      "wordId": "verbs-clap",
+      "order": 21
+    },
+    {
+      "wordId": "household-kettle",
+      "order": 22
+    },
+    {
+      "wordId": "nature-rainbow",
+      "order": 23
+    },
+    {
+      "wordId": "transport-helicopter",
+      "order": 24
+    },
+    {
+      "wordId": "verbs-pour",
+      "order": 25
+    },
+    {
+      "wordId": "nature-cactus",
+      "order": 26
+    },
+    {
+      "wordId": "verbs-yawn",
+      "order": 27
+    },
+    {
+      "wordId": "places-lighthouse",
+      "order": 28
+    },
+    {
+      "wordId": "animals-hedgehog",
+      "order": 29
+    },
+    {
+      "wordId": "transport-parachute",
+      "order": 30
+    }
+  ]
+}

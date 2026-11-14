@@ -1,0 +1,14 @@
+{
+"verbs-sweep": 0, "verbs-scrub": 0, "verbs-polish": 0, "verbs-wipe": 3, "verbs-fold": 0, "verbs-hang": 0,
+"verbs-vacuum": 0, "verbs-tidy": 0, "verbs-rinse": 0, "verbs-disinfect": 0, "verbs-smile": 1, "verbs-laugh": 5,
+"verbs-cry": 0, "verbs-frown": 0, "verbs-wink": 0, "verbs-kiss": 2, "verbs-hug": 5, "verbs-sneeze": 0,
+"verbs-cough": 0, "verbs-whistle": 0, "verbs-push": 0, "verbs-pull": 0, "verbs-throw": 0, "verbs-catch": 0,
+"verbs-drop": 0, "verbs-tear": 0, "verbs-squeeze": 0, "verbs-twist": 0, "verbs-stack": 0, "verbs-scratch": 0,
+"verbs-talk": 0, "verbs-whisper": 0, "verbs-shout": 0, "verbs-sing": 0, "verbs-read": 2, "verbs-write": 0,
+"verbs-listen": 0, "verbs-draw": 0, "verbs-clap": 1, "verbs-interview": 0, "verbs-dig": 0, "verbs-build": 0,
+"verbs-sew": 0, "verbs-knit": 0, "verbs-measure": 0, "verbs-weigh": 0, "verbs-mow": 3, "verbs-paint": 0,
+"verbs-decorate": 0, "verbs-photocopy": 0, "verbs-kick": 0, "verbs-row": 0, "verbs-ski": 1, "verbs-sail": 0,
+"verbs-jog": 4, "verbs-juggle": 0, "verbs-surf": 0, "verbs-sunbathe": 5, "verbs-photograph": 0, "verbs-hike": 0,
+"verbs-give": 0, "verbs-share": 0, "verbs-greet": 0, "verbs-help": 0, "verbs-feed": 0, "verbs-queue": 0,
+"verbs-follow": 0, "verbs-chase": 0, "verbs-salute": 0, "verbs-tickle": 0
+}

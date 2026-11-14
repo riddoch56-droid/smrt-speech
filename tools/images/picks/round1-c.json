@@ -1,0 +1,13 @@
+{
+"body-toenail": 0, "body-heel": 0, "body-shoulder": 0, "body-stomach": 0, "body-heart": 8, "body-brain": 0,
+"body-bone": 0, "body-skeleton": 0, "body-toothbrush": 0, "body-toothpaste": 0, "body-soap": 0, "body-shampoo": 0,
+"body-towel": 1, "body-sponge": 2, "body-flannel": 0, "body-tissue": 0, "body-comb": 0, "body-hairbrush": 0,
+"body-razor": 0, "body-hairdryer": 2, "body-lipstick": 2, "body-perfume": 0, "body-nail-clippers": 7, "body-tweezers": 0,
+"body-tablets": 6, "body-plaster": 1, "body-bandage": 0, "body-thermometer": 0, "body-inhaler": 3, "body-syringe": 0,
+"body-walking-stick": 0, "body-wheelchair": 0, "body-crutches": 0, "body-hearing-aid": 0, "body-walking-frame": 0, "body-dentures": 1,
+"clothing-shirt": 0, "clothing-jumper": 0, "clothing-cardigan": 3, "clothing-blouse": 0, "clothing-waistcoat": 0, "clothing-hoodie": 0,
+"clothing-polo-shirt": 0, "clothing-trousers": 0, "clothing-jeans": 0, "clothing-shorts": 1, "clothing-skirt": 0, "clothing-dress": 7,
+"clothing-kilt": 0, "clothing-coat": 3, "clothing-jacket": 5, "clothing-anorak": 0, "clothing-raincoat": 0, "clothing-blazer": 3,
+"clothing-gilet": 0, "clothing-boots": 7, "clothing-shoes": 0, "clothing-trainers": 0, "clothing-sandals": 0, "clothing-slippers": 0,
+"clothing-wellies": 0, "clothing-socks": 0, "clothing-pyjamas": 0, "clothing-nightie": 0, "clothing-knickers": 0, "clothing-vest": 0
+}

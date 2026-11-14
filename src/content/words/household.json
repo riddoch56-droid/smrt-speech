@@ -1,0 +1,1991 @@
+[
+  {
+    "id": "household-cup",
+    "word": "cup",
+    "group": "household",
+    "subgroup": "cutlery and crockery",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-cup.webp",
+    "imagePrompt": "A white ceramic tea cup on a matching saucer",
+    "searchQuery": "tea cup saucer",
+    "cues": {
+      "definition": "A small round container with a handle that you drink tea from.",
+      "sentenceCompletion": "I'd like a ___ of tea, please.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is something you drink from.",
+      "use": "You use it to drink tea or coffee.",
+      "action": "You hold it by the handle and sip from it.",
+      "properties": "It is small and round, with a handle.",
+      "location": "You find it in the kitchen cabinet.",
+      "association": "It makes me think of a saucer and a warm drink."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "pup",
+      "sameFirstSound": "cat"
+    }
+  },
+  {
+    "id": "household-mug",
+    "word": "mug",
+    "group": "household",
+    "subgroup": "cutlery and crockery",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-mug.webp",
+    "imagePrompt": "A plain ceramic coffee mug with a handle",
+    "searchQuery": "coffee mug",
+    "cues": {
+      "definition": "A large, sturdy drinking container with a handle.",
+      "sentenceCompletion": "Pass me my coffee ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm"
+    },
+    "semantic": {
+      "category": "It is something you drink from.",
+      "use": "You use it for a hot drink.",
+      "action": "You wrap your hands round it to keep warm.",
+      "properties": "It is tall and thick, with a handle.",
+      "location": "You find it on the draining rack or in a cabinet.",
+      "association": "It makes me think of a cosy morning."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "g",
+      "syllables": 1,
+      "rhyme": "hug",
+      "sameFirstSound": "mountain"
+    }
+  },
+  {
+    "id": "household-glass",
+    "word": "glass",
+    "group": "household",
+    "subgroup": "cutlery and crockery",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-glass.webp",
+    "imagePrompt": "A clear empty drinking glass",
+    "searchQuery": "drinking glass",
+    "cues": {
+      "definition": "A clear container that you drink water or juice from.",
+      "sentenceCompletion": "Could I have a ___ of water, please?",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh"
+    },
+    "semantic": {
+      "category": "It is something you drink from.",
+      "use": "You use it for cold drinks.",
+      "action": "You fill it up and take a sip.",
+      "properties": "It is clear and it can break.",
+      "location": "You find it in the kitchen cabinet.",
+      "association": "It makes me think of water and orange juice."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "pass",
+      "sameFirstSound": "garden"
+    }
+  },
+  {
+    "id": "household-plate",
+    "word": "plate",
+    "group": "household",
+    "subgroup": "cutlery and crockery",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-plate.webp",
+    "imagePrompt": "A plain white dinner plate",
+    "searchQuery": "dinner plate",
+    "cues": {
+      "definition": "A flat round dish that you put your dinner on.",
+      "sentenceCompletion": "She put the sandwich on a ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is something you eat from.",
+      "use": "You use it to serve and eat meals.",
+      "action": "You pile food onto it and carry it to the table.",
+      "properties": "It is flat, round and usually white.",
+      "location": "You find it in the kitchen cabinet.",
+      "association": "It makes me think of dinner time."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "eight",
+      "sameFirstSound": "pig"
+    }
+  },
+  {
+    "id": "household-bowl",
+    "word": "bowl",
+    "group": "household",
+    "subgroup": "cutlery and crockery",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-bowl.webp",
+    "imagePrompt": "A deep white ceramic cereal bowl",
+    "searchQuery": "cereal bowl",
+    "cues": {
+      "definition": "A deep round dish for soup or cereal.",
+      "sentenceCompletion": "I had a ___ of soup for lunch.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is something you eat from.",
+      "use": "You use it for soup, cereal or salad.",
+      "action": "You fill it up and eat from it with a spoon.",
+      "properties": "It is deep and round.",
+      "location": "You find it in the kitchen cabinet.",
+      "association": "It makes me think of breakfast cereal."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "hole",
+      "sameFirstSound": "balloon"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "household-fork",
+    "word": "fork",
+    "group": "household",
+    "subgroup": "cutlery and crockery",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-fork.webp",
+    "imagePrompt": "A single stainless steel dinner fork",
+    "searchQuery": "dinner fork",
+    "cues": {
+      "definition": "A utensil with prongs that you use to pick up food.",
+      "sentenceCompletion": "I eat my dinner with a knife and ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is a piece of cutlery.",
+      "use": "You use it to eat.",
+      "action": "You spear food and lift it to your mouth.",
+      "properties": "It is metal, with a handle and sharp prongs.",
+      "location": "You find it in the cutlery drawer.",
+      "association": "It makes me think of a knife and a spoon."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "pork",
+      "sameFirstSound": "fish"
+    }
+  },
+  {
+    "id": "household-teapot",
+    "word": "teapot",
+    "group": "household",
+    "subgroup": "cutlery and crockery",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-teapot.webp",
+    "imagePrompt": "A white ceramic teapot with a lid and spout",
+    "searchQuery": "teapot",
+    "cues": {
+      "definition": "A container with a spout and a lid for making a pot of hot drink.",
+      "sentenceCompletion": "Pour the hot water into the ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tea"
+    },
+    "semantic": {
+      "category": "It is a piece of crockery.",
+      "use": "You use it to brew and pour tea.",
+      "action": "You pour hot water in and tip it to fill the cups.",
+      "properties": "It is round, with a spout, a lid and a handle.",
+      "location": "You find it in the kitchen cabinet or on the table.",
+      "association": "It makes me think of a cosy afternoon with biscuits."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "tiger"
+    }
+  },
+  {
+    "id": "household-whisk",
+    "word": "whisk",
+    "group": "household",
+    "subgroup": "pots pans and kitchen tools",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-whisk.webp",
+    "imagePrompt": "A stainless steel balloon whisk",
+    "searchQuery": "balloon whisk",
+    "cues": {
+      "definition": "A kitchen tool made of wire loops that you use to beat eggs or cream.",
+      "sentenceCompletion": "Use a ___ to beat the eggs.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is a kitchen tool.",
+      "use": "You use it to beat eggs and mix batter.",
+      "action": "You swirl it round quickly in a bowl.",
+      "properties": "It has a handle and loops of thin wire.",
+      "location": "You find it in the kitchen drawer.",
+      "association": "It makes me think of baking and pancakes."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "risk",
+      "sameFirstSound": "window"
+    }
+  },
+  {
+    "id": "household-saucepan",
+    "word": "saucepan",
+    "group": "household",
+    "subgroup": "pots pans and kitchen tools",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-saucepan.webp",
+    "imagePrompt": "A stainless steel saucepan with a long handle and lid",
+    "searchQuery": "saucepan",
+    "cues": {
+      "definition": "A deep metal pot with a long handle for cooking on the hob.",
+      "sentenceCompletion": "Boil the potatoes in a ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sauce"
+    },
+    "semantic": {
+      "category": "It is a piece of cookware.",
+      "use": "You use it to boil and simmer food.",
+      "action": "You heat it on the hob and stir what is inside.",
+      "properties": "It is metal, deep and round, with a long handle and a lid.",
+      "location": "You find it in a kitchen cabinet or on the hob.",
+      "association": "It makes me think of soup and boiling potatoes."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "sock"
+    }
+  },
+  {
+    "id": "household-colander",
+    "word": "colander",
+    "group": "household",
+    "subgroup": "pots pans and kitchen tools",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-colander.webp",
+    "imagePrompt": "A metal colander with small holes",
+    "searchQuery": "colander",
+    "cues": {
+      "definition": "A bowl with lots of holes in it that you use to drain pasta.",
+      "sentenceCompletion": "Drain the pasta in a ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "col"
+    },
+    "semantic": {
+      "category": "It is a kitchen tool.",
+      "use": "You use it to drain water from pasta or vegetables.",
+      "action": "You pour hot food in and the water runs out.",
+      "properties": "It is round and full of small holes.",
+      "location": "You find it in a kitchen cabinet or by the sink.",
+      "association": "It makes me think of steam and spaghetti."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "carpet"
+    }
+  },
+  {
+    "id": "household-grater",
+    "word": "grater",
+    "group": "household",
+    "subgroup": "pots pans and kitchen tools",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-grater.webp",
+    "imagePrompt": "A stainless steel box grater",
+    "searchQuery": "box grater",
+    "cues": {
+      "definition": "A metal tool with sharp holes that you rub cheese across to make small pieces.",
+      "sentenceCompletion": "Use the ___ to shred the cheese.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh",
+      "firstSyllable": "gra"
+    },
+    "semantic": {
+      "category": "It is a kitchen tool.",
+      "use": "You use it to shred cheese and carrots.",
+      "action": "You rub the food up and down against it.",
+      "properties": "It is metal, with a handle and lots of sharp little holes.",
+      "location": "You find it in the kitchen drawer.",
+      "association": "It makes me think of cheese on top of pasta."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "waiter",
+      "sameFirstSound": "gate"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "household-ladle",
+    "word": "ladle",
+    "group": "household",
+    "subgroup": "pots pans and kitchen tools",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-ladle.webp",
+    "imagePrompt": "A stainless steel soup ladle",
+    "searchQuery": "soup ladle",
+    "cues": {
+      "definition": "A deep spoon with a long handle used to serve soup.",
+      "sentenceCompletion": "She served the soup with a ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh",
+      "firstSyllable": "lay"
+    },
+    "semantic": {
+      "category": "It is a kitchen tool.",
+      "use": "You use it to serve soup or stew.",
+      "action": "You dip it into the pot and scoop out the liquid.",
+      "properties": "It has a long handle and a deep round end.",
+      "location": "You find it in the kitchen drawer or hanging by the cooker.",
+      "association": "It makes me think of soup and stew."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "cradle",
+      "sameFirstSound": "lemon"
+    }
+  },
+  {
+    "id": "household-chopping-board",
+    "word": "chopping board",
+    "group": "household",
+    "subgroup": "pots pans and kitchen tools",
+    "wordClass": "noun",
+    "letters": 13,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "household-chopping-board.webp",
+    "imagePrompt": "A wooden chopping board on a worktop",
+    "searchQuery": "chopping board",
+    "cues": {
+      "definition": "A flat piece of wood or plastic that you cut vegetables on.",
+      "sentenceCompletion": "Slice the onion on the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch",
+      "firstSyllable": "chop"
+    },
+    "semantic": {
+      "category": "It is a kitchen item.",
+      "use": "You use it to protect the worktop while you cut food.",
+      "action": "You put food on it and cut it with a knife.",
+      "properties": "It is flat and wide, made of wood or plastic.",
+      "location": "You find it on the kitchen worktop.",
+      "association": "It makes me think of knives and vegetables."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "d",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "cheese"
+    }
+  },
+  {
+    "id": "household-spatula",
+    "word": "spatula",
+    "group": "household",
+    "subgroup": "pots pans and kitchen tools",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-spatula.webp",
+    "imagePrompt": "A flat silicone spatula with a long handle",
+    "searchQuery": "kitchen spatula",
+    "cues": {
+      "definition": "A flat tool with a wide head for turning food in a pan.",
+      "sentenceCompletion": "Flip the pancake with a ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "spat"
+    },
+    "semantic": {
+      "category": "It is a kitchen tool.",
+      "use": "You use it to turn and lift food while cooking.",
+      "action": "You slide it under the food and flip it over.",
+      "properties": "It has a long handle and a flat, wide end.",
+      "location": "You find it in the kitchen drawer or by the hob.",
+      "association": "It makes me think of pancakes and fried eggs."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "uh",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "household-kettle",
+    "word": "kettle",
+    "group": "household",
+    "subgroup": "small appliances",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-kettle.webp",
+    "imagePrompt": "A stainless steel electric kettle standing on its base",
+    "searchQuery": "electric kettle",
+    "cues": {
+      "definition": "An electric container that boils water for hot drinks.",
+      "sentenceCompletion": "To make a cup of tea, first I fill the ___.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "ket"
+    },
+    "semantic": {
+      "category": "It is a kitchen appliance.",
+      "use": "You use it to boil water.",
+      "action": "It heats up and switches itself off.",
+      "properties": "It has a handle, a spout and a lid.",
+      "location": "You find it on the kitchen worktop.",
+      "association": "It makes me think of tea and coffee."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "settle",
+      "sameFirstSound": "carrot"
+    }
+  },
+  {
+    "id": "household-toaster",
+    "word": "toaster",
+    "group": "household",
+    "subgroup": "small appliances",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-toaster.webp",
+    "imagePrompt": "A chrome two-slice toaster with bread popping up",
+    "searchQuery": "toaster",
+    "cues": {
+      "definition": "An electric machine that browns slices of bread.",
+      "sentenceCompletion": "Put two slices of bread in the ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "toast"
+    },
+    "semantic": {
+      "category": "It is a kitchen appliance.",
+      "use": "You use it to make toast.",
+      "action": "You push down a lever and the bread pops up.",
+      "properties": "It is a box with slots on top and a lever on the side.",
+      "location": "You find it on the kitchen worktop.",
+      "association": "It makes me think of breakfast, butter and jam."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "poster",
+      "sameFirstSound": "tomato"
+    }
+  },
+  {
+    "id": "household-microwave",
+    "word": "microwave",
+    "group": "household",
+    "subgroup": "small appliances",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-microwave.webp",
+    "imagePrompt": "A white microwave oven with its door closed",
+    "searchQuery": "microwave oven",
+    "cues": {
+      "definition": "A box-shaped appliance that heats food very quickly.",
+      "sentenceCompletion": "I warmed up my dinner in the ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mi"
+    },
+    "semantic": {
+      "category": "It is a kitchen appliance.",
+      "use": "You use it to heat or defrost food quickly.",
+      "action": "You put food inside, shut the door and press start.",
+      "properties": "It is a box with a door, buttons and a window.",
+      "location": "You find it on the kitchen worktop.",
+      "association": "It makes me think of ready meals and a ping."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "v",
+      "syllables": 3,
+      "rhyme": "brave",
+      "sameFirstSound": "money"
+    }
+  },
+  {
+    "id": "household-blender",
+    "word": "blender",
+    "group": "household",
+    "subgroup": "small appliances",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-blender.webp",
+    "imagePrompt": "A countertop blender with a tall glass jug",
+    "searchQuery": "kitchen blender",
+    "cues": {
+      "definition": "An electric appliance with spinning blades that turns fruit into smoothies.",
+      "sentenceCompletion": "She made a fruit smoothie in the ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "blen"
+    },
+    "semantic": {
+      "category": "It is a kitchen appliance.",
+      "use": "You use it to mix and puree food and drinks.",
+      "action": "You switch it on and the blades spin round.",
+      "properties": "It has a tall jug on a base, with a lid.",
+      "location": "You find it on the kitchen worktop.",
+      "association": "It makes me think of smoothies and soup."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "sender",
+      "sameFirstSound": "bus"
+    }
+  },
+  {
+    "id": "household-iron",
+    "word": "iron",
+    "group": "household",
+    "subgroup": "small appliances",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-iron.webp",
+    "imagePrompt": "A steam iron standing upright on its heel",
+    "searchQuery": "steam iron",
+    "cues": {
+      "definition": "A hot flat appliance that you press over clothes to remove creases.",
+      "sentenceCompletion": "I need to press my shirt with the ___.",
+      "firstLetter": "i",
+      "firstSoundSpoken": "eye",
+      "firstSyllable": "ir"
+    },
+    "semantic": {
+      "category": "It is a household appliance.",
+      "use": "You use it to flatten creases in clothes.",
+      "action": "You glide it over fabric while it is hot.",
+      "properties": "It is heavy and flat, pointed at one end, with a handle.",
+      "location": "You find it in the utility room or a cupboard.",
+      "association": "It makes me think of crisp shirts."
+    },
+    "phonological": {
+      "firstSound": "ie",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "lion",
+      "sameFirstSound": "ice"
+    }
+  },
+  {
+    "id": "household-slow-cooker",
+    "word": "slow cooker",
+    "group": "household",
+    "subgroup": "small appliances",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "household-slow-cooker.webp",
+    "imagePrompt": "A round electric slow cooker with a glass lid",
+    "searchQuery": "slow cooker",
+    "cues": {
+      "definition": "An electric pot that heats stew gently over many hours.",
+      "sentenceCompletion": "I left the stew bubbling all day in the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "slow"
+    },
+    "semantic": {
+      "category": "It is a kitchen appliance.",
+      "use": "You use it to make stews and casseroles.",
+      "action": "You put in the ingredients, put the lid on and leave it.",
+      "properties": "It is a round or oval pot with a lid and a heated base.",
+      "location": "You find it on the kitchen worktop.",
+      "association": "It makes me think of winter stews."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "sandwich"
+    }
+  },
+  {
+    "id": "household-mop",
+    "word": "mop",
+    "group": "household",
+    "subgroup": "cleaning items",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-mop.webp",
+    "imagePrompt": "A string mop with a long handle standing upright",
+    "searchQuery": "string mop",
+    "cues": {
+      "definition": "A cleaning tool with a long handle and a soft head for washing floors.",
+      "sentenceCompletion": "She washed the floor with a bucket and a ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm"
+    },
+    "semantic": {
+      "category": "It is a cleaning item.",
+      "use": "You use it to wash the floor.",
+      "action": "You dip it in water and push it across the floor.",
+      "properties": "It has a long handle and a wet, stringy head.",
+      "location": "You find it in the utility cupboard.",
+      "association": "It makes me think of wet floors and housework."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "shop",
+      "sameFirstSound": "mountain"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "household-bucket",
+    "word": "bucket",
+    "group": "household",
+    "subgroup": "cleaning items",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-bucket.webp",
+    "imagePrompt": "A plain plastic bucket with a handle",
+    "searchQuery": "plastic bucket",
+    "cues": {
+      "definition": "A round container with a handle for carrying water.",
+      "sentenceCompletion": "Fill the ___ with warm soapy water.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "buck"
+    },
+    "semantic": {
+      "category": "It is a cleaning item.",
+      "use": "You use it to carry water for washing.",
+      "action": "You fill it up and carry it by the handle.",
+      "properties": "It is round and open at the top, with a handle.",
+      "location": "You find it in the utility cupboard or garden shed.",
+      "association": "It makes me think of soapy water and washing floors."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bridge"
+    }
+  },
+  {
+    "id": "household-broom",
+    "word": "broom",
+    "group": "household",
+    "subgroup": "cleaning items",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-broom.webp",
+    "imagePrompt": "A broom with a long handle and stiff bristles",
+    "searchQuery": "sweeping broom",
+    "cues": {
+      "definition": "A long-handled brush for sweeping the floor.",
+      "sentenceCompletion": "Sweep up the crumbs with a ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a cleaning item.",
+      "use": "You use it to sweep up dirt and crumbs.",
+      "action": "You push it across the floor to gather the dirt.",
+      "properties": "It has a long handle and stiff bristles.",
+      "location": "You find it in a cupboard or by the back door.",
+      "association": "It makes me think of a witch in a story."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "room",
+      "sameFirstSound": "button"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "household-dustpan",
+    "word": "dustpan",
+    "group": "household",
+    "subgroup": "cleaning items",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-dustpan.webp",
+    "imagePrompt": "A plastic dustpan with a short handle",
+    "searchQuery": "dustpan",
+    "cues": {
+      "definition": "A flat scoop that you hold on the floor to collect what you have swept up.",
+      "sentenceCompletion": "I swept the crumbs onto the ___.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "dust"
+    },
+    "semantic": {
+      "category": "It is a cleaning item.",
+      "use": "You use it to collect swept-up dirt.",
+      "action": "You hold it flat to the floor while you sweep dirt onto it.",
+      "properties": "It is a flat, wide scoop with a short handle.",
+      "location": "You find it in the kitchen or under the stairs.",
+      "association": "It makes me think of a brush and a tidy floor."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "dog"
+    }
+  },
+  {
+    "id": "household-cloth",
+    "word": "cloth",
+    "group": "household",
+    "subgroup": "cleaning items",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-cloth.webp",
+    "imagePrompt": "A folded yellow square of soft fabric for wiping surfaces, on a white background",
+    "searchQuery": "yellow cleaning cloth",
+    "cues": {
+      "definition": "It is a square of soft fabric you use to wipe things.",
+      "sentenceCompletion": "I spilt my tea, so I wiped the table with a damp ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is something you clean with.",
+      "use": "You use it to wipe surfaces and mop up spills.",
+      "action": "You wet it, wring it out and wipe.",
+      "properties": "It is soft, thin and square.",
+      "location": "You find it by the kitchen sink.",
+      "association": "It makes me think of spills and washing up."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "th",
+      "syllables": 1,
+      "rhyme": "moth",
+      "sameFirstSound": "clock"
+    }
+  },
+  {
+    "id": "household-duster",
+    "word": "duster",
+    "group": "household",
+    "subgroup": "cleaning items",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-duster.webp",
+    "imagePrompt": "A yellow cotton duster cloth",
+    "searchQuery": "yellow duster",
+    "cues": {
+      "definition": "A soft cloth for wiping dust off surfaces.",
+      "sentenceCompletion": "She wiped the shelves with a ___.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "dus"
+    },
+    "semantic": {
+      "category": "It is a cleaning item.",
+      "use": "You use it to wipe away dust.",
+      "action": "You wipe it across shelves and ornaments.",
+      "properties": "It is soft, light and often yellow.",
+      "location": "You find it in the cleaning cupboard.",
+      "association": "It makes me think of spring cleaning."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "cluster",
+      "sameFirstSound": "dolphin"
+    }
+  },
+  {
+    "id": "household-bin",
+    "word": "bin",
+    "group": "household",
+    "subgroup": "cleaning items",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-bin.webp",
+    "imagePrompt": "A plain grey household rubbish bin with a lid",
+    "searchQuery": "rubbish bin",
+    "cues": {
+      "definition": "A container that you throw rubbish into.",
+      "sentenceCompletion": "Put the empty packet in the ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a household container.",
+      "use": "You use it to throw away rubbish.",
+      "action": "You lift the lid and drop things in.",
+      "properties": "It has a lid and is often round, with a pedal.",
+      "location": "You find it in the kitchen or outside by the front gate.",
+      "association": "It makes me think of rubbish collection day."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "tin",
+      "sameFirstSound": "bridge"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "household-hammer",
+    "word": "hammer",
+    "group": "household",
+    "subgroup": "tools and diy",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-hammer.webp",
+    "imagePrompt": "A claw hammer with a wooden handle",
+    "searchQuery": "claw hammer",
+    "cues": {
+      "definition": "A tool with a heavy metal head that you swing to bang things into wood.",
+      "sentenceCompletion": "He banged the peg in with a ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "ham"
+    },
+    "semantic": {
+      "category": "It is a tool.",
+      "use": "You use it to knock pegs or tacks into wood.",
+      "action": "You swing it down to hit something firmly.",
+      "properties": "It has a wooden handle and a heavy metal head.",
+      "location": "You find it in the toolbox or garage.",
+      "association": "It makes me think of DIY and banging."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "grammar",
+      "sameFirstSound": "horse"
+    }
+  },
+  {
+    "id": "household-saw",
+    "word": "saw",
+    "group": "household",
+    "subgroup": "tools and diy",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-saw.webp",
+    "imagePrompt": "A hand saw with a wooden handle and toothed blade",
+    "searchQuery": "hand saw",
+    "cues": {
+      "definition": "A tool with a toothed blade for cutting wood.",
+      "sentenceCompletion": "He cut the plank in half with a ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a tool.",
+      "use": "You use it to cut wood.",
+      "action": "You push it backwards and forwards across the wood.",
+      "properties": "It has a long metal blade with sharp teeth and a handle.",
+      "location": "You find it in the toolbox, garage or shed.",
+      "association": "It makes me think of carpentry and wood shavings."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "or",
+      "syllables": 1,
+      "rhyme": "door",
+      "sameFirstSound": "soup"
+    }
+  },
+  {
+    "id": "household-drill",
+    "word": "drill",
+    "group": "household",
+    "subgroup": "tools and diy",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-drill.webp",
+    "imagePrompt": "A cordless power drill with a drill bit",
+    "searchQuery": "power drill",
+    "cues": {
+      "definition": "A power tool that spins a pointed bit to make holes.",
+      "sentenceCompletion": "He made a hole in the wall with a ___.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh"
+    },
+    "semantic": {
+      "category": "It is a power tool.",
+      "use": "You use it to make holes and fix screws.",
+      "action": "You press the trigger and the bit spins round.",
+      "properties": "It is heavy, with a battery or cable and a spinning bit.",
+      "location": "You find it in the toolbox or garage.",
+      "association": "It makes me think of a loud whirring noise."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "chill",
+      "sameFirstSound": "duck"
+    }
+  },
+  {
+    "id": "household-screwdriver",
+    "word": "screwdriver",
+    "group": "household",
+    "subgroup": "tools and diy",
+    "wordClass": "noun",
+    "letters": 11,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-screwdriver.webp",
+    "imagePrompt": "A screwdriver with a yellow handle and a metal shaft",
+    "searchQuery": "screwdriver",
+    "cues": {
+      "definition": "A hand tool with a handle and a metal tip for tightening screws.",
+      "sentenceCompletion": "He tightened the screw with a ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "screw"
+    },
+    "semantic": {
+      "category": "It is a tool.",
+      "use": "You use it to tighten or loosen screws.",
+      "action": "You twist it round and round.",
+      "properties": "It has a thick handle and a long, thin metal shaft.",
+      "location": "You find it in the toolbox.",
+      "association": "It makes me think of flat-pack furniture."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "sock"
+    }
+  },
+  {
+    "id": "household-spanner",
+    "word": "spanner",
+    "group": "household",
+    "subgroup": "tools and diy",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-spanner.webp",
+    "imagePrompt": "A steel open-ended spanner",
+    "searchQuery": "steel spanner",
+    "cues": {
+      "definition": "A metal tool with a gripping end for turning bolts.",
+      "sentenceCompletion": "He tightened the bolt with a ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "span"
+    },
+    "semantic": {
+      "category": "It is a tool.",
+      "use": "You use it to tighten and loosen bolts.",
+      "action": "You fit the end round the bolt and turn it.",
+      "properties": "It is long and metal, with an open jaw at one end.",
+      "location": "You find it in the toolbox or garage.",
+      "association": "It makes me think of mending bikes and cars."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "banner",
+      "sameFirstSound": "soup"
+    }
+  },
+  {
+    "id": "household-pliers",
+    "word": "pliers",
+    "group": "household",
+    "subgroup": "tools and diy",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-pliers.webp",
+    "imagePrompt": "A pair of pliers with red rubber handles",
+    "searchQuery": "pliers",
+    "cues": {
+      "definition": "A tool with two handles and a gripping head for holding or bending wire.",
+      "sentenceCompletion": "He pulled out the wire with a pair of ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pli"
+    },
+    "semantic": {
+      "category": "It is a tool.",
+      "use": "You use it to grip, bend and cut wire.",
+      "action": "You squeeze the handles together to grip something.",
+      "properties": "They have two long handles and a pair of metal jaws.",
+      "location": "You find them in the toolbox.",
+      "association": "It makes me think of wire and electrics."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": "tyres",
+      "sameFirstSound": "pizza"
+    }
+  },
+  {
+    "id": "household-ladder",
+    "word": "ladder",
+    "group": "household",
+    "subgroup": "tools and diy",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-ladder.webp",
+    "imagePrompt": "An aluminium stepladder standing open",
+    "searchQuery": "aluminium ladder",
+    "cues": {
+      "definition": "A frame with rungs that you climb to reach high places.",
+      "sentenceCompletion": "He climbed the ___ to clean the gutter.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh",
+      "firstSyllable": "lad"
+    },
+    "semantic": {
+      "category": "It is something used for DIY.",
+      "use": "You use it to reach high places.",
+      "action": "You lean it against a wall and climb up.",
+      "properties": "It is tall and narrow, with two long sides and rungs.",
+      "location": "You find it in the garage or shed.",
+      "association": "It makes me think of painting a ceiling."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "adder",
+      "sameFirstSound": "lorry"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "household-telephone",
+    "word": "telephone",
+    "group": "household",
+    "subgroup": "electronics and technology",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-telephone.webp",
+    "imagePrompt": "A black landline telephone with a handset on its base",
+    "searchQuery": "landline telephone",
+    "cues": {
+      "definition": "A device that you use to speak to someone far away.",
+      "sentenceCompletion": "When it rang, I picked up the ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tel"
+    },
+    "semantic": {
+      "category": "It is a piece of technology.",
+      "use": "You use it to call people.",
+      "action": "It rings and you hold it to your ear.",
+      "properties": "It has a keypad or a screen and a speaker.",
+      "location": "You find it in the hallway or in your pocket.",
+      "association": "It makes me think of calls and conversations."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "n",
+      "syllables": 3,
+      "rhyme": "stone",
+      "sameFirstSound": "tent"
+    }
+  },
+  {
+    "id": "household-television",
+    "word": "television",
+    "group": "household",
+    "subgroup": "electronics and technology",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 4,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-television.webp",
+    "imagePrompt": "A flat screen television switched on in a living room",
+    "searchQuery": "flat screen television",
+    "cues": {
+      "definition": "A screen in the living room where you watch programmes.",
+      "sentenceCompletion": "We sat down to watch a film on the ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tel"
+    },
+    "semantic": {
+      "category": "It is a piece of technology.",
+      "use": "You use it to watch programmes and films.",
+      "action": "You switch it on and flick through the channels.",
+      "properties": "It has a big flat screen.",
+      "location": "You find it in the living room.",
+      "association": "It makes me think of the news and soap operas."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "n",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "tent"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "household-remote-control",
+    "word": "remote control",
+    "group": "household",
+    "subgroup": "electronics and technology",
+    "wordClass": "noun",
+    "letters": 13,
+    "syllables": 4,
+    "frequencyBand": 1,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "household-remote-control.webp",
+    "imagePrompt": "A black television remote control with buttons",
+    "searchQuery": "tv remote control",
+    "cues": {
+      "definition": "A small handheld device for changing the channel without getting up.",
+      "sentenceCompletion": "Pass me the ___ so I can change the channel.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ree",
+      "firstSyllable": "re"
+    },
+    "semantic": {
+      "category": "It is a piece of technology.",
+      "use": "You use it to change the channel and the volume.",
+      "action": "You press the buttons and the screen responds.",
+      "properties": "It is small and slim, with lots of buttons.",
+      "location": "You find it on the arm of the sofa or the coffee table.",
+      "association": "It makes me think of losing something down the back of the sofa."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "l",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "rabbit"
+    }
+  },
+  {
+    "id": "household-laptop",
+    "word": "laptop",
+    "group": "household",
+    "subgroup": "electronics and technology",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-laptop.webp",
+    "imagePrompt": "An open silver laptop computer",
+    "searchQuery": "laptop computer",
+    "cues": {
+      "definition": "A portable computer that folds shut.",
+      "sentenceCompletion": "She typed her emails on her ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh",
+      "firstSyllable": "lap"
+    },
+    "semantic": {
+      "category": "It is a piece of technology.",
+      "use": "You use it to write emails, browse the internet and work.",
+      "action": "You open the lid and type on the keyboard.",
+      "properties": "It is flat and folds in half, with a screen and a keyboard.",
+      "location": "You find it on a desk or on your knee.",
+      "association": "It makes me think of working from home."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "p",
+      "syllables": 2,
+      "rhyme": "desktop",
+      "sameFirstSound": "lemon"
+    }
+  },
+  {
+    "id": "household-headphones",
+    "word": "headphones",
+    "group": "household",
+    "subgroup": "electronics and technology",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-headphones.webp",
+    "imagePrompt": "A pair of black over-ear headphones",
+    "searchQuery": "headphones",
+    "cues": {
+      "definition": "A pair of speakers worn over your ears for listening to music privately.",
+      "sentenceCompletion": "He listened to music on his ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "head"
+    },
+    "semantic": {
+      "category": "It is a piece of technology.",
+      "use": "You use them to listen to music without disturbing others.",
+      "action": "You put them over your ears.",
+      "properties": "Two padded cups are joined by a band that goes over your head.",
+      "location": "You find them in a drawer or around your neck.",
+      "association": "It makes me think of music and podcasts."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": "stones",
+      "sameFirstSound": "house"
+    }
+  },
+  {
+    "id": "household-charger",
+    "word": "charger",
+    "group": "household",
+    "subgroup": "electronics and technology",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-charger.webp",
+    "imagePrompt": "A white phone charger with a plug and cable",
+    "searchQuery": "phone charger",
+    "cues": {
+      "definition": "A device with a cable that gives a battery more power.",
+      "sentenceCompletion": "My battery is low, so I need the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch",
+      "firstSyllable": "char"
+    },
+    "semantic": {
+      "category": "It is a piece of technology.",
+      "use": "You use it to recharge phones and other devices.",
+      "action": "You plug it into the wall and connect it.",
+      "properties": "It has a plug at one end and a thin cable.",
+      "location": "You find it next to the bed or in a kitchen drawer.",
+      "association": "It makes me think of a low battery."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "larger",
+      "sameFirstSound": "cheese"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "household-camera",
+    "word": "camera",
+    "group": "household",
+    "subgroup": "electronics and technology",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-camera.webp",
+    "imagePrompt": "A digital camera with a lens",
+    "searchQuery": "digital camera",
+    "cues": {
+      "definition": "A device for taking photographs.",
+      "sentenceCompletion": "Smile while I take your photo with the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cam"
+    },
+    "semantic": {
+      "category": "It is a piece of technology.",
+      "use": "You use it to take photos.",
+      "action": "You press a button and it clicks.",
+      "properties": "It has a lens and a small screen.",
+      "location": "You find it in a drawer or around your neck on holiday.",
+      "association": "It makes me think of holidays and family photos."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "uh",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "carrot"
+    }
+  },
+  {
+    "id": "household-scissors",
+    "word": "scissors",
+    "group": "household",
+    "subgroup": "stationery and paperwork",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-scissors.webp",
+    "imagePrompt": "A pair of scissors with red handles",
+    "searchQuery": "scissors",
+    "cues": {
+      "definition": "A tool with two blades that you use to cut paper and fabric.",
+      "sentenceCompletion": "Cut the string with a pair of ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sciss"
+    },
+    "semantic": {
+      "category": "It is a cutting tool.",
+      "use": "You use them to cut paper, card and string.",
+      "action": "You open and close the blades.",
+      "properties": "They have two sharp blades and two finger loops.",
+      "location": "You find them in a drawer or on a desk.",
+      "association": "It makes me think of crafts and wrapping presents."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "soup"
+    }
+  },
+  {
+    "id": "household-pen",
+    "word": "pen",
+    "group": "household",
+    "subgroup": "stationery and paperwork",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-pen.webp",
+    "imagePrompt": "A blue ballpoint pen",
+    "searchQuery": "ballpoint pen",
+    "cues": {
+      "definition": "A writing tool filled with ink.",
+      "sentenceCompletion": "Please sign your name with a ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is a piece of stationery.",
+      "use": "You use it to write.",
+      "action": "You hold it and move it across paper.",
+      "properties": "It is slim, with a cap or a clicker.",
+      "location": "You find it on a desk or in a pocket.",
+      "association": "It makes me think of signing a letter."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "ten",
+      "sameFirstSound": "pizza"
+    }
+  },
+  {
+    "id": "household-pencil",
+    "word": "pencil",
+    "group": "household",
+    "subgroup": "stationery and paperwork",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-pencil.webp",
+    "imagePrompt": "A yellow wooden pencil sharpened to a point",
+    "searchQuery": "wooden pencil",
+    "cues": {
+      "definition": "A wooden writing tool with a grey core that can be rubbed out.",
+      "sentenceCompletion": "I drew a sketch in ___ and then went over it in ink.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pen"
+    },
+    "semantic": {
+      "category": "It is a piece of stationery.",
+      "use": "You use it to draw and write.",
+      "action": "You sharpen it and move it across paper.",
+      "properties": "It is long and thin, made of wood, with a point.",
+      "location": "You find it in a school bag or on a desk.",
+      "association": "It makes me think of school days and drawing."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "stencil",
+      "sameFirstSound": "pond"
+    }
+  },
+  {
+    "id": "household-envelope",
+    "word": "envelope",
+    "group": "household",
+    "subgroup": "stationery and paperwork",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-envelope.webp",
+    "imagePrompt": "A plain white envelope, sealed",
+    "searchQuery": "white envelope",
+    "cues": {
+      "definition": "A paper cover that you put a letter in before posting it.",
+      "sentenceCompletion": "I put the card in an ___ and stuck on a stamp.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "eh",
+      "firstSyllable": "en"
+    },
+    "semantic": {
+      "category": "It is a piece of stationery.",
+      "use": "You use it to post letters and cards.",
+      "action": "You seal the flap and put on a stamp.",
+      "properties": "It is flat, rectangular paper with a sticky flap.",
+      "location": "You find it in a desk drawer or through the letterbox.",
+      "association": "It makes me think of post and letters."
+    },
+    "phonological": {
+      "firstSound": "e",
+      "lastSound": "p",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "elephant"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "household-stapler",
+    "word": "stapler",
+    "group": "household",
+    "subgroup": "stationery and paperwork",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-stapler.webp",
+    "imagePrompt": "A black desktop stapler",
+    "searchQuery": "desk stapler",
+    "cues": {
+      "definition": "A small desk tool that presses metal fasteners through paper to hold pages together.",
+      "sentenceCompletion": "She joined the pages with a ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sta"
+    },
+    "semantic": {
+      "category": "It is a piece of stationery.",
+      "use": "You use it to fasten sheets of paper together.",
+      "action": "You press down on the top and it clicks.",
+      "properties": "It is small and metal or plastic, with a hinge.",
+      "location": "You find it on an office desk.",
+      "association": "It makes me think of office paperwork."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "household-notebook",
+    "word": "notebook",
+    "group": "household",
+    "subgroup": "stationery and paperwork",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-notebook.webp",
+    "imagePrompt": "A closed spiral-bound notebook with a plain cover",
+    "searchQuery": "spiral notebook",
+    "cues": {
+      "definition": "A small book of blank pages for writing notes.",
+      "sentenceCompletion": "I wrote my shopping list in my ___.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "nnn",
+      "firstSyllable": "note"
+    },
+    "semantic": {
+      "category": "It is a piece of stationery.",
+      "use": "You use it to jot down lists and ideas.",
+      "action": "You open it and write on a page.",
+      "properties": "It has a cover and lined or blank paper.",
+      "location": "You find it on a desk or in a bag.",
+      "association": "It makes me think of lists and reminders."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "k",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "nurse"
+    }
+  },
+  {
+    "id": "household-ruler",
+    "word": "ruler",
+    "group": "household",
+    "subgroup": "stationery and paperwork",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-ruler.webp",
+    "imagePrompt": "A clear plastic 30 centimetre ruler",
+    "searchQuery": "plastic ruler",
+    "cues": {
+      "definition": "A flat strip of plastic or wood marked with centimetres.",
+      "sentenceCompletion": "Draw a straight line using a ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "rrr",
+      "firstSyllable": "ru"
+    },
+    "semantic": {
+      "category": "It is a piece of stationery.",
+      "use": "You use it to measure and draw straight lines.",
+      "action": "You hold it flat and run a pen along the edge.",
+      "properties": "It is long, thin and flat, with numbers along the edge.",
+      "location": "You find it in a pencil case or on a desk.",
+      "association": "It makes me think of geometry lessons."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "cooler",
+      "sameFirstSound": "rain"
+    }
+  },
+  {
+    "id": "household-candle",
+    "word": "candle",
+    "group": "household",
+    "subgroup": "everyday bits and pieces",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-candle.webp",
+    "imagePrompt": "A white candle with a lit flame in a holder",
+    "searchQuery": "burning candle",
+    "cues": {
+      "definition": "A stick of wax with a string in the middle that burns with a small flame.",
+      "sentenceCompletion": "Blow out the ___ on the birthday cake.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "can"
+    },
+    "semantic": {
+      "category": "It is an everyday household item.",
+      "use": "You use it to give a soft glow or a nice scent.",
+      "action": "You strike a flame to it and it burns slowly.",
+      "properties": "It is made of wax and gets shorter as it burns.",
+      "location": "You find it on a table, a shelf or a birthday cake.",
+      "association": "It makes me think of birthdays and power cuts."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "handle",
+      "sameFirstSound": "cow"
+    }
+  },
+  {
+    "id": "household-key",
+    "word": "key",
+    "group": "household",
+    "subgroup": "everyday bits and pieces",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-key.webp",
+    "imagePrompt": "A single brass door key",
+    "searchQuery": "door key",
+    "cues": {
+      "definition": "A small metal object that opens a lock.",
+      "sentenceCompletion": "I turned the ___ in the lock.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is an everyday household item.",
+      "use": "You use it to lock and unlock doors.",
+      "action": "You put it in the lock and turn it.",
+      "properties": "It is small and metal, with a jagged edge.",
+      "location": "You find it in your pocket or on a hook by the door.",
+      "association": "It makes me think of coming home."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "ee",
+      "syllables": 1,
+      "rhyme": "tea",
+      "sameFirstSound": "cow"
+    }
+  },
+  {
+    "id": "household-clock",
+    "word": "clock",
+    "group": "household",
+    "subgroup": "everyday bits and pieces",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-clock.webp",
+    "imagePrompt": "A round analogue wall clock with a white face",
+    "searchQuery": "wall clock",
+    "cues": {
+      "definition": "A device with a face and hands that tells you the time.",
+      "sentenceCompletion": "I checked the ___ and it was half past three.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is an everyday household item.",
+      "use": "You use it to tell the time.",
+      "action": "It ticks as the hands go round.",
+      "properties": "It is round, with numbers and two hands.",
+      "location": "You find it on a wall, a mantelpiece or a bedside table.",
+      "association": "It makes me think of being late."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "sock",
+      "sameFirstSound": "kite"
+    }
+  },
+  {
+    "id": "household-vase",
+    "word": "vase",
+    "group": "household",
+    "subgroup": "everyday bits and pieces",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-vase.webp",
+    "imagePrompt": "A tall clear glass vase holding flowers",
+    "searchQuery": "flower vase",
+    "cues": {
+      "definition": "A tall container that holds cut flowers.",
+      "sentenceCompletion": "She put the roses in a ___.",
+      "firstLetter": "v",
+      "firstSoundSpoken": "vvv"
+    },
+    "semantic": {
+      "category": "It is an ornament for the home.",
+      "use": "You use it to hold flowers.",
+      "action": "You fill it with water and arrange the stems.",
+      "properties": "It is tall and hollow, often made of glass or china.",
+      "location": "You find it on a windowsill or a table.",
+      "association": "It makes me think of a bunch of flowers."
+    },
+    "phonological": {
+      "firstSound": "v",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": null,
+      "sameFirstSound": "van"
+    }
+  },
+  {
+    "id": "household-torch",
+    "word": "torch",
+    "group": "household",
+    "subgroup": "everyday bits and pieces",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-torch.webp",
+    "imagePrompt": "A black handheld torch shining a beam",
+    "searchQuery": "handheld torch",
+    "cues": {
+      "definition": "A small handheld device that shines a beam in the dark.",
+      "sentenceCompletion": "I took a ___ to find my way in the dark.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is an everyday household item.",
+      "use": "You use it to see in the dark.",
+      "action": "You press the switch and a beam shines out.",
+      "properties": "It is a slim tube with a bulb and batteries.",
+      "location": "You find it in a kitchen drawer or the glove box.",
+      "association": "It makes me think of power cuts and camping."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "ch",
+      "syllables": 1,
+      "rhyme": "porch",
+      "sameFirstSound": "tent"
+    }
+  },
+  {
+    "id": "household-padlock",
+    "word": "padlock",
+    "group": "household",
+    "subgroup": "everyday bits and pieces",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "household-padlock.webp",
+    "imagePrompt": "A brass padlock with a closed shackle",
+    "searchQuery": "brass padlock",
+    "cues": {
+      "definition": "A removable metal lock with a curved bar that you fasten onto a gate or shed.",
+      "sentenceCompletion": "He secured the shed door with a ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pad"
+    },
+    "semantic": {
+      "category": "It is an everyday household item.",
+      "use": "You use it to lock gates, sheds and bikes.",
+      "action": "You click it shut or turn a key.",
+      "properties": "It is small and solid, with a curved bar on top.",
+      "location": "You find it on a shed door, a gate or a bike.",
+      "association": "It makes me think of keeping things safe."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "k",
+      "syllables": 2,
+      "rhyme": "shock",
+      "sameFirstSound": "parrot"
+    }
+  }
+]

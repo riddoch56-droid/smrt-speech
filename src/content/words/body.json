@@ -1,0 +1,2010 @@
+[
+  {
+    "id": "body-ear",
+    "word": "ear",
+    "group": "body",
+    "subgroup": "head and face",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-ear.webp",
+    "imagePrompt": "A single human ear seen from the side, close up, on a plain white background",
+    "searchQuery": "human ear",
+    "cues": {
+      "definition": "You pick up sounds with this part of the head.",
+      "sentenceCompletion": "She whispered the secret in his ___.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "ee"
+    },
+    "semantic": {
+      "category": "It is a part of the head.",
+      "use": "It lets you pick up sounds and music.",
+      "action": "It catches sound waves from the air.",
+      "properties": "It is curved and soft, with a rim of cartilage.",
+      "location": "You find one on each side of the head.",
+      "association": "It makes me think of listening and earrings."
+    },
+    "phonological": {
+      "firstSound": "ee",
+      "lastSound": "er",
+      "syllables": 1,
+      "rhyme": "near",
+      "sameFirstSound": "easy"
+    }
+  },
+  {
+    "id": "body-nose",
+    "word": "nose",
+    "group": "body",
+    "subgroup": "head and face",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-nose.webp",
+    "imagePrompt": "A close-up of a human nose, front view, on a plain white background",
+    "searchQuery": "human nose",
+    "cues": {
+      "definition": "You smell flowers and cooking with this part of the face.",
+      "sentenceCompletion": "He had a cold, so he blew his ___.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "nnn"
+    },
+    "semantic": {
+      "category": "It is a part of the face.",
+      "use": "It is for smelling and breathing.",
+      "action": "It sniffs the air and can run or sneeze.",
+      "properties": "It sticks out in the middle of the face with two holes.",
+      "location": "You find it between the eyes and the mouth.",
+      "association": "It makes me think of smells and sneezing."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "rose",
+      "sameFirstSound": "night"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-eyebrow",
+    "word": "eyebrow",
+    "group": "body",
+    "subgroup": "head and face",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-eyebrow.webp",
+    "imagePrompt": "A close-up of a single human eyebrow above a closed eye, on a plain white background",
+    "searchQuery": "eyebrow close up",
+    "cues": {
+      "definition": "A line of short hairs above the eye.",
+      "sentenceCompletion": "She raised one ___ in surprise.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "eye",
+      "firstSyllable": "eye"
+    },
+    "semantic": {
+      "category": "It is a part of the face.",
+      "use": "It helps keep sweat and rain out of the eyes.",
+      "action": "It moves up and down when you look surprised or cross.",
+      "properties": "It is a curved strip of short hairs.",
+      "location": "You find it just above the eye.",
+      "association": "It makes me think of tweezers and looking surprised."
+    },
+    "phonological": {
+      "firstSound": "ie",
+      "lastSound": "ow",
+      "syllables": 2,
+      "rhyme": "cow",
+      "sameFirstSound": "island"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-tongue",
+    "word": "tongue",
+    "group": "body",
+    "subgroup": "head and face",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-tongue.webp",
+    "imagePrompt": "A human tongue stuck out of an open mouth, close up, on a plain white background",
+    "searchQuery": "human tongue",
+    "cues": {
+      "definition": "You use this pink part inside the mouth to taste and to talk.",
+      "sentenceCompletion": "The soup was so hot that it burnt my ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is a part inside the mouth.",
+      "use": "It is for tasting, swallowing and speaking.",
+      "action": "It moves around to shape sounds and lick things.",
+      "properties": "It is pink, wet and bendy.",
+      "location": "You find it inside the mouth.",
+      "association": "It makes me think of tasting and speech."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "ng",
+      "syllables": 1,
+      "rhyme": "young",
+      "sameFirstSound": "table"
+    }
+  },
+  {
+    "id": "body-chin",
+    "word": "chin",
+    "group": "body",
+    "subgroup": "head and face",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-chin.webp",
+    "imagePrompt": "A close-up of a human chin, side view of the lower face, on a plain white background",
+    "searchQuery": "human chin",
+    "cues": {
+      "definition": "It is the part of the face below the mouth.",
+      "sentenceCompletion": "He rubbed his hand across his ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch"
+    },
+    "semantic": {
+      "category": "It is a part of the face.",
+      "use": "It forms the bottom edge of the face.",
+      "action": "It sticks out a little and moves when you talk or chew.",
+      "properties": "It is rounded and sometimes has stubble or a beard.",
+      "location": "You find it below the lips.",
+      "association": "It makes me think of beards and shaving."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "thin",
+      "sameFirstSound": "chair"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-cheek",
+    "word": "cheek",
+    "group": "body",
+    "subgroup": "head and face",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-cheek.webp",
+    "imagePrompt": "A close-up of a human cheek, side view of a face, on a plain white background",
+    "searchQuery": "human cheek",
+    "cues": {
+      "definition": "It is the soft round part of the face beside the nose.",
+      "sentenceCompletion": "She gave her friend a kiss on the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch"
+    },
+    "semantic": {
+      "category": "It is a part of the face.",
+      "use": "It makes up the side of the face and holds the smile.",
+      "action": "It puffs out or turns pink when you blush.",
+      "properties": "It is soft, round and can be rosy.",
+      "location": "You find it between the nose and the ear.",
+      "association": "It makes me think of blushing and kisses."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "week",
+      "sameFirstSound": "cherry"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-forehead",
+    "word": "forehead",
+    "group": "body",
+    "subgroup": "head and face",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-forehead.webp",
+    "imagePrompt": "A close-up of a human forehead with hairline above the eyebrows, on a plain white background",
+    "searchQuery": "human forehead",
+    "cues": {
+      "definition": "It is the flat part of the face above the eyebrows.",
+      "sentenceCompletion": "The nurse put her hand on my ___ to check for a fever.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "fore"
+    },
+    "semantic": {
+      "category": "It is a part of the head.",
+      "use": "It protects the front of the skull.",
+      "action": "It wrinkles when you frown.",
+      "properties": "It is smooth, flat and broad.",
+      "location": "You find it between the hairline and the eyebrows.",
+      "association": "It makes me think of frowning and a high temperature."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "fish"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-thumb",
+    "word": "thumb",
+    "group": "body",
+    "subgroup": "arms and hands",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-thumb.webp",
+    "imagePrompt": "A human hand giving a thumbs up, shown close up on a plain white background",
+    "searchQuery": "thumbs up hand",
+    "cues": {
+      "definition": "It is the short, thick digit that sticks out from the side of the hand.",
+      "sentenceCompletion": "He hit it with the hammer and hurt his ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "th"
+    },
+    "semantic": {
+      "category": "It is a part of the hand.",
+      "use": "It lets you grip and hold things.",
+      "action": "It presses buttons and gives a signal for good.",
+      "properties": "It is short, thick and bends in two places only.",
+      "location": "You find it on the side of the hand, next to the first finger.",
+      "association": "It makes me think of hitchhiking and a sign for good."
+    },
+    "phonological": {
+      "firstSound": "th",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "drum",
+      "sameFirstSound": "thirty"
+    }
+  },
+  {
+    "id": "body-elbow",
+    "word": "elbow",
+    "group": "body",
+    "subgroup": "arms and hands",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-elbow.webp",
+    "imagePrompt": "A bent human arm showing the elbow joint, close up, on a plain white background",
+    "searchQuery": "human elbow",
+    "cues": {
+      "definition": "It is the joint in the middle of the arm that bends.",
+      "sentenceCompletion": "She leaned on the table with her ___.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "eh",
+      "firstSyllable": "el"
+    },
+    "semantic": {
+      "category": "It is a part of the arm.",
+      "use": "It lets the arm bend and straighten.",
+      "action": "It bends when you lift a cup to your mouth.",
+      "properties": "It is bony and pointed when the arm is bent.",
+      "location": "You find it between the shoulder and the wrist.",
+      "association": "It makes me think of jabs in a crowd and patches on a sleeve."
+    },
+    "phonological": {
+      "firstSound": "e",
+      "lastSound": "oh",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "egg"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-wrist",
+    "word": "wrist",
+    "group": "body",
+    "subgroup": "arms and hands",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-wrist.webp",
+    "imagePrompt": "A human forearm and hand showing the wrist joint, close up, on a plain white background",
+    "searchQuery": "human wrist",
+    "cues": {
+      "definition": "It is the thin joint where the hand joins the arm.",
+      "sentenceCompletion": "The doctor felt the pulse on my ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "rrr"
+    },
+    "semantic": {
+      "category": "It is a part of the arm.",
+      "use": "It lets the hand bend and turn.",
+      "action": "It twists when you turn a key or shake a bottle.",
+      "properties": "It is narrow and a bit bony.",
+      "location": "You find it between the hand and the forearm.",
+      "association": "It makes me think of bracelets and taking a pulse."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "st",
+      "syllables": 1,
+      "rhyme": "list",
+      "sameFirstSound": "radio"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-fingernail",
+    "word": "fingernail",
+    "group": "body",
+    "subgroup": "arms and hands",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-fingernail.webp",
+    "imagePrompt": "A close-up of a single human fingertip showing the nail, on a plain white background",
+    "searchQuery": "fingernail close up",
+    "cues": {
+      "definition": "It is the hard, thin plate on the tip of a digit of the hand.",
+      "sentenceCompletion": "She painted each ___ bright red.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "fin"
+    },
+    "semantic": {
+      "category": "It is a part of the hand.",
+      "use": "It protects the tip of a digit and helps you pick up small things.",
+      "action": "It grows longer and needs to be cut.",
+      "properties": "It is hard, smooth and a bit see-through.",
+      "location": "You find it at the end of each digit on the hand.",
+      "association": "It makes me think of varnish and biting."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": "mail",
+      "sameFirstSound": "fish"
+    }
+  },
+  {
+    "id": "body-knuckle",
+    "word": "knuckle",
+    "group": "body",
+    "subgroup": "arms and hands",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-knuckle.webp",
+    "imagePrompt": "A human fist showing the knuckles, close up, on a plain white background",
+    "searchQuery": "human knuckles",
+    "cues": {
+      "definition": "It is one of the bumpy joints on the back of the hand where the digits bend.",
+      "sentenceCompletion": "He rapped on the door with his ___.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "nnn",
+      "firstSyllable": "knuc"
+    },
+    "semantic": {
+      "category": "It is a part of the hand.",
+      "use": "It lets the digits bend.",
+      "action": "It cracks if you pull your digits, and it sticks out in a fist.",
+      "properties": "It is bumpy and bony.",
+      "location": "You find it on the back of the hand.",
+      "association": "It makes me think of knocking on a door and making a fist."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "buckle",
+      "sameFirstSound": "nurse"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-finger",
+    "word": "finger",
+    "group": "body",
+    "subgroup": "arms and hands",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-finger.webp",
+    "imagePrompt": "A single human index finger pointing upwards, close up, on a plain white background",
+    "searchQuery": "pointing finger",
+    "cues": {
+      "definition": "You point with this long digit on the hand.",
+      "sentenceCompletion": "He wore a gold ring on his ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "fin"
+    },
+    "semantic": {
+      "category": "It is a part of the hand.",
+      "use": "It lets you point, touch and grip.",
+      "action": "It bends so you can press, point and hold.",
+      "properties": "It is long and thin and has joints and a tip.",
+      "location": "You find five of them, counting the short one, on each hand.",
+      "association": "It makes me think of rings and pointing."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "linger",
+      "sameFirstSound": "fish"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-knee",
+    "word": "knee",
+    "group": "body",
+    "subgroup": "legs and feet",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-knee.webp",
+    "imagePrompt": "A bent human leg showing the knee, close up, on a plain white background",
+    "searchQuery": "human knee",
+    "cues": {
+      "definition": "It is the joint in the middle of the leg that bends.",
+      "sentenceCompletion": "She fell over and grazed her ___.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "nnn"
+    },
+    "semantic": {
+      "category": "It is a part of the leg.",
+      "use": "It lets the leg bend so you can sit and climb stairs.",
+      "action": "It bends when you sit down or kneel.",
+      "properties": "It is round and bony.",
+      "location": "You find it between the thigh and the shin.",
+      "association": "It makes me think of grazes and kneeling."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "ee",
+      "syllables": 1,
+      "rhyme": "tree",
+      "sameFirstSound": "needle"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-foot",
+    "word": "foot",
+    "group": "body",
+    "subgroup": "legs and feet",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-foot.webp",
+    "imagePrompt": "A single bare human foot seen from the side, on a plain white background",
+    "searchQuery": "bare human foot",
+    "cues": {
+      "definition": "You stand on this part of the body at the end of the leg.",
+      "sentenceCompletion": "I took off my shoe and sock and put my bare ___ in the sea.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is a part of the body.",
+      "use": "It carries your weight when you stand and move.",
+      "action": "It steps, kicks and pushes off the ground.",
+      "properties": "It is flat underneath and has five digits at the front.",
+      "location": "You find it at the end of the leg.",
+      "association": "It makes me think of shoes, socks and kicking a ball."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "put",
+      "sameFirstSound": "farm"
+    }
+  },
+  {
+    "id": "body-toe",
+    "word": "toe",
+    "group": "body",
+    "subgroup": "legs and feet",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-toe.webp",
+    "imagePrompt": "A close-up of a bare human foot showing the toes, on a plain white background",
+    "searchQuery": "human toes",
+    "cues": {
+      "definition": "It is one of the five small digits at the end of the foot.",
+      "sentenceCompletion": "He stubbed his big ___ on the table leg.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is a part of the foot.",
+      "use": "It helps you balance and push off when you move.",
+      "action": "It wiggles and curls.",
+      "properties": "It is small and short, and the biggest one is at the side.",
+      "location": "You find five of them on each foot.",
+      "association": "It makes me think of stubbing and tiptoeing."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "oh",
+      "syllables": 1,
+      "rhyme": "snow",
+      "sameFirstSound": "table"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-ankle",
+    "word": "ankle",
+    "group": "body",
+    "subgroup": "legs and feet",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-ankle.webp",
+    "imagePrompt": "A human leg showing the ankle joint above the foot, close up, on a plain white background",
+    "searchQuery": "human ankle",
+    "cues": {
+      "definition": "It is the joint that joins the foot to the leg.",
+      "sentenceCompletion": "She slipped on the ice and twisted her ___.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "ann",
+      "firstSyllable": "an"
+    },
+    "semantic": {
+      "category": "It is a part of the leg.",
+      "use": "It lets the foot bend and turn.",
+      "action": "It rolls over if you step badly, and it can sprain.",
+      "properties": "It is narrow and bony with a bump on each side.",
+      "location": "You find it between the foot and the shin.",
+      "association": "It makes me think of sprains and socks."
+    },
+    "phonological": {
+      "firstSound": "a",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "apple"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-thigh",
+    "word": "thigh",
+    "group": "body",
+    "subgroup": "legs and feet",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-thigh.webp",
+    "imagePrompt": "A human upper leg seen from the side, bare skin, on a plain white background",
+    "searchQuery": "human thigh",
+    "cues": {
+      "definition": "It is the top part of the leg, above the knee.",
+      "sentenceCompletion": "He pulled a muscle in his ___ while running.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "th"
+    },
+    "semantic": {
+      "category": "It is a part of the leg.",
+      "use": "It holds the strongest muscles for walking and climbing.",
+      "action": "It lifts the leg and straightens the knee.",
+      "properties": "It is broad and muscular.",
+      "location": "You find it between the hip and the knee.",
+      "association": "It makes me think of chicken and muscles."
+    },
+    "phonological": {
+      "firstSound": "th",
+      "lastSound": "ie",
+      "syllables": 1,
+      "rhyme": "sky",
+      "sameFirstSound": "think"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-toenail",
+    "word": "toenail",
+    "group": "body",
+    "subgroup": "legs and feet",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-toenail.webp",
+    "imagePrompt": "A close-up of a single human big toe showing the nail, on a plain white background",
+    "searchQuery": "toenail close up",
+    "cues": {
+      "definition": "It is the hard, thin plate on the tip of a digit of the foot.",
+      "sentenceCompletion": "He needed to cut his ___ because it was too long.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "toe"
+    },
+    "semantic": {
+      "category": "It is a part of the foot.",
+      "use": "It protects the tip of the digit on the foot.",
+      "action": "It grows slowly and gets trimmed.",
+      "properties": "It is hard, thick and smooth.",
+      "location": "You find it at the end of each digit on the foot.",
+      "association": "It makes me think of pedicures and clipping."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "sale",
+      "sameFirstSound": "tiger"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-heel",
+    "word": "heel",
+    "group": "body",
+    "subgroup": "legs and feet",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-heel.webp",
+    "imagePrompt": "A single bare human foot seen from behind showing the heel, on a plain white background",
+    "searchQuery": "human heel foot",
+    "cues": {
+      "definition": "It is the rounded back part of the foot.",
+      "sentenceCompletion": "My new shoes rubbed a blister on my ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh"
+    },
+    "semantic": {
+      "category": "It is a part of the foot.",
+      "use": "It takes the force when your foot lands.",
+      "action": "It hits the ground first when you walk.",
+      "properties": "It is rounded and has thick skin.",
+      "location": "You find it at the back of the foot.",
+      "association": "It makes me think of blisters and high shoes."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "wheel",
+      "sameFirstSound": "house"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-shoulder",
+    "word": "shoulder",
+    "group": "body",
+    "subgroup": "torso and inside the body",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-shoulder.webp",
+    "imagePrompt": "A human bare shoulder seen from the side, close up, on a plain white background",
+    "searchQuery": "human shoulder",
+    "cues": {
+      "definition": "It is the rounded joint where the arm joins the body.",
+      "sentenceCompletion": "She carried the heavy bag over her ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh",
+      "firstSyllable": "shoul"
+    },
+    "semantic": {
+      "category": "It is a part of the body.",
+      "use": "It lets the arm swing and lift.",
+      "action": "It shrugs and rolls when you move your arm.",
+      "properties": "It is rounded and broad.",
+      "location": "You find it at the top of the arm, beside the neck.",
+      "association": "It makes me think of shrugging and carrying a bag."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "boulder",
+      "sameFirstSound": "shoe"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-stomach",
+    "word": "stomach",
+    "group": "body",
+    "subgroup": "torso and inside the body",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-stomach.webp",
+    "imagePrompt": "A bare human stomach and midriff seen from the front, on a plain white background",
+    "searchQuery": "human stomach",
+    "cues": {
+      "definition": "It is the part inside your body where food goes after you swallow it.",
+      "sentenceCompletion": "I felt sick and had a pain in my ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "stom"
+    },
+    "semantic": {
+      "category": "It is a part inside the body.",
+      "use": "It breaks down the food you eat.",
+      "action": "It rumbles when you are hungry.",
+      "properties": "It is a stretchy bag of muscle.",
+      "location": "You find it in the middle of the body, under the ribs.",
+      "association": "It makes me think of hunger and feeling sick."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "k",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "sun"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-heart",
+    "word": "heart",
+    "group": "body",
+    "subgroup": "torso and inside the body",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-heart.webp",
+    "imagePrompt": "An anatomical model of a human heart, front view, on a plain white background",
+    "searchQuery": "human heart anatomical",
+    "cues": {
+      "definition": "It is the organ in your chest that pumps blood.",
+      "sentenceCompletion": "I could feel my ___ beating fast after the run.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh"
+    },
+    "semantic": {
+      "category": "It is an organ inside the body.",
+      "use": "It pumps blood around the body.",
+      "action": "It beats all the time, and faster when you run.",
+      "properties": "It is a strong muscle about the size of a fist.",
+      "location": "You find it in the chest, a little to the left.",
+      "association": "It makes me think of love and a pulse."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "start",
+      "sameFirstSound": "hammer"
+    }
+  },
+  {
+    "id": "body-brain",
+    "word": "brain",
+    "group": "body",
+    "subgroup": "torso and inside the body",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-brain.webp",
+    "imagePrompt": "A human brain model seen from the side, on a plain white background",
+    "searchQuery": "human brain",
+    "cues": {
+      "definition": "It is the organ inside the head that controls thinking, speech and movement.",
+      "sentenceCompletion": "He used his ___ to solve the puzzle.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is an organ inside the head.",
+      "use": "It controls your thoughts, memory, speech and movement.",
+      "action": "It sends messages to the rest of the body.",
+      "properties": "It is soft and pinkish-grey with folds on the outside.",
+      "location": "You find it inside the skull.",
+      "association": "It makes me think of thinking and memory."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "train",
+      "sameFirstSound": "bus"
+    }
+  },
+  {
+    "id": "body-bone",
+    "word": "bone",
+    "group": "body",
+    "subgroup": "torso and inside the body",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-bone.webp",
+    "imagePrompt": "A single clean white human thigh bone on a plain white background",
+    "searchQuery": "human bone",
+    "cues": {
+      "definition": "It is a hard, pale part inside the body that gives it shape.",
+      "sentenceCompletion": "When he fell, he broke a ___ in his arm.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a part inside the body.",
+      "use": "It supports the body and protects the organs.",
+      "action": "It breaks if you fall badly, then it heals.",
+      "properties": "It is hard, white and strong.",
+      "location": "You find it under the skin and muscle.",
+      "association": "It makes me think of fractures and X-rays."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "stone",
+      "sameFirstSound": "bread"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-skeleton",
+    "word": "skeleton",
+    "group": "body",
+    "subgroup": "torso and inside the body",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-skeleton.webp",
+    "imagePrompt": "A full human skeleton model standing, front view, on a plain white background",
+    "searchQuery": "human skeleton model",
+    "cues": {
+      "definition": "It is the whole frame of bones inside the body.",
+      "sentenceCompletion": "The museum had a model of a human ___ in the corner.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "skel"
+    },
+    "semantic": {
+      "category": "It is the frame of the body.",
+      "use": "It holds the body up and protects the organs.",
+      "action": "It stays after the soft parts have gone.",
+      "properties": "It is made of more than two hundred hard white pieces.",
+      "location": "You find it inside every person, and in a medical classroom.",
+      "association": "It makes me think of Halloween and the biology lab."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "n",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "sun"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-toothbrush",
+    "word": "toothbrush",
+    "group": "body",
+    "subgroup": "washing items",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-toothbrush.webp",
+    "imagePrompt": "A plastic toothbrush lying flat, seen from the side, on a plain white background",
+    "searchQuery": "toothbrush",
+    "cues": {
+      "definition": "You use it with paste to clean your teeth.",
+      "sentenceCompletion": "Every morning and night I clean my teeth with a ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tooth"
+    },
+    "semantic": {
+      "category": "It is a washing item.",
+      "use": "It keeps your mouth clean and fresh.",
+      "action": "You scrub with it in your mouth and rinse it after.",
+      "properties": "It has a thin handle and a head with small bristles.",
+      "location": "You find it in the bathroom, usually in a cup or holder.",
+      "association": "It makes me think of minty breath and a dentist."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "sh",
+      "syllables": 2,
+      "rhyme": "hush",
+      "sameFirstSound": "table"
+    }
+  },
+  {
+    "id": "body-toothpaste",
+    "word": "toothpaste",
+    "group": "body",
+    "subgroup": "washing items",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-toothpaste.webp",
+    "imagePrompt": "A tube of toothpaste with a line of white and blue paste on a plain white background, no text",
+    "searchQuery": "toothpaste tube",
+    "cues": {
+      "definition": "You squeeze it onto a brush to clean your teeth.",
+      "sentenceCompletion": "Squeeze a little ___ onto the brush.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tooth"
+    },
+    "semantic": {
+      "category": "It is a washing item.",
+      "use": "It cleans your teeth and freshens your breath.",
+      "action": "You squeeze it out of a tube and then scrub.",
+      "properties": "It is a thick, minty paste.",
+      "location": "You find it in the bathroom.",
+      "association": "It makes me think of fresh breath and a dentist."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "taste",
+      "sameFirstSound": "tiger"
+    }
+  },
+  {
+    "id": "body-soap",
+    "word": "soap",
+    "group": "body",
+    "subgroup": "washing items",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-soap.webp",
+    "imagePrompt": "A single bar of plain white soap on a plain white background",
+    "searchQuery": "bar of soap",
+    "cues": {
+      "definition": "You rub this on your hands with water to get them clean.",
+      "sentenceCompletion": "Wash your hands with ___ and water.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a washing item.",
+      "use": "It gets dirt and germs off your skin.",
+      "action": "It lathers and makes bubbles when you rub it wet.",
+      "properties": "It is smooth, slippery and smells pleasant.",
+      "location": "You find it by the sink or in the bath.",
+      "association": "It makes me think of bubbles and clean hands."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "rope",
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "body-shampoo",
+    "word": "shampoo",
+    "group": "body",
+    "subgroup": "washing items",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-shampoo.webp",
+    "imagePrompt": "A plain unlabelled plastic bottle of shampoo with a pump top, on a plain white background",
+    "searchQuery": "shampoo bottle",
+    "cues": {
+      "definition": "You work this liquid into your head to wash your hair.",
+      "sentenceCompletion": "I put ___ on my wet hair and rinsed it out.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh",
+      "firstSyllable": "sham"
+    },
+    "semantic": {
+      "category": "It is a washing item.",
+      "use": "It cleans your hair and scalp.",
+      "action": "You pour it out, lather it up and rinse.",
+      "properties": "It is a thick, scented liquid that foams.",
+      "location": "You find it in the bathroom, in the shower or on the side of the bath.",
+      "association": "It makes me think of lather and a hairdresser."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "oo",
+      "syllables": 2,
+      "rhyme": "zoo",
+      "sameFirstSound": "ship"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-towel",
+    "word": "towel",
+    "group": "body",
+    "subgroup": "washing items",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-towel.webp",
+    "imagePrompt": "A single folded white bath towel on a plain white background",
+    "searchQuery": "folded white towel",
+    "cues": {
+      "definition": "You use this soft cloth to dry yourself after you wash.",
+      "sentenceCompletion": "After the shower, she wrapped herself in a big ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tow"
+    },
+    "semantic": {
+      "category": "It is a washing item.",
+      "use": "It dries your body after a bath or swim.",
+      "action": "You rub it on your skin and hang it up to dry.",
+      "properties": "It is soft, thick and absorbent.",
+      "location": "You find it on a rail in the bathroom.",
+      "association": "It makes me think of swimming and the beach."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "vowel",
+      "sameFirstSound": "tomato"
+    }
+  },
+  {
+    "id": "body-sponge",
+    "word": "sponge",
+    "group": "body",
+    "subgroup": "washing items",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-sponge.webp",
+    "imagePrompt": "A single yellow natural sponge, close up, on a plain white background",
+    "searchQuery": "bath sponge",
+    "cues": {
+      "definition": "This soft, squashy thing soaks up water and is used for washing.",
+      "sentenceCompletion": "Squeeze the soapy ___ and wipe your back.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a washing item.",
+      "use": "It holds water and soap so you can wash your skin.",
+      "action": "You squeeze it and rub it over yourself.",
+      "properties": "It is soft, springy and full of holes.",
+      "location": "You find it in the bathroom or by the bath.",
+      "association": "It makes me think of bath time and bubbles."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "j",
+      "syllables": 1,
+      "rhyme": "plunge",
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "body-flannel",
+    "word": "flannel",
+    "group": "body",
+    "subgroup": "washing items",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-flannel.webp",
+    "imagePrompt": "A single folded white cotton face flannel on a plain white background",
+    "searchQuery": "face flannel",
+    "cues": {
+      "definition": "You wet this small square cloth to wash your face and hands.",
+      "sentenceCompletion": "She wiped his face with a damp ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "flan"
+    },
+    "semantic": {
+      "category": "It is a washing item.",
+      "use": "It washes your face and body.",
+      "action": "You wet it, add soap and wipe.",
+      "properties": "It is a small, soft square of cloth.",
+      "location": "You find it in the bathroom by the sink.",
+      "association": "It makes me think of a wash at the sink and clean faces."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "channel",
+      "sameFirstSound": "fish"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-tissue",
+    "word": "tissue",
+    "group": "body",
+    "subgroup": "washing items",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-tissue.webp",
+    "imagePrompt": "A single white paper tissue, softly folded, on a plain white background",
+    "searchQuery": "paper tissue",
+    "cues": {
+      "definition": "You use this thin paper to wipe your nose or dry tears.",
+      "sentenceCompletion": "I sneezed and reached for a ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tis"
+    },
+    "semantic": {
+      "category": "It is a personal care item.",
+      "use": "It wipes noses, tears and small spills.",
+      "action": "You pull one from a box, use it and throw it away.",
+      "properties": "It is thin, soft, white and crumples easily.",
+      "location": "You find them in a box, or in a pocket or handbag.",
+      "association": "It makes me think of colds and sneezing."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "oo",
+      "syllables": 2,
+      "rhyme": "issue",
+      "sameFirstSound": "table"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-comb",
+    "word": "comb",
+    "group": "body",
+    "subgroup": "grooming items",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-comb.webp",
+    "imagePrompt": "A single black plastic hair comb seen from above, on a plain white background",
+    "searchQuery": "hair comb",
+    "cues": {
+      "definition": "It has a row of teeth and you pull it through your hair to tidy it.",
+      "sentenceCompletion": "He ran a ___ through his wet hair.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is a grooming item.",
+      "use": "It untangles and parts the hair.",
+      "action": "You pull it through your hair.",
+      "properties": "It is thin and flat with a row of teeth.",
+      "location": "You find it in the bathroom or a pocket.",
+      "association": "It makes me think of a neat parting and barbers."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "home",
+      "sameFirstSound": "cup"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-hairbrush",
+    "word": "hairbrush",
+    "group": "body",
+    "subgroup": "grooming items",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-hairbrush.webp",
+    "imagePrompt": "A single wooden hairbrush with bristles seen from above, on a plain white background",
+    "searchQuery": "hair brush",
+    "cues": {
+      "definition": "It has a handle and bristles and you use it to smooth out knots.",
+      "sentenceCompletion": "She sat at the mirror and pulled the ___ through her long hair.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hair"
+    },
+    "semantic": {
+      "category": "It is a grooming item.",
+      "use": "It smooths and untangles the hair.",
+      "action": "You stroke it through your hair.",
+      "properties": "It has a handle and a round or flat head of bristles.",
+      "location": "You find it on a dressing table or in the bathroom.",
+      "association": "It makes me think of styling and a hundred strokes."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "sh",
+      "syllables": 2,
+      "rhyme": "crush",
+      "sameFirstSound": "house"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-razor",
+    "word": "razor",
+    "group": "body",
+    "subgroup": "grooming items",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-razor.webp",
+    "imagePrompt": "A single plain metal safety razor on a plain white background, no branding",
+    "searchQuery": "safety razor",
+    "cues": {
+      "definition": "You use this sharp tool to shave off hair.",
+      "sentenceCompletion": "He used a ___ to shave his chin.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "rrr",
+      "firstSyllable": "ra"
+    },
+    "semantic": {
+      "category": "It is a grooming item.",
+      "use": "It removes hair from the face or legs.",
+      "action": "You glide it over the skin to cut off hair.",
+      "properties": "It has a handle and a thin sharp blade.",
+      "location": "You find it in the bathroom.",
+      "association": "It makes me think of shaving foam and being clean-shaven."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "blazer",
+      "sameFirstSound": "rabbit"
+    }
+  },
+  {
+    "id": "body-hairdryer",
+    "word": "hairdryer",
+    "group": "body",
+    "subgroup": "grooming items",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-hairdryer.webp",
+    "imagePrompt": "A single black hairdryer with a nozzle on a plain white background, no branding",
+    "searchQuery": "hairdryer",
+    "cues": {
+      "definition": "It blows hot air to dry your hair quickly.",
+      "sentenceCompletion": "After washing her hair she turned on the ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hair"
+    },
+    "semantic": {
+      "category": "It is a grooming item.",
+      "use": "It dries and styles hair.",
+      "action": "It blows warm air out of a nozzle.",
+      "properties": "It has a handle, a nozzle and a switch, and it hums.",
+      "location": "You find it in the bathroom or bedroom.",
+      "association": "It makes me think of a hairdresser and a noisy hum."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": "fire",
+      "sameFirstSound": "house"
+    }
+  },
+  {
+    "id": "body-lipstick",
+    "word": "lipstick",
+    "group": "body",
+    "subgroup": "grooming items",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-lipstick.webp",
+    "imagePrompt": "A single open tube of red lipstick on a plain white background, no branding",
+    "searchQuery": "red lipstick",
+    "cues": {
+      "definition": "You twist this coloured stick and put it on your mouth.",
+      "sentenceCompletion": "She put on some bright red ___ before going out.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "lll",
+      "firstSyllable": "lip"
+    },
+    "semantic": {
+      "category": "It is a grooming item.",
+      "use": "It adds colour to the mouth.",
+      "action": "You twist it up and smear it on.",
+      "properties": "It is a small tube with a waxy stick of colour.",
+      "location": "You find it in a handbag or on a dressing table.",
+      "association": "It makes me think of make-up and a night out."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "k",
+      "syllables": 2,
+      "rhyme": "trick",
+      "sameFirstSound": "lamp"
+    }
+  },
+  {
+    "id": "body-perfume",
+    "word": "perfume",
+    "group": "body",
+    "subgroup": "grooming items",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-perfume.webp",
+    "imagePrompt": "A single elegant glass perfume bottle without any label, on a plain white background",
+    "searchQuery": "perfume bottle",
+    "cues": {
+      "definition": "You spray this sweet liquid on your skin to smell nice.",
+      "sentenceCompletion": "She sprayed a little ___ on her wrist.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "per"
+    },
+    "semantic": {
+      "category": "It is a grooming item.",
+      "use": "It makes you smell pleasant.",
+      "action": "You spray it on your skin or clothes.",
+      "properties": "It is a sweet-smelling liquid in a small glass bottle.",
+      "location": "You find it on a dressing table.",
+      "association": "It makes me think of flowers and getting dressed up."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "m",
+      "syllables": 2,
+      "rhyme": "room",
+      "sameFirstSound": "pen"
+    }
+  },
+  {
+    "id": "body-nail-clippers",
+    "word": "nail clippers",
+    "group": "body",
+    "subgroup": "grooming items",
+    "wordClass": "noun",
+    "letters": 12,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "body-nail-clippers.webp",
+    "imagePrompt": "A pair of metal nail clippers, seen from above, on a plain white background",
+    "searchQuery": "nail clippers",
+    "cues": {
+      "definition": "You squeeze this small metal tool to snip the tips of your digits.",
+      "sentenceCompletion": "Her fingertips were too long, so she used the ___.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "nnn",
+      "firstSyllable": "nail"
+    },
+    "semantic": {
+      "category": "It is a grooming item.",
+      "use": "It trims the hard tips of the fingers or toes.",
+      "action": "You squeeze the lever and it snips.",
+      "properties": "It is small, metal and has a lever on top.",
+      "location": "You find it in the bathroom or a drawer.",
+      "association": "It makes me think of a manicure and tidy hands."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "z",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "nurse"
+    }
+  },
+  {
+    "id": "body-tweezers",
+    "word": "tweezers",
+    "group": "body",
+    "subgroup": "grooming items",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-tweezers.webp",
+    "imagePrompt": "A pair of metal tweezers seen from above, on a plain white background",
+    "searchQuery": "metal tweezers",
+    "cues": {
+      "definition": "You pinch with this small tool to pull out hairs or splinters.",
+      "sentenceCompletion": "She used the ___ to pull out the splinter.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "twee"
+    },
+    "semantic": {
+      "category": "It is a grooming item.",
+      "use": "It plucks out hairs and splinters.",
+      "action": "You squeeze the two arms together to grip.",
+      "properties": "It is thin, metal and shaped like two joined prongs.",
+      "location": "You find it in a make-up bag or a first aid kit.",
+      "association": "It makes me think of shaping eyebrows and splinters."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "table"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-tablets",
+    "word": "tablets",
+    "group": "body",
+    "subgroup": "first aid and medicines",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-tablets.webp",
+    "imagePrompt": "A handful of white round tablets on a plain white background, no packaging",
+    "searchQuery": "white tablets",
+    "cues": {
+      "definition": "You swallow these small hard doses of medicine.",
+      "sentenceCompletion": "The doctor gave me some ___ for the pain.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tab"
+    },
+    "semantic": {
+      "category": "It is a type of medicine.",
+      "use": "It treats pain or illness when you swallow it.",
+      "action": "You take them with water at set times.",
+      "properties": "They are small, round and hard, usually white.",
+      "location": "You find them in a packet in the bathroom cabinet.",
+      "association": "They make me think of the pharmacy and taking medicine."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "tiger"
+    }
+  },
+  {
+    "id": "body-plaster",
+    "word": "plaster",
+    "group": "body",
+    "subgroup": "first aid and medicines",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-plaster.webp",
+    "imagePrompt": "A single sticking plaster, beige, lying flat on a plain white background, no branding",
+    "searchQuery": "sticking plaster",
+    "cues": {
+      "definition": "You stick this small strip over a cut on your skin.",
+      "sentenceCompletion": "He cut his finger, so he put a ___ on it.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "plas"
+    },
+    "semantic": {
+      "category": "It is a first aid item.",
+      "use": "It covers a small cut and keeps it clean.",
+      "action": "You peel off the back and press it on.",
+      "properties": "It is a thin sticky strip with a soft pad in the middle.",
+      "location": "You find it in a first aid box.",
+      "association": "It makes me think of grazes and small cuts."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "master",
+      "sameFirstSound": "pen"
+    }
+  },
+  {
+    "id": "body-bandage",
+    "word": "bandage",
+    "group": "body",
+    "subgroup": "first aid and medicines",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-bandage.webp",
+    "imagePrompt": "A white rolled elastic bandage, partly unrolled, on a plain white background",
+    "searchQuery": "rolled bandage",
+    "cues": {
+      "definition": "You wrap this long strip of cloth around an injury.",
+      "sentenceCompletion": "The nurse wrapped a ___ around my sprained wrist.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "ban"
+    },
+    "semantic": {
+      "category": "It is a first aid item.",
+      "use": "It supports and protects an injury.",
+      "action": "You wind it round a sore limb.",
+      "properties": "It is a long, soft strip of cloth that is usually rolled up.",
+      "location": "You find it in a first aid kit.",
+      "association": "It makes me think of sprains and injuries."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "j",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "bus"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-thermometer",
+    "word": "thermometer",
+    "group": "body",
+    "subgroup": "first aid and medicines",
+    "wordClass": "noun",
+    "letters": 11,
+    "syllables": 4,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-thermometer.webp",
+    "imagePrompt": "A single digital thermometer seen from above on a plain white background, no branding",
+    "searchQuery": "digital thermometer",
+    "cues": {
+      "definition": "You use this to measure how hot or cold a body is.",
+      "sentenceCompletion": "The nurse put the ___ under my tongue to check for a fever.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "th",
+      "firstSyllable": "ther"
+    },
+    "semantic": {
+      "category": "It is a medical item.",
+      "use": "It measures body temperature.",
+      "action": "You hold it under the tongue or against the skin until it beeps.",
+      "properties": "It is long and thin, with a small display.",
+      "location": "You find it in a first aid kit or medicine cabinet.",
+      "association": "It makes me think of fevers and being unwell."
+    },
+    "phonological": {
+      "firstSound": "th",
+      "lastSound": "er",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "think"
+    }
+  },
+  {
+    "id": "body-inhaler",
+    "word": "inhaler",
+    "group": "body",
+    "subgroup": "first aid and medicines",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-inhaler.webp",
+    "imagePrompt": "A single blue plastic inhaler with a mouthpiece on a plain white background, no branding",
+    "searchQuery": "asthma inhaler",
+    "cues": {
+      "definition": "You press this small device and breathe in the medicine to help your lungs.",
+      "sentenceCompletion": "He took a puff on his ___ to help him breathe.",
+      "firstLetter": "i",
+      "firstSoundSpoken": "ih",
+      "firstSyllable": "in"
+    },
+    "semantic": {
+      "category": "It is a medical item.",
+      "use": "It helps people with asthma to breathe more easily.",
+      "action": "You press it and breathe in the mist.",
+      "properties": "It is a small plastic device shaped like an L.",
+      "location": "You find it in a pocket or handbag.",
+      "association": "It makes me think of asthma and wheezing."
+    },
+    "phonological": {
+      "firstSound": "i",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "insect"
+    }
+  },
+  {
+    "id": "body-syringe",
+    "word": "syringe",
+    "group": "body",
+    "subgroup": "first aid and medicines",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-syringe.webp",
+    "imagePrompt": "A single clear plastic syringe without a needle cap, on a plain white background",
+    "searchQuery": "medical syringe",
+    "cues": {
+      "definition": "It is a small tube with a plunger for giving an injection.",
+      "sentenceCompletion": "The nurse filled the ___ with medicine.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sy"
+    },
+    "semantic": {
+      "category": "It is a medical item.",
+      "use": "It gives an injection or draws out liquid.",
+      "action": "You pull the plunger back and push it forward.",
+      "properties": "It is a clear tube with a plunger and a needle.",
+      "location": "You find it in a hospital or clinic.",
+      "association": "It makes me think of injections and jabs."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "j",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "body-walking-stick",
+    "word": "walking stick",
+    "group": "body",
+    "subgroup": "mobility and hearing aids",
+    "wordClass": "noun",
+    "letters": 12,
+    "syllables": 3,
+    "frequencyBand": 1,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "body-walking-stick.webp",
+    "imagePrompt": "A single wooden walking stick with a curved handle, standing upright on a plain white background",
+    "searchQuery": "wooden walking stick",
+    "cues": {
+      "definition": "You lean on this long wooden pole to help you stay steady on your feet.",
+      "sentenceCompletion": "Grandad leans on his ___ going up the hill.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "walk"
+    },
+    "semantic": {
+      "category": "It is a mobility aid.",
+      "use": "It gives you extra balance and support.",
+      "action": "You hold it in one hand and lean on it.",
+      "properties": "It is long, thin and wooden with a curved handle.",
+      "location": "You find it by the front door or in the hall.",
+      "association": "It makes me think of older people and country paths."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "k",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "water"
+    }
+  },
+  {
+    "id": "body-wheelchair",
+    "word": "wheelchair",
+    "group": "body",
+    "subgroup": "mobility and hearing aids",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-wheelchair.webp",
+    "imagePrompt": "A single empty manual wheelchair seen from the side, on a plain white background",
+    "searchQuery": "wheelchair",
+    "cues": {
+      "definition": "You sit in this and someone pushes you, or you push yourself, to get around.",
+      "sentenceCompletion": "He could not stand for long, so he sat in a ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "wheel"
+    },
+    "semantic": {
+      "category": "It is a mobility aid.",
+      "use": "It helps people who cannot walk far to get about.",
+      "action": "You sit in it and roll along on big wheels.",
+      "properties": "It has a seat, two large wheels and handles at the back.",
+      "location": "You find it in hospitals and care homes.",
+      "association": "It makes me think of ramps and hospital corridors."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "air",
+      "syllables": 2,
+      "rhyme": "bear",
+      "sameFirstSound": "water"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-crutches",
+    "word": "crutches",
+    "group": "body",
+    "subgroup": "mobility and hearing aids",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-crutches.webp",
+    "imagePrompt": "A pair of metal crutches standing upright, on a plain white background",
+    "searchQuery": "pair of crutches",
+    "cues": {
+      "definition": "You tuck these under your arms to help you get about with a hurt leg.",
+      "sentenceCompletion": "He broke his leg and had to use ___ for six weeks.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "crutch"
+    },
+    "semantic": {
+      "category": "It is a mobility aid.",
+      "use": "It takes your weight off an injured leg.",
+      "action": "You tuck them under your arms and swing forward.",
+      "properties": "They are a pair of long metal poles with handles and padded tops.",
+      "location": "You find them in a hospital or at home after an injury.",
+      "association": "They make me think of a broken leg and a plaster cast."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "cup"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "body-hearing-aid",
+    "word": "hearing aid",
+    "group": "body",
+    "subgroup": "mobility and hearing aids",
+    "wordClass": "noun",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "body-hearing-aid.webp",
+    "imagePrompt": "A single small beige hearing aid, close up, on a plain white background",
+    "searchQuery": "hearing aid device",
+    "cues": {
+      "definition": "You wear this small device to help you hear sounds better.",
+      "sentenceCompletion": "She turned up her ___ so she could follow the conversation.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hear"
+    },
+    "semantic": {
+      "category": "It is a medical device.",
+      "use": "It makes sounds louder for people who cannot hear well.",
+      "action": "You put it in or behind the ear and switch it on.",
+      "properties": "It is small, curved and usually beige.",
+      "location": "You wear it on the ear.",
+      "association": "It makes me think of whistling and turning up the volume."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "d",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "house"
+    }
+  },
+  {
+    "id": "body-walking-frame",
+    "word": "walking frame",
+    "group": "body",
+    "subgroup": "mobility and hearing aids",
+    "wordClass": "noun",
+    "letters": 12,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "body-walking-frame.webp",
+    "imagePrompt": "A single metal walking frame with four legs standing on a plain white background",
+    "searchQuery": "metal walking frame",
+    "cues": {
+      "definition": "You hold this metal support in front of you to help you stay steady as you move.",
+      "sentenceCompletion": "After the operation she moved about with a ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "walk"
+    },
+    "semantic": {
+      "category": "It is a mobility aid.",
+      "use": "It gives support and helps with balance.",
+      "action": "You grip it with both hands and move it forward.",
+      "properties": "It is a light metal support with four legs and two handles.",
+      "location": "You find it in hospitals and in homes.",
+      "association": "It makes me think of recovering after an operation."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "m",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "water"
+    }
+  },
+  {
+    "id": "body-dentures",
+    "word": "dentures",
+    "group": "body",
+    "subgroup": "mobility and hearing aids",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "body-dentures.webp",
+    "imagePrompt": "A set of upper and lower dentures on a plain white background",
+    "searchQuery": "dentures false teeth",
+    "cues": {
+      "definition": "This is a set of false teeth that you can take out of your mouth.",
+      "sentenceCompletion": "At night she took out her ___ and put them in a glass.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "den"
+    },
+    "semantic": {
+      "category": "It is a dental item.",
+      "use": "It helps people without natural teeth to chew and smile.",
+      "action": "You put them in your mouth and take them out to clean them.",
+      "properties": "It is a pink plastic base with a row of white teeth.",
+      "location": "You find it in the mouth, or in a glass beside the bed.",
+      "association": "It makes me think of false teeth and a glass of water."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "z",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "dog"
+    }
+  }
+]

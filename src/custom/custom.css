@@ -1,0 +1,44 @@
+.crop-frame {
+  position: relative;
+  width: min(100%, 360px);
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: var(--radius);
+  border: 3px solid var(--primary);
+  background: #222;
+  touch-action: none;
+  cursor: grab;
+  user-select: none;
+}
+
+.crop-frame img {
+  position: absolute;
+  max-width: none;
+  pointer-events: none;
+  -webkit-user-drag: none;
+}
+
+.thumb {
+  width: 64px;
+  height: 64px;
+  flex: none;
+  border-radius: var(--radius-small);
+  border: 2px solid var(--line);
+  background: var(--surface);
+  object-fit: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ink-soft);
+}
+
+.thumb.large {
+  width: 140px;
+  height: 140px;
+}
+
+.custom-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+}

@@ -1,0 +1,1980 @@
+[
+  {
+    "id": "nature-rain",
+    "word": "rain",
+    "group": "nature",
+    "subgroup": "weather",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-rain.webp",
+    "imagePrompt": "Heavy rain falling on a grey road with puddles forming, seen close up",
+    "searchQuery": "rain falling",
+    "cues": {
+      "definition": "Water falls from the clouds in drops.",
+      "sentenceCompletion": "I took my umbrella because it started to ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh"
+    },
+    "semantic": {
+      "category": "It is a type of weather.",
+      "use": "It waters the plants and fills the streams.",
+      "action": "It falls from the clouds in drops.",
+      "properties": "It is wet and makes a pattering sound.",
+      "location": "You see it outdoors, falling from the sky.",
+      "association": "It makes me think of umbrellas and wellies."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "pain",
+      "sameFirstSound": "road"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "nature-snow",
+    "word": "snow",
+    "group": "nature",
+    "subgroup": "weather",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-snow.webp",
+    "imagePrompt": "A thick layer of fresh white snow covering a field",
+    "searchQuery": "snow covered field",
+    "cues": {
+      "definition": "White frozen flakes fall from the sky in winter and cover the ground.",
+      "sentenceCompletion": "In winter the hills were covered in thick white ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a type of weather.",
+      "use": "You can ski or sledge on it.",
+      "action": "It falls softly and settles on the ground.",
+      "properties": "It is white, cold and soft.",
+      "location": "You find it on hills and fields in winter.",
+      "association": "It makes me think of sledges and Christmas."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "oh",
+      "syllables": 1,
+      "rhyme": "grow",
+      "sameFirstSound": "soup"
+    }
+  },
+  {
+    "id": "nature-fog",
+    "word": "fog",
+    "group": "nature",
+    "subgroup": "weather",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-fog.webp",
+    "imagePrompt": "A road disappearing into thick white fog with trees faintly visible",
+    "searchQuery": "thick fog",
+    "cues": {
+      "definition": "A thick grey cloud near the ground that makes it hard to see far.",
+      "sentenceCompletion": "I could hardly see the road because of the thick ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is a type of weather.",
+      "use": "It has no real use, but it slows traffic down.",
+      "action": "It hangs in the air and hides the view.",
+      "properties": "It is grey, damp and cold.",
+      "location": "You see it over fields, roads and the sea.",
+      "association": "It makes me think of driving slowly with the headlights on."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "g",
+      "syllables": 1,
+      "rhyme": "dog",
+      "sameFirstSound": "fish"
+    }
+  },
+  {
+    "id": "nature-frost",
+    "word": "frost",
+    "group": "nature",
+    "subgroup": "weather",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-frost.webp",
+    "imagePrompt": "White frost crystals covering a green leaf on a cold morning",
+    "searchQuery": "frost on grass",
+    "cues": {
+      "definition": "A thin white icy layer that covers grass and windows on a very cold night.",
+      "sentenceCompletion": "I had to scrape the ___ off the car windscreen.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is a type of weather.",
+      "use": "It has no use, but it can kill delicate plants.",
+      "action": "It forms overnight when the air gets very cold.",
+      "properties": "It is white, sparkly and crunchy.",
+      "location": "You find it on grass, windows and car roofs in winter.",
+      "association": "It makes me think of cold mornings and scraping the car."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "lost",
+      "sameFirstSound": "friend"
+    }
+  },
+  {
+    "id": "nature-lightning",
+    "word": "lightning",
+    "group": "nature",
+    "subgroup": "weather",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-lightning.webp",
+    "imagePrompt": "A bright fork of lightning striking down from a dark stormy sky",
+    "searchQuery": "lightning bolt",
+    "cues": {
+      "definition": "A bright flash in the sky during a storm, followed by thunder.",
+      "sentenceCompletion": "We saw a flash of ___ and then heard thunder.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh",
+      "firstSyllable": "light"
+    },
+    "semantic": {
+      "category": "It is a type of weather.",
+      "use": "It has no use, and it can be dangerous.",
+      "action": "It flashes across the sky during a storm.",
+      "properties": "It is very bright and jagged.",
+      "location": "You see it in dark storm clouds.",
+      "association": "It makes me think of thunder and staying indoors."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "ng",
+      "syllables": 2,
+      "rhyme": "frightening",
+      "sameFirstSound": "ladder"
+    }
+  },
+  {
+    "id": "nature-rainbow",
+    "word": "rainbow",
+    "group": "nature",
+    "subgroup": "weather",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-rainbow.webp",
+    "imagePrompt": "A bright rainbow arching across a blue sky over green fields",
+    "searchQuery": "rainbow sky",
+    "cues": {
+      "definition": "A curved band of many colours that appears in the sky after a shower.",
+      "sentenceCompletion": "After the shower, a beautiful ___ appeared over the hills.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh",
+      "firstSyllable": "rain"
+    },
+    "semantic": {
+      "category": "It is a type of weather.",
+      "use": "It has no use, but it is lovely to look at.",
+      "action": "It appears when the sun shines through drops of water.",
+      "properties": "It is curved and has red, yellow, green and blue bands.",
+      "location": "You see it in the sky after a shower.",
+      "association": "It makes me think of a pot of gold."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "oh",
+      "syllables": 2,
+      "rhyme": "show",
+      "sameFirstSound": "rabbit"
+    }
+  },
+  {
+    "id": "nature-cloud",
+    "word": "cloud",
+    "group": "nature",
+    "subgroup": "weather",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-cloud.webp",
+    "imagePrompt": "A single fluffy white cloud against a plain blue sky",
+    "searchQuery": "white cloud sky",
+    "cues": {
+      "definition": "A soft white or grey mass floating high in the sky.",
+      "sentenceCompletion": "A dark grey ___ drifted over the sun.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is part of the weather.",
+      "use": "It carries the water that falls as showers.",
+      "action": "It floats and drifts across the sky.",
+      "properties": "It is fluffy, white or grey.",
+      "location": "You see it high up in the sky.",
+      "association": "It makes me think of a grey day and a shower."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "crowd",
+      "sameFirstSound": "carrot"
+    }
+  },
+  {
+    "id": "nature-icicle",
+    "word": "icicle",
+    "group": "nature",
+    "subgroup": "weather",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-icicle.webp",
+    "imagePrompt": "A long pointed icicle hanging from the edge of a roof",
+    "searchQuery": "icicle hanging",
+    "cues": {
+      "definition": "A long pointed spike of frozen water hanging down from a roof or branch.",
+      "sentenceCompletion": "A long, pointed ___ hung from the edge of the roof.",
+      "firstLetter": "i",
+      "firstSoundSpoken": "eye",
+      "firstSyllable": "i"
+    },
+    "semantic": {
+      "category": "It is something that forms in freezing weather.",
+      "use": "It has no use, but it can be dangerous if it falls.",
+      "action": "It drips and hangs down until it melts.",
+      "properties": "It is clear, cold, hard and pointed.",
+      "location": "You find it hanging from roofs and gutters in winter.",
+      "association": "It makes me think of a very cold winter."
+    },
+    "phonological": {
+      "firstSound": "igh",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": "bicycle",
+      "sameFirstSound": "iron"
+    }
+  },
+  {
+    "id": "nature-sun",
+    "word": "sun",
+    "group": "nature",
+    "subgroup": "sky and space",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-sun.webp",
+    "imagePrompt": "The bright sun shining in a clear blue sky",
+    "searchQuery": "sun in sky",
+    "cues": {
+      "definition": "The big bright ball in the sky that gives us daylight and warmth.",
+      "sentenceCompletion": "It was a hot day with a bright yellow ___ in the sky.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a star that we see in the daytime.",
+      "use": "It gives us daylight and keeps us warm.",
+      "action": "It rises in the morning and sets in the evening.",
+      "properties": "It is round, bright and very hot.",
+      "location": "You see it high in the sky during the day.",
+      "association": "It makes me think of holidays and suncream."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "run",
+      "sameFirstSound": "soup"
+    }
+  },
+  {
+    "id": "nature-moon",
+    "word": "moon",
+    "group": "nature",
+    "subgroup": "sky and space",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-moon.webp",
+    "imagePrompt": "A full moon shining in a dark night sky",
+    "searchQuery": "full moon",
+    "cues": {
+      "definition": "The round shape that shines in the night sky and changes shape through the month.",
+      "sentenceCompletion": "A full ___ lit up the garden at midnight.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm"
+    },
+    "semantic": {
+      "category": "It is something you see in the night sky.",
+      "use": "It lights up the night a little.",
+      "action": "It circles the Earth and seems to change shape.",
+      "properties": "It is round, pale and glowing.",
+      "location": "You see it in the sky at night.",
+      "association": "It makes me think of the night and astronauts."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "spoon",
+      "sameFirstSound": "mug"
+    }
+  },
+  {
+    "id": "nature-star",
+    "word": "star",
+    "group": "nature",
+    "subgroup": "sky and space",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-star.webp",
+    "imagePrompt": "A single bright star shining in a dark night sky",
+    "searchQuery": "star night sky",
+    "cues": {
+      "definition": "A tiny bright point of light you see in the sky at night.",
+      "sentenceCompletion": "I made a wish on the first ___ of the evening.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you see in the night sky.",
+      "use": "It helps sailors find their way.",
+      "action": "It twinkles in the dark sky.",
+      "properties": "It is tiny, bright and far away.",
+      "location": "You see it in the sky on a clear night.",
+      "association": "It makes me think of wishes and a clear night."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ar",
+      "syllables": 1,
+      "rhyme": "car",
+      "sameFirstSound": "scarf"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "nature-planet",
+    "word": "planet",
+    "group": "nature",
+    "subgroup": "sky and space",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-planet.webp",
+    "imagePrompt": "A large planet with coloured bands photographed in space",
+    "searchQuery": "planet space",
+    "cues": {
+      "definition": "A huge round world that travels around a sun, like the one we live on.",
+      "sentenceCompletion": "Earth is the ___ that we all live on.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "plan"
+    },
+    "semantic": {
+      "category": "It is a large body in space.",
+      "use": "It gives living things a place to exist.",
+      "action": "It travels in a circle around a bright star.",
+      "properties": "It is huge, round and made of rock or gas.",
+      "location": "You find it in space.",
+      "association": "It makes me think of telescopes and astronauts."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "granite",
+      "sameFirstSound": "pencil"
+    }
+  },
+  {
+    "id": "nature-sunset",
+    "word": "sunset",
+    "group": "nature",
+    "subgroup": "sky and space",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-sunset.webp",
+    "imagePrompt": "A sunset with the sky glowing orange and pink over the horizon",
+    "searchQuery": "sunset",
+    "cues": {
+      "definition": "The time in the evening when the sky glows pink and red as the day ends.",
+      "sentenceCompletion": "We sat on the beach and watched the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sun"
+    },
+    "semantic": {
+      "category": "It is a time of day.",
+      "use": "It tells us that the evening is here.",
+      "action": "The sky changes colour as the day ends.",
+      "properties": "It is red, pink and orange.",
+      "location": "You see it low on the horizon in the evening.",
+      "association": "It makes me think of a romantic evening by the sea."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "sofa"
+    }
+  },
+  {
+    "id": "nature-comet",
+    "word": "comet",
+    "group": "nature",
+    "subgroup": "sky and space",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-comet.webp",
+    "imagePrompt": "A comet with a long glowing tail in a dark starry sky",
+    "searchQuery": "comet tail",
+    "cues": {
+      "definition": "A ball of ice and dust in space with a long glowing tail.",
+      "sentenceCompletion": "We saw a ___ with a long shining tail streak across the night sky.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "com"
+    },
+    "semantic": {
+      "category": "It is something found in space.",
+      "use": "It is studied by scientists.",
+      "action": "It travels through space and leaves a bright tail.",
+      "properties": "It is a bright head with a long streaming tail.",
+      "location": "You see it in the night sky, very rarely.",
+      "association": "It makes me think of telescopes and rare events."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "candle"
+    }
+  },
+  {
+    "id": "nature-mountain",
+    "word": "mountain",
+    "group": "nature",
+    "subgroup": "landscape",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-mountain.webp",
+    "imagePrompt": "A tall snow-capped mountain rising above a green valley",
+    "searchQuery": "snowy mountain",
+    "cues": {
+      "definition": "A very high, steep area of land that rises far above the ground around it.",
+      "sentenceCompletion": "We climbed to the top of the highest ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "moun"
+    },
+    "semantic": {
+      "category": "It is a natural landform.",
+      "use": "People climb it for exercise and for the view.",
+      "action": "It rises steeply up into the clouds.",
+      "properties": "It is huge, rocky and often covered in snow at the top.",
+      "location": "You find it in places like Scotland, Wales and the Alps.",
+      "association": "It makes me think of hiking boots and climbing."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "fountain",
+      "sameFirstSound": "muffin"
+    }
+  },
+  {
+    "id": "nature-hill",
+    "word": "hill",
+    "group": "nature",
+    "subgroup": "landscape",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-hill.webp",
+    "imagePrompt": "A smooth green grassy hill under a blue sky",
+    "searchQuery": "green hill",
+    "cues": {
+      "definition": "A rounded area of land that rises above the land around it.",
+      "sentenceCompletion": "The bike was hard work going up the steep ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh"
+    },
+    "semantic": {
+      "category": "It is a natural landform.",
+      "use": "People walk up it for the view.",
+      "action": "It slopes up and then down again.",
+      "properties": "It is rounded, grassy and not too high.",
+      "location": "You find it in the countryside.",
+      "association": "It makes me think of walking and cycling uphill."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "fill",
+      "sameFirstSound": "hat"
+    }
+  },
+  {
+    "id": "nature-valley",
+    "word": "valley",
+    "group": "nature",
+    "subgroup": "landscape",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-valley.webp",
+    "imagePrompt": "A green valley between two steep slopes with a river through the middle",
+    "searchQuery": "green valley",
+    "cues": {
+      "definition": "A low stretch of land with high ground on either side, often with a river through it.",
+      "sentenceCompletion": "A river flowed through the green ___.",
+      "firstLetter": "v",
+      "firstSoundSpoken": "vuh",
+      "firstSyllable": "val"
+    },
+    "semantic": {
+      "category": "It is a natural landform.",
+      "use": "Rivers and roads often follow it.",
+      "action": "It dips down between high ground on either side.",
+      "properties": "It is low, wide and often green.",
+      "location": "You find it between mountains and hills.",
+      "association": "It makes me think of fields and a quiet village."
+    },
+    "phonological": {
+      "firstSound": "v",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "alley",
+      "sameFirstSound": "van"
+    }
+  },
+  {
+    "id": "nature-cliff",
+    "word": "cliff",
+    "group": "nature",
+    "subgroup": "landscape",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-cliff.webp",
+    "imagePrompt": "A tall white chalk cliff beside the sea",
+    "searchQuery": "chalk sea cliff",
+    "cues": {
+      "definition": "A tall steep wall of rock at the edge of the sea.",
+      "sentenceCompletion": "The path ran right along the edge of the ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is a natural landform.",
+      "use": "Seabirds nest on it, and it protects the coast.",
+      "action": "It drops steeply down to the sea.",
+      "properties": "It is tall, steep and rocky.",
+      "location": "You find it along the coast.",
+      "association": "It makes me think of Dover and coastal walks."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "f",
+      "syllables": 1,
+      "rhyme": "if",
+      "sameFirstSound": "kitten"
+    }
+  },
+  {
+    "id": "nature-cave",
+    "word": "cave",
+    "group": "nature",
+    "subgroup": "landscape",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-cave.webp",
+    "imagePrompt": "The dark rocky opening of a cave in a cliff face",
+    "searchQuery": "cave entrance",
+    "cues": {
+      "definition": "A large natural hollow in the side of a hill or under the ground.",
+      "sentenceCompletion": "We took torches to explore the dark ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is a natural hollow in the ground.",
+      "use": "Early people sheltered in it.",
+      "action": "It goes back into the rock, deep and dark.",
+      "properties": "It is dark, damp and echoing.",
+      "location": "You find it in cliffs and under hills.",
+      "association": "It makes me think of torches and bats."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "v",
+      "syllables": 1,
+      "rhyme": "brave",
+      "sameFirstSound": "cabbage"
+    }
+  },
+  {
+    "id": "nature-island",
+    "word": "island",
+    "group": "nature",
+    "subgroup": "landscape",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-island.webp",
+    "imagePrompt": "A small green island surrounded by blue sea seen from above",
+    "searchQuery": "small island",
+    "cues": {
+      "definition": "A piece of land with water all around it.",
+      "sentenceCompletion": "We took a ferry to a small ___ off the coast.",
+      "firstLetter": "i",
+      "firstSoundSpoken": "eye",
+      "firstSyllable": "is"
+    },
+    "semantic": {
+      "category": "It is a piece of land.",
+      "use": "People live on it, or visit it on holiday.",
+      "action": "It sits in the sea, cut off from the mainland.",
+      "properties": "It is surrounded by water and can be tiny or huge.",
+      "location": "You find it in the sea or in a big lake.",
+      "association": "It makes me think of ferries and holidays."
+    },
+    "phonological": {
+      "firstSound": "igh",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": "highland",
+      "sameFirstSound": "ivory"
+    }
+  },
+  {
+    "id": "nature-volcano",
+    "word": "volcano",
+    "group": "nature",
+    "subgroup": "landscape",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-volcano.webp",
+    "imagePrompt": "A volcano erupting with red lava and ash rising into the sky",
+    "searchQuery": "erupting volcano",
+    "cues": {
+      "definition": "A mountain with an opening at the top where hot liquid rock and ash can burst out.",
+      "sentenceCompletion": "Smoke and lava poured from the top of the ___.",
+      "firstLetter": "v",
+      "firstSoundSpoken": "vuh",
+      "firstSyllable": "vol"
+    },
+    "semantic": {
+      "category": "It is a natural landform.",
+      "use": "Scientists study it to warn people when it might erupt.",
+      "action": "It can erupt, sending out ash and hot liquid rock.",
+      "properties": "It is a tall cone with a crater at the top.",
+      "location": "You find it in places like Iceland and Italy.",
+      "association": "It makes me think of lava and ash clouds."
+    },
+    "phonological": {
+      "firstSound": "v",
+      "lastSound": "oh",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "vase"
+    }
+  },
+  {
+    "id": "nature-desert",
+    "word": "desert",
+    "group": "nature",
+    "subgroup": "landscape",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-desert.webp",
+    "imagePrompt": "A wide desert of rolling golden dunes under a clear sky",
+    "searchQuery": "desert dunes",
+    "cues": {
+      "definition": "A very hot, dry area of land with almost no water.",
+      "sentenceCompletion": "Camels can walk for days across the hot ___.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "des"
+    },
+    "semantic": {
+      "category": "It is a type of landscape.",
+      "use": "Some people travel across it on camels or in jeeps.",
+      "action": "It stays dry for years at a time.",
+      "properties": "It is hot, dry and often covered in sand.",
+      "location": "You find it in places like Africa and Arabia.",
+      "association": "It makes me think of camels and cactus plants."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "door"
+    }
+  },
+  {
+    "id": "nature-beach",
+    "word": "beach",
+    "group": "nature",
+    "subgroup": "landscape",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-beach.webp",
+    "imagePrompt": "An empty sandy beach with gentle waves and a blue sky",
+    "searchQuery": "sandy beach",
+    "cues": {
+      "definition": "A strip of sand or small stones beside the sea.",
+      "sentenceCompletion": "The children dug a big hole in the sand on the ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a place beside the sea.",
+      "use": "People go there to relax and swim.",
+      "action": "The waves wash up onto it.",
+      "properties": "It is sandy or pebbly and wide open.",
+      "location": "You find it by the sea.",
+      "association": "It makes me think of holidays and ice cream."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ch",
+      "syllables": 1,
+      "rhyme": "teach",
+      "sameFirstSound": "bread"
+    }
+  },
+  {
+    "id": "nature-forest",
+    "word": "forest",
+    "group": "nature",
+    "subgroup": "landscape",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-forest.webp",
+    "imagePrompt": "A dense green forest of tall trees seen from the edge",
+    "searchQuery": "dense forest",
+    "cues": {
+      "definition": "A large area of land covered with lots of tall trees growing close together.",
+      "sentenceCompletion": "We went for a long walk through the ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "for"
+    },
+    "semantic": {
+      "category": "It is a type of landscape.",
+      "use": "People walk there and it provides homes for wildlife.",
+      "action": "It is where many trees grow together.",
+      "properties": "It is green, shady and full of trunks and leaves.",
+      "location": "You find it in the countryside.",
+      "association": "It makes me think of woodland walks and fairy tales."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "st",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "fork"
+    }
+  },
+  {
+    "id": "nature-river",
+    "word": "river",
+    "group": "nature",
+    "subgroup": "water",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-river.webp",
+    "imagePrompt": "A wide river flowing between green banks",
+    "searchQuery": "river flowing",
+    "cues": {
+      "definition": "A long stream of fresh water that flows across the land towards the sea.",
+      "sentenceCompletion": "We watched the boats float down the ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh",
+      "firstSyllable": "riv"
+    },
+    "semantic": {
+      "category": "It is a body of flowing water.",
+      "use": "People use it for boats, fishing and drinking water.",
+      "action": "It flows from the hills down to the sea.",
+      "properties": "It is long, wet and winding.",
+      "location": "You find it running through the countryside and towns.",
+      "association": "It makes me think of bridges and boats."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "shiver",
+      "sameFirstSound": "ring"
+    }
+  },
+  {
+    "id": "nature-lake",
+    "word": "lake",
+    "group": "nature",
+    "subgroup": "water",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-lake.webp",
+    "imagePrompt": "A calm blue lake surrounded by green hills",
+    "searchQuery": "calm lake",
+    "cues": {
+      "definition": "A large area of water surrounded by land.",
+      "sentenceCompletion": "We hired a rowing boat on the ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh"
+    },
+    "semantic": {
+      "category": "It is a body of water.",
+      "use": "People sail, swim and fish there.",
+      "action": "It lies still, surrounded by land.",
+      "properties": "It is wide, calm and still.",
+      "location": "You find it in the countryside, among the hills.",
+      "association": "It makes me think of rowing boats and swans."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "cake",
+      "sameFirstSound": "lemon"
+    }
+  },
+  {
+    "id": "nature-sea",
+    "word": "sea",
+    "group": "nature",
+    "subgroup": "water",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-sea.webp",
+    "imagePrompt": "The open blue sea with small waves under a clear sky",
+    "searchQuery": "open sea",
+    "cues": {
+      "definition": "The huge area of salty water that covers most of the Earth.",
+      "sentenceCompletion": "I love to swim in the salty ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a huge body of salty water.",
+      "use": "Ships sail on it and people swim in it.",
+      "action": "It rises and falls with the tides.",
+      "properties": "It is big, deep, blue and salty.",
+      "location": "You find it along the coast.",
+      "association": "It makes me think of holidays and sailing boats."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ee",
+      "syllables": 1,
+      "rhyme": "key",
+      "sameFirstSound": "shoe"
+    }
+  },
+  {
+    "id": "nature-waterfall",
+    "word": "waterfall",
+    "group": "nature",
+    "subgroup": "water",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-waterfall.webp",
+    "imagePrompt": "A tall waterfall tumbling over rocks into a pool surrounded by green plants",
+    "searchQuery": "waterfall",
+    "cues": {
+      "definition": "A river that tips over a high edge and drops down in a rush.",
+      "sentenceCompletion": "We felt the spray from the thundering ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "wa"
+    },
+    "semantic": {
+      "category": "It is a feature of a river.",
+      "use": "It can be used to make power and is a place to visit.",
+      "action": "It tumbles down over the edge with a roar.",
+      "properties": "It is loud, white and splashing.",
+      "location": "You find it in the mountains and the hills.",
+      "association": "It makes me think of mist and walking trails."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": "overall",
+      "sameFirstSound": "window"
+    }
+  },
+  {
+    "id": "nature-wave",
+    "word": "wave",
+    "group": "nature",
+    "subgroup": "water",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-wave.webp",
+    "imagePrompt": "A large blue wave about to break on the sea",
+    "searchQuery": "sea wave",
+    "cues": {
+      "definition": "A moving ridge of water that rolls across the sea and breaks on the shore.",
+      "sentenceCompletion": "The surfer rode a big ___ towards the shore.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is part of the sea.",
+      "use": "Surfers ride it for fun.",
+      "action": "It rolls in and crashes on the shore.",
+      "properties": "It is wet, curved and foamy.",
+      "location": "You see it on the sea and the beach.",
+      "association": "It makes me think of surfboards and the seaside."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "v",
+      "syllables": 1,
+      "rhyme": "brave",
+      "sameFirstSound": "wallet"
+    }
+  },
+  {
+    "id": "nature-puddle",
+    "word": "puddle",
+    "group": "nature",
+    "subgroup": "water",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-puddle.webp",
+    "imagePrompt": "A small puddle on a wet pavement reflecting the sky",
+    "searchQuery": "puddle on pavement",
+    "cues": {
+      "definition": "A small pool of rain left on the ground after a shower.",
+      "sentenceCompletion": "The little boy jumped in the muddy ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pud"
+    },
+    "semantic": {
+      "category": "It is a small pool of water.",
+      "use": "It has no use, but children love to jump in it.",
+      "action": "It collects on the ground and slowly dries up.",
+      "properties": "It is wet, shallow and often muddy.",
+      "location": "You find it on roads and paths after a shower.",
+      "association": "It makes me think of wellies and splashing."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "cuddle",
+      "sameFirstSound": "parcel"
+    }
+  },
+  {
+    "id": "nature-iceberg",
+    "word": "iceberg",
+    "group": "nature",
+    "subgroup": "water",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-iceberg.webp",
+    "imagePrompt": "A large white and blue iceberg floating in dark polar sea",
+    "searchQuery": "iceberg floating",
+    "cues": {
+      "definition": "A giant frozen lump floating in the polar sea, mostly hidden under the surface.",
+      "sentenceCompletion": "The ship sank after it hit a giant ___.",
+      "firstLetter": "i",
+      "firstSoundSpoken": "eye",
+      "firstSyllable": "ice"
+    },
+    "semantic": {
+      "category": "It is a huge piece of frozen water.",
+      "use": "It has no use, but it is a danger to ships.",
+      "action": "It drifts slowly through cold seas.",
+      "properties": "It is white, blue, huge and cold.",
+      "location": "You find it in the polar seas.",
+      "association": "It makes me think of the Titanic and the Arctic."
+    },
+    "phonological": {
+      "firstSound": "igh",
+      "lastSound": "g",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "iron"
+    }
+  },
+  {
+    "id": "nature-tree",
+    "word": "tree",
+    "group": "nature",
+    "subgroup": "trees",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-tree.webp",
+    "imagePrompt": "A single large leafy tree standing alone in a field",
+    "searchQuery": "single tree",
+    "cues": {
+      "definition": "A very tall plant with a thick wooden stem and lots of leaves.",
+      "sentenceCompletion": "The cat climbed up the tall ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is a tall plant.",
+      "use": "It gives shade and provides wood.",
+      "action": "It grows tall and sheds its leaves in autumn.",
+      "properties": "It is tall, wooden and leafy.",
+      "location": "You find it in woods, parks and gardens.",
+      "association": "It makes me think of shade and birds."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "ee",
+      "syllables": 1,
+      "rhyme": "knee",
+      "sameFirstSound": "table"
+    }
+  },
+  {
+    "id": "nature-leaf",
+    "word": "leaf",
+    "group": "nature",
+    "subgroup": "trees",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-leaf.webp",
+    "imagePrompt": "A single green leaf on a white background",
+    "searchQuery": "green leaf",
+    "cues": {
+      "definition": "A flat green part that grows on a plant or tree.",
+      "sentenceCompletion": "In autumn every ___ turns brown and drops to the ground.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh"
+    },
+    "semantic": {
+      "category": "It is a part of a plant.",
+      "use": "It helps the plant make food from sunshine.",
+      "action": "It grows in the warm months and falls in autumn.",
+      "properties": "It is flat, thin and usually green.",
+      "location": "You find it on plants and trees.",
+      "association": "It makes me think of autumn and raking up."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "f",
+      "syllables": 1,
+      "rhyme": "chief",
+      "sameFirstSound": "lamp"
+    }
+  },
+  {
+    "id": "nature-branch",
+    "word": "branch",
+    "group": "nature",
+    "subgroup": "trees",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-branch.webp",
+    "imagePrompt": "A bare tree branch with a few twigs against a clear sky",
+    "searchQuery": "tree branch",
+    "cues": {
+      "definition": "A thick arm that grows out from the side of a tree trunk.",
+      "sentenceCompletion": "A little robin sat on a ___ of the old oak.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a part of a tree.",
+      "use": "It holds up the leaves and fruit.",
+      "action": "It grows outwards and splits into twigs.",
+      "properties": "It is long, wooden and often bumpy.",
+      "location": "You find it on trees.",
+      "association": "It makes me think of birds perching."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ch",
+      "syllables": 1,
+      "rhyme": "ranch",
+      "sameFirstSound": "bucket"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "nature-trunk",
+    "word": "trunk",
+    "group": "nature",
+    "subgroup": "trees",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-trunk.webp",
+    "imagePrompt": "The thick trunk of a large oak tree, seen close up",
+    "searchQuery": "tree trunk",
+    "cues": {
+      "definition": "The thick main stem of a tree that holds up the branches.",
+      "sentenceCompletion": "Two people could barely reach around the wide ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is a part of a tree.",
+      "use": "It carries water up from the roots and holds the tree up.",
+      "action": "It stands upright and supports the whole tree.",
+      "properties": "It is thick, rough and woody.",
+      "location": "You find it at the bottom of a tree.",
+      "association": "It makes me think of carved initials and bark."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "junk",
+      "sameFirstSound": "tooth"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "nature-acorn",
+    "word": "acorn",
+    "group": "nature",
+    "subgroup": "trees",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-acorn.webp",
+    "imagePrompt": "A single brown acorn with its cap on a white background",
+    "searchQuery": "acorn",
+    "cues": {
+      "definition": "A small oval nut with a little cap that grows on oak trees.",
+      "sentenceCompletion": "A squirrel buried an ___ in the lawn.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "ay",
+      "firstSyllable": "a"
+    },
+    "semantic": {
+      "category": "It is a seed from a tree.",
+      "use": "It grows into a new oak tree.",
+      "action": "It falls from an oak tree in autumn.",
+      "properties": "It is small, smooth and brown with a rough cap.",
+      "location": "You find it under oak trees.",
+      "association": "It makes me think of squirrels and autumn."
+    },
+    "phonological": {
+      "firstSound": "ay",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "apron"
+    }
+  },
+  {
+    "id": "nature-conker",
+    "word": "conker",
+    "group": "nature",
+    "subgroup": "trees",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-conker.webp",
+    "imagePrompt": "A shiny brown conker beside its spiky green case",
+    "searchQuery": "conker",
+    "cues": {
+      "definition": "A glossy brown seed that falls from a horse chestnut tree in autumn.",
+      "sentenceCompletion": "I picked up a shiny brown ___ from under the horse chestnut tree.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "con"
+    },
+    "semantic": {
+      "category": "It is a seed from a tree.",
+      "use": "Children play a game with it on a string.",
+      "action": "It falls out of a spiky green case in autumn.",
+      "properties": "It is shiny, smooth and dark brown.",
+      "location": "You find it under horse chestnut trees.",
+      "association": "It makes me think of playground games in autumn."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "cabbage"
+    }
+  },
+  {
+    "id": "nature-pine-cone",
+    "word": "pine cone",
+    "group": "nature",
+    "subgroup": "trees",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": true,
+    "childFriendly": true,
+    "image": "nature-pine-cone.webp",
+    "imagePrompt": "A single brown woody pine cone on a plain white background",
+    "searchQuery": "pine cone",
+    "cues": {
+      "definition": "The woody, scaly seed case that falls from a fir tree.",
+      "sentenceCompletion": "I collected a woody ___ on our walk.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pine"
+    },
+    "semantic": {
+      "category": "It is a part of an evergreen tree.",
+      "use": "It holds the seeds and can be used as a decoration.",
+      "action": "It falls to the ground and opens when it is dry.",
+      "properties": "It is brown, woody and scaly.",
+      "location": "You find it under fir trees.",
+      "association": "It makes me think of Christmas decorations and the forest floor."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "pepper"
+    }
+  },
+  {
+    "id": "nature-rose",
+    "word": "rose",
+    "group": "nature",
+    "subgroup": "flowers and plants",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-rose.webp",
+    "imagePrompt": "A single red rose with green leaves on a white background",
+    "searchQuery": "red rose",
+    "cues": {
+      "definition": "A popular flower with soft petals and a thorny stem.",
+      "sentenceCompletion": "He gave her a single red ___ for her birthday.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh"
+    },
+    "semantic": {
+      "category": "It is a type of flower.",
+      "use": "People give it as a present to show love.",
+      "action": "It blooms in summer and has to be pruned.",
+      "properties": "It is soft and scented, with thorns on the stem.",
+      "location": "You find it in gardens and bunches of flowers.",
+      "association": "It makes me think of Valentine's Day and perfume."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "nose",
+      "sameFirstSound": "ribbon"
+    }
+  },
+  {
+    "id": "nature-daffodil",
+    "word": "daffodil",
+    "group": "nature",
+    "subgroup": "flowers and plants",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-daffodil.webp",
+    "imagePrompt": "A bright yellow daffodil with a trumpet in the centre",
+    "searchQuery": "yellow daffodil",
+    "cues": {
+      "definition": "A bright yellow flower with a trumpet in the centre that blooms early in the year.",
+      "sentenceCompletion": "In the garden, a single yellow ___ nodded in the breeze.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "daf"
+    },
+    "semantic": {
+      "category": "It is a type of flower.",
+      "use": "It is grown for its early colour in the garden.",
+      "action": "It pushes up from a bulb and blooms early in the year.",
+      "properties": "It is yellow with a trumpet shape and long green leaves.",
+      "location": "You find it in gardens and parks.",
+      "association": "It makes me think of Wales and the end of winter."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "l",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "dog"
+    }
+  },
+  {
+    "id": "nature-tulip",
+    "word": "tulip",
+    "group": "nature",
+    "subgroup": "flowers and plants",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-tulip.webp",
+    "imagePrompt": "A single red tulip with a long green stem on a white background",
+    "searchQuery": "red tulip",
+    "cues": {
+      "definition": "A cup-shaped flower that grows from a bulb in many bright colours.",
+      "sentenceCompletion": "A red ___ stood in a vase on the table.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tu"
+    },
+    "semantic": {
+      "category": "It is a type of flower.",
+      "use": "It is grown for its bright colours in a garden.",
+      "action": "It grows from a bulb and opens in the sun.",
+      "properties": "It is cup-shaped with smooth petals and a straight stem.",
+      "location": "You find it in gardens and flower shops.",
+      "association": "It makes me think of Holland and flower fields."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "p",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "tooth"
+    }
+  },
+  {
+    "id": "nature-sunflower",
+    "word": "sunflower",
+    "group": "nature",
+    "subgroup": "flowers and plants",
+    "wordClass": "noun",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-sunflower.webp",
+    "imagePrompt": "A tall sunflower with a big yellow head and brown centre",
+    "searchQuery": "sunflower",
+    "cues": {
+      "definition": "A very tall plant with a huge yellow head and a brown middle full of seeds.",
+      "sentenceCompletion": "A giant yellow ___ turned its face towards the light.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sun"
+    },
+    "semantic": {
+      "category": "It is a tall garden plant.",
+      "use": "Its seeds are eaten and pressed for oil.",
+      "action": "It grows very tall and follows the light.",
+      "properties": "It is tall with a big round yellow head.",
+      "location": "You find it in gardens and fields.",
+      "association": "It makes me think of seeds and summer."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "er",
+      "syllables": 3,
+      "rhyme": "tower",
+      "sameFirstSound": "soup"
+    }
+  },
+  {
+    "id": "nature-ivy",
+    "word": "ivy",
+    "group": "nature",
+    "subgroup": "flowers and plants",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-ivy.webp",
+    "imagePrompt": "Dark green ivy climbing up an old stone wall",
+    "searchQuery": "ivy on wall",
+    "cues": {
+      "definition": "A climbing plant with dark green pointed leaves that clings to walls and trees.",
+      "sentenceCompletion": "Thick green ___ covered the old stone wall.",
+      "firstLetter": "i",
+      "firstSoundSpoken": "eye",
+      "firstSyllable": "i"
+    },
+    "semantic": {
+      "category": "It is a climbing plant.",
+      "use": "It covers walls and gives shelter to small creatures.",
+      "action": "It climbs and clings to walls and trees.",
+      "properties": "It is dark green and glossy with pointed leaves.",
+      "location": "You find it on walls, trees and in woods.",
+      "association": "It makes me think of old buildings and Christmas."
+    },
+    "phonological": {
+      "firstSound": "igh",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "iron"
+    }
+  },
+  {
+    "id": "nature-fern",
+    "word": "fern",
+    "group": "nature",
+    "subgroup": "flowers and plants",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-fern.webp",
+    "imagePrompt": "A green fern with curled fronds unrolling in a shady spot",
+    "searchQuery": "green fern",
+    "cues": {
+      "definition": "A green plant with delicate lacy leaves that grows in damp shady places.",
+      "sentenceCompletion": "The young ___ unrolled its curled green leaves.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is a type of plant.",
+      "use": "It is grown in shady corners and in pots.",
+      "action": "It unrolls its curled leaves as it grows.",
+      "properties": "It is green, lacy and delicate.",
+      "location": "You find it in damp woods and shady gardens.",
+      "association": "It makes me think of damp woodland and dinosaurs."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "turn",
+      "sameFirstSound": "finger"
+    }
+  },
+  {
+    "id": "nature-cactus",
+    "word": "cactus",
+    "group": "nature",
+    "subgroup": "flowers and plants",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-cactus.webp",
+    "imagePrompt": "A green cactus covered in spines in a small pot",
+    "searchQuery": "cactus plant",
+    "cues": {
+      "definition": "A spiky green desert plant that stores water in its thick stem.",
+      "sentenceCompletion": "Don't touch that prickly ___ or you'll get spines in your hand.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "cac"
+    },
+    "semantic": {
+      "category": "It is a type of plant.",
+      "use": "It is grown in pots because it needs little care.",
+      "action": "It stores water and grows very slowly.",
+      "properties": "It is green, thick and covered in sharp spines.",
+      "location": "You find it in deserts and on windowsills.",
+      "association": "It makes me think of dry places and sharp spines."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "candle"
+    }
+  },
+  {
+    "id": "nature-mushroom",
+    "word": "mushroom",
+    "group": "nature",
+    "subgroup": "flowers and plants",
+    "wordClass": "noun",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-mushroom.webp",
+    "imagePrompt": "A single white mushroom growing from the ground",
+    "searchQuery": "wild mushroom",
+    "cues": {
+      "definition": "A kind of fungus with a stalk and a rounded cap that grows in damp places.",
+      "sentenceCompletion": "I found a small white ___ growing in the damp grass.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mush"
+    },
+    "semantic": {
+      "category": "It is a fungus, not a plant.",
+      "use": "Some kinds are eaten, but wild ones can be poisonous.",
+      "action": "It pops up overnight in damp places.",
+      "properties": "It has a pale stalk and a round cap.",
+      "location": "You find it in woods and damp fields.",
+      "association": "It makes me think of damp autumn walks."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "m",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "mug"
+    }
+  },
+  {
+    "id": "nature-pebble",
+    "word": "pebble",
+    "group": "nature",
+    "subgroup": "natural materials",
+    "wordClass": "noun",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-pebble.webp",
+    "imagePrompt": "A smooth round grey pebble on a white background",
+    "searchQuery": "smooth pebble",
+    "cues": {
+      "definition": "A small, smooth, rounded stone found on a beach or in a stream.",
+      "sentenceCompletion": "She skimmed a flat ___ across the lake.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "peb"
+    },
+    "semantic": {
+      "category": "It is a small stone.",
+      "use": "You can skim it across water or collect it.",
+      "action": "It is worn smooth by the sea and the river.",
+      "properties": "It is small, smooth, hard and round.",
+      "location": "You find it on beaches and in streams.",
+      "association": "It makes me think of skimming stones."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "rebel",
+      "sameFirstSound": "pencil"
+    }
+  },
+  {
+    "id": "nature-sand",
+    "word": "sand",
+    "group": "nature",
+    "subgroup": "natural materials",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-sand.webp",
+    "imagePrompt": "A pile of fine golden sand",
+    "searchQuery": "golden sand",
+    "cues": {
+      "definition": "Tiny loose grains that cover beaches and deserts.",
+      "sentenceCompletion": "The children dug a big hole in the ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a natural material.",
+      "use": "It is used to make castles and to build with cement.",
+      "action": "It trickles through your fingers.",
+      "properties": "It is gritty, dry and golden.",
+      "location": "You find it on beaches and in deserts.",
+      "association": "It makes me think of castles and holidays."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "hand",
+      "sameFirstSound": "spoon"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "nature-shell",
+    "word": "shell",
+    "group": "nature",
+    "subgroup": "natural materials",
+    "wordClass": "noun",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-shell.webp",
+    "imagePrompt": "A single pink seashell on a white background",
+    "searchQuery": "seashell",
+    "cues": {
+      "definition": "The hard outer case of a sea creature, which you often find on the beach.",
+      "sentenceCompletion": "I picked up a pretty ___ on the beach.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh"
+    },
+    "semantic": {
+      "category": "It is a natural object.",
+      "use": "People collect it and use it as decoration.",
+      "action": "It washes up on the beach.",
+      "properties": "It is hard, smooth and curved.",
+      "location": "You find it on beaches.",
+      "association": "It makes me think of holding it to my ear to hear the sea."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "bell",
+      "sameFirstSound": "shoe"
+    }
+  },
+  {
+    "id": "nature-soil",
+    "word": "soil",
+    "group": "nature",
+    "subgroup": "natural materials",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-soil.webp",
+    "imagePrompt": "A handful of dark brown soil held in an open hand",
+    "searchQuery": "soil handful",
+    "cues": {
+      "definition": "The brown earth that plants grow in.",
+      "sentenceCompletion": "Gardeners dig compost into the ___ before planting.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a natural material.",
+      "use": "Plants grow in it.",
+      "action": "You dig it and plant seeds in it.",
+      "properties": "It is brown, crumbly and damp.",
+      "location": "You find it in gardens and fields.",
+      "association": "It makes me think of gardening and worms."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "boil",
+      "sameFirstSound": "sugar"
+    }
+  },
+  {
+    "id": "nature-log",
+    "word": "log",
+    "group": "nature",
+    "subgroup": "natural materials",
+    "wordClass": "noun",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-log.webp",
+    "imagePrompt": "A single cut wooden log with visible rings and bark",
+    "searchQuery": "wooden log",
+    "cues": {
+      "definition": "A thick piece of a tree trunk that has been cut or has fallen.",
+      "sentenceCompletion": "He sat down on a fallen ___ to rest.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh"
+    },
+    "semantic": {
+      "category": "It is a piece of a tree.",
+      "use": "You burn it on a fire.",
+      "action": "You chop it up and stack it.",
+      "properties": "It is thick, heavy and covered in bark.",
+      "location": "You find it in forests and by fireplaces.",
+      "association": "It makes me think of wood fires and cabins."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "g",
+      "syllables": 1,
+      "rhyme": "dog",
+      "sameFirstSound": "lamp"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "nature-feather",
+    "word": "feather",
+    "group": "nature",
+    "subgroup": "natural materials",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-feather.webp",
+    "imagePrompt": "A single soft grey feather on a white background",
+    "searchQuery": "bird feather",
+    "cues": {
+      "definition": "One of the soft, light parts that cover a bird's body.",
+      "sentenceCompletion": "A bright blue ___ drifted down to the ground.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "feth"
+    },
+    "semantic": {
+      "category": "It is part of a bird.",
+      "use": "It keeps the bird warm and helps it fly.",
+      "action": "It floats gently down through the air.",
+      "properties": "It is light, soft and flat with a thin stem.",
+      "location": "You find it on the ground where birds have been.",
+      "association": "It makes me think of pillows and quills."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "leather",
+      "sameFirstSound": "fish"
+    }
+  },
+  {
+    "id": "nature-nest",
+    "word": "nest",
+    "group": "nature",
+    "subgroup": "natural materials",
+    "wordClass": "noun",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-nest.webp",
+    "imagePrompt": "A bird's nest made of twigs with three small eggs",
+    "searchQuery": "bird nest",
+    "cues": {
+      "definition": "A small home made of twigs and grass where a bird lays its eggs.",
+      "sentenceCompletion": "A robin built a ___ in the hedge.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "nnn"
+    },
+    "semantic": {
+      "category": "It is a home built by a bird.",
+      "use": "It is where eggs are laid and chicks are kept warm.",
+      "action": "It is built from twigs, moss and feathers.",
+      "properties": "It is round, woven and cup-shaped.",
+      "location": "You find it in trees and hedges.",
+      "association": "It makes me think of eggs and spring."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "best",
+      "sameFirstSound": "nail"
+    }
+  },
+  {
+    "id": "nature-bonfire",
+    "word": "bonfire",
+    "group": "nature",
+    "subgroup": "natural materials",
+    "wordClass": "noun",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "nature-bonfire.webp",
+    "imagePrompt": "A large bonfire burning brightly at night",
+    "searchQuery": "bonfire burning",
+    "cues": {
+      "definition": "A large outdoor fire, often built from wood and lit on a special night.",
+      "sentenceCompletion": "We toasted marshmallows around the ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bon"
+    },
+    "semantic": {
+      "category": "It is a big fire.",
+      "use": "People light it to burn garden waste or to celebrate.",
+      "action": "It burns brightly with flames and sparks.",
+      "properties": "It is bright, hot and smoky.",
+      "location": "You find it outdoors, in a garden or field.",
+      "association": "It makes me think of Guy Fawkes night and sparklers."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "wire",
+      "sameFirstSound": "bread"
+    }
+  }
+]

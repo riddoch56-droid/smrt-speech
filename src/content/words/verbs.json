@@ -1,0 +1,3685 @@
+[
+  {
+    "id": "verbs-run",
+    "word": "run",
+    "group": "verbs",
+    "subgroup": "whole body movement",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-run.webp",
+    "imagePrompt": "A man in sports clothes running mid-stride, side view",
+    "searchQuery": "man running",
+    "cues": {
+      "definition": "You move fast on your feet, faster than a walk.",
+      "sentenceCompletion": "I was late for the bus, so I had to ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "rr"
+    },
+    "semantic": {
+      "category": "It is something you do with your legs.",
+      "use": "You do it to get somewhere quickly or to keep fit.",
+      "action": "You push off with each foot and swing your arms.",
+      "properties": "It is fast, and your feet hit the ground hard.",
+      "location": "You do it in a park, on a track or along the pavement.",
+      "association": "It makes me think of races and trainers."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "sun",
+      "sameFirstSound": "rabbit"
+    }
+  },
+  {
+    "id": "verbs-hop",
+    "word": "hop",
+    "group": "verbs",
+    "subgroup": "whole body movement",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-hop.webp",
+    "imagePrompt": "A woman hopping on one foot with her arms out for balance",
+    "searchQuery": "person hopping one foot",
+    "cues": {
+      "definition": "You jump along on just one foot.",
+      "sentenceCompletion": "I have hurt my ankle, so I can only ___ along.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh"
+    },
+    "semantic": {
+      "category": "It is something you do with your legs and feet.",
+      "use": "You do it in games, or when you cannot put both feet down.",
+      "action": "You jump up and land on the same foot, again and again.",
+      "properties": "It looks bouncy and a bit wobbly.",
+      "location": "You do it in a garden, a gym or a hall.",
+      "association": "It makes me think of standing on one leg."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "stop",
+      "sameFirstSound": "house"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-walk",
+    "word": "walk",
+    "group": "verbs",
+    "subgroup": "whole body movement",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-walk.webp",
+    "imagePrompt": "A man in a coat walking along a path, side view",
+    "searchQuery": "man walking",
+    "cues": {
+      "definition": "You move along on foot at a gentle pace.",
+      "sentenceCompletion": "The bus has gone, so we will have to ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your legs.",
+      "use": "You do it to get from place to place or to stay healthy.",
+      "action": "You put one foot in front of the other, again and again.",
+      "properties": "It is steady and not too fast.",
+      "location": "You do it on pavements, paths and in the countryside.",
+      "association": "It makes me think of country paths and boots."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "chalk",
+      "sameFirstSound": "window"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-jump",
+    "word": "jump",
+    "group": "verbs",
+    "subgroup": "whole body movement",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-jump.webp",
+    "imagePrompt": "A woman jumping high in the air with her arms raised",
+    "searchQuery": "woman jumping",
+    "cues": {
+      "definition": "You push off the ground with both feet and go up in the air.",
+      "sentenceCompletion": "To get over the puddle, I will have to ___.",
+      "firstLetter": "j",
+      "firstSoundSpoken": "juh"
+    },
+    "semantic": {
+      "category": "It is something you do with your legs.",
+      "use": "You do it to get over something, or for fun and exercise.",
+      "action": "You bend your knees, push hard off the floor and land again.",
+      "properties": "It is quick and springy, and your feet leave the ground.",
+      "location": "You do it in a gym, on a trampoline or over a stream.",
+      "association": "It makes me think of athletics and skipping ropes."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "lump",
+      "sameFirstSound": "jelly"
+    }
+  },
+  {
+    "id": "verbs-climb",
+    "word": "climb",
+    "group": "verbs",
+    "subgroup": "whole body movement",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-climb.webp",
+    "imagePrompt": "A person in outdoor clothes climbing an indoor rock wall with a rope",
+    "searchQuery": "person rock climbing",
+    "cues": {
+      "definition": "You go up something steep using your hands and feet.",
+      "sentenceCompletion": "To get to the top of the mountain, we have to ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your arms and legs.",
+      "use": "You do it to reach somewhere high, or for sport.",
+      "action": "You grip with your hands and push up with your feet.",
+      "properties": "It is tiring and you go slowly upwards.",
+      "location": "You do it on hills, rock walls and ladders.",
+      "association": "It makes me think of mountains and ropes."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "time",
+      "sameFirstSound": "cup"
+    }
+  },
+  {
+    "id": "verbs-crawl",
+    "word": "crawl",
+    "group": "verbs",
+    "subgroup": "whole body movement",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-crawl.webp",
+    "imagePrompt": "An adult crawling on hands and knees across a plain floor",
+    "searchQuery": "adult crawling hands knees",
+    "cues": {
+      "definition": "You move along on your hands and knees.",
+      "sentenceCompletion": "The tunnel was so low that I had to ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your arms and legs.",
+      "use": "You do it to get through a low space, or when you cannot stand.",
+      "action": "You put your hands and knees on the floor and move forwards.",
+      "properties": "It is slow and low to the ground.",
+      "location": "You do it on the floor, or under something low.",
+      "association": "It makes me think of tunnels and tiny spaces."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "wall",
+      "sameFirstSound": "car"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-kneel",
+    "word": "kneel",
+    "group": "verbs",
+    "subgroup": "whole body movement",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-kneel.webp",
+    "imagePrompt": "A woman kneeling on one knee on a plain floor",
+    "searchQuery": "woman kneeling",
+    "cues": {
+      "definition": "You go down and rest on your knees.",
+      "sentenceCompletion": "To look under the bed, I have to ___.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "nnn"
+    },
+    "semantic": {
+      "category": "It is something you do with your legs.",
+      "use": "You do it to get lower, to pray, or to work close to the floor.",
+      "action": "You bend your legs and lower yourself until your knees touch the floor.",
+      "properties": "Your back stays upright and your legs fold under you.",
+      "location": "You do it in church, in a garden or on a mat.",
+      "association": "It makes me think of praying and proposing."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "feel",
+      "sameFirstSound": "nose"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-stretch",
+    "word": "stretch",
+    "group": "verbs",
+    "subgroup": "whole body movement",
+    "wordClass": "verb",
+    "letters": 7,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-stretch.webp",
+    "imagePrompt": "A woman stretching both arms high above her head",
+    "searchQuery": "woman stretching arms",
+    "cues": {
+      "definition": "You reach out your arms or legs as far as they can go.",
+      "sentenceCompletion": "Before I exercise, I loosen my muscles and ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do with your whole body.",
+      "use": "You do it to loosen stiff muscles.",
+      "action": "You reach out as far as you can and hold it for a few seconds.",
+      "properties": "Your muscles feel long and tight.",
+      "location": "You do it in a gym, in a yoga class or when you get up.",
+      "association": "It makes me think of yoga and of cats getting up."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ch",
+      "syllables": 1,
+      "rhyme": "sketch",
+      "sameFirstSound": "sofa"
+    }
+  },
+  {
+    "id": "verbs-swim",
+    "word": "swim",
+    "group": "verbs",
+    "subgroup": "whole body movement",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-swim.webp",
+    "imagePrompt": "A person swimming in a clear swimming pool, arms reaching forward",
+    "searchQuery": "person swimming pool",
+    "cues": {
+      "definition": "You move through water using your arms and legs.",
+      "sentenceCompletion": "The sea is warm today, so let us go and ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do with your whole body.",
+      "use": "You do it for exercise, for fun or to stay fit.",
+      "action": "You kick your legs and pull the water past you with your arms.",
+      "properties": "It is wet and splashy, and it makes you feel light.",
+      "location": "You do it in a pool, a lake or the sea.",
+      "association": "It makes me think of holidays, goggles and caps."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "m",
+      "syllables": 1,
+      "rhyme": "trim",
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "verbs-somersault",
+    "word": "somersault",
+    "group": "verbs",
+    "subgroup": "whole body movement",
+    "wordClass": "verb",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-somersault.webp",
+    "imagePrompt": "A woman in sports clothes tumbling head over heels on a gym mat",
+    "searchQuery": "person somersault mat",
+    "cues": {
+      "definition": "You roll your whole body over in a ball, head over heels.",
+      "sentenceCompletion": "On the mat, the gymnast learned to ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "som"
+    },
+    "semantic": {
+      "category": "It is something you do with your whole body.",
+      "use": "You do it in gymnastics, or just for fun.",
+      "action": "You tuck your head in and roll right over.",
+      "properties": "It is a full roll, head over heels.",
+      "location": "You do it on a mat, a trampoline or a soft lawn.",
+      "association": "It makes me think of gymnasts and circuses."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": "halt",
+      "sameFirstSound": "sugar"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-wake",
+    "word": "wake",
+    "group": "verbs",
+    "subgroup": "daily routine",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-wake.webp",
+    "imagePrompt": "A woman sitting up in bed in morning light, rubbing her eyes",
+    "searchQuery": "woman waking up bed",
+    "cues": {
+      "definition": "You stop sleeping and your eyes open.",
+      "sentenceCompletion": "My alarm clock rings at seven and I ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is something you do at the start of the day.",
+      "use": "You do it to start your day.",
+      "action": "Your eyes open and you come out of sleep.",
+      "properties": "Your eyes blink and you may feel groggy.",
+      "location": "You do it in your bed.",
+      "association": "It makes me think of alarm clocks and mornings."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "lake",
+      "sameFirstSound": "wind"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-sleep",
+    "word": "sleep",
+    "group": "verbs",
+    "subgroup": "daily routine",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-sleep.webp",
+    "imagePrompt": "A woman asleep in bed with her eyes closed and her head on a pillow",
+    "searchQuery": "woman sleeping bed",
+    "cues": {
+      "definition": "You close your eyes and rest your mind and body at night.",
+      "sentenceCompletion": "When I am tired, I go to bed and ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do every night.",
+      "use": "You do it to rest and to get your energy back.",
+      "action": "You lie down, close your eyes and drift off.",
+      "properties": "It is quiet and still, with your eyes closed.",
+      "location": "You do it in a bed, in a bedroom.",
+      "association": "It makes me think of pillows, duvets and dreams."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "deep",
+      "sameFirstSound": "soap"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-wash",
+    "word": "wash",
+    "group": "verbs",
+    "subgroup": "daily routine",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-wash.webp",
+    "imagePrompt": "A man washing his hands with soap, lathered hands over a basin",
+    "searchQuery": "washing hands",
+    "cues": {
+      "definition": "You make your skin clean with soap and water.",
+      "sentenceCompletion": "Before dinner, I always ___ my hands.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is something you do to keep yourself clean.",
+      "use": "You do it to get clean and to remove germs.",
+      "action": "You rub soap on your skin and then rinse it off.",
+      "properties": "It is wet, soapy and bubbly.",
+      "location": "You do it at a basin in the bathroom.",
+      "association": "It makes me think of soap and bubbles."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "sh",
+      "syllables": 1,
+      "rhyme": "gosh",
+      "sameFirstSound": "wall"
+    }
+  },
+  {
+    "id": "verbs-shave",
+    "word": "shave",
+    "group": "verbs",
+    "subgroup": "daily routine",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-shave.webp",
+    "imagePrompt": "A man with foam on his face, using a razor in front of a mirror",
+    "searchQuery": "man shaving face",
+    "cues": {
+      "definition": "You take hair off your skin with a razor.",
+      "sentenceCompletion": "Every morning he uses a razor to ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh"
+    },
+    "semantic": {
+      "category": "It is something you do to your skin and hair.",
+      "use": "You do it to remove hair.",
+      "action": "You spread foam on your skin and pull a razor across it.",
+      "properties": "It leaves your skin smooth, and the blade is sharp.",
+      "location": "You do it in the bathroom, in front of a mirror.",
+      "association": "It makes me think of razors and foam."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "v",
+      "syllables": 1,
+      "rhyme": "brave",
+      "sameFirstSound": "ship"
+    }
+  },
+  {
+    "id": "verbs-yawn",
+    "word": "yawn",
+    "group": "verbs",
+    "subgroup": "daily routine",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-yawn.webp",
+    "imagePrompt": "A woman yawning widely with one hand over her open mouth",
+    "searchQuery": "woman yawning",
+    "cues": {
+      "definition": "You open your mouth wide and breathe in deeply when you are tired.",
+      "sentenceCompletion": "I am so tired that I cannot help but ___.",
+      "firstLetter": "y",
+      "firstSoundSpoken": "yuh"
+    },
+    "semantic": {
+      "category": "It is something your mouth does when you are tired.",
+      "use": "Your body does it when you are tired or bored.",
+      "action": "You open your mouth wide, breathe in, then let the air out.",
+      "properties": "It is a long, wide stretch of the mouth.",
+      "location": "You do it in bed, at a desk or in a dull meeting.",
+      "association": "It makes me think of being tired and sleepy."
+    },
+    "phonological": {
+      "firstSound": "y",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "dawn",
+      "sameFirstSound": "yellow"
+    }
+  },
+  {
+    "id": "verbs-snore",
+    "word": "snore",
+    "group": "verbs",
+    "subgroup": "daily routine",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-snore.webp",
+    "imagePrompt": "A man asleep on his back in bed with his mouth open",
+    "searchQuery": "man snoring asleep",
+    "cues": {
+      "definition": "You make a loud, rough noise while you sleep.",
+      "sentenceCompletion": "My husband lies on his back and starts to ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something that happens while you sleep.",
+      "use": "You do not choose to; it happens when your airway is partly blocked.",
+      "action": "You breathe in and out noisily with your mouth open.",
+      "properties": "It is loud, rumbling and a bit rough.",
+      "location": "You do it in bed, at night.",
+      "association": "It makes me think of noisy nights and earplugs."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "or",
+      "syllables": 1,
+      "rhyme": "door",
+      "sameFirstSound": "soup"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-undress",
+    "word": "undress",
+    "group": "verbs",
+    "subgroup": "daily routine",
+    "wordClass": "verb",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-undress.webp",
+    "imagePrompt": "A man taking off his jumper over his head in a bedroom",
+    "searchQuery": "man taking off jumper",
+    "cues": {
+      "definition": "You take off your clothes.",
+      "sentenceCompletion": "At bedtime I go upstairs and ___.",
+      "firstLetter": "u",
+      "firstSoundSpoken": "uh",
+      "firstSyllable": "un"
+    },
+    "semantic": {
+      "category": "It is something you do with your clothes.",
+      "use": "You do it before bed, a bath or a swim.",
+      "action": "You pull off each piece of clothing in turn.",
+      "properties": "Your clothes come off and are left on a chair or the floor.",
+      "location": "You do it in a bedroom or a changing room.",
+      "association": "It makes me think of getting ready for bed."
+    },
+    "phonological": {
+      "firstSound": "u",
+      "lastSound": "s",
+      "syllables": 2,
+      "rhyme": "mess",
+      "sameFirstSound": "umbrella"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-floss",
+    "word": "floss",
+    "group": "verbs",
+    "subgroup": "daily routine",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-floss.webp",
+    "imagePrompt": "An adult pulling a thin thread between their front teeth in front of a plain light background",
+    "searchQuery": "person flossing teeth",
+    "cues": {
+      "definition": "You clean between your teeth with a thin thread.",
+      "sentenceCompletion": "The dentist told me to brush twice a day and to ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is something you do to look after your teeth.",
+      "use": "You do it to clean the gaps a toothbrush cannot reach.",
+      "action": "You slide a thin thread up and down between your teeth.",
+      "properties": "It looks fiddly and needs both hands.",
+      "location": "You do it at the bathroom sink.",
+      "association": "It makes me think of the dentist and a clean mouth."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "boss",
+      "sameFirstSound": "flag"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-bathe",
+    "word": "bathe",
+    "group": "verbs",
+    "subgroup": "daily routine",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-bathe.webp",
+    "imagePrompt": "An adult sitting in a tub full of foamy water, washing an arm, shoulders visible, plain light bathroom",
+    "searchQuery": "person in bubble bath",
+    "cues": {
+      "definition": "You sit in a tub of warm water to wash yourself.",
+      "sentenceCompletion": "I fill the tub with warm water when I want to ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is a way of washing your whole body.",
+      "use": "You do it to get clean and to relax.",
+      "action": "You sit or lie in warm water and wash.",
+      "properties": "It is warm, wet and often has bubbles.",
+      "location": "You do it in the bathroom.",
+      "association": "It makes me think of bubbles and a long soak."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "th",
+      "syllables": 1,
+      "rhyme": null,
+      "sameFirstSound": "bacon"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-moisturise",
+    "word": "moisturise",
+    "group": "verbs",
+    "subgroup": "daily routine",
+    "wordClass": "verb",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-moisturise.webp",
+    "imagePrompt": "A woman rubbing cream onto her cheek in front of a mirror",
+    "searchQuery": "woman applying face cream",
+    "cues": {
+      "definition": "You rub cream into your skin to keep it soft.",
+      "sentenceCompletion": "In the evening I rub cream on my face to ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mois"
+    },
+    "semantic": {
+      "category": "It is something you do to your skin.",
+      "use": "You do it to stop your skin getting dry.",
+      "action": "You squeeze out some cream and rub it in.",
+      "properties": "It is creamy and smooth, and it smells pleasant.",
+      "location": "You do it in the bathroom or bedroom, at a mirror.",
+      "association": "It makes me think of face cream and soft skin."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "z",
+      "syllables": 3,
+      "rhyme": "surprise",
+      "sameFirstSound": "mouth"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-eat",
+    "word": "eat",
+    "group": "verbs",
+    "subgroup": "eating and cooking",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-eat.webp",
+    "imagePrompt": "A man taking a bite of a sandwich, sitting at a table",
+    "searchQuery": "man eating sandwich",
+    "cues": {
+      "definition": "You put food in your mouth, chew it and swallow it.",
+      "sentenceCompletion": "When I am hungry, I need to ___.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "ee"
+    },
+    "semantic": {
+      "category": "It is something you do with food.",
+      "use": "You do it to stop being hungry and to stay alive.",
+      "action": "You put food in your mouth, chew it and swallow it.",
+      "properties": "It is a chewing movement of your mouth.",
+      "location": "You do it at a table, in a kitchen or in a cafe.",
+      "association": "It makes me think of meals and hunger."
+    },
+    "phonological": {
+      "firstSound": "ee",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "meat",
+      "sameFirstSound": "evening"
+    }
+  },
+  {
+    "id": "verbs-pour",
+    "word": "pour",
+    "group": "verbs",
+    "subgroup": "eating and cooking",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-pour.webp",
+    "imagePrompt": "A woman tipping milk from a jug into a glass",
+    "searchQuery": "pouring milk glass",
+    "cues": {
+      "definition": "You tip a liquid out of a container so that it flows.",
+      "sentenceCompletion": "Hold the jug over the glass and ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is something you do with liquids.",
+      "use": "You do it to put a drink into a cup or glass.",
+      "action": "You tip the container and the liquid flows out.",
+      "properties": "It is smooth and wet, and it makes a trickling sound.",
+      "location": "You do it in the kitchen, at a table or at a bar.",
+      "association": "It makes me think of jugs, kettles and tea."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "or",
+      "syllables": 1,
+      "rhyme": "door",
+      "sameFirstSound": "pen"
+    }
+  },
+  {
+    "id": "verbs-stir",
+    "word": "stir",
+    "group": "verbs",
+    "subgroup": "eating and cooking",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-stir.webp",
+    "imagePrompt": "A woman stirring a pot on a cooker with a wooden spoon",
+    "searchQuery": "woman stirring pot",
+    "cues": {
+      "definition": "You move a spoon round and round in a liquid or sauce.",
+      "sentenceCompletion": "To stop the soup sticking to the pan, you have to ___ it.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do with a spoon.",
+      "use": "You do it to mix things or to stop food sticking.",
+      "action": "You hold the spoon and move it round in circles.",
+      "properties": "It is circular and slow.",
+      "location": "You do it at the cooker or in a mug.",
+      "association": "It makes me think of soup and sauces."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "er",
+      "syllables": 1,
+      "rhyme": "fur",
+      "sameFirstSound": "sand"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-chop",
+    "word": "chop",
+    "group": "verbs",
+    "subgroup": "eating and cooking",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-chop.webp",
+    "imagePrompt": "A man cutting an onion into small pieces on a wooden board with a large knife",
+    "searchQuery": "man chopping vegetables",
+    "cues": {
+      "definition": "You cut food into small pieces with a sharp knife.",
+      "sentenceCompletion": "Before I fry the onions, I need to ___ them.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch"
+    },
+    "semantic": {
+      "category": "It is something you do with a knife.",
+      "use": "You do it to get food ready for cooking.",
+      "action": "You hold the food and bring the knife down again and again.",
+      "properties": "It is quick and rhythmic, and it makes a tapping sound.",
+      "location": "You do it on a wooden board in the kitchen.",
+      "association": "It makes me think of onions and sharp knives."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "stop",
+      "sameFirstSound": "chair"
+    }
+  },
+  {
+    "id": "verbs-peel",
+    "word": "peel",
+    "group": "verbs",
+    "subgroup": "eating and cooking",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-peel.webp",
+    "imagePrompt": "A man pulling the skin off an orange with his hands",
+    "searchQuery": "man peeling orange",
+    "cues": {
+      "definition": "You take the skin off a fruit or vegetable.",
+      "sentenceCompletion": "Before I boil the potatoes, I have to ___ them.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is something you do to fruit and vegetables.",
+      "use": "You do it to remove the skin before eating or cooking.",
+      "action": "You pull or slice the skin away.",
+      "properties": "The skin comes off in strips.",
+      "location": "You do it in the kitchen at the worktop.",
+      "association": "It makes me think of oranges, bananas and potatoes."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "wheel",
+      "sameFirstSound": "pillow"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-bake",
+    "word": "bake",
+    "group": "verbs",
+    "subgroup": "eating and cooking",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-bake.webp",
+    "imagePrompt": "A woman taking a tray of golden cakes out of an oven",
+    "searchQuery": "woman baking cakes",
+    "cues": {
+      "definition": "You cook food in an oven with dry heat.",
+      "sentenceCompletion": "On Sundays she likes to ___ a cake.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is something you do in the kitchen.",
+      "use": "You do it to make cakes, bread and pies.",
+      "action": "You mix the ingredients and put them in a hot oven.",
+      "properties": "It smells sweet and warm, and the food turns golden.",
+      "location": "You do it in the kitchen, in an oven.",
+      "association": "It makes me think of cakes and bread."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "lake",
+      "sameFirstSound": "bus"
+    }
+  },
+  {
+    "id": "verbs-fry",
+    "word": "fry",
+    "group": "verbs",
+    "subgroup": "eating and cooking",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-fry.webp",
+    "imagePrompt": "A man cooking sausages in a pan with oil on a hob",
+    "searchQuery": "man frying pan",
+    "cues": {
+      "definition": "You cook food in hot oil in a pan.",
+      "sentenceCompletion": "For breakfast I like to ___ an egg.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is something you do at the cooker.",
+      "use": "You do it to cook eggs, bacon or chips.",
+      "action": "You heat oil in a pan and cook the food, turning it over.",
+      "properties": "It sizzles and spits.",
+      "location": "You do it on a hob, in a pan.",
+      "association": "It makes me think of bacon, eggs and chips."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "igh",
+      "syllables": 1,
+      "rhyme": "sky",
+      "sameFirstSound": "fox"
+    }
+  },
+  {
+    "id": "verbs-grate",
+    "word": "grate",
+    "group": "verbs",
+    "subgroup": "eating and cooking",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-grate.webp",
+    "imagePrompt": "A man rubbing a block of cheese against a metal kitchen tool with small holes",
+    "searchQuery": "man grating cheese",
+    "cues": {
+      "definition": "You rub food against a rough metal tool to make small shreds.",
+      "sentenceCompletion": "To top the pasta, I will ___ some cheese.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh"
+    },
+    "semantic": {
+      "category": "It is something you do with a kitchen tool.",
+      "use": "You do it to turn cheese or carrot into small pieces.",
+      "action": "You rub the food up and down against the metal holes.",
+      "properties": "It makes thin strips and a scraping sound.",
+      "location": "You do it in the kitchen, over a plate.",
+      "association": "It makes me think of cheese on top of pasta."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "plate",
+      "sameFirstSound": "goat"
+    }
+  },
+  {
+    "id": "verbs-sprinkle",
+    "word": "sprinkle",
+    "group": "verbs",
+    "subgroup": "eating and cooking",
+    "wordClass": "verb",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-sprinkle.webp",
+    "imagePrompt": "A woman letting salt fall from her fingers over a plate of food",
+    "searchQuery": "woman sprinkling salt",
+    "cues": {
+      "definition": "You scatter tiny amounts of something over food.",
+      "sentenceCompletion": "Before serving, she will ___ some herbs on top.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sprin"
+    },
+    "semantic": {
+      "category": "It is something you do with food.",
+      "use": "You do it to add flavour or decoration.",
+      "action": "You hold a pinch between your fingers and let it fall.",
+      "properties": "Tiny bits fall lightly and evenly.",
+      "location": "You do it in the kitchen, over a dish.",
+      "association": "It makes me think of salt, sugar and cake toppings."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "wrinkle",
+      "sameFirstSound": "sandal"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-taste",
+    "word": "taste",
+    "group": "verbs",
+    "subgroup": "eating and cooking",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-taste.webp",
+    "imagePrompt": "An adult in a kitchen lifting a wooden spoon of sauce to their lips to try it",
+    "searchQuery": "cook tasting from spoon",
+    "cues": {
+      "definition": "You try a little bit of food to find out what it is like.",
+      "sentenceCompletion": "The soup is nearly ready. Take a spoon and have a ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your mouth and tongue.",
+      "use": "You do it to check the flavour of food.",
+      "action": "You put a small amount on your tongue.",
+      "properties": "It can be sweet, salty, sour or bitter.",
+      "location": "You do it in the kitchen or at the table.",
+      "association": "It makes me think of cooking and adding more salt."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "waste",
+      "sameFirstSound": "table"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-sweep",
+    "word": "sweep",
+    "group": "verbs",
+    "subgroup": "housework",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-sweep.webp",
+    "imagePrompt": "A woman sweeping a floor with a broom",
+    "searchQuery": "woman sweeping floor",
+    "cues": {
+      "definition": "You gather dust and crumbs from the floor with a long-handled broom.",
+      "sentenceCompletion": "After dinner I pick up the broom and ___ the floor.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do with a broom.",
+      "use": "You do it to clear dirt from the floor.",
+      "action": "You push a broom across the floor in long strokes.",
+      "properties": "It makes a swishing sound and gathers dust into a pile.",
+      "location": "You do it in a kitchen, a hall or on a path.",
+      "association": "It makes me think of brooms and dustpans."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "keep",
+      "sameFirstSound": "sock"
+    }
+  },
+  {
+    "id": "verbs-scrub",
+    "word": "scrub",
+    "group": "verbs",
+    "subgroup": "housework",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-scrub.webp",
+    "imagePrompt": "A woman rubbing a bathroom tile hard with a stiff brush",
+    "searchQuery": "woman scrubbing tiles",
+    "cues": {
+      "definition": "You rub a surface hard to get rid of dirt.",
+      "sentenceCompletion": "The pan is so dirty that I will have to ___ it.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do around the house.",
+      "use": "You do it to remove stubborn dirt.",
+      "action": "You press a brush hard on the dirt and rub back and forth.",
+      "properties": "It is hard work and makes a rasping sound.",
+      "location": "You do it in a bathroom, a kitchen or on a doorstep.",
+      "association": "It makes me think of brushes and soapy suds."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "b",
+      "syllables": 1,
+      "rhyme": "tub",
+      "sameFirstSound": "soup"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-polish",
+    "word": "polish",
+    "group": "verbs",
+    "subgroup": "housework",
+    "wordClass": "verb",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-polish.webp",
+    "imagePrompt": "A man rubbing a wooden table top with a soft yellow cloth until it shines",
+    "searchQuery": "man polishing furniture",
+    "cues": {
+      "definition": "You rub a surface with a cloth until it shines.",
+      "sentenceCompletion": "Before the guests arrive I will ___ the silver.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pol"
+    },
+    "semantic": {
+      "category": "It is something you do around the house.",
+      "use": "You do it to make things shiny.",
+      "action": "You rub with a cloth in small circles.",
+      "properties": "It becomes smooth, bright and shiny.",
+      "location": "You do it at home on wood, shoes or metal.",
+      "association": "It makes me think of shiny shoes and wooden furniture."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "sh",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "pencil"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-wipe",
+    "word": "wipe",
+    "group": "verbs",
+    "subgroup": "housework",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-wipe.webp",
+    "imagePrompt": "A woman wiping a kitchen worktop with a cloth",
+    "searchQuery": "woman wiping table",
+    "cues": {
+      "definition": "You pass a cloth over a surface to remove spills or dirt.",
+      "sentenceCompletion": "I spilt some tea, so I need to ___ the table.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is something you do with a cloth.",
+      "use": "You do it to remove a spill or crumbs.",
+      "action": "You sweep a damp cloth across the surface.",
+      "properties": "It is quick and the surface becomes clear.",
+      "location": "You do it on worktops, tables and windows.",
+      "association": "It makes me think of cloths and spills."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "stripe",
+      "sameFirstSound": "wool"
+    }
+  },
+  {
+    "id": "verbs-fold",
+    "word": "fold",
+    "group": "verbs",
+    "subgroup": "housework",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-fold.webp",
+    "imagePrompt": "A woman folding a white towel on a table",
+    "searchQuery": "woman folding towel",
+    "cues": {
+      "definition": "You bend cloth or paper over so that it is flat and neat.",
+      "sentenceCompletion": "When the washing is dry, I need to ___ the towels.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is something you do with clothes and sheets.",
+      "use": "You do it to put clothes away neatly.",
+      "action": "You bring one edge over to meet the other and smooth it flat.",
+      "properties": "It makes a neat, flat pile.",
+      "location": "You do it on a bed or at a table.",
+      "association": "It makes me think of piles of laundry."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "gold",
+      "sameFirstSound": "fence"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-hang",
+    "word": "hang",
+    "group": "verbs",
+    "subgroup": "housework",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-hang.webp",
+    "imagePrompt": "A woman pegging a shirt on a washing line",
+    "searchQuery": "woman hanging washing",
+    "cues": {
+      "definition": "You put something up so that it dangles and does not touch the ground.",
+      "sentenceCompletion": "I will ___ the washing on the line.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh"
+    },
+    "semantic": {
+      "category": "It is something you do with laundry.",
+      "use": "You do it to dry clothes or to put pictures up.",
+      "action": "You lift the item up and fix it on a line or a hook.",
+      "properties": "It dangles loosely.",
+      "location": "You do it in a garden, a utility room or at a wardrobe.",
+      "association": "It makes me think of washing lines and pegs."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "ng",
+      "syllables": 1,
+      "rhyme": "bang",
+      "sameFirstSound": "hat"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-vacuum",
+    "word": "vacuum",
+    "group": "verbs",
+    "subgroup": "housework",
+    "wordClass": "verb",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-vacuum.webp",
+    "imagePrompt": "A woman pushing an upright cleaning machine across a carpet",
+    "searchQuery": "woman vacuuming carpet",
+    "cues": {
+      "definition": "You use a machine that sucks up dirt from the carpet.",
+      "sentenceCompletion": "The carpet is covered in crumbs, so I will ___ it.",
+      "firstLetter": "v",
+      "firstSoundSpoken": "vvv",
+      "firstSyllable": "vac"
+    },
+    "semantic": {
+      "category": "It is something you do around the house.",
+      "use": "You do it to remove dust and crumbs from carpets.",
+      "action": "You push the machine back and forth over the floor.",
+      "properties": "It is loud and it hums.",
+      "location": "You do it on carpets, on stairs and in the car.",
+      "association": "It makes me think of carpets and a noisy machine."
+    },
+    "phonological": {
+      "firstSound": "v",
+      "lastSound": "m",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "van"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-tidy",
+    "word": "tidy",
+    "group": "verbs",
+    "subgroup": "housework",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-tidy.webp",
+    "imagePrompt": "A man putting books back on a shelf in a living room",
+    "searchQuery": "man tidying room",
+    "cues": {
+      "definition": "You put things away so that a room looks neat.",
+      "sentenceCompletion": "My friends are coming, so I must ___ the living room.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "ti"
+    },
+    "semantic": {
+      "category": "It is something you do around the house.",
+      "use": "You do it to make a room neat.",
+      "action": "You pick things up and put them in their places.",
+      "properties": "It makes a room look neat and orderly.",
+      "location": "You do it in any room of the house.",
+      "association": "It makes me think of a neat house and putting things away."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "table"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-rinse",
+    "word": "rinse",
+    "group": "verbs",
+    "subgroup": "housework",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-rinse.webp",
+    "imagePrompt": "A woman holding a plate under a stream from a tap, soap suds sliding off",
+    "searchQuery": "woman rinsing plate",
+    "cues": {
+      "definition": "You wash soap off with clean water.",
+      "sentenceCompletion": "After I soap the dishes, I ___ them.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "rr"
+    },
+    "semantic": {
+      "category": "It is something you do at the sink.",
+      "use": "You do it to get the soap off.",
+      "action": "You run clean water over it until the suds are gone.",
+      "properties": "It is wet and splashy, and the bubbles disappear.",
+      "location": "You do it at a sink or a basin.",
+      "association": "It makes me think of soapy dishes and clean water."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "prince",
+      "sameFirstSound": "rope"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-disinfect",
+    "word": "disinfect",
+    "group": "verbs",
+    "subgroup": "housework",
+    "wordClass": "verb",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-disinfect.webp",
+    "imagePrompt": "A woman spraying a kitchen worktop from a spray bottle and wiping it",
+    "searchQuery": "woman cleaning surface spray",
+    "cues": {
+      "definition": "You kill germs on a surface using a strong liquid.",
+      "sentenceCompletion": "To get rid of the germs, I will ___ the worktop.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "dis"
+    },
+    "semantic": {
+      "category": "It is something you do to keep the house safe and clean.",
+      "use": "You do it to kill germs.",
+      "action": "You spray or wipe a strong liquid over the surface.",
+      "properties": "It smells sharp and strong, like a chemical.",
+      "location": "You do it in kitchens and bathrooms.",
+      "association": "It makes me think of germs and bleach."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "door"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-smile",
+    "word": "smile",
+    "group": "verbs",
+    "subgroup": "face and feelings",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-smile.webp",
+    "imagePrompt": "A man smiling warmly at the camera",
+    "searchQuery": "man smiling",
+    "cues": {
+      "definition": "You turn up the corners of your mouth when you are happy.",
+      "sentenceCompletion": "When I see my grandchildren, I ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something your face does.",
+      "use": "You do it to show you are happy or friendly.",
+      "action": "You turn up the corners of your mouth.",
+      "properties": "Your mouth curves upwards and your cheeks lift.",
+      "location": "You do it anywhere, when you are pleased.",
+      "association": "It makes me think of happiness and photographs."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "while",
+      "sameFirstSound": "star"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-laugh",
+    "word": "laugh",
+    "group": "verbs",
+    "subgroup": "face and feelings",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-laugh.webp",
+    "imagePrompt": "A woman laughing out loud with her head tilted back",
+    "searchQuery": "woman laughing",
+    "cues": {
+      "definition": "You make a happy noise when something is very funny.",
+      "sentenceCompletion": "That joke was so funny that I could not help but ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "lll"
+    },
+    "semantic": {
+      "category": "It is something you do with your voice and face.",
+      "use": "You do it when you find something funny.",
+      "action": "You open your mouth and make a ha-ha sound.",
+      "properties": "It is loud, happy and bouncy.",
+      "location": "You do it with friends, at a comedy show or at home.",
+      "association": "It makes me think of jokes and comedy."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "f",
+      "syllables": 1,
+      "rhyme": "half",
+      "sameFirstSound": "lemon"
+    }
+  },
+  {
+    "id": "verbs-cry",
+    "word": "cry",
+    "group": "verbs",
+    "subgroup": "face and feelings",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-cry.webp",
+    "imagePrompt": "A woman with tears on her cheeks, wiping her eye",
+    "searchQuery": "woman crying",
+    "cues": {
+      "definition": "Tears fall from your eyes because you are sad.",
+      "sentenceCompletion": "The film was so sad that I started to ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is something your eyes do when you are upset.",
+      "use": "You do it when you are very sad or hurt.",
+      "action": "Tears fill your eyes and run down your cheeks.",
+      "properties": "Your face is wet and your eyes are red.",
+      "location": "You can do it anywhere when you feel upset.",
+      "association": "It makes me think of tissues and sadness."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "igh",
+      "syllables": 1,
+      "rhyme": "high",
+      "sameFirstSound": "cup"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-frown",
+    "word": "frown",
+    "group": "verbs",
+    "subgroup": "face and feelings",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-frown.webp",
+    "imagePrompt": "A man frowning with his eyebrows pulled together",
+    "searchQuery": "man frowning",
+    "cues": {
+      "definition": "You pull your eyebrows together when you are cross or puzzled.",
+      "sentenceCompletion": "When he is worried, he tends to ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is something your face does.",
+      "use": "You do it when you are cross, upset or thinking hard.",
+      "action": "You pull your eyebrows down and together.",
+      "properties": "Your forehead has lines and your mouth turns down.",
+      "location": "You do it anywhere you feel annoyed or unsure.",
+      "association": "It makes me think of anger and worry."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "town",
+      "sameFirstSound": "fork"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-wink",
+    "word": "wink",
+    "group": "verbs",
+    "subgroup": "face and feelings",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-wink.webp",
+    "imagePrompt": "A man closing one eye at the camera with a small smile",
+    "searchQuery": "man winking",
+    "cues": {
+      "definition": "You close one eye quickly as a friendly signal.",
+      "sentenceCompletion": "To show it was our secret, he will ___ at me.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your eye.",
+      "use": "You do it to share a joke or a secret.",
+      "action": "You shut one eye for a moment and open it again.",
+      "properties": "It is quick, and only one eye closes.",
+      "location": "You do it across a room or in a photo.",
+      "association": "It makes me think of jokes and secrets."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "pink",
+      "sameFirstSound": "wool"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-kiss",
+    "word": "kiss",
+    "group": "verbs",
+    "subgroup": "face and feelings",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-kiss.webp",
+    "imagePrompt": "A man gently kissing a woman on the cheek",
+    "searchQuery": "kiss on cheek",
+    "cues": {
+      "definition": "You touch someone with your lips to show love.",
+      "sentenceCompletion": "At the wedding, the bride and groom will ___.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your lips.",
+      "use": "You do it to show love or to say hello or goodbye.",
+      "action": "You press your lips against someone's cheek or lips.",
+      "properties": "It is soft and gentle.",
+      "location": "You do it at weddings, at greetings and at partings.",
+      "association": "It makes me think of love and romance."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "miss",
+      "sameFirstSound": "kettle"
+    }
+  },
+  {
+    "id": "verbs-hug",
+    "word": "hug",
+    "group": "verbs",
+    "subgroup": "face and feelings",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-hug.webp",
+    "imagePrompt": "A man hugging a woman warmly with his arms around her",
+    "searchQuery": "adults hugging",
+    "cues": {
+      "definition": "You wrap your arms around someone to show you care.",
+      "sentenceCompletion": "When my daughter arrives, I want to ___ her.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh"
+    },
+    "semantic": {
+      "category": "It is something you do with your arms.",
+      "use": "You do it to show love, give comfort or say hello.",
+      "action": "You wrap both arms around someone and squeeze.",
+      "properties": "It is warm and close.",
+      "location": "You do it at greetings, at partings or when someone is upset.",
+      "association": "It makes me think of comfort and family."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "g",
+      "syllables": 1,
+      "rhyme": "mug",
+      "sameFirstSound": "hand"
+    }
+  },
+  {
+    "id": "verbs-sneeze",
+    "word": "sneeze",
+    "group": "verbs",
+    "subgroup": "face and feelings",
+    "wordClass": "verb",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-sneeze.webp",
+    "imagePrompt": "A woman sneezing into a tissue held to her nose",
+    "searchQuery": "woman sneezing",
+    "cues": {
+      "definition": "Air bursts suddenly from your nose and mouth, often with a cold.",
+      "sentenceCompletion": "I have a cold and I keep having to ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something your body does.",
+      "use": "Your body does it to clear dust or germs from your nose.",
+      "action": "You breathe in, then the air bursts out noisily.",
+      "properties": "It is sudden and loud, like an atchoo.",
+      "location": "You do it anywhere, especially if you have a cold or hay fever.",
+      "association": "It makes me think of colds, tissues and hay fever."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "freeze",
+      "sameFirstSound": "sand"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-cough",
+    "word": "cough",
+    "group": "verbs",
+    "subgroup": "face and feelings",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-cough.webp",
+    "imagePrompt": "A man coughing into his fist",
+    "searchQuery": "man coughing",
+    "cues": {
+      "definition": "You push air out of your throat with a rough noise.",
+      "sentenceCompletion": "I have a sore throat and I keep having to ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is something your body does.",
+      "use": "Your body does it to clear your throat or chest.",
+      "action": "You breathe in, then push the air out sharply.",
+      "properties": "It is a rough, loud bark of air.",
+      "location": "You do it anywhere, especially if you have a cold.",
+      "association": "It makes me think of colds and throat sweets."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "f",
+      "syllables": 1,
+      "rhyme": "off",
+      "sameFirstSound": "castle"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-whistle",
+    "word": "whistle",
+    "group": "verbs",
+    "subgroup": "face and feelings",
+    "wordClass": "verb",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-whistle.webp",
+    "imagePrompt": "A man with his lips pursed in a small round shape, making a tune",
+    "searchQuery": "man whistling",
+    "cues": {
+      "definition": "You blow air through your lips to make a high, clear tune.",
+      "sentenceCompletion": "He likes to stroll along and ___ a tune.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "whis"
+    },
+    "semantic": {
+      "category": "It is something you do with your lips and breath.",
+      "use": "You do it to make a tune or to call someone.",
+      "action": "You purse your lips and blow out gently.",
+      "properties": "It is high, clear and sharp.",
+      "location": "You do it outdoors, on a walk or at work.",
+      "association": "It makes me think of referees and kettles."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "thistle",
+      "sameFirstSound": "wasp"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-push",
+    "word": "push",
+    "group": "verbs",
+    "subgroup": "hand actions",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-push.webp",
+    "imagePrompt": "An adult pushing a heavy wooden door with both hands",
+    "searchQuery": "man pushing door",
+    "cues": {
+      "definition": "You press against something firmly to make it move away from you.",
+      "sentenceCompletion": "The door is stuck, so I have to ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to move something that is heavy or stuck.",
+      "action": "You lean forward and press with your palms.",
+      "properties": "Your arms straighten and your body leans.",
+      "location": "You do it at doors, trolleys and broken-down cars.",
+      "association": "It makes me think of a shopping trolley."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "sh",
+      "syllables": 1,
+      "rhyme": "bush",
+      "sameFirstSound": "paper"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-pull",
+    "word": "pull",
+    "group": "verbs",
+    "subgroup": "hand actions",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-pull.webp",
+    "imagePrompt": "An adult pulling a heavy rope towards them with both hands",
+    "searchQuery": "person pulling rope",
+    "cues": {
+      "definition": "You grip something and draw it towards you.",
+      "sentenceCompletion": "To open the heavy drawer, you have to ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to bring something closer to you.",
+      "action": "You grip it, then lean back and draw your arms in.",
+      "properties": "Your arms bend and your body leans backwards.",
+      "location": "You do it at drawers, doors and ropes.",
+      "association": "It makes me think of a tug of war."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "bull",
+      "sameFirstSound": "pencil"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-throw",
+    "word": "throw",
+    "group": "verbs",
+    "subgroup": "hand actions",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-throw.webp",
+    "imagePrompt": "An adult with an arm raised back, about to throw a ball",
+    "searchQuery": "man throwing ball",
+    "cues": {
+      "definition": "You send something through the air with your arm.",
+      "sentenceCompletion": "Please ___ the ball to me.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "th"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to send something to another person or place.",
+      "action": "You swing your arm back, then forward, and let go.",
+      "properties": "Your arm moves in a fast arc.",
+      "location": "You do it in a garden, a park or on a pitch.",
+      "association": "It makes me think of a game of catch."
+    },
+    "phonological": {
+      "firstSound": "th",
+      "lastSound": "oh",
+      "syllables": 1,
+      "rhyme": "grow",
+      "sameFirstSound": "thumb"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-catch",
+    "word": "catch",
+    "group": "verbs",
+    "subgroup": "hand actions",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-catch.webp",
+    "imagePrompt": "An adult with both hands open catching a ball in mid-air",
+    "searchQuery": "woman catching ball",
+    "cues": {
+      "definition": "You grab something that is moving through the air.",
+      "sentenceCompletion": "Hold out your hands so you can ___ the ball.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to stop something from hitting the ground.",
+      "action": "You watch it come, reach out and close your hands round it.",
+      "properties": "Your hands open wide, then snap shut.",
+      "location": "You do it in a garden, a park or on a pitch.",
+      "association": "It makes me think of a game of rounders."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "ch",
+      "syllables": 1,
+      "rhyme": "match",
+      "sameFirstSound": "cup"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-drop",
+    "word": "drop",
+    "group": "verbs",
+    "subgroup": "hand actions",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-drop.webp",
+    "imagePrompt": "An adult letting a glass fall from their open hand",
+    "searchQuery": "person dropping glass",
+    "cues": {
+      "definition": "You let go of something so that it falls.",
+      "sentenceCompletion": "Be careful not to ___ the glass.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it by accident, or to put something down fast.",
+      "action": "You open your fingers and it falls.",
+      "properties": "Your hand opens and the thing falls straight down.",
+      "location": "You do it in a kitchen, or anywhere you hold things.",
+      "association": "It makes me think of a clatter and a mess on the floor."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "stop",
+      "sameFirstSound": "door"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-tear",
+    "word": "tear",
+    "group": "verbs",
+    "subgroup": "hand actions",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-tear.webp",
+    "imagePrompt": "An adult tearing a sheet of paper in two with both hands",
+    "searchQuery": "person tearing paper",
+    "cues": {
+      "definition": "You pull paper or cloth apart so that it splits.",
+      "sentenceCompletion": "I will ___ the old letter into pieces.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to split something or to throw it away.",
+      "action": "You grip with both hands and pull in opposite directions.",
+      "properties": "It makes a ripping sound.",
+      "location": "You do it at a desk or beside a bin.",
+      "association": "It makes me think of a ripping sound."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "er",
+      "syllables": 1,
+      "rhyme": "pair",
+      "sameFirstSound": "table"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-squeeze",
+    "word": "squeeze",
+    "group": "verbs",
+    "subgroup": "hand actions",
+    "wordClass": "verb",
+    "letters": 7,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-squeeze.webp",
+    "imagePrompt": "An adult squeezing a lemon half over a plate with one hand",
+    "searchQuery": "squeezing lemon",
+    "cues": {
+      "definition": "You press something tightly from both sides.",
+      "sentenceCompletion": "I like to ___ a fresh lemon over my fish.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to get juice out, or to grip something tight.",
+      "action": "You close your fingers round it and press hard.",
+      "properties": "Your fist tightens and the thing gets smaller.",
+      "location": "You do it in a kitchen, or when you hold a hand.",
+      "association": "It makes me think of lemon juice."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "z",
+      "syllables": 1,
+      "rhyme": "freeze",
+      "sameFirstSound": "sun"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-twist",
+    "word": "twist",
+    "group": "verbs",
+    "subgroup": "hand actions",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-twist.webp",
+    "imagePrompt": "An adult twisting the lid of a glass jar with both hands",
+    "searchQuery": "person twisting jar lid",
+    "cues": {
+      "definition": "You turn something round and round with your hand.",
+      "sentenceCompletion": "To open the jar, you have to ___ the lid.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to open a lid or wring something out.",
+      "action": "You grip it and turn your wrist.",
+      "properties": "Your wrist turns and the thing spins.",
+      "location": "You do it in a kitchen, or with a tap or a bottle top.",
+      "association": "It makes me think of a jar that will not open."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "list",
+      "sameFirstSound": "tooth"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-stack",
+    "word": "stack",
+    "group": "verbs",
+    "subgroup": "hand actions",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-stack.webp",
+    "imagePrompt": "An adult placing the last plate on a neat stack of white plates",
+    "searchQuery": "person stacking plates",
+    "cues": {
+      "definition": "You pile things neatly one on top of another.",
+      "sentenceCompletion": "Please ___ the plates neatly on the shelf.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to keep things tidy and to save space.",
+      "action": "You lift each thing and set it on top of the last.",
+      "properties": "Your hands place one thing above another.",
+      "location": "You do it in a kitchen, a shop or a warehouse.",
+      "association": "It makes me think of a tall tower of plates."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "back",
+      "sameFirstSound": "sock"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-scratch",
+    "word": "scratch",
+    "group": "verbs",
+    "subgroup": "hand actions",
+    "wordClass": "verb",
+    "letters": 7,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-scratch.webp",
+    "imagePrompt": "An adult scratching their forearm with the fingers of the other hand",
+    "searchQuery": "person scratching arm",
+    "cues": {
+      "definition": "You rub your skin with your nails because it itches.",
+      "sentenceCompletion": "My nose itches, so I ___ it.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to ease an itch.",
+      "action": "You drag your fingernails across your skin.",
+      "properties": "It makes a light rasping noise.",
+      "location": "You do it on your head, arm or back.",
+      "association": "It makes me think of an itchy mosquito bite."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ch",
+      "syllables": 1,
+      "rhyme": "patch",
+      "sameFirstSound": "sofa"
+    }
+  },
+  {
+    "id": "verbs-talk",
+    "word": "talk",
+    "group": "verbs",
+    "subgroup": "talking and thinking",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-talk.webp",
+    "imagePrompt": "Two adults sitting facing each other, one speaking and gesturing",
+    "searchQuery": "two people talking",
+    "cues": {
+      "definition": "You speak with someone in a normal voice.",
+      "sentenceCompletion": "On the phone I like to ___ with my sister.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your voice.",
+      "use": "You do it to share news and ideas with someone.",
+      "action": "You open your mouth and use words, one after another.",
+      "properties": "It sounds like a steady murmur of voices.",
+      "location": "You do it at home, in a cafe or on the phone.",
+      "association": "It makes me think of a chat over a cup of tea."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "chalk",
+      "sameFirstSound": "tea"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-whisper",
+    "word": "whisper",
+    "group": "verbs",
+    "subgroup": "talking and thinking",
+    "wordClass": "verb",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-whisper.webp",
+    "imagePrompt": "An adult leaning in to whisper into another adult's ear",
+    "searchQuery": "two people whispering",
+    "cues": {
+      "definition": "You speak very quietly so only one person hears.",
+      "sentenceCompletion": "In the library you must ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh",
+      "firstSyllable": "whis"
+    },
+    "semantic": {
+      "category": "It is something you do with your voice.",
+      "use": "You do it to keep a secret or to avoid disturbing people.",
+      "action": "You speak softly, close to someone's ear.",
+      "properties": "It sounds like a soft hiss with no real tone.",
+      "location": "You do it in a library, a church or a theatre.",
+      "association": "It makes me think of sharing a secret."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "crisper",
+      "sameFirstSound": "wall"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-shout",
+    "word": "shout",
+    "group": "verbs",
+    "subgroup": "talking and thinking",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-shout.webp",
+    "imagePrompt": "An adult with hands cupped round their mouth, shouting",
+    "searchQuery": "man shouting",
+    "cues": {
+      "definition": "You speak very loudly so people far away can hear.",
+      "sentenceCompletion": "If the bus is leaving, I will ___ for it to wait.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh"
+    },
+    "semantic": {
+      "category": "It is something you do with your voice.",
+      "use": "You do it to get attention or to warn someone.",
+      "action": "You take a big breath and call out as loud as you can.",
+      "properties": "It sounds very loud and sharp.",
+      "location": "You do it outdoors, at a match or across a field.",
+      "association": "It makes me think of a crowd at a football match."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "out",
+      "sameFirstSound": "ship"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-sing",
+    "word": "sing",
+    "group": "verbs",
+    "subgroup": "talking and thinking",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-sing.webp",
+    "imagePrompt": "An adult singing with their mouth open and eyes closed",
+    "searchQuery": "woman singing",
+    "cues": {
+      "definition": "You make music with your voice.",
+      "sentenceCompletion": "At the concert, the choir will ___ a hymn.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do with your voice.",
+      "use": "You do it for pleasure, or to perform for others.",
+      "action": "You breathe in and let notes come out in a tune.",
+      "properties": "It sounds musical, with high and low notes.",
+      "location": "You do it in a choir, at church or in the bath.",
+      "association": "It makes me think of a favourite song."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ng",
+      "syllables": 1,
+      "rhyme": "king",
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "verbs-read",
+    "word": "read",
+    "group": "verbs",
+    "subgroup": "talking and thinking",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-read.webp",
+    "imagePrompt": "An adult sitting reading an open paperback book",
+    "searchQuery": "woman reading book",
+    "cues": {
+      "definition": "You look at words on a page and understand them.",
+      "sentenceCompletion": "Before bed I like to ___ a book.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "rrr"
+    },
+    "semantic": {
+      "category": "It is something you do with your eyes.",
+      "use": "You do it to enjoy a story or to find out facts.",
+      "action": "You look at the words and move your eyes along each line.",
+      "properties": "It is quiet, with the pages turning.",
+      "location": "You do it in an armchair, in bed or in a library.",
+      "association": "It makes me think of a good novel."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "seed",
+      "sameFirstSound": "rope"
+    }
+  },
+  {
+    "id": "verbs-write",
+    "word": "write",
+    "group": "verbs",
+    "subgroup": "talking and thinking",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-write.webp",
+    "imagePrompt": "An adult writing on paper with a pen at a table",
+    "searchQuery": "person writing letter",
+    "cues": {
+      "definition": "You put words on paper with a pen.",
+      "sentenceCompletion": "I will ___ a letter to my friend.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "rrr"
+    },
+    "semantic": {
+      "category": "It is something you do with your hand.",
+      "use": "You do it to send a message or to remember something.",
+      "action": "You hold a pen and form the letters one by one.",
+      "properties": "It makes a faint scratching sound on the paper.",
+      "location": "You do it at a desk or table.",
+      "association": "It makes me think of a birthday card."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "kite",
+      "sameFirstSound": "rabbit"
+    }
+  },
+  {
+    "id": "verbs-listen",
+    "word": "listen",
+    "group": "verbs",
+    "subgroup": "talking and thinking",
+    "wordClass": "verb",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-listen.webp",
+    "imagePrompt": "An adult with a hand cupped behind their ear, listening carefully",
+    "searchQuery": "person listening",
+    "cues": {
+      "definition": "You pay attention to the sounds you can hear.",
+      "sentenceCompletion": "Please be quiet and ___ to the radio.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "lll",
+      "firstSyllable": "lis"
+    },
+    "semantic": {
+      "category": "It is something you do with your ears.",
+      "use": "You do it to hear and understand what someone says.",
+      "action": "You stay still and pay close attention to the sounds.",
+      "properties": "It is quiet, because you are not speaking.",
+      "location": "You do it in a classroom, at a concert or on the phone.",
+      "association": "It makes me think of music or the news."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "glisten",
+      "sameFirstSound": "lemon"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-draw",
+    "word": "draw",
+    "group": "verbs",
+    "subgroup": "talking and thinking",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-draw.webp",
+    "imagePrompt": "An adult sketching on a sheet of paper with a pencil",
+    "searchQuery": "person drawing picture",
+    "cues": {
+      "definition": "You make a picture with a pencil or pen.",
+      "sentenceCompletion": "The artist will ___ a portrait with a pencil.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh"
+    },
+    "semantic": {
+      "category": "It is something you do with your hand.",
+      "use": "You do it to make a picture or a plan.",
+      "action": "You move a pencil over paper to make lines and shapes.",
+      "properties": "It makes a soft scratching sound.",
+      "location": "You do it at a table, in a studio or in a park.",
+      "association": "It makes me think of a sketchbook."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "or",
+      "syllables": 1,
+      "rhyme": "straw",
+      "sameFirstSound": "dog"
+    }
+  },
+  {
+    "id": "verbs-clap",
+    "word": "clap",
+    "group": "verbs",
+    "subgroup": "talking and thinking",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-clap.webp",
+    "imagePrompt": "An adult clapping their hands together at chest height",
+    "searchQuery": "person clapping hands",
+    "cues": {
+      "definition": "You bring your palms together to make a noise.",
+      "sentenceCompletion": "At the end of the show, we all ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to show you enjoyed something.",
+      "action": "You bring your palms together again and again.",
+      "properties": "It makes a sharp, loud smack.",
+      "location": "You do it in a theatre or at a concert.",
+      "association": "It makes me think of an audience cheering."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "map",
+      "sameFirstSound": "cat"
+    }
+  },
+  {
+    "id": "verbs-interview",
+    "word": "interview",
+    "group": "verbs",
+    "subgroup": "talking and thinking",
+    "wordClass": "verb",
+    "letters": 9,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-interview.webp",
+    "imagePrompt": "Two adults in an office, one holding a notepad and microphone asking questions",
+    "searchQuery": "man interviewing woman",
+    "cues": {
+      "definition": "You ask someone questions to find out about them.",
+      "sentenceCompletion": "The journalist is going to ___ the mayor.",
+      "firstLetter": "i",
+      "firstSoundSpoken": "ih",
+      "firstSyllable": "in"
+    },
+    "semantic": {
+      "category": "It is something you do with your voice.",
+      "use": "You do it to find out about a person or a job applicant.",
+      "action": "You sit opposite someone and ask questions, then listen.",
+      "properties": "It sounds like questions and answers, one after another.",
+      "location": "You do it in an office, a studio or a meeting room.",
+      "association": "It makes me think of a job or a news programme."
+    },
+    "phonological": {
+      "firstSound": "i",
+      "lastSound": "oo",
+      "syllables": 3,
+      "rhyme": "review",
+      "sameFirstSound": "insect"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-dig",
+    "word": "dig",
+    "group": "verbs",
+    "subgroup": "work and making",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-dig.webp",
+    "imagePrompt": "An adult pushing a spade into soil in a garden",
+    "searchQuery": "man digging garden",
+    "cues": {
+      "definition": "You break up the ground and move the earth.",
+      "sentenceCompletion": "To plant the tree, I need a spade to ___ a hole.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh"
+    },
+    "semantic": {
+      "category": "It is something you do with your arms and a tool.",
+      "use": "You do it to make a hole or to turn the soil.",
+      "action": "You push a spade into the ground and lift out the earth.",
+      "properties": "It is heavy work and makes you sweat.",
+      "location": "You do it in a garden, on a farm or on a building site.",
+      "association": "It makes me think of a muddy garden."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "g",
+      "syllables": 1,
+      "rhyme": "pig",
+      "sameFirstSound": "door"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-build",
+    "word": "build",
+    "group": "verbs",
+    "subgroup": "work and making",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-build.webp",
+    "imagePrompt": "An adult laying a brick on a low brick wall with a trowel",
+    "searchQuery": "man laying bricks",
+    "cues": {
+      "definition": "You put bricks or pieces together to make a structure.",
+      "sentenceCompletion": "The workmen will ___ a new wall.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands and tools.",
+      "use": "You do it to make a house, a wall or a shed.",
+      "action": "You fit the parts together, one on top of another.",
+      "properties": "It is noisy, dusty and heavy work.",
+      "location": "You do it on a site, in a garden or in a workshop.",
+      "association": "It makes me think of bricks and cement."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "filled",
+      "sameFirstSound": "bus"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-sew",
+    "word": "sew",
+    "group": "verbs",
+    "subgroup": "work and making",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-sew.webp",
+    "imagePrompt": "An adult hand sewing a button onto a white shirt with needle and thread",
+    "searchQuery": "woman sewing button",
+    "cues": {
+      "definition": "You join cloth together with a needle and thread.",
+      "sentenceCompletion": "My button has come off, so I must ___ it back on.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to mend clothes or to make new ones.",
+      "action": "You push a needle through the cloth and pull the thread.",
+      "properties": "It needs small, careful stitches.",
+      "location": "You do it at home, at a table or at a machine.",
+      "association": "It makes me think of a needle and cotton."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "oh",
+      "syllables": 1,
+      "rhyme": "low",
+      "sameFirstSound": "sand"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-knit",
+    "word": "knit",
+    "group": "verbs",
+    "subgroup": "work and making",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-knit.webp",
+    "imagePrompt": "An adult knitting a wool scarf with two needles",
+    "searchQuery": "woman knitting wool",
+    "cues": {
+      "definition": "You make wool into clothes with two long needles.",
+      "sentenceCompletion": "My gran likes to ___ scarves in winter.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "nnn"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to make jumpers, hats and scarves.",
+      "action": "You loop the wool over the needles, row after row.",
+      "properties": "The needles click softly together.",
+      "location": "You do it in an armchair, at home or in a club.",
+      "association": "It makes me think of grandmothers and warm wool."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "sit",
+      "sameFirstSound": "nose"
+    }
+  },
+  {
+    "id": "verbs-measure",
+    "word": "measure",
+    "group": "verbs",
+    "subgroup": "work and making",
+    "wordClass": "verb",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-measure.webp",
+    "imagePrompt": "An adult holding a tape measure against a wooden plank",
+    "searchQuery": "man measuring wood",
+    "cues": {
+      "definition": "You find out how long or how big something is.",
+      "sentenceCompletion": "Before I cut the wood, I will ___ it.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "meas"
+    },
+    "semantic": {
+      "category": "It is something you do with a tool.",
+      "use": "You do it to find out the exact size of something.",
+      "action": "You hold a tape or ruler against it and read the number.",
+      "properties": "You look for numbers and lines on the tape.",
+      "location": "You do it in a workshop, a shop or a kitchen.",
+      "association": "It makes me think of a tape and a pencil."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "er",
+      "syllables": 2,
+      "rhyme": "treasure",
+      "sameFirstSound": "mouse"
+    }
+  },
+  {
+    "id": "verbs-weigh",
+    "word": "weigh",
+    "group": "verbs",
+    "subgroup": "work and making",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-weigh.webp",
+    "imagePrompt": "An adult placing a bag of flour on a set of kitchen scales",
+    "searchQuery": "person weighing flour",
+    "cues": {
+      "definition": "You find out how heavy something is on scales.",
+      "sentenceCompletion": "I will ___ the flour on the scales.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It is something you do with a machine.",
+      "use": "You do it to find out how heavy something is.",
+      "action": "You put it on a set of scales and read the number.",
+      "properties": "A needle or a screen shows a number.",
+      "location": "You do it in a kitchen, a shop or a post office.",
+      "association": "It makes me think of scales and kilograms."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "ay",
+      "syllables": 1,
+      "rhyme": "day",
+      "sameFirstSound": "wall"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-mow",
+    "word": "mow",
+    "group": "verbs",
+    "subgroup": "work and making",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-mow.webp",
+    "imagePrompt": "An adult pushing a petrol lawn mower across a lawn",
+    "searchQuery": "man mowing lawn",
+    "cues": {
+      "definition": "You cut the grass with a machine.",
+      "sentenceCompletion": "On Saturday I ___ the lawn.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm"
+    },
+    "semantic": {
+      "category": "It is something you do with a machine.",
+      "use": "You do it to keep the grass short and tidy.",
+      "action": "You push a machine over the grass in straight lines.",
+      "properties": "It makes a loud engine noise and leaves stripes.",
+      "location": "You do it in a garden or in a park.",
+      "association": "It makes me think of a summer weekend and fresh grass."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "oh",
+      "syllables": 1,
+      "rhyme": "show",
+      "sameFirstSound": "moon"
+    }
+  },
+  {
+    "id": "verbs-paint",
+    "word": "paint",
+    "group": "verbs",
+    "subgroup": "work and making",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-paint.webp",
+    "imagePrompt": "An adult painting a wall white with a roller",
+    "searchQuery": "person painting wall",
+    "cues": {
+      "definition": "You cover a surface with colour using a brush.",
+      "sentenceCompletion": "We are going to ___ the fence green.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to change the colour of a wall or to make art.",
+      "action": "You dip a brush or roller in a tin and spread it on.",
+      "properties": "It is wet, colourful and has a strong smell.",
+      "location": "You do it at home, in a studio or on a ladder.",
+      "association": "It makes me think of a tin of emulsion."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "faint",
+      "sameFirstSound": "pen"
+    }
+  },
+  {
+    "id": "verbs-decorate",
+    "word": "decorate",
+    "group": "verbs",
+    "subgroup": "work and making",
+    "wordClass": "verb",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-decorate.webp",
+    "imagePrompt": "An adult on a stepladder hanging wallpaper in a bright room",
+    "searchQuery": "man decorating room",
+    "cues": {
+      "definition": "You put new paint or paper on the walls of a room.",
+      "sentenceCompletion": "We want to ___ the spare bedroom.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "dec"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands and tools.",
+      "use": "You do it to make a room look fresh and new.",
+      "action": "You put up paper or paint the walls and ceiling.",
+      "properties": "It is messy, and the room smells of paste or paint.",
+      "location": "You do it at home, in a shop or in an office.",
+      "association": "It makes me think of rolls of wallpaper."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "dinner"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-photocopy",
+    "word": "photocopy",
+    "group": "verbs",
+    "subgroup": "work and making",
+    "wordClass": "verb",
+    "letters": 9,
+    "syllables": 4,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-photocopy.webp",
+    "imagePrompt": "An adult placing a sheet of paper on an office photocopier",
+    "searchQuery": "woman photocopying document",
+    "cues": {
+      "definition": "You make a duplicate of a page using a machine.",
+      "sentenceCompletion": "I need to ___ this form before I post it.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "pho"
+    },
+    "semantic": {
+      "category": "It is something you do with a machine.",
+      "use": "You do it to make another copy of a page.",
+      "action": "You put the page on the glass and press a button.",
+      "properties": "A bright light moves under the lid.",
+      "location": "You do it in an office, a library or a post office.",
+      "association": "It makes me think of a humming machine and warm paper."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "ee",
+      "syllables": 4,
+      "rhyme": null,
+      "sameFirstSound": "fork"
+    }
+  },
+  {
+    "id": "verbs-kick",
+    "word": "kick",
+    "group": "verbs",
+    "subgroup": "sport and leisure",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-kick.webp",
+    "imagePrompt": "An adult in football kit kicking a football with the right foot",
+    "searchQuery": "man kicking football",
+    "cues": {
+      "definition": "You strike a ball with your foot.",
+      "sentenceCompletion": "On the pitch, he will ___ the ball into the net.",
+      "firstLetter": "k",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is something you do with your foot.",
+      "use": "You do it to send a ball to someone or into a goal.",
+      "action": "You swing your leg back and strike with your foot.",
+      "properties": "It makes a dull thud.",
+      "location": "You do it on a pitch, in a park or in a garden.",
+      "association": "It makes me think of a game of football."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "stick",
+      "sameFirstSound": "cup"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-row",
+    "word": "row",
+    "group": "verbs",
+    "subgroup": "sport and leisure",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-row.webp",
+    "imagePrompt": "An adult rowing a small wooden boat with two oars on calm water",
+    "searchQuery": "man rowing boat",
+    "cues": {
+      "definition": "You pull oars through water to move a boat.",
+      "sentenceCompletion": "Two people ___ the boat across the lake.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "rrr"
+    },
+    "semantic": {
+      "category": "It is something you do with your arms and a boat.",
+      "use": "You do it to move a boat or to keep fit.",
+      "action": "You sit facing backwards and pull the oars in a long stroke.",
+      "properties": "The oars splash and the boat glides.",
+      "location": "You do it on a lake, a river or at the gym.",
+      "association": "It makes me think of the university boat race."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "oh",
+      "syllables": 1,
+      "rhyme": "slow",
+      "sameFirstSound": "rope"
+    }
+  },
+  {
+    "id": "verbs-ski",
+    "word": "ski",
+    "group": "verbs",
+    "subgroup": "sport and leisure",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-ski.webp",
+    "imagePrompt": "An adult skiing down a snowy slope on two skis wearing a helmet",
+    "searchQuery": "person skiing mountain",
+    "cues": {
+      "definition": "You glide down a snowy slope on two long boards.",
+      "sentenceCompletion": "In the Alps we love to ___ down the slopes.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do on a mountain.",
+      "use": "You do it for sport and for fun in winter.",
+      "action": "You glide on two long boards and lean to turn.",
+      "properties": "It is fast, cold and bright with white all round.",
+      "location": "You do it on a mountain slope.",
+      "association": "It makes me think of a winter holiday in the Alps."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ee",
+      "syllables": 1,
+      "rhyme": "tea",
+      "sameFirstSound": "sun"
+    }
+  },
+  {
+    "id": "verbs-sail",
+    "word": "sail",
+    "group": "verbs",
+    "subgroup": "sport and leisure",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-sail.webp",
+    "imagePrompt": "An adult at the tiller of a small sailing boat with a white sail",
+    "searchQuery": "person sailing boat",
+    "cues": {
+      "definition": "You travel on water in a boat driven by the wind.",
+      "sentenceCompletion": "At the weekend we ___ across the bay.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is something you do on water.",
+      "use": "You do it for sport, travel or pleasure.",
+      "action": "You steer the boat and let the wind fill the cloth.",
+      "properties": "The boat leans over and cuts through the waves.",
+      "location": "You do it on a lake, a river or the sea.",
+      "association": "It makes me think of a harbour full of boats."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "mail",
+      "sameFirstSound": "soup"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-jog",
+    "word": "jog",
+    "group": "verbs",
+    "subgroup": "sport and leisure",
+    "wordClass": "verb",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-jog.webp",
+    "imagePrompt": "An adult in trainers jogging along a path in sports clothes",
+    "searchQuery": "person jogging path",
+    "cues": {
+      "definition": "You run slowly and steadily for exercise.",
+      "sentenceCompletion": "Every morning I ___ round the park.",
+      "firstLetter": "j",
+      "firstSoundSpoken": "juh"
+    },
+    "semantic": {
+      "category": "It is something you do with your legs.",
+      "use": "You do it to keep fit and healthy.",
+      "action": "You take steady, light steps at an easy pace.",
+      "properties": "Your trainers thud and you breathe hard.",
+      "location": "You do it on a path, in a park or along a road.",
+      "association": "It makes me think of trainers and a morning workout."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "g",
+      "syllables": 1,
+      "rhyme": "dog",
+      "sameFirstSound": "jam"
+    }
+  },
+  {
+    "id": "verbs-juggle",
+    "word": "juggle",
+    "group": "verbs",
+    "subgroup": "sport and leisure",
+    "wordClass": "verb",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-juggle.webp",
+    "imagePrompt": "An adult juggling three coloured balls in the air",
+    "searchQuery": "person juggling balls",
+    "cues": {
+      "definition": "You keep several balls moving through the air with your hands.",
+      "sentenceCompletion": "The clown can ___ five balls at once.",
+      "firstLetter": "j",
+      "firstSoundSpoken": "juh",
+      "firstSyllable": "jug"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to entertain people or to show off a skill.",
+      "action": "You toss one ball up, then another, and catch each one.",
+      "properties": "Balls rise and fall in a steady rhythm.",
+      "location": "You do it in a circus, at a party or in the street.",
+      "association": "It makes me think of a clown at the circus."
+    },
+    "phonological": {
+      "firstSound": "j",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "struggle",
+      "sameFirstSound": "jelly"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-surf",
+    "word": "surf",
+    "group": "verbs",
+    "subgroup": "sport and leisure",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-surf.webp",
+    "imagePrompt": "An adult standing on a long board riding along a breaking sea swell",
+    "searchQuery": "surfer riding wave",
+    "cues": {
+      "definition": "You stand on a board and ride on the sea towards the shore.",
+      "sentenceCompletion": "In Cornwall, people take a board into the sea to ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It is a water sport.",
+      "use": "You do it for fun and for the thrill.",
+      "action": "You paddle out, stand up on a board and ride to the shore.",
+      "properties": "It looks fast and takes good balance.",
+      "location": "You do it in the sea, near a beach.",
+      "association": "It makes me think of wetsuits and Cornwall."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "f",
+      "syllables": 1,
+      "rhyme": "turf",
+      "sameFirstSound": "sock"
+    }
+  },
+  {
+    "id": "verbs-sunbathe",
+    "word": "sunbathe",
+    "group": "verbs",
+    "subgroup": "sport and leisure",
+    "wordClass": "verb",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-sunbathe.webp",
+    "imagePrompt": "An adult lying on a beach towel in the sunshine wearing sunglasses",
+    "searchQuery": "woman sunbathing beach",
+    "cues": {
+      "definition": "You lie in the sun to get a tan.",
+      "sentenceCompletion": "On the beach I like to ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sun"
+    },
+    "semantic": {
+      "category": "It is something you do outdoors.",
+      "use": "You do it to relax and to get a tan.",
+      "action": "You lie still on a towel and let the sun warm you.",
+      "properties": "Your skin gets warm and turns brown.",
+      "location": "You do it on a beach, in a garden or by a pool.",
+      "association": "It makes me think of a summer holiday."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "th",
+      "syllables": 2,
+      "rhyme": "breathe",
+      "sameFirstSound": "soap"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-photograph",
+    "word": "photograph",
+    "group": "verbs",
+    "subgroup": "sport and leisure",
+    "wordClass": "verb",
+    "letters": 10,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-photograph.webp",
+    "imagePrompt": "An adult holding a camera up to their eye, taking a picture",
+    "searchQuery": "person taking photograph",
+    "cues": {
+      "definition": "You take a picture using a camera.",
+      "sentenceCompletion": "I want to ___ the sunset.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "pho"
+    },
+    "semantic": {
+      "category": "It is something you do with a camera.",
+      "use": "You do it to keep a memory of a place or a person.",
+      "action": "You look through the camera and press the button.",
+      "properties": "The camera clicks and a picture is saved.",
+      "location": "You do it on holiday, at a wedding or in a studio.",
+      "association": "It makes me think of a family album."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "f",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "feather"
+    }
+  },
+  {
+    "id": "verbs-hike",
+    "word": "hike",
+    "group": "verbs",
+    "subgroup": "sport and leisure",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-hike.webp",
+    "imagePrompt": "An adult with a rucksack and walking poles hiking on a hill path",
+    "searchQuery": "person hiking hills",
+    "cues": {
+      "definition": "You walk a long way over hills and countryside.",
+      "sentenceCompletion": "At the weekend we ___ up the mountain.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh"
+    },
+    "semantic": {
+      "category": "It is something you do outdoors.",
+      "use": "You do it for exercise and to enjoy the view.",
+      "action": "You take long steps over a path with a rucksack on.",
+      "properties": "Your boots crunch on the stones and you get tired legs.",
+      "location": "You do it on a hill, in the countryside or on a mountain path.",
+      "association": "It makes me think of boots and a packed lunch."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "bike",
+      "sameFirstSound": "hat"
+    }
+  },
+  {
+    "id": "verbs-give",
+    "word": "give",
+    "group": "verbs",
+    "subgroup": "giving and social",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-give.webp",
+    "imagePrompt": "An adult holding out a wrapped present to another adult",
+    "searchQuery": "person giving present",
+    "cues": {
+      "definition": "You hand something to someone as a present.",
+      "sentenceCompletion": "On her birthday, I will ___ her a gift.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh"
+    },
+    "semantic": {
+      "category": "It is something you do with your hands.",
+      "use": "You do it to let someone have something.",
+      "action": "You hold the thing out and let the other person take it.",
+      "properties": "Your hand reaches out with a smile.",
+      "location": "You do it at a party, at home or in a shop.",
+      "association": "It makes me think of birthdays and presents."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "v",
+      "syllables": 1,
+      "rhyme": "live",
+      "sameFirstSound": "garden"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-share",
+    "word": "share",
+    "group": "verbs",
+    "subgroup": "giving and social",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-share.webp",
+    "imagePrompt": "Two adults dividing a sandwich between them",
+    "searchQuery": "people sharing sandwich",
+    "cues": {
+      "definition": "You let someone else have a part of what you have.",
+      "sentenceCompletion": "I will ___ my sandwich with you.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh"
+    },
+    "semantic": {
+      "category": "It is something you do with other people.",
+      "use": "You do it to be kind and fair.",
+      "action": "You split what you have so that each person gets some.",
+      "properties": "Each person has a part of the whole.",
+      "location": "You do it at a table, at work or at home.",
+      "association": "It makes me think of being kind."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "er",
+      "syllables": 1,
+      "rhyme": "bear",
+      "sameFirstSound": "ship"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-greet",
+    "word": "greet",
+    "group": "verbs",
+    "subgroup": "giving and social",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-greet.webp",
+    "imagePrompt": "An adult at an open front door shaking hands with a guest",
+    "searchQuery": "woman greeting guest",
+    "cues": {
+      "definition": "You say hello to someone when they arrive.",
+      "sentenceCompletion": "At the door I ___ each guest.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh"
+    },
+    "semantic": {
+      "category": "It is something you do with other people.",
+      "use": "You do it to welcome someone.",
+      "action": "You smile, say hello and often shake a hand.",
+      "properties": "You use friendly words and a warm smile.",
+      "location": "You do it at a door, at work or at a party.",
+      "association": "It makes me think of a warm welcome."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "meet",
+      "sameFirstSound": "grass"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-help",
+    "word": "help",
+    "group": "verbs",
+    "subgroup": "giving and social",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-help.webp",
+    "imagePrompt": "An adult holding the arm of an older adult to help them over a kerb",
+    "searchQuery": "person helping elderly",
+    "cues": {
+      "definition": "You do something useful for someone who needs it.",
+      "sentenceCompletion": "Can you ___ me carry these bags?",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh"
+    },
+    "semantic": {
+      "category": "It is something you do for other people.",
+      "use": "You do it to make a job easier for someone.",
+      "action": "You offer a hand or do part of the work for them.",
+      "properties": "It is kind and makes people smile.",
+      "location": "You do it at home, at work or in the street.",
+      "association": "It makes me think of being a good neighbour."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "yelp",
+      "sameFirstSound": "house"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-feed",
+    "word": "feed",
+    "group": "verbs",
+    "subgroup": "giving and social",
+    "wordClass": "verb",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-feed.webp",
+    "imagePrompt": "An adult holding a bottle to feed a lamb on a farm",
+    "searchQuery": "woman feeding lamb",
+    "cues": {
+      "definition": "You give food to a person or an animal.",
+      "sentenceCompletion": "I must ___ the cat before I go out.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It is something you do for others.",
+      "use": "You do it so that someone or something is not hungry.",
+      "action": "You hold out the food, or put it in a dish.",
+      "properties": "They eat gladly and look pleased.",
+      "location": "You do it in a kitchen, on a farm or at a zoo.",
+      "association": "It makes me think of hungry animals."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "need",
+      "sameFirstSound": "farm"
+    }
+  },
+  {
+    "id": "verbs-queue",
+    "word": "queue",
+    "group": "verbs",
+    "subgroup": "giving and social",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-queue.webp",
+    "imagePrompt": "A line of adults standing one behind another at a bus stop",
+    "searchQuery": "people queuing bus stop",
+    "cues": {
+      "definition": "You stand in a line and wait for your turn.",
+      "sentenceCompletion": "At the post office we have to ___.",
+      "firstLetter": "q",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It is something you do with other people.",
+      "use": "You do it to wait for your turn in a fair way.",
+      "action": "You stand in a line behind the person in front.",
+      "properties": "The line stretches out, with each person waiting.",
+      "location": "You do it at a bus stop, a shop or a station.",
+      "association": "It makes me think of a polite British habit."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "oo",
+      "syllables": 1,
+      "rhyme": "view",
+      "sameFirstSound": "cat"
+    }
+  },
+  {
+    "id": "verbs-follow",
+    "word": "follow",
+    "group": "verbs",
+    "subgroup": "giving and social",
+    "wordClass": "verb",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-follow.webp",
+    "imagePrompt": "One adult walking behind another adult along a path",
+    "searchQuery": "person following leader",
+    "cues": {
+      "definition": "You go behind someone and go where they go.",
+      "sentenceCompletion": "Stay close and ___ me through the crowd.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "fol"
+    },
+    "semantic": {
+      "category": "It is something you do with other people.",
+      "use": "You do it to keep up with someone or to stay on route.",
+      "action": "You stay behind them and go where they go.",
+      "properties": "You keep a few steps back and watch them.",
+      "location": "You do it in the street, in a crowd or on a trail.",
+      "association": "It makes me think of a tour guide with a flag."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "oh",
+      "syllables": 2,
+      "rhyme": "hollow",
+      "sameFirstSound": "fan"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-chase",
+    "word": "chase",
+    "group": "verbs",
+    "subgroup": "giving and social",
+    "wordClass": "verb",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-chase.webp",
+    "imagePrompt": "One adult running after another adult across a grassy park",
+    "searchQuery": "people chasing park",
+    "cues": {
+      "definition": "You run after someone to try to catch them.",
+      "sentenceCompletion": "The dog likes to ___ the squirrel.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "ch"
+    },
+    "semantic": {
+      "category": "It is something you do with your legs.",
+      "use": "You do it to try to catch someone or something.",
+      "action": "You run fast after them and try to get close.",
+      "properties": "It is fast, with quick feet and puffing breath.",
+      "location": "You do it in a park, a garden or on a pitch.",
+      "association": "It makes me think of children playing a game."
+    },
+    "phonological": {
+      "firstSound": "ch",
+      "lastSound": "s",
+      "syllables": 1,
+      "rhyme": "race",
+      "sameFirstSound": "chair"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-salute",
+    "word": "salute",
+    "group": "verbs",
+    "subgroup": "giving and social",
+    "wordClass": "verb",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-salute.webp",
+    "imagePrompt": "An adult soldier in uniform saluting with the right hand to the forehead",
+    "searchQuery": "soldier saluting",
+    "cues": {
+      "definition": "You raise your hand to your forehead to show respect.",
+      "sentenceCompletion": "The soldier stands to attention and will ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sa"
+    },
+    "semantic": {
+      "category": "It is something you do with your hand.",
+      "use": "You do it to show respect, especially in the forces.",
+      "action": "You lift your right hand to your forehead and hold it still.",
+      "properties": "It is crisp and exact, with a straight arm and flat hand.",
+      "location": "You do it on parade, at a ceremony or at the army.",
+      "association": "It makes me think of soldiers and a parade."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "t",
+      "syllables": 2,
+      "rhyme": "flute",
+      "sameFirstSound": "sock"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "verbs-tickle",
+    "word": "tickle",
+    "group": "verbs",
+    "subgroup": "giving and social",
+    "wordClass": "verb",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "verbs-tickle.webp",
+    "imagePrompt": "One adult lightly tickling the side of another laughing adult",
+    "searchQuery": "person tickling friend",
+    "cues": {
+      "definition": "You lightly touch someone's skin to make them giggle.",
+      "sentenceCompletion": "My grandson squirms when I ___ him.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "tic"
+    },
+    "semantic": {
+      "category": "It is something you do with your fingers.",
+      "use": "You do it to make someone laugh.",
+      "action": "You wiggle your fingertips lightly on their skin.",
+      "properties": "It feels light and makes people giggle and squirm.",
+      "location": "You do it at home, on the sofa or in the garden.",
+      "association": "It makes me think of giggles and squirming."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": "pickle",
+      "sameFirstSound": "table"
+    },
+    "hasImage": false
+  }
+]

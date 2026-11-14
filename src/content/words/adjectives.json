@@ -1,0 +1,2231 @@
+[
+  {
+    "id": "adjectives-red",
+    "word": "red",
+    "group": "adjectives",
+    "subgroup": "colours",
+    "wordClass": "adjective",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-red.webp",
+    "imagePrompt": "A square swatch of plain red paint filling the frame",
+    "searchQuery": "red paint swatch",
+    "cues": {
+      "definition": "The colour of a postbox or a ripe tomato.",
+      "sentenceCompletion": "A stop sign and a fire engine are both ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh"
+    },
+    "semantic": {
+      "category": "It describes a colour.",
+      "use": "You use it to say which colour something is.",
+      "action": "You say it when you pick paint, clothes or pens.",
+      "properties": "It is a bold, strong colour, like a poppy.",
+      "location": "You see it on postboxes, buses and stop signs.",
+      "association": "It makes me think of strawberries and danger."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "bed",
+      "sameFirstSound": "rabbit"
+    }
+  },
+  {
+    "id": "adjectives-blue",
+    "word": "blue",
+    "group": "adjectives",
+    "subgroup": "colours",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-blue.webp",
+    "imagePrompt": "A square swatch of plain blue paint filling the frame",
+    "searchQuery": "blue paint swatch",
+    "cues": {
+      "definition": "The colour of a clear sky or the sea on a sunny day.",
+      "sentenceCompletion": "On a sunny day with no clouds the sky is ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It describes a colour.",
+      "use": "You use it to say which colour something is.",
+      "action": "You say it when you choose paint or clothes.",
+      "properties": "It is the colour of the sky and of jeans.",
+      "location": "You see it in the sky, in the sea and in swimming pools.",
+      "association": "It makes me think of the seaside."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "oo",
+      "syllables": 1,
+      "rhyme": "glue",
+      "sameFirstSound": "ball"
+    }
+  },
+  {
+    "id": "adjectives-green",
+    "word": "green",
+    "group": "adjectives",
+    "subgroup": "colours",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-green.webp",
+    "imagePrompt": "A square swatch of plain green paint filling the frame",
+    "searchQuery": "green paint swatch",
+    "cues": {
+      "definition": "The colour of fresh grass and summer leaves.",
+      "sentenceCompletion": "Fresh grass and spring leaves are ___.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh"
+    },
+    "semantic": {
+      "category": "It describes a colour.",
+      "use": "You use it to say which colour something is.",
+      "action": "You say it when you see plants growing.",
+      "properties": "It is the colour of leaves and cut grass.",
+      "location": "You find it in parks, gardens and fields.",
+      "association": "It makes me think of peas and the countryside."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "seen",
+      "sameFirstSound": "goat"
+    }
+  },
+  {
+    "id": "adjectives-yellow",
+    "word": "yellow",
+    "group": "adjectives",
+    "subgroup": "colours",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-yellow.webp",
+    "imagePrompt": "A square swatch of plain yellow paint filling the frame",
+    "searchQuery": "yellow paint swatch",
+    "cues": {
+      "definition": "The colour of a lemon or a banana.",
+      "sentenceCompletion": "A lemon and a banana are both ___.",
+      "firstLetter": "y",
+      "firstSoundSpoken": "yuh",
+      "firstSyllable": "yel"
+    },
+    "semantic": {
+      "category": "It describes a colour.",
+      "use": "You use it to say which colour something is.",
+      "action": "You say it when you describe the sun or flowers.",
+      "properties": "It is a bright colour, like butter or sunflowers.",
+      "location": "You see it on daffodils, lemons and road signs.",
+      "association": "It makes me think of sunshine and custard."
+    },
+    "phonological": {
+      "firstSound": "y",
+      "lastSound": "oh",
+      "syllables": 2,
+      "rhyme": "mellow",
+      "sameFirstSound": "yoghurt"
+    }
+  },
+  {
+    "id": "adjectives-purple",
+    "word": "purple",
+    "group": "adjectives",
+    "subgroup": "colours",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-purple.webp",
+    "imagePrompt": "A square swatch of plain purple paint filling the frame",
+    "searchQuery": "purple paint swatch",
+    "cues": {
+      "definition": "The colour you get by mixing red and blue paint.",
+      "sentenceCompletion": "Plums and aubergines have deep ___ skin.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "pur"
+    },
+    "semantic": {
+      "category": "It describes a colour.",
+      "use": "You use it to say which colour something is.",
+      "action": "You say it when you choose flowers or clothes.",
+      "properties": "It is a deep colour, like a plum or a bruise.",
+      "location": "You see it on lavender, grapes and aubergines.",
+      "association": "It makes me think of royalty and plums."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "l",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "pepper"
+    }
+  },
+  {
+    "id": "adjectives-pink",
+    "word": "pink",
+    "group": "adjectives",
+    "subgroup": "colours",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-pink.webp",
+    "imagePrompt": "A square swatch of plain pink paint filling the frame",
+    "searchQuery": "pink paint swatch",
+    "cues": {
+      "definition": "A pale, soft shade of red, like candyfloss.",
+      "sentenceCompletion": "Flamingos and candyfloss are both ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh"
+    },
+    "semantic": {
+      "category": "It describes a colour.",
+      "use": "You use it to say which colour something is.",
+      "action": "You say it when you choose a card or a flower.",
+      "properties": "It is a pale, soft colour, like blossom.",
+      "location": "You see it on cherry blossom, flamingos and rose petals.",
+      "association": "It makes me think of candyfloss and ballet shoes."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "drink",
+      "sameFirstSound": "pillow"
+    }
+  },
+  {
+    "id": "adjectives-brown",
+    "word": "brown",
+    "group": "adjectives",
+    "subgroup": "colours",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-brown.webp",
+    "imagePrompt": "A square swatch of plain brown paint filling the frame",
+    "searchQuery": "brown paint swatch",
+    "cues": {
+      "definition": "The colour of chocolate, wood and mud.",
+      "sentenceCompletion": "Chocolate and tree bark are both ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It describes a colour.",
+      "use": "You use it to say which colour something is.",
+      "action": "You say it when you describe wood or soil.",
+      "properties": "It is a deep, earthy colour, like a conker.",
+      "location": "You see it on tree trunks, soil and leather shoes.",
+      "association": "It makes me think of chocolate and autumn leaves."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "town",
+      "sameFirstSound": "bucket"
+    }
+  },
+  {
+    "id": "adjectives-grey",
+    "word": "grey",
+    "group": "adjectives",
+    "subgroup": "colours",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-grey.webp",
+    "imagePrompt": "A square swatch of plain grey paint filling the frame",
+    "searchQuery": "grey paint swatch",
+    "cues": {
+      "definition": "The colour of rain clouds and of elephants.",
+      "sentenceCompletion": "On a rainy day the clouds are ___.",
+      "firstLetter": "g",
+      "firstSoundSpoken": "guh"
+    },
+    "semantic": {
+      "category": "It describes a colour.",
+      "use": "You use it to say which colour something is.",
+      "action": "You say it when you describe dull weather or hair.",
+      "properties": "It is a dull colour between black and white.",
+      "location": "You see it in storm clouds, pavements and pebbles.",
+      "association": "It makes me think of rainy days and elephants."
+    },
+    "phonological": {
+      "firstSound": "g",
+      "lastSound": "ay",
+      "syllables": 1,
+      "rhyme": "day",
+      "sameFirstSound": "garden"
+    }
+  },
+  {
+    "id": "adjectives-big",
+    "word": "big",
+    "group": "adjectives",
+    "subgroup": "size and shape",
+    "wordClass": "adjective",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-big.webp",
+    "imagePrompt": "A huge elephant standing side-on, filling the frame",
+    "searchQuery": "big elephant",
+    "cues": {
+      "definition": "Much more than the usual size.",
+      "sentenceCompletion": "An elephant is a very ___ animal.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It describes size or shape.",
+      "use": "You use it to say something takes up a lot of space.",
+      "action": "You say it when you compare two things and one is huge.",
+      "properties": "It is huge and takes up a lot of room.",
+      "location": "You notice it with elephants, buses and mountains.",
+      "association": "It makes me think of giants and elephants."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "g",
+      "syllables": 1,
+      "rhyme": "pig",
+      "sameFirstSound": "bottle"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-small",
+    "word": "small",
+    "group": "adjectives",
+    "subgroup": "size and shape",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-small.webp",
+    "imagePrompt": "A tiny grey mouse sitting on a fingertip",
+    "searchQuery": "tiny mouse hand",
+    "cues": {
+      "definition": "Much less than the usual size.",
+      "sentenceCompletion": "A mouse is a very ___ animal.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It describes size or shape.",
+      "use": "You use it to say something takes up very little space.",
+      "action": "You say it when you compare two things and one is tiny.",
+      "properties": "It is tiny and easy to hold in one hand.",
+      "location": "You notice it with mice, coins and buttons.",
+      "association": "It makes me think of mice and ants."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "wall",
+      "sameFirstSound": "sandwich"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-tall",
+    "word": "tall",
+    "group": "adjectives",
+    "subgroup": "size and shape",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-tall.webp",
+    "imagePrompt": "A giraffe standing upright, stretching its neck up",
+    "searchQuery": "giraffe standing",
+    "cues": {
+      "definition": "Reaching a long way up from the ground.",
+      "sentenceCompletion": "A giraffe has a very ___ neck.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It describes size or shape.",
+      "use": "You use it to describe people, trees or buildings that reach high.",
+      "action": "You look up to see the top of it.",
+      "properties": "It stretches high above the ground.",
+      "location": "You notice it on skyscrapers, trees and giraffes.",
+      "association": "It makes me think of giraffes and basketball players."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "small",
+      "sameFirstSound": "telephone"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-short",
+    "word": "short",
+    "group": "adjectives",
+    "subgroup": "size and shape",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-short.webp",
+    "imagePrompt": "A stubby pencil stub worn down to a tiny length",
+    "searchQuery": "pencil stub",
+    "cues": {
+      "definition": "Measuring only a little from one end to the other.",
+      "sentenceCompletion": "I sharpened the pencil so many times that it became ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh"
+    },
+    "semantic": {
+      "category": "It describes size or shape.",
+      "use": "You use it to describe a pencil, a rope or a person that has little length.",
+      "action": "You say it when something has been cut or worn down.",
+      "properties": "It does not stretch very far from end to end.",
+      "location": "You notice it on worn-down pencils and cut hair.",
+      "association": "It makes me think of a pencil stub."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "sport",
+      "sameFirstSound": "shoe"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-long",
+    "word": "long",
+    "group": "adjectives",
+    "subgroup": "size and shape",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-long.webp",
+    "imagePrompt": "A very long rope stretched out in a straight line on the ground",
+    "searchQuery": "long rope",
+    "cues": {
+      "definition": "Measuring a great distance from one end to the other.",
+      "sentenceCompletion": "The queue at the post office was very ___.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh"
+    },
+    "semantic": {
+      "category": "It describes size or shape.",
+      "use": "You use it to describe ropes, queues and journeys that go a great distance.",
+      "action": "You say it when something stretches far.",
+      "properties": "It goes a great distance from end to end.",
+      "location": "You notice it on motorways, queues and snakes.",
+      "association": "It makes me think of ladders and trains."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "ng",
+      "syllables": 1,
+      "rhyme": "song",
+      "sameFirstSound": "ladder"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-narrow",
+    "word": "narrow",
+    "group": "adjectives",
+    "subgroup": "size and shape",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-narrow.webp",
+    "imagePrompt": "A very narrow alleyway between two brick walls",
+    "searchQuery": "narrow alley",
+    "cues": {
+      "definition": "Only a small distance from one side to the other.",
+      "sentenceCompletion": "The alley was so ___ that we had to walk in single file.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "nuh",
+      "firstSyllable": "nar"
+    },
+    "semantic": {
+      "category": "It describes size or shape.",
+      "use": "You use it to describe lanes, doors and bridges with little width.",
+      "action": "You say it when you can barely squeeze through.",
+      "properties": "There is hardly any space between the two sides.",
+      "location": "You notice it on alleys, footbridges and country lanes.",
+      "association": "It makes me think of squeezing through a gap."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "oh",
+      "syllables": 2,
+      "rhyme": "arrow",
+      "sameFirstSound": "napkin"
+    }
+  },
+  {
+    "id": "adjectives-round",
+    "word": "round",
+    "group": "adjectives",
+    "subgroup": "size and shape",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-round.webp",
+    "imagePrompt": "A round football seen from the front",
+    "searchQuery": "football ball",
+    "cues": {
+      "definition": "Shaped like a circle or a ball.",
+      "sentenceCompletion": "A football is ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh"
+    },
+    "semantic": {
+      "category": "It describes size or shape.",
+      "use": "You use it to describe plates, balls and coins.",
+      "action": "You say it when something has no corners.",
+      "properties": "It has a curved edge all the way, with no corners.",
+      "location": "You notice it on balls, plates and clocks.",
+      "association": "It makes me think of wheels and footballs."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "sound",
+      "sameFirstSound": "rope"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-square",
+    "word": "square",
+    "group": "adjectives",
+    "subgroup": "size and shape",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-square.webp",
+    "imagePrompt": "A single square white ceramic tile on a white background",
+    "searchQuery": "square tile",
+    "cues": {
+      "definition": "Shaped with four equal sides and four corners.",
+      "sentenceCompletion": "The tiles on my bathroom wall are ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "skwuh"
+    },
+    "semantic": {
+      "category": "It describes size or shape.",
+      "use": "You use it to describe tiles, boxes and windows with four equal sides.",
+      "action": "You say it when something has four corners.",
+      "properties": "It has four straight sides of the same length.",
+      "location": "You notice it on tiles, picture frames and chessboards.",
+      "association": "It makes me think of a chessboard."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "air",
+      "syllables": 1,
+      "rhyme": "chair",
+      "sameFirstSound": "sausage"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-flat",
+    "word": "flat",
+    "group": "adjectives",
+    "subgroup": "size and shape",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-flat.webp",
+    "imagePrompt": "A single flat pancake lying on a plate seen from the side",
+    "searchQuery": "flat pancake",
+    "cues": {
+      "definition": "Level and smooth, with no part raised above the rest.",
+      "sentenceCompletion": "A pancake is thin and ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It describes size or shape.",
+      "use": "You use it to describe tables, tyres and pancakes with no raised parts.",
+      "action": "You say it when something lies level.",
+      "properties": "It lies level with no bumps or slopes.",
+      "location": "You notice it on tables, floors and pancakes.",
+      "association": "It makes me think of a pancake and of a tyre without air."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "hat",
+      "sameFirstSound": "fish"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-curved",
+    "word": "curved",
+    "group": "adjectives",
+    "subgroup": "size and shape",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-curved.webp",
+    "imagePrompt": "A single banana lying on its side showing its curved shape",
+    "searchQuery": "curved banana",
+    "cues": {
+      "definition": "Bending gently, not straight, like a rainbow.",
+      "sentenceCompletion": "A banana is long and ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It describes size or shape.",
+      "use": "You use it to describe a shape that bends smoothly.",
+      "action": "You say it when a line is not straight but has no sharp corners.",
+      "properties": "It bends gently like part of a circle.",
+      "location": "You notice it on bananas, bridges and rainbows.",
+      "association": "It makes me think of rainbows and bananas."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": null,
+      "sameFirstSound": "cat"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-soft",
+    "word": "soft",
+    "group": "adjectives",
+    "subgroup": "touch and texture",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-soft.webp",
+    "imagePrompt": "A soft pillow with a dent pressed into it, on a white background",
+    "searchQuery": "soft pillow",
+    "cues": {
+      "definition": "Pleasant and gentle to touch, and it gives when you squeeze it.",
+      "sentenceCompletion": "The pillow on my bed is very ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It describes how something feels.",
+      "use": "You use it to describe pillows, blankets and towels that feel gentle.",
+      "action": "You say it when something is nice to press or stroke.",
+      "properties": "It gives way when you squeeze it.",
+      "location": "You find it on beds, sofas and baby clothes.",
+      "association": "It makes me think of pillows and cuddles."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "loft",
+      "sameFirstSound": "sock"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-rough",
+    "word": "rough",
+    "group": "adjectives",
+    "subgroup": "touch and texture",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-rough.webp",
+    "imagePrompt": "A sheet of coarse sandpaper",
+    "searchQuery": "sandpaper sheet",
+    "cues": {
+      "definition": "Uneven and scratchy when you touch it.",
+      "sentenceCompletion": "Sandpaper feels very ___.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh"
+    },
+    "semantic": {
+      "category": "It describes how something feels.",
+      "use": "You use it to describe sandpaper, bark and rope that feel scratchy.",
+      "action": "You say it when something scrapes against your hand.",
+      "properties": "It is uneven and scratchy under your fingers.",
+      "location": "You find it on tree bark, brick walls and sandpaper.",
+      "association": "It makes me think of sandpaper and bark."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "f",
+      "syllables": 1,
+      "rhyme": "tough",
+      "sameFirstSound": "rope"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-smooth",
+    "word": "smooth",
+    "group": "adjectives",
+    "subgroup": "touch and texture",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-smooth.webp",
+    "imagePrompt": "A smooth polished grey river pebble",
+    "searchQuery": "smooth pebble",
+    "cues": {
+      "definition": "Even and flat, with no lumps, so your hand slides over it.",
+      "sentenceCompletion": "The glass table top was perfectly ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It describes how something feels.",
+      "use": "You use it to describe surfaces that feel even and gentle to touch.",
+      "action": "You say it when you run your hand over something with no bumps.",
+      "properties": "It has no lumps or scratchy parts.",
+      "location": "You find it on polished stones, glass and silk.",
+      "association": "It makes me think of glass and polished stones."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "th",
+      "syllables": 1,
+      "rhyme": "soothe",
+      "sameFirstSound": "sandwich"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-sticky",
+    "word": "sticky",
+    "group": "adjectives",
+    "subgroup": "touch and texture",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-sticky.webp",
+    "imagePrompt": "A jar of honey with a spoon lifting thick strands",
+    "searchQuery": "honey spoon jar",
+    "cues": {
+      "definition": "Covered in something that makes things cling to it.",
+      "sentenceCompletion": "My fingers were ___ after eating the toffee.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "stick"
+    },
+    "semantic": {
+      "category": "It describes how something feels.",
+      "use": "You use it to describe jam, glue and honey that cling to your fingers.",
+      "action": "You say it when you touch something and it clings to you.",
+      "properties": "It clings to your skin and is hard to wipe off.",
+      "location": "You find it on spilt jam, honey and glue.",
+      "association": "It makes me think of toffee and glue."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "tricky",
+      "sameFirstSound": "sandwich"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-slippery",
+    "word": "slippery",
+    "group": "adjectives",
+    "subgroup": "touch and texture",
+    "wordClass": "adjective",
+    "letters": 8,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-slippery.webp",
+    "imagePrompt": "A banana skin lying on a pavement",
+    "searchQuery": "banana skin pavement",
+    "cues": {
+      "definition": "So wet or smooth that your feet or hands slide off it.",
+      "sentenceCompletion": "Be careful, the icy path is very ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "slip"
+    },
+    "semantic": {
+      "category": "It describes how something feels.",
+      "use": "You use it to warn someone that they might slide or fall.",
+      "action": "You say it when something is hard to grip or stand on.",
+      "properties": "It is wet or smooth so it is hard to grip.",
+      "location": "You find it on icy paths, wet floors and soap.",
+      "association": "It makes me think of banana skins and ice."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ee",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "salad"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-fluffy",
+    "word": "fluffy",
+    "group": "adjectives",
+    "subgroup": "touch and texture",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-fluffy.webp",
+    "imagePrompt": "A fluffy white kitten sitting upright",
+    "searchQuery": "fluffy kitten",
+    "cues": {
+      "definition": "Covered in light, soft fur or fibres that look puffed up.",
+      "sentenceCompletion": "The kitten was small, white and ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "fluf"
+    },
+    "semantic": {
+      "category": "It describes how something feels.",
+      "use": "You use it to describe kittens, clouds and towels that look puffed up.",
+      "action": "You say it when you want to stroke something light and soft.",
+      "properties": "It looks puffed up and feels like feathers.",
+      "location": "You find it on kittens, lambs and fresh towels.",
+      "association": "It makes me think of kittens and clouds."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "stuffy",
+      "sameFirstSound": "fence"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-prickly",
+    "word": "prickly",
+    "group": "adjectives",
+    "subgroup": "touch and texture",
+    "wordClass": "adjective",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-prickly.webp",
+    "imagePrompt": "A green cactus in a pot covered in spines",
+    "searchQuery": "cactus spines",
+    "cues": {
+      "definition": "Covered in lots of small sharp points that can scratch you.",
+      "sentenceCompletion": "Don’t touch the cactus, it is very ___.",
+      "firstLetter": "p",
+      "firstSoundSpoken": "puh",
+      "firstSyllable": "prick"
+    },
+    "semantic": {
+      "category": "It describes how something feels.",
+      "use": "You use it to warn someone about spines or thorns.",
+      "action": "You say it when something pokes or scratches your skin.",
+      "properties": "It has lots of little sharp points sticking out.",
+      "location": "You find it on cacti, holly and hedgehogs.",
+      "association": "It makes me think of cacti and hedgehogs."
+    },
+    "phonological": {
+      "firstSound": "p",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "pepper"
+    }
+  },
+  {
+    "id": "adjectives-bumpy",
+    "word": "bumpy",
+    "group": "adjectives",
+    "subgroup": "touch and texture",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-bumpy.webp",
+    "imagePrompt": "A cobblestone road surface seen from above",
+    "searchQuery": "cobblestone road",
+    "cues": {
+      "definition": "Not level, with lots of lumps that make it uneven.",
+      "sentenceCompletion": "The old cobbled lane was very ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bump"
+    },
+    "semantic": {
+      "category": "It describes how something feels.",
+      "use": "You use it to describe roads, skin or ground that is full of lumps.",
+      "action": "You say it when a car shakes as it goes over the ground.",
+      "properties": "It is uneven with lots of lumps.",
+      "location": "You find it on cobbled lanes, dirt tracks and pebbled paths.",
+      "association": "It makes me think of rattling along a country track."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "jumpy",
+      "sameFirstSound": "basket"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-hot",
+    "word": "hot",
+    "group": "adjectives",
+    "subgroup": "temperature and wetness",
+    "wordClass": "adjective",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-hot.webp",
+    "imagePrompt": "A glowing electric hob ring on a cooker",
+    "searchQuery": "hot cooker ring",
+    "cues": {
+      "definition": "Having a very high temperature, so it could burn you.",
+      "sentenceCompletion": "Don’t touch the oven, it is ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh"
+    },
+    "semantic": {
+      "category": "It describes temperature or wetness.",
+      "use": "You use it to warn someone that something could burn them.",
+      "action": "You say it when you pull your hand away quickly.",
+      "properties": "It gives off heat and could hurt your skin.",
+      "location": "You find it in kitchens, in summer and on beaches.",
+      "association": "It makes me think of summer and cookers."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "pot",
+      "sameFirstSound": "house"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-cold",
+    "word": "cold",
+    "group": "adjectives",
+    "subgroup": "temperature and wetness",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-cold.webp",
+    "imagePrompt": "A snowman wearing a woolly hat and scarf",
+    "searchQuery": "snowman",
+    "cues": {
+      "definition": "Having a low temperature, so you shiver.",
+      "sentenceCompletion": "In winter the snow is very ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh"
+    },
+    "semantic": {
+      "category": "It describes temperature or wetness.",
+      "use": "You use it to describe weather, drinks and rooms with low temperature.",
+      "action": "You say it when you shiver or put on a coat.",
+      "properties": "It makes your skin tingle and your teeth chatter.",
+      "location": "You find it in winter, in fridges and at the North Pole.",
+      "association": "It makes me think of snow and winter coats."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "hold",
+      "sameFirstSound": "cabbage"
+    }
+  },
+  {
+    "id": "adjectives-frozen",
+    "word": "frozen",
+    "group": "adjectives",
+    "subgroup": "temperature and wetness",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-frozen.webp",
+    "imagePrompt": "A bag of frozen peas covered in white frost",
+    "searchQuery": "frozen peas",
+    "cues": {
+      "definition": "Turned into solid ice because it is so cold.",
+      "sentenceCompletion": "I keep the peas in the freezer because they are ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff",
+      "firstSyllable": "fro"
+    },
+    "semantic": {
+      "category": "It describes temperature or wetness.",
+      "use": "You use it to describe food or water that has turned hard with cold.",
+      "action": "You say it when something has been in the freezer or out in a hard frost.",
+      "properties": "It is hard as stone and covered in frost.",
+      "location": "You find it in freezers and on ponds in winter.",
+      "association": "It makes me think of ice and freezers."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "chosen",
+      "sameFirstSound": "feather"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-wet",
+    "word": "wet",
+    "group": "adjectives",
+    "subgroup": "temperature and wetness",
+    "wordClass": "adjective",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-wet.webp",
+    "imagePrompt": "A sponge soaked with water dripping from it",
+    "searchQuery": "wet sponge",
+    "cues": {
+      "definition": "Covered in or full of water.",
+      "sentenceCompletion": "I got caught in the rain and my coat is ___.",
+      "firstLetter": "w",
+      "firstSoundSpoken": "wuh"
+    },
+    "semantic": {
+      "category": "It describes temperature or wetness.",
+      "use": "You use it to describe things that have water on them or in them.",
+      "action": "You say it when you get soaked in the rain.",
+      "properties": "It drips and makes your hands damp.",
+      "location": "You find it in the rain, in showers and after washing.",
+      "association": "It makes me think of rain and puddles."
+    },
+    "phonological": {
+      "firstSound": "w",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "net",
+      "sameFirstSound": "window"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-melted",
+    "word": "melted",
+    "group": "adjectives",
+    "subgroup": "temperature and wetness",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-melted.webp",
+    "imagePrompt": "A melted ice lolly dripping onto a plate",
+    "searchQuery": "melted ice lolly",
+    "cues": {
+      "definition": "Turned from solid into liquid because of heat.",
+      "sentenceCompletion": "The chocolate was left in the sun and is now ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mel"
+    },
+    "semantic": {
+      "category": "It describes temperature or wetness.",
+      "use": "You use it to describe ice, cheese or chocolate that has turned to liquid.",
+      "action": "You say it when something has been left in the sun.",
+      "properties": "It has lost its shape and become runny.",
+      "location": "You find it on hot pavements, in sunny gardens and on pizzas.",
+      "association": "It makes me think of ice cream on a summer day."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": "belted",
+      "sameFirstSound": "mirror"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-burnt",
+    "word": "burnt",
+    "group": "adjectives",
+    "subgroup": "temperature and wetness",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-burnt.webp",
+    "imagePrompt": "A slice of black burnt toast on a plate",
+    "searchQuery": "burnt toast",
+    "cues": {
+      "definition": "Damaged or blackened by too much heat.",
+      "sentenceCompletion": "I forgot the bread in the toaster and the toast is ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh"
+    },
+    "semantic": {
+      "category": "It describes temperature or wetness.",
+      "use": "You use it to describe food that was left too long on the heat.",
+      "action": "You say it when the kitchen smells of smoke.",
+      "properties": "It is black and bitter and smells scorched.",
+      "location": "You find it in toasters, ovens and under grills.",
+      "association": "It makes me think of toast and smoke alarms."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "learnt",
+      "sameFirstSound": "banana"
+    }
+  },
+  {
+    "id": "adjectives-steaming",
+    "word": "steaming",
+    "group": "adjectives",
+    "subgroup": "temperature and wetness",
+    "wordClass": "adjective",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-steaming.webp",
+    "imagePrompt": "A mug of tea with white steam rising from it",
+    "searchQuery": "steaming cup tea",
+    "cues": {
+      "definition": "Giving off hot clouds of white vapour.",
+      "sentenceCompletion": "Just after pouring, the cup of tea was ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "steam"
+    },
+    "semantic": {
+      "category": "It describes temperature or wetness.",
+      "use": "You use it to describe a hot drink or a hot bath.",
+      "action": "You say it when you see mist rising from something hot.",
+      "properties": "It gives off a rising cloud of white mist.",
+      "location": "You find it above kettles, hot drinks and saucepans.",
+      "association": "It makes me think of a fresh cup of tea."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ng",
+      "syllables": 2,
+      "rhyme": "dreaming",
+      "sameFirstSound": "sausage"
+    }
+  },
+  {
+    "id": "adjectives-broken",
+    "word": "broken",
+    "group": "adjectives",
+    "subgroup": "condition",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-broken.webp",
+    "imagePrompt": "A white dinner plate broken into pieces",
+    "searchQuery": "broken plate",
+    "cues": {
+      "definition": "Smashed or snapped, so it no longer works or holds together.",
+      "sentenceCompletion": "The plate fell on the floor and now it is ___.",
+      "firstLetter": "b",
+      "firstSoundSpoken": "buh",
+      "firstSyllable": "bro"
+    },
+    "semantic": {
+      "category": "It describes the state something is in.",
+      "use": "You use it to describe things that are smashed or no longer work.",
+      "action": "You say it after something falls or snaps.",
+      "properties": "It is in pieces or has a split in it.",
+      "location": "You find it on floors after a clumsy accident.",
+      "association": "It makes me think of smashed plates and snapped sticks."
+    },
+    "phonological": {
+      "firstSound": "b",
+      "lastSound": "n",
+      "syllables": 2,
+      "rhyme": "spoken",
+      "sameFirstSound": "balloon"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-dirty",
+    "word": "dirty",
+    "group": "adjectives",
+    "subgroup": "condition",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-dirty.webp",
+    "imagePrompt": "A pair of boots covered in thick mud",
+    "searchQuery": "muddy boots",
+    "cues": {
+      "definition": "Covered in mud, dust or marks and needing a wash.",
+      "sentenceCompletion": "After gardening, my hands were very ___.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh",
+      "firstSyllable": "dir"
+    },
+    "semantic": {
+      "category": "It describes the state something is in.",
+      "use": "You use it to describe things that need washing.",
+      "action": "You say it when something has mud or stains on it.",
+      "properties": "It is covered in marks, mud or dust.",
+      "location": "You find it on boots after a muddy walk.",
+      "association": "It makes me think of mud and the washing machine."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "thirty",
+      "sameFirstSound": "door"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-new",
+    "word": "new",
+    "group": "adjectives",
+    "subgroup": "condition",
+    "wordClass": "adjective",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-new.webp",
+    "imagePrompt": "A brand new pair of white trainers with the tags still attached",
+    "searchQuery": "new trainers",
+    "cues": {
+      "definition": "Just made or bought and never used before.",
+      "sentenceCompletion": "I bought a ___ pair of shoes yesterday.",
+      "firstLetter": "n",
+      "firstSoundSpoken": "nuh"
+    },
+    "semantic": {
+      "category": "It describes the state something is in.",
+      "use": "You use it to describe things that have just been made or bought.",
+      "action": "You say it when you unwrap or buy something.",
+      "properties": "It has no marks, scuffs or wear on it.",
+      "location": "You find it in shops and in unopened boxes.",
+      "association": "It makes me think of presents and birthdays."
+    },
+    "phonological": {
+      "firstSound": "n",
+      "lastSound": "oo",
+      "syllables": 1,
+      "rhyme": "glue",
+      "sameFirstSound": "nurse"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-old",
+    "word": "old",
+    "group": "adjectives",
+    "subgroup": "condition",
+    "wordClass": "adjective",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-old.webp",
+    "imagePrompt": "An old battered leather suitcase",
+    "searchQuery": "old suitcase",
+    "cues": {
+      "definition": "Made or used a very long time ago.",
+      "sentenceCompletion": "My grandfather’s watch is very ___.",
+      "firstLetter": "o",
+      "firstSoundSpoken": "oh"
+    },
+    "semantic": {
+      "category": "It describes the state something is in.",
+      "use": "You use it to describe things that have lasted many years.",
+      "action": "You say it when something has been around for a long time.",
+      "properties": "It looks worn and has lasted many years.",
+      "location": "You find it in attics, museums and antique shops.",
+      "association": "It makes me think of antiques and grandparents."
+    },
+    "phonological": {
+      "firstSound": "oh",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "gold",
+      "sameFirstSound": "oval"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-torn",
+    "word": "torn",
+    "group": "adjectives",
+    "subgroup": "condition",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-torn.webp",
+    "imagePrompt": "A sheet of white paper torn in half",
+    "searchQuery": "torn paper",
+    "cues": {
+      "definition": "Ripped, so there is a split or a hole in it.",
+      "sentenceCompletion": "I caught my sleeve on a nail and now it is ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh"
+    },
+    "semantic": {
+      "category": "It describes the state something is in.",
+      "use": "You use it to describe paper or clothes that have been ripped.",
+      "action": "You say it after something catches and splits.",
+      "properties": "It has a ragged edge or a gap where it split.",
+      "location": "You find it on old jeans, letters and posters.",
+      "association": "It makes me think of ripped jeans."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "n",
+      "syllables": 1,
+      "rhyme": "born",
+      "sameFirstSound": "telephone"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-rusty",
+    "word": "rusty",
+    "group": "adjectives",
+    "subgroup": "condition",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-rusty.webp",
+    "imagePrompt": "A rusty metal nail lying on a white background",
+    "searchQuery": "rusty nail",
+    "cues": {
+      "definition": "Covered in a reddish-brown flaky coat that forms on metal left in the damp.",
+      "sentenceCompletion": "The old garden gate had gone ___ in the rain.",
+      "firstLetter": "r",
+      "firstSoundSpoken": "ruh",
+      "firstSyllable": "rus"
+    },
+    "semantic": {
+      "category": "It describes the state something is in.",
+      "use": "You use it to describe old metal that has been left outside.",
+      "action": "You say it when metal has gone flaky after a long time in the rain.",
+      "properties": "It is flaky and reddish-brown.",
+      "location": "You find it on old gates, nails and bicycles.",
+      "association": "It makes me think of scrapyards and old tools."
+    },
+    "phonological": {
+      "firstSound": "r",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "dusty",
+      "sameFirstSound": "rabbit"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-full",
+    "word": "full",
+    "group": "adjectives",
+    "subgroup": "condition",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-full.webp",
+    "imagePrompt": "A tall glass filled to the brim with water",
+    "searchQuery": "full glass water",
+    "cues": {
+      "definition": "Holding as much as it can, with no room left.",
+      "sentenceCompletion": "I could not eat another bite because I was ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It describes the state something is in.",
+      "use": "You use it to describe a glass, a bin or a stomach with no room left.",
+      "action": "You say it when something is filled to the top.",
+      "properties": "It has no space left inside it.",
+      "location": "You find it in the bin on collection day and after a big meal.",
+      "association": "It makes me think of a glass of water filled to the brim."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "l",
+      "syllables": 1,
+      "rhyme": "pull",
+      "sameFirstSound": "fox"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-mouldy",
+    "word": "mouldy",
+    "group": "adjectives",
+    "subgroup": "condition",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-mouldy.webp",
+    "imagePrompt": "A slice of bread with grey-green fuzzy patches",
+    "searchQuery": "mouldy bread",
+    "cues": {
+      "definition": "Covered in fuzzy green or grey patches because it has gone off.",
+      "sentenceCompletion": "The bread had been forgotten for weeks and had gone ___.",
+      "firstLetter": "m",
+      "firstSoundSpoken": "mmm",
+      "firstSyllable": "mould"
+    },
+    "semantic": {
+      "category": "It describes the state something is in.",
+      "use": "You use it to describe food that has gone off.",
+      "action": "You say it when you find old food at the back of the fridge.",
+      "properties": "It is fuzzy and green or grey with a bad smell.",
+      "location": "You find it on old bread, cheese and damp walls.",
+      "association": "It makes me think of leftovers at the back of the fridge."
+    },
+    "phonological": {
+      "firstSound": "m",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "mountain"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-crumpled",
+    "word": "crumpled",
+    "group": "adjectives",
+    "subgroup": "condition",
+    "wordClass": "adjective",
+    "letters": 8,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-crumpled.webp",
+    "imagePrompt": "A ball of crumpled white paper",
+    "searchQuery": "crumpled paper ball",
+    "cues": {
+      "definition": "Squashed and creased into lots of wrinkles.",
+      "sentenceCompletion": "The paper was squeezed in his fist and became ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "crum"
+    },
+    "semantic": {
+      "category": "It describes the state something is in.",
+      "use": "You use it to describe paper or clothes that are full of creases.",
+      "action": "You say it when you scrunch something up in your hand.",
+      "properties": "It has lots of creases and folds.",
+      "location": "You find it in wastepaper bins and at the bottom of bags.",
+      "association": "It makes me think of scrunched-up paper and unironed shirts."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "camera"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-shiny",
+    "word": "shiny",
+    "group": "adjectives",
+    "subgroup": "condition",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-shiny.webp",
+    "imagePrompt": "A polished silver spoon gleaming",
+    "searchQuery": "shiny spoon",
+    "cues": {
+      "definition": "Bright and gleaming because it reflects the glare around it.",
+      "sentenceCompletion": "She polished the spoon until it was ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "shh",
+      "firstSyllable": "shi"
+    },
+    "semantic": {
+      "category": "It describes the state something is in.",
+      "use": "You use it to describe metal or glass that gleams.",
+      "action": "You say it when you polish something.",
+      "properties": "It gleams and reflects bright glints.",
+      "location": "You find it on polished silver, new coins and chrome taps.",
+      "association": "It makes me think of jewellery and polished cars."
+    },
+    "phonological": {
+      "firstSound": "sh",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "tiny",
+      "sameFirstSound": "ship"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-transparent",
+    "word": "transparent",
+    "group": "adjectives",
+    "subgroup": "condition",
+    "wordClass": "adjective",
+    "letters": 11,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-transparent.webp",
+    "imagePrompt": "A clear glass vase seen from the front",
+    "searchQuery": "clear glass vase",
+    "cues": {
+      "definition": "Clear enough that you can see straight through it.",
+      "sentenceCompletion": "You can see right through the window because the glass is ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "trans"
+    },
+    "semantic": {
+      "category": "It describes the state something is in.",
+      "use": "You use it to describe glass or plastic that you can see through.",
+      "action": "You say it when you can see what is behind something.",
+      "properties": "It is clear like a window, so you see through to the other side.",
+      "location": "You find it in windows, glasses and cling film.",
+      "association": "It makes me think of windows and glass bottles."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "t",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "tractor"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-happy",
+    "word": "happy",
+    "group": "adjectives",
+    "subgroup": "people and feelings",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-happy.webp",
+    "imagePrompt": "A smiling woman laughing joyfully",
+    "searchQuery": "happy woman laughing",
+    "cues": {
+      "definition": "Feeling pleased and cheerful.",
+      "sentenceCompletion": "When I got the good result I felt very ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hap"
+    },
+    "semantic": {
+      "category": "It describes how a person looks or feels.",
+      "use": "You use it to say how you feel when things go well.",
+      "action": "You say it when you smile and laugh.",
+      "properties": "Your face is smiling and your eyes are bright.",
+      "location": "You see it at parties, weddings and birthdays.",
+      "association": "It makes me think of smiling and laughing."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "snappy",
+      "sameFirstSound": "horse"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-sad",
+    "word": "sad",
+    "group": "adjectives",
+    "subgroup": "people and feelings",
+    "wordClass": "adjective",
+    "letters": 3,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-sad.webp",
+    "imagePrompt": "A man with a downcast, tearful face",
+    "searchQuery": "sad man crying",
+    "cues": {
+      "definition": "Feeling unhappy, as if you might cry.",
+      "sentenceCompletion": "She cried at the film because the ending was so ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It describes how a person looks or feels.",
+      "use": "You use it to say how you feel when something goes wrong.",
+      "action": "You say it when you cry or feel low.",
+      "properties": "Your mouth turns down and your eyes look wet.",
+      "location": "You see it at goodbyes and in tearful films.",
+      "association": "It makes me think of tears and rainy days."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "bad",
+      "sameFirstSound": "sock"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-angry",
+    "word": "angry",
+    "group": "adjectives",
+    "subgroup": "people and feelings",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-angry.webp",
+    "imagePrompt": "A man frowning and shouting with a flushed face",
+    "searchQuery": "angry man shouting",
+    "cues": {
+      "definition": "Feeling very cross and ready to shout.",
+      "sentenceCompletion": "He slammed the door because he was so ___.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "ang",
+      "firstSyllable": "ang"
+    },
+    "semantic": {
+      "category": "It describes how a person looks or feels.",
+      "use": "You use it to say how you feel when something makes you furious.",
+      "action": "You say it when you frown, shout or clench your fists.",
+      "properties": "Your face is tense, your brow is low and your voice is raised.",
+      "location": "You see it in arguments and in traffic jams.",
+      "association": "It makes me think of shouting and slamming doors."
+    },
+    "phonological": {
+      "firstSound": "a",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "apple"
+    }
+  },
+  {
+    "id": "adjectives-tired",
+    "word": "tired",
+    "group": "adjectives",
+    "subgroup": "people and feelings",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-tired.webp",
+    "imagePrompt": "A woman yawning at a desk with drooping eyes",
+    "searchQuery": "tired woman yawning",
+    "cues": {
+      "definition": "Feeling that you need to rest or sleep.",
+      "sentenceCompletion": "After a long day at work I felt ___.",
+      "firstLetter": "t",
+      "firstSoundSpoken": "tuh",
+      "firstSyllable": "ti"
+    },
+    "semantic": {
+      "category": "It describes how a person looks or feels.",
+      "use": "You use it to say you need a rest.",
+      "action": "You say it when you yawn and your eyes droop.",
+      "properties": "Your eyes droop and your body feels heavy.",
+      "location": "You see it at the end of a long day.",
+      "association": "It makes me think of yawning and bedtime."
+    },
+    "phonological": {
+      "firstSound": "t",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": "wired",
+      "sameFirstSound": "tractor"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-asleep",
+    "word": "asleep",
+    "group": "adjectives",
+    "subgroup": "people and feelings",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 2,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-asleep.webp",
+    "imagePrompt": "A man sleeping on a sofa with his eyes shut",
+    "searchQuery": "man sleeping sofa",
+    "cues": {
+      "definition": "In a state of sleep, with your eyes shut and your body relaxed.",
+      "sentenceCompletion": "Shh, don’t wake him, he is ___.",
+      "firstLetter": "a",
+      "firstSoundSpoken": "uh",
+      "firstSyllable": "a"
+    },
+    "semantic": {
+      "category": "It describes how a person looks or feels.",
+      "use": "You use it to say someone is not awake.",
+      "action": "You say it in a hushed voice when someone is resting.",
+      "properties": "The person is still and breathing slowly with their eyes shut.",
+      "location": "You see it in beds, on sofas and on trains.",
+      "association": "It makes me think of snoring and dreams."
+    },
+    "phonological": {
+      "firstSound": "uh",
+      "lastSound": "p",
+      "syllables": 2,
+      "rhyme": "sheep",
+      "sameFirstSound": "away"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-surprised",
+    "word": "surprised",
+    "group": "adjectives",
+    "subgroup": "people and feelings",
+    "wordClass": "adjective",
+    "letters": 9,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-surprised.webp",
+    "imagePrompt": "A woman with wide eyes and a wide mouth in shock",
+    "searchQuery": "surprised woman",
+    "cues": {
+      "definition": "Feeling a sudden shock because something unexpected happened.",
+      "sentenceCompletion": "When everyone shouted happy birthday, she looked very ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss",
+      "firstSyllable": "sur"
+    },
+    "semantic": {
+      "category": "It describes how a person looks or feels.",
+      "use": "You use it to say how you feel when something unexpected happens.",
+      "action": "You say it when you gasp or your eyes go wide.",
+      "properties": "Your eyebrows go up and your eyes and mouth go wide.",
+      "location": "You see it at surprise parties and when a present is revealed.",
+      "association": "It makes me think of surprise parties and gasping."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": "disguised",
+      "sameFirstSound": "sausage"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-young",
+    "word": "young",
+    "group": "adjectives",
+    "subgroup": "people and feelings",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-young.webp",
+    "imagePrompt": "A smiling young woman in her twenties",
+    "searchQuery": "young woman smiling",
+    "cues": {
+      "definition": "Having lived only a short time, and not yet old.",
+      "sentenceCompletion": "A puppy is a ___ dog.",
+      "firstLetter": "y",
+      "firstSoundSpoken": "yuh"
+    },
+    "semantic": {
+      "category": "It describes how a person looks or feels.",
+      "use": "You use it to describe someone with many years ahead of them.",
+      "action": "You say it when you compare someone with an adult in later life.",
+      "properties": "The person has smooth skin and plenty of energy.",
+      "location": "You see it in schools, playgrounds and colleges.",
+      "association": "It makes me think of childhood and teenagers."
+    },
+    "phonological": {
+      "firstSound": "y",
+      "lastSound": "ng",
+      "syllables": 1,
+      "rhyme": "tongue",
+      "sameFirstSound": "yacht"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-elderly",
+    "word": "elderly",
+    "group": "adjectives",
+    "subgroup": "people and feelings",
+    "wordClass": "adjective",
+    "letters": 7,
+    "syllables": 3,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-elderly.webp",
+    "imagePrompt": "An elderly man with white hair and a walking stick",
+    "searchQuery": "elderly man walking stick",
+    "cues": {
+      "definition": "Quite old, with white or grey hair and many years of life behind you.",
+      "sentenceCompletion": "She helped the ___ man across the road.",
+      "firstLetter": "e",
+      "firstSoundSpoken": "eh",
+      "firstSyllable": "el"
+    },
+    "semantic": {
+      "category": "It describes how a person looks or feels.",
+      "use": "You use it to politely describe someone of great age.",
+      "action": "You say it when someone has white hair and walks slowly.",
+      "properties": "The person has white hair, wrinkles and often a stick.",
+      "location": "You see it at bus stops, in parks and in care homes.",
+      "association": "It makes me think of grandparents."
+    },
+    "phonological": {
+      "firstSound": "e",
+      "lastSound": "ee",
+      "syllables": 3,
+      "rhyme": null,
+      "sameFirstSound": "egg"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-strong",
+    "word": "strong",
+    "group": "adjectives",
+    "subgroup": "people and feelings",
+    "wordClass": "adjective",
+    "letters": 6,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-strong.webp",
+    "imagePrompt": "A man lifting a heavy barbell above his head",
+    "searchQuery": "weightlifter barbell",
+    "cues": {
+      "definition": "Having great power in your muscles to lift heavy things.",
+      "sentenceCompletion": "Weightlifters have to be very ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It describes how a person looks or feels.",
+      "use": "You use it to describe someone who can lift or carry a lot.",
+      "action": "You say it when someone lifts a heavy weight.",
+      "properties": "The person has big muscles and does not strain.",
+      "location": "You see it in gyms and at weightlifting events.",
+      "association": "It makes me think of muscles and weightlifters."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "ng",
+      "syllables": 1,
+      "rhyme": "song",
+      "sameFirstSound": "sock"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-heavy",
+    "word": "heavy",
+    "group": "adjectives",
+    "subgroup": "weight, speed and sound",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 2,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-heavy.webp",
+    "imagePrompt": "A big metal anchor resting on the ground",
+    "searchQuery": "heavy anchor",
+    "cues": {
+      "definition": "Weighing a lot, so it is hard to lift.",
+      "sentenceCompletion": "I could not lift the suitcase because it was so ___.",
+      "firstLetter": "h",
+      "firstSoundSpoken": "huh",
+      "firstSyllable": "hea"
+    },
+    "semantic": {
+      "category": "It describes weight, speed, sound or how a place looks.",
+      "use": "You use it to describe things that are hard to carry.",
+      "action": "You say it when you strain to lift something.",
+      "properties": "It weighs a lot and pulls down on your arms.",
+      "location": "You find it at the bottom of a bag of bricks or in a full suitcase.",
+      "association": "It makes me think of bricks and anchors."
+    },
+    "phonological": {
+      "firstSound": "h",
+      "lastSound": "ee",
+      "syllables": 2,
+      "rhyme": "levy",
+      "sameFirstSound": "hammer"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-fast",
+    "word": "fast",
+    "group": "adjectives",
+    "subgroup": "weight, speed and sound",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-fast.webp",
+    "imagePrompt": "A cheetah running at full speed",
+    "searchQuery": "cheetah running",
+    "cues": {
+      "definition": "Moving at high speed, taking very little time.",
+      "sentenceCompletion": "A cheetah can run very ___.",
+      "firstLetter": "f",
+      "firstSoundSpoken": "fff"
+    },
+    "semantic": {
+      "category": "It describes weight, speed, sound or how a place looks.",
+      "use": "You use it to describe cars, runners or trains that get somewhere quickly.",
+      "action": "You say it when something zooms past.",
+      "properties": "It covers a lot of ground in a few seconds.",
+      "location": "You see it on racetracks and motorways.",
+      "association": "It makes me think of racing cars and cheetahs."
+    },
+    "phonological": {
+      "firstSound": "f",
+      "lastSound": "t",
+      "syllables": 1,
+      "rhyme": "last",
+      "sameFirstSound": "farm"
+    }
+  },
+  {
+    "id": "adjectives-slow",
+    "word": "slow",
+    "group": "adjectives",
+    "subgroup": "weight, speed and sound",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 1,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-slow.webp",
+    "imagePrompt": "A snail crawling along a paving slab",
+    "searchQuery": "snail slow",
+    "cues": {
+      "definition": "Moving at low speed, taking a long time.",
+      "sentenceCompletion": "A snail moves very ___.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It describes weight, speed, sound or how a place looks.",
+      "use": "You use it to describe things that take a long time to move.",
+      "action": "You say it when you are stuck behind something that crawls.",
+      "properties": "It takes a long time to get anywhere.",
+      "location": "You see it in gardens, in queues and in traffic.",
+      "association": "It makes me think of snails and tortoises."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "oh",
+      "syllables": 1,
+      "rhyme": "snow",
+      "sameFirstSound": "spoon"
+    }
+  },
+  {
+    "id": "adjectives-loud",
+    "word": "loud",
+    "group": "adjectives",
+    "subgroup": "weight, speed and sound",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-loud.webp",
+    "imagePrompt": "A man shouting into a megaphone",
+    "searchQuery": "loud man megaphone",
+    "cues": {
+      "definition": "Making a great deal of noise.",
+      "sentenceCompletion": "The drill was so ___ that I covered my ears.",
+      "firstLetter": "l",
+      "firstSoundSpoken": "luh"
+    },
+    "semantic": {
+      "category": "It describes weight, speed, sound or how a place looks.",
+      "use": "You use it to describe sounds that are very strong.",
+      "action": "You say it when you cover your ears.",
+      "properties": "It makes a big noise that fills the room.",
+      "location": "You hear it at concerts, building sites and fire alarms.",
+      "association": "It makes me think of fireworks and sirens."
+    },
+    "phonological": {
+      "firstSound": "l",
+      "lastSound": "d",
+      "syllables": 1,
+      "rhyme": "cloud",
+      "sameFirstSound": "lemon"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-dark",
+    "word": "dark",
+    "group": "adjectives",
+    "subgroup": "weight, speed and sound",
+    "wordClass": "adjective",
+    "letters": 4,
+    "syllables": 1,
+    "frequencyBand": 2,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-dark.webp",
+    "imagePrompt": "A narrow cellar staircase going down into blackness",
+    "searchQuery": "dark cellar stairs",
+    "cues": {
+      "definition": "Having little or no brightness, so it is hard to see.",
+      "sentenceCompletion": "I could not see anything because the room was so ___.",
+      "firstLetter": "d",
+      "firstSoundSpoken": "duh"
+    },
+    "semantic": {
+      "category": "It describes weight, speed, sound or how a place looks.",
+      "use": "You use it to describe places or times with little or no brightness.",
+      "action": "You say it when you reach for a torch or a switch.",
+      "properties": "It is black or very dim and hard to see in.",
+      "location": "You find it in caves, cellars and at night.",
+      "association": "It makes me think of night time and torches."
+    },
+    "phonological": {
+      "firstSound": "d",
+      "lastSound": "k",
+      "syllables": 1,
+      "rhyme": "park",
+      "sameFirstSound": "duck"
+    },
+    "hasImage": false
+  },
+  {
+    "id": "adjectives-crowded",
+    "word": "crowded",
+    "group": "adjectives",
+    "subgroup": "weight, speed and sound",
+    "wordClass": "adjective",
+    "letters": 7,
+    "syllables": 2,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-crowded.webp",
+    "imagePrompt": "A crowded train carriage full of standing passengers",
+    "searchQuery": "crowded train",
+    "cues": {
+      "definition": "Full of so many people that there is hardly any space.",
+      "sentenceCompletion": "On a Saturday the shopping centre is always ___.",
+      "firstLetter": "c",
+      "firstSoundSpoken": "kuh",
+      "firstSyllable": "crow"
+    },
+    "semantic": {
+      "category": "It describes weight, speed, sound or how a place looks.",
+      "use": "You use it to describe places packed with people.",
+      "action": "You say it when you are squeezed in with strangers.",
+      "properties": "It is packed with people standing shoulder to shoulder.",
+      "location": "You find it on rush-hour trains and in busy markets.",
+      "association": "It makes me think of rush hour and busy pavements."
+    },
+    "phonological": {
+      "firstSound": "k",
+      "lastSound": "d",
+      "syllables": 2,
+      "rhyme": null,
+      "sameFirstSound": "castle"
+    }
+  },
+  {
+    "id": "adjectives-steep",
+    "word": "steep",
+    "group": "adjectives",
+    "subgroup": "weight, speed and sound",
+    "wordClass": "adjective",
+    "letters": 5,
+    "syllables": 1,
+    "frequencyBand": 3,
+    "multiWord": false,
+    "childFriendly": true,
+    "image": "adjectives-steep.webp",
+    "imagePrompt": "A very steep tarmac road going up a hill",
+    "searchQuery": "steep hill road",
+    "cues": {
+      "definition": "Rising or falling at a sharp slope, so it is hard to climb.",
+      "sentenceCompletion": "We were out of breath climbing the ___ hill.",
+      "firstLetter": "s",
+      "firstSoundSpoken": "sss"
+    },
+    "semantic": {
+      "category": "It describes weight, speed, sound or how a place looks.",
+      "use": "You use it to describe hills and stairs that rise sharply.",
+      "action": "You say it when a climb makes you puff.",
+      "properties": "It rises sharply so you lean forward to climb.",
+      "location": "You find it on hills, mountain paths and ski slopes.",
+      "association": "It makes me think of hill walking and out-of-breath cyclists."
+    },
+    "phonological": {
+      "firstSound": "s",
+      "lastSound": "p",
+      "syllables": 1,
+      "rhyme": "keep",
+      "sameFirstSound": "sock"
+    },
+    "hasImage": false
+  }
+]

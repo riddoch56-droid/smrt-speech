@@ -1,0 +1,33 @@
+/* SMRT Speech original design system. System fonts only, no runtime network resources. */
+:root,[data-theme="light"] {
+ --smrt-primary:#563B59; --smrt-primary-hover:#463049; --smrt-accent:#DA9C8B;
+ --smrt-background:#FAF5F2; --smrt-surface:#FFFFFF; --smrt-surface-soft:#F4EAED;
+ --smrt-text:#32283C; --smrt-muted:#625766; --smrt-border:#CDBFCB;
+ --smrt-success:#28714F; --smrt-warning:#8D5E22; --smrt-error:#9C3F4E;
+ --smrt-comprehension:#765180; --smrt-naming:#A84F43; --smrt-reading:#35698E; --smrt-writing:#3E7355;
+ --smrt-shadow:0 8px 24px rgba(50,40,60,.09); --smrt-radius-card:24px; --smrt-radius-button:16px;
+ --smrt-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
+}
+[data-theme="dark"] {
+ --smrt-primary:#E6BEDD; --smrt-primary-hover:#F4D6EB; --smrt-accent:#F0B7A7;
+ --smrt-background:#261F2D; --smrt-surface:#342A3B; --smrt-surface-soft:#413448;
+ --smrt-text:#FAF5F2; --smrt-muted:#D5C8D5; --smrt-border:#756678;
+ --smrt-success:#9FE0B7; --smrt-warning:#F3C88B; --smrt-error:#F4A5B0;
+ --smrt-comprehension:#CDA8DA; --smrt-naming:#F0A899; --smrt-reading:#A8CFEA; --smrt-writing:#B0D5B6;
+ --smrt-shadow:0 8px 24px rgba(0,0,0,.24);
+}
+.smrt-app{font-family:var(--smrt-font);background:var(--smrt-background);color:var(--smrt-text);min-height:100dvh;font-size:20px}
+.smrt-card{background:var(--smrt-surface);border:1px solid var(--smrt-border);border-radius:var(--smrt-radius-card);box-shadow:var(--smrt-shadow);padding:24px}
+.smrt-button{min-width:60px;min-height:60px;border-radius:var(--smrt-radius-button);font:600 20px var(--smrt-font);padding:14px 22px;display:inline-flex;align-items:center;justify-content:center;gap:12px;cursor:pointer}
+.smrt-button--primary{background:var(--smrt-primary);color:var(--smrt-background);border:2px solid transparent}
+.smrt-button--secondary{background:var(--smrt-surface);color:var(--smrt-text);border:2px solid var(--smrt-border)}
+.smrt-button:focus-visible,.smrt-choice:focus-visible{outline:4px solid var(--smrt-accent);outline-offset:4px}
+.smrt-choice{min-width:60px;min-height:60px;border:2px solid var(--smrt-border);border-radius:20px;background:#fff;color:#32283C}
+.smrt-choice[aria-pressed="true"]{border-color:#563B59;box-shadow:inset 0 0 0 2px #563B59}
+.smrt-therapy{background:#fff;color:#32283C;min-height:100%;font-size:24px}
+.smrt-therapy .smrt-card{box-shadow:none;border-color:#D9D1D9}
+.smrt-stimulus{font-size:clamp(36px,5vw,68px);line-height:1.15;font-weight:650}
+.smrt-tile{min-width:68px;min-height:76px;border:2px solid #BDAFBE;background:#fff;border-radius:14px;color:#32283C;font-size:32px;font-weight:700}
+.smrt-muted{color:var(--smrt-muted)}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behaviour:auto!important}}
+@media(max-width:800px){.smrt-card{padding:18px}.smrt-button{min-height:60px}}

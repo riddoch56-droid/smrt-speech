@@ -1,0 +1,1922 @@
+[
+ {
+  "wordId": "nature-comet",
+  "kind": "phrase",
+  "text": "a comet in the sky",
+  "distractors": [
+   "a rainbow over the sea",
+   "a plane above the clouds",
+   "a moon over the hills"
+  ],
+  "answer": "sky",
+  "answerDistractors": [
+   "sea",
+   "cave",
+   "garden"
+  ]
+ },
+ {
+  "wordId": "nature-comet",
+  "kind": "sentence",
+  "text": "A comet is above the trees.",
+  "distractors": [
+   "A comet is above the sea.",
+   "A kite is above the trees.",
+   "A comet is below the trees."
+  ],
+  "answer": "trees",
+  "answerDistractors": [
+   "sea",
+   "houses",
+   "mountains"
+  ]
+ },
+ {
+  "wordId": "nature-mountain",
+  "kind": "phrase",
+  "text": "a snowy mountain",
+  "distractors": [
+   "a green hill",
+   "a sandy beach",
+   "a wooden hut"
+  ],
+  "answer": "mountain",
+  "answerDistractors": [
+   "beach",
+   "garden",
+   "desert"
+  ]
+ },
+ {
+  "wordId": "nature-mountain",
+  "kind": "sentence",
+  "text": "The mountain is covered in snow.",
+  "distractors": [
+   "The mountain is covered in grass.",
+   "The mountain is covered in sand.",
+   "The mountain is covered in flowers."
+  ],
+  "answer": "snow",
+  "answerDistractors": [
+   "sand",
+   "grass",
+   "flowers"
+  ]
+ },
+ {
+  "wordId": "nature-cliff",
+  "kind": "phrase",
+  "text": "a tall white cliff",
+  "distractors": [
+   "a red brick wall",
+   "a grey stone bridge",
+   "a small blue boat"
+  ],
+  "answer": "cliff",
+  "answerDistractors": [
+   "bridge",
+   "tower",
+   "boat"
+  ]
+ },
+ {
+  "wordId": "nature-cliff",
+  "kind": "sentence",
+  "text": "The cliff is mostly white.",
+  "distractors": [
+   "The cliff is mostly red.",
+   "The cliff is mostly black.",
+   "The wall is mostly white."
+  ],
+  "answer": "white",
+  "answerDistractors": [
+   "red",
+   "black",
+   "blue"
+  ]
+ },
+ {
+  "wordId": "nature-cave",
+  "kind": "phrase",
+  "text": "a cave by the water",
+  "distractors": [
+   "a house by the road",
+   "a shed by the field",
+   "a boat by the shore"
+  ],
+  "answer": "water",
+  "answerDistractors": [
+   "road",
+   "field",
+   "shop"
+  ]
+ },
+ {
+  "wordId": "nature-cave",
+  "kind": "sentence",
+  "text": "There is a railing in the cave.",
+  "distractors": [
+   "There is a bench in the cave.",
+   "There is a car in the cave.",
+   "There is a railing in the garden."
+  ],
+  "answer": "railing",
+  "answerDistractors": [
+   "bench",
+   "car",
+   "tree"
+  ]
+ },
+ {
+  "wordId": "nature-island",
+  "kind": "phrase",
+  "text": "a small island",
+  "distractors": [
+   "a big ship",
+   "a sandy beach",
+   "a tall tower"
+  ],
+  "answer": "island",
+  "answerDistractors": [
+   "boat",
+   "house",
+   "car"
+  ]
+ },
+ {
+  "wordId": "nature-island",
+  "kind": "sentence",
+  "text": "The island is in the sea.",
+  "distractors": [
+   "The island is in the sky.",
+   "The ship is in the sea.",
+   "The island is in the field."
+  ],
+  "answer": "sea",
+  "answerDistractors": [
+   "sky",
+   "desert",
+   "forest"
+  ]
+ },
+ {
+  "wordId": "nature-volcano",
+  "kind": "phrase",
+  "text": "a volcano with smoke",
+  "distractors": [
+   "a hill with snow",
+   "a tree with leaves",
+   "a cave with water"
+  ],
+  "answer": "smoke",
+  "answerDistractors": [
+   "snow",
+   "sheep",
+   "flags"
+  ]
+ },
+ {
+  "wordId": "nature-volcano",
+  "kind": "sentence",
+  "text": "The volcano is sending out smoke.",
+  "distractors": [
+   "The volcano is sending out water.",
+   "The volcano is sending out snow.",
+   "The factory is sending out smoke."
+  ],
+  "answer": "smoke",
+  "answerDistractors": [
+   "water",
+   "snow",
+   "rain"
+  ]
+ },
+ {
+  "wordId": "nature-desert",
+  "kind": "phrase",
+  "text": "rippled sand dunes",
+  "distractors": [
+   "green rolling fields",
+   "tall grey rocks",
+   "a calm blue sea"
+  ],
+  "answer": "dunes",
+  "answerDistractors": [
+   "trees",
+   "houses",
+   "boats"
+  ]
+ },
+ {
+  "wordId": "nature-desert",
+  "kind": "sentence",
+  "text": "The desert is covered in sand.",
+  "distractors": [
+   "The desert is covered in snow.",
+   "The desert is covered in grass.",
+   "The forest is covered in sand."
+  ],
+  "answer": "sand",
+  "answerDistractors": [
+   "snow",
+   "grass",
+   "water"
+  ]
+ },
+ {
+  "wordId": "nature-forest",
+  "kind": "phrase",
+  "text": "tall thin trees",
+  "distractors": [
+   "short green bushes",
+   "a red brick wall",
+   "a wide grey road"
+  ],
+  "answer": "trees",
+  "answerDistractors": [
+   "bushes",
+   "houses",
+   "cars"
+  ]
+ },
+ {
+  "wordId": "nature-forest",
+  "kind": "sentence",
+  "text": "The grass is under the trees.",
+  "distractors": [
+   "The grass is above the trees.",
+   "The snow is under the trees.",
+   "The grass is under the bridge."
+  ],
+  "answer": "trees",
+  "answerDistractors": [
+   "bridge",
+   "houses",
+   "cars"
+  ]
+ },
+ {
+  "wordId": "nature-river",
+  "kind": "phrase",
+  "text": "a river flowing past grass",
+  "distractors": [
+   "a road running past houses",
+   "a train passing a station",
+   "a boat sailing past rocks"
+  ],
+  "answer": "grass",
+  "answerDistractors": [
+   "houses",
+   "sand",
+   "snow"
+  ]
+ },
+ {
+  "wordId": "nature-river",
+  "kind": "sentence",
+  "text": "The river has grass on one side.",
+  "distractors": [
+   "The river has sand on one side.",
+   "The river has snow on one side.",
+   "The road has grass on one side."
+  ],
+  "answer": "grass",
+  "answerDistractors": [
+   "sand",
+   "snow",
+   "ice"
+  ]
+ },
+ {
+  "wordId": "nature-lake",
+  "kind": "phrase",
+  "text": "a calm blue lake",
+  "distractors": [
+   "a busy grey road",
+   "a tall green tree",
+   "a small brown boat"
+  ],
+  "answer": "lake",
+  "answerDistractors": [
+   "road",
+   "sofa",
+   "bridge"
+  ]
+ },
+ {
+  "wordId": "nature-lake",
+  "kind": "sentence",
+  "text": "The clouds are reflected in the water.",
+  "distractors": [
+   "The boats are reflected in the water.",
+   "The houses are reflected in the water.",
+   "The people are reflected in the water."
+  ],
+  "answer": "clouds",
+  "answerDistractors": [
+   "boats",
+   "houses",
+   "people"
+  ]
+ },
+ {
+  "wordId": "nature-waterfall",
+  "kind": "phrase",
+  "text": "a waterfall in the woods",
+  "distractors": [
+   "a river in the desert",
+   "a fountain in the park",
+   "a lake in the mountains"
+  ],
+  "answer": "woods",
+  "answerDistractors": [
+   "desert",
+   "town",
+   "kitchen"
+  ]
+ },
+ {
+  "wordId": "nature-waterfall",
+  "kind": "sentence",
+  "text": "Water is falling over the rocks.",
+  "distractors": [
+   "Water is falling over the bridge.",
+   "Water is falling over the houses.",
+   "Snow is falling over the rocks."
+  ],
+  "answer": "rocks",
+  "answerDistractors": [
+   "bridge",
+   "houses",
+   "roof"
+  ]
+ },
+ {
+  "wordId": "nature-puddle",
+  "kind": "phrase",
+  "text": "a puddle on the ground",
+  "distractors": [
+   "a pond in the garden",
+   "a lake in the park",
+   "a river under a bridge"
+  ],
+  "answer": "ground",
+  "answerDistractors": [
+   "roof",
+   "wall",
+   "table"
+  ]
+ },
+ {
+  "wordId": "nature-puddle",
+  "kind": "sentence",
+  "text": "There is a puddle on the track.",
+  "distractors": [
+   "There is a bench on the track.",
+   "There is a tree on the track.",
+   "There is a car on the track."
+  ],
+  "answer": "puddle",
+  "answerDistractors": [
+   "bench",
+   "tree",
+   "car"
+  ]
+ },
+ {
+  "wordId": "nature-iceberg",
+  "kind": "phrase",
+  "text": "a blue iceberg",
+  "distractors": [
+   "a green island",
+   "a white yacht",
+   "a grey cliff"
+  ],
+  "answer": "iceberg",
+  "answerDistractors": [
+   "island",
+   "tent",
+   "bus"
+  ]
+ },
+ {
+  "wordId": "nature-iceberg",
+  "kind": "sentence",
+  "text": "The iceberg is floating in the water.",
+  "distractors": [
+   "The iceberg is floating in the sand.",
+   "The iceberg is floating in the grass.",
+   "The iceberg is floating in the sky."
+  ],
+  "answer": "water",
+  "answerDistractors": [
+   "sand",
+   "grass",
+   "sky"
+  ]
+ },
+ {
+  "wordId": "nature-tree",
+  "kind": "phrase",
+  "text": "a tall bare tree",
+  "distractors": [
+   "a short green bush",
+   "a leafy green hedge",
+   "a tree full of apples"
+  ],
+  "answer": "tree",
+  "answerDistractors": [
+   "hedge",
+   "house",
+   "fence"
+  ]
+ },
+ {
+  "wordId": "nature-tree",
+  "kind": "sentence",
+  "text": "The tree has bare branches.",
+  "distractors": [
+   "The tree has green branches.",
+   "The tree has red branches.",
+   "The bush has bare branches."
+  ],
+  "answer": "bare",
+  "answerDistractors": [
+   "green",
+   "red",
+   "pink"
+  ]
+ },
+ {
+  "wordId": "nature-acorn",
+  "kind": "phrase",
+  "text": "an acorn on moss",
+  "distractors": [
+   "an apple on a plate",
+   "a nut in a bowl",
+   "a berry on a branch"
+  ],
+  "answer": "moss",
+  "answerDistractors": [
+   "sand",
+   "snow",
+   "paper"
+  ]
+ },
+ {
+  "wordId": "nature-acorn",
+  "kind": "sentence",
+  "text": "The acorn has a brown cap.",
+  "distractors": [
+   "The acorn has a red cap.",
+   "The acorn has a blue cap.",
+   "The acorn has a green cap."
+  ],
+  "answer": "brown",
+  "answerDistractors": [
+   "red",
+   "blue",
+   "green"
+  ]
+ },
+ {
+  "wordId": "nature-conker",
+  "kind": "phrase",
+  "text": "a conker on a string",
+  "distractors": [
+   "a plum on a stalk",
+   "an apple on a table",
+   "a nut in a shell"
+  ],
+  "answer": "string",
+  "answerDistractors": [
+   "table",
+   "tree",
+   "plate"
+  ]
+ },
+ {
+  "wordId": "nature-conker",
+  "kind": "sentence",
+  "text": "The conker is hanging on a string.",
+  "distractors": [
+   "The conker is hanging on a chain.",
+   "The conker is lying on a table.",
+   "The acorn is hanging on a string."
+  ],
+  "answer": "string",
+  "answerDistractors": [
+   "chain",
+   "branch",
+   "hook"
+  ]
+ },
+ {
+  "wordId": "nature-pine-cone",
+  "kind": "phrase",
+  "text": "a large pine cone",
+  "distractors": [
+   "a small green apple",
+   "a bunch of grapes",
+   "a tall pine tree"
+  ],
+  "answer": "cone",
+  "answerDistractors": [
+   "tree",
+   "needle",
+   "forest"
+  ]
+ },
+ {
+  "wordId": "nature-pine-cone",
+  "kind": "sentence",
+  "text": "The pine cone is on a branch.",
+  "distractors": [
+   "The pine cone is on a plate.",
+   "The pine cone is on a chair.",
+   "The pine cone is on a beach."
+  ],
+  "answer": "branch",
+  "answerDistractors": [
+   "plate",
+   "table",
+   "shelf"
+  ]
+ },
+ {
+  "wordId": "nature-rose",
+  "kind": "phrase",
+  "text": "a red rose",
+  "distractors": [
+   "a pink tulip",
+   "a yellow daffodil",
+   "a white lily"
+  ],
+  "answer": "rose",
+  "answerDistractors": [
+   "tulip",
+   "daffodil",
+   "sunflower"
+  ]
+ },
+ {
+  "wordId": "nature-rose",
+  "kind": "sentence",
+  "text": "The rose is deep red.",
+  "distractors": [
+   "The rose is deep blue.",
+   "The rose is deep yellow.",
+   "The rose is deep green."
+  ],
+  "answer": "red",
+  "answerDistractors": [
+   "blue",
+   "yellow",
+   "white"
+  ]
+ },
+ {
+  "wordId": "nature-daffodil",
+  "kind": "phrase",
+  "text": "a yellow daffodil",
+  "distractors": [
+   "a red tulip",
+   "a pink rose",
+   "a white snowdrop"
+  ],
+  "answer": "daffodil",
+  "answerDistractors": [
+   "tulip",
+   "rose",
+   "sunflower"
+  ]
+ },
+ {
+  "wordId": "nature-daffodil",
+  "kind": "sentence",
+  "text": "The daffodil has yellow petals.",
+  "distractors": [
+   "The daffodil has red petals.",
+   "The daffodil has blue petals.",
+   "The tulip has yellow petals."
+  ],
+  "answer": "petals",
+  "answerDistractors": [
+   "leaves",
+   "berries",
+   "spots"
+  ]
+ },
+ {
+  "wordId": "nature-tulip",
+  "kind": "phrase",
+  "text": "a red tulip",
+  "distractors": [
+   "a yellow daffodil",
+   "a pink rose",
+   "a purple crocus"
+  ],
+  "answer": "tulip",
+  "answerDistractors": [
+   "daffodil",
+   "rose",
+   "sunflower"
+  ]
+ },
+ {
+  "wordId": "nature-tulip",
+  "kind": "sentence",
+  "text": "The tulip is bright red.",
+  "distractors": [
+   "The tulip is bright yellow.",
+   "The tulip is bright blue.",
+   "The tulip is bright purple."
+  ],
+  "answer": "red",
+  "answerDistractors": [
+   "yellow",
+   "blue",
+   "purple"
+  ]
+ },
+ {
+  "wordId": "nature-sunflower",
+  "kind": "phrase",
+  "text": "a yellow sunflower",
+  "distractors": [
+   "a red poppy",
+   "a pink rose",
+   "a white daisy"
+  ],
+  "answer": "sunflower",
+  "answerDistractors": [
+   "poppy",
+   "rose",
+   "tulip"
+  ]
+ },
+ {
+  "wordId": "nature-sunflower",
+  "kind": "sentence",
+  "text": "The sunflower has a dark centre.",
+  "distractors": [
+   "The sunflower has a pink centre.",
+   "The sunflower has a white centre.",
+   "The sunflower has a blue centre."
+  ],
+  "answer": "dark",
+  "answerDistractors": [
+   "pink",
+   "white",
+   "blue"
+  ]
+ },
+ {
+  "wordId": "nature-ivy",
+  "kind": "phrase",
+  "text": "green ivy on stone",
+  "distractors": [
+   "red roses on a fence",
+   "pink flowers on a tree",
+   "yellow leaves on grass"
+  ],
+  "answer": "stone",
+  "answerDistractors": [
+   "glass",
+   "snow",
+   "sand"
+  ]
+ },
+ {
+  "wordId": "nature-ivy",
+  "kind": "sentence",
+  "text": "The ivy leaves are green.",
+  "distractors": [
+   "The ivy leaves are red.",
+   "The ivy leaves are yellow.",
+   "The ivy leaves are purple."
+  ],
+  "answer": "green",
+  "answerDistractors": [
+   "red",
+   "yellow",
+   "purple"
+  ]
+ },
+ {
+  "wordId": "nature-fern",
+  "kind": "phrase",
+  "text": "a green fern",
+  "distractors": [
+   "a red rose",
+   "a tall palm",
+   "a yellow flower"
+  ],
+  "answer": "fern",
+  "answerDistractors": [
+   "rose",
+   "daffodil",
+   "tulip"
+  ]
+ },
+ {
+  "wordId": "nature-fern",
+  "kind": "sentence",
+  "text": "The fern is bright green.",
+  "distractors": [
+   "The fern is bright red.",
+   "The fern is bright yellow.",
+   "The fern is bright blue."
+  ],
+  "answer": "green",
+  "answerDistractors": [
+   "red",
+   "yellow",
+   "blue"
+  ]
+ },
+ {
+  "wordId": "nature-cactus",
+  "kind": "phrase",
+  "text": "a small prickly cactus",
+  "distractors": [
+   "a tall green tree",
+   "a smooth round pebble",
+   "a soft pink rose"
+  ],
+  "answer": "cactus",
+  "answerDistractors": [
+   "pebble",
+   "shell",
+   "feather"
+  ]
+ },
+ {
+  "wordId": "nature-cactus",
+  "kind": "sentence",
+  "text": "The cactus has sharp spines.",
+  "distractors": [
+   "The cactus has soft spines.",
+   "The cactus has no spines.",
+   "The cactus has smooth skin."
+  ],
+  "answer": "spines",
+  "answerDistractors": [
+   "feathers",
+   "ribbons",
+   "buttons"
+  ]
+ },
+ {
+  "wordId": "nature-pebble",
+  "kind": "phrase",
+  "text": "a smooth grey pebble",
+  "distractors": [
+   "a sharp red brick",
+   "a bright white shell",
+   "a long brown feather"
+  ],
+  "answer": "pebble",
+  "answerDistractors": [
+   "brick",
+   "shell",
+   "feather"
+  ]
+ },
+ {
+  "wordId": "nature-pebble",
+  "kind": "sentence",
+  "text": "The pebble is grey.",
+  "distractors": [
+   "The pebble is red.",
+   "The pebble is green.",
+   "The pebble is yellow."
+  ],
+  "answer": "grey",
+  "answerDistractors": [
+   "red",
+   "green",
+   "yellow"
+  ]
+ },
+ {
+  "wordId": "nature-shell",
+  "kind": "phrase",
+  "text": "a white shell",
+  "distractors": [
+   "a grey pebble",
+   "a brown feather",
+   "a red apple"
+  ],
+  "answer": "shell",
+  "answerDistractors": [
+   "pebble",
+   "feather",
+   "button"
+  ]
+ },
+ {
+  "wordId": "nature-shell",
+  "kind": "sentence",
+  "text": "The shell is white and pink.",
+  "distractors": [
+   "The shell is white and blue.",
+   "The shell is white and green.",
+   "The shell is white and black."
+  ],
+  "answer": "pink",
+  "answerDistractors": [
+   "blue",
+   "green",
+   "black"
+  ]
+ },
+ {
+  "wordId": "nature-feather",
+  "kind": "phrase",
+  "text": "two brown feathers",
+  "distractors": [
+   "three grey pebbles",
+   "two white shells",
+   "a red leaf"
+  ],
+  "answer": "feathers",
+  "answerDistractors": [
+   "pebbles",
+   "shells",
+   "leaves"
+  ]
+ },
+ {
+  "wordId": "nature-feather",
+  "kind": "sentence",
+  "text": "There are two brown feathers.",
+  "distractors": [
+   "There are two blue feathers.",
+   "There are three brown feathers.",
+   "There are two brown shells."
+  ],
+  "answer": "brown",
+  "answerDistractors": [
+   "blue",
+   "green",
+   "pink"
+  ]
+ },
+ {
+  "wordId": "people-dentist",
+  "kind": "phrase",
+  "text": "a dentist wearing gloves",
+  "distractors": [
+   "a baker wearing an apron",
+   "a chef wearing a hat",
+   "a builder wearing boots"
+  ],
+  "answer": "gloves",
+  "answerDistractors": [
+   "hat",
+   "scarf",
+   "apron"
+  ]
+ },
+ {
+  "wordId": "people-dentist",
+  "kind": "sentence",
+  "text": "The dentist is wearing a mask.",
+  "distractors": [
+   "The dentist is wearing a hat.",
+   "The dentist is wearing a scarf.",
+   "The dentist is wearing a helmet."
+  ],
+  "answer": "mask",
+  "answerDistractors": [
+   "hat",
+   "scarf",
+   "helmet"
+  ]
+ },
+ {
+  "wordId": "people-surgeon",
+  "kind": "phrase",
+  "text": "a surgeon in a blue cap",
+  "distractors": [
+   "a surgeon in a red hat",
+   "a surgeon in a green apron",
+   "a chef in a blue cap"
+  ],
+  "answer": "cap",
+  "answerDistractors": [
+   "helmet",
+   "scarf",
+   "tie"
+  ]
+ },
+ {
+  "wordId": "people-surgeon",
+  "kind": "sentence",
+  "text": "The surgeon is wearing blue scrubs.",
+  "distractors": [
+   "The surgeon is wearing red scrubs.",
+   "The surgeon is wearing green scrubs.",
+   "The surgeon is wearing yellow scrubs."
+  ],
+  "answer": "blue",
+  "answerDistractors": [
+   "red",
+   "green",
+   "yellow"
+  ]
+ },
+ {
+  "wordId": "people-police-officer",
+  "kind": "phrase",
+  "text": "two police officers on bikes",
+  "distractors": [
+   "two nurses on horses",
+   "two soldiers in a tank",
+   "two people in a car"
+  ],
+  "answer": "bikes",
+  "answerDistractors": [
+   "horses",
+   "scooters",
+   "tractors"
+  ]
+ },
+ {
+  "wordId": "people-police-officer",
+  "kind": "sentence",
+  "text": "The two police officers are on bicycles.",
+  "distractors": [
+   "The two police officers are on horses.",
+   "The two firefighters are on bicycles.",
+   "The two police officers are in cars."
+  ],
+  "answer": "bicycles",
+  "answerDistractors": [
+   "horses",
+   "scooters",
+   "tractors"
+  ]
+ },
+ {
+  "wordId": "people-soldier",
+  "kind": "phrase",
+  "text": "a soldier in a field",
+  "distractors": [
+   "a nurse in a kitchen",
+   "a farmer in a barn",
+   "a diver in the sea"
+  ],
+  "answer": "field",
+  "answerDistractors": [
+   "kitchen",
+   "hospital",
+   "shop"
+  ]
+ },
+ {
+  "wordId": "people-soldier",
+  "kind": "sentence",
+  "text": "The soldier is holding a rifle.",
+  "distractors": [
+   "The soldier is holding a flag.",
+   "The soldier is holding a shovel.",
+   "The farmer is holding a rifle."
+  ],
+  "answer": "rifle",
+  "answerDistractors": [
+   "flag",
+   "shovel",
+   "hammer"
+  ]
+ },
+ {
+  "wordId": "people-builder",
+  "kind": "phrase",
+  "text": "three builders on a scaffold",
+  "distractors": [
+   "three nurses in a ward",
+   "three chefs in a kitchen",
+   "three bakers in a shop"
+  ],
+  "answer": "scaffold",
+  "answerDistractors": [
+   "boat",
+   "bus",
+   "beach"
+  ]
+ },
+ {
+  "wordId": "people-builder",
+  "kind": "sentence",
+  "text": "The builders are standing behind a railing.",
+  "distractors": [
+   "The builders are standing behind a table.",
+   "The builders are sitting behind a railing.",
+   "The nurses are standing behind a railing."
+  ],
+  "answer": "railing",
+  "answerDistractors": [
+   "table",
+   "desk",
+   "counter"
+  ]
+ },
+ {
+  "wordId": "people-electrician",
+  "kind": "phrase",
+  "text": "a man at an electrical panel",
+  "distractors": [
+   "a man at a bus stop",
+   "a woman at a kitchen sink",
+   "a man at a shop counter"
+  ],
+  "answer": "panel",
+  "answerDistractors": [
+   "cooker",
+   "kettle",
+   "heater"
+  ]
+ },
+ {
+  "wordId": "people-electrician",
+  "kind": "sentence",
+  "text": "The man is wearing a blue top.",
+  "distractors": [
+   "The man is wearing a red top.",
+   "The man is wearing a green top.",
+   "The woman is wearing a blue top."
+  ],
+  "answer": "blue",
+  "answerDistractors": [
+   "hat",
+   "scarf",
+   "apron"
+  ]
+ },
+ {
+  "wordId": "people-carpenter",
+  "kind": "phrase",
+  "text": "a person working with wood",
+  "distractors": [
+   "a person painting a wall",
+   "a person cooking a meal",
+   "a person washing a car"
+  ],
+  "answer": "wood",
+  "answerDistractors": [
+   "glass",
+   "paper",
+   "wool"
+  ]
+ },
+ {
+  "wordId": "people-carpenter",
+  "kind": "sentence",
+  "text": "The person is wearing a white hat.",
+  "distractors": [
+   "The person is wearing a red hat.",
+   "The person is wearing a blue hat.",
+   "The person is wearing a green hat."
+  ],
+  "answer": "white",
+  "answerDistractors": [
+   "red",
+   "blue",
+   "green"
+  ]
+ },
+ {
+  "wordId": "people-chef",
+  "kind": "phrase",
+  "text": "a chef preparing a salad",
+  "distractors": [
+   "a chef baking a cake",
+   "a chef frying an egg",
+   "a chef slicing bread"
+  ],
+  "answer": "salad",
+  "answerDistractors": [
+   "cake",
+   "pie",
+   "soup"
+  ]
+ },
+ {
+  "wordId": "people-chef",
+  "kind": "sentence",
+  "text": "The chef is wearing a blue jacket.",
+  "distractors": [
+   "The chef is wearing a red jacket.",
+   "The chef is wearing a green jacket.",
+   "The baker is wearing a blue jacket."
+  ],
+  "answer": "jacket",
+  "answerDistractors": [
+   "hat",
+   "scarf",
+   "helmet"
+  ]
+ },
+ {
+  "wordId": "people-barber",
+  "kind": "phrase",
+  "text": "a barber shaving a man",
+  "distractors": [
+   "a baker making a cake",
+   "a nurse helping a child",
+   "a farmer feeding a cow"
+  ],
+  "answer": "man",
+  "answerDistractors": [
+   "dog",
+   "horse",
+   "cat"
+  ]
+ },
+ {
+  "wordId": "people-barber",
+  "kind": "sentence",
+  "text": "The man has foam on his face.",
+  "distractors": [
+   "The man has paint on his face.",
+   "The man has mud on his face.",
+   "The man has foam on his hands."
+  ],
+  "answer": "foam",
+  "answerDistractors": [
+   "paint",
+   "mud",
+   "jam"
+  ]
+ },
+ {
+  "wordId": "people-florist",
+  "kind": "phrase",
+  "text": "a florist holding flowers",
+  "distractors": [
+   "a baker holding bread",
+   "a chef holding a plate",
+   "a farmer holding a spade"
+  ],
+  "answer": "flowers",
+  "answerDistractors": [
+   "books",
+   "bags",
+   "plates"
+  ]
+ },
+ {
+  "wordId": "people-florist",
+  "kind": "sentence",
+  "text": "The woman is wearing a striped apron.",
+  "distractors": [
+   "The woman is wearing a spotted apron.",
+   "The woman is wearing a striped hat.",
+   "The man is wearing a striped apron."
+  ],
+  "answer": "apron",
+  "answerDistractors": [
+   "hat",
+   "scarf",
+   "helmet"
+  ]
+ },
+ {
+  "wordId": "people-photographer",
+  "kind": "phrase",
+  "text": "a photographer with a tripod",
+  "distractors": [
+   "a painter with a brush",
+   "a walker with a dog",
+   "a golfer with a club"
+  ],
+  "answer": "tripod",
+  "answerDistractors": [
+   "ladder",
+   "bucket",
+   "suitcase"
+  ]
+ },
+ {
+  "wordId": "people-photographer",
+  "kind": "sentence",
+  "text": "The man is taking a photo.",
+  "distractors": [
+   "The man is taking a bath.",
+   "The man is taking a nap.",
+   "The man is taking a bus."
+  ],
+  "answer": "photo",
+  "answerDistractors": [
+   "bath",
+   "nap",
+   "bus"
+  ]
+ },
+ {
+  "wordId": "people-monk",
+  "kind": "phrase",
+  "text": "a monk beside red flowers",
+  "distractors": [
+   "a baker beside a red bus",
+   "a nurse beside a green door",
+   "a farmer beside a brown cow"
+  ],
+  "answer": "flowers",
+  "answerDistractors": [
+   "doors",
+   "buses",
+   "cars"
+  ]
+ },
+ {
+  "wordId": "people-monk",
+  "kind": "sentence",
+  "text": "The monk is standing beside a pillar.",
+  "distractors": [
+   "The monk is standing beside a bus.",
+   "The monk is sitting beside a pillar.",
+   "The monk is standing beside a table."
+  ],
+  "answer": "pillar",
+  "answerDistractors": [
+   "bus",
+   "table",
+   "bench"
+  ]
+ },
+ {
+  "wordId": "people-dancer",
+  "kind": "phrase",
+  "text": "a dancer in a black leotard",
+  "distractors": [
+   "a skater in a red dress",
+   "a swimmer in a blue costume",
+   "a boxer in white shorts"
+  ],
+  "answer": "leotard",
+  "answerDistractors": [
+   "dress",
+   "coat",
+   "jumper"
+  ]
+ },
+ {
+  "wordId": "people-dancer",
+  "kind": "sentence",
+  "text": "The dancer is wearing pink tights.",
+  "distractors": [
+   "The dancer is wearing blue tights.",
+   "The dancer is wearing green tights.",
+   "The dancer is wearing red tights."
+  ],
+  "answer": "pink",
+  "answerDistractors": [
+   "blue",
+   "green",
+   "red"
+  ]
+ },
+ {
+  "wordId": "people-clown",
+  "kind": "phrase",
+  "text": "a clown in a colourful costume",
+  "distractors": [
+   "a nurse in a blue uniform",
+   "a soldier in a green uniform",
+   "a chef in a white jacket"
+  ],
+  "answer": "costume",
+  "answerDistractors": [
+   "uniform",
+   "apron",
+   "towel"
+  ]
+ },
+ {
+  "wordId": "people-clown",
+  "kind": "sentence",
+  "text": "The clown has red hair.",
+  "distractors": [
+   "The clown has blue hair.",
+   "The clown has green hair.",
+   "The clown has black hair."
+  ],
+  "answer": "red",
+  "answerDistractors": [
+   "blue",
+   "green",
+   "black"
+  ]
+ },
+ {
+  "wordId": "people-jockey",
+  "kind": "phrase",
+  "text": "a jockey on a horse",
+  "distractors": [
+   "a farmer on a tractor",
+   "a cowboy on a bull",
+   "a child on a bike"
+  ],
+  "answer": "horse",
+  "answerDistractors": [
+   "bike",
+   "bus",
+   "tractor"
+  ]
+ },
+ {
+  "wordId": "people-jockey",
+  "kind": "sentence",
+  "text": "The horse is brown.",
+  "distractors": [
+   "The horse is white.",
+   "The horse is grey.",
+   "The horse is orange."
+  ],
+  "answer": "brown",
+  "answerDistractors": [
+   "white",
+   "grey",
+   "orange"
+  ]
+ },
+ {
+  "wordId": "people-boxer",
+  "kind": "phrase",
+  "text": "two boxers in a ring",
+  "distractors": [
+   "two dancers on a stage",
+   "two swimmers in a pool",
+   "two runners on a track"
+  ],
+  "answer": "ring",
+  "answerDistractors": [
+   "pool",
+   "car",
+   "shop"
+  ]
+ },
+ {
+  "wordId": "people-boxer",
+  "kind": "sentence",
+  "text": "Two boxers are fighting in a ring.",
+  "distractors": [
+   "Two boxers are sleeping in a ring.",
+   "Two boxers are dancing in a ring.",
+   "Two dancers are fighting in a ring."
+  ],
+  "answer": "fighting",
+  "answerDistractors": [
+   "sleeping",
+   "dancing",
+   "eating"
+  ]
+ },
+ {
+  "wordId": "people-bride",
+  "kind": "phrase",
+  "text": "a bride with a bouquet",
+  "distractors": [
+   "a nurse with a clipboard",
+   "a chef with a spoon",
+   "a baker with a loaf"
+  ],
+  "answer": "bouquet",
+  "answerDistractors": [
+   "bucket",
+   "suitcase",
+   "kettle"
+  ]
+ },
+ {
+  "wordId": "people-bride",
+  "kind": "sentence",
+  "text": "The bride is wearing a white dress.",
+  "distractors": [
+   "The bride is wearing a black dress.",
+   "The bride is wearing a red dress.",
+   "The bride is wearing a blue dress."
+  ],
+  "answer": "white",
+  "answerDistractors": [
+   "black",
+   "red",
+   "blue"
+  ]
+ },
+ {
+  "wordId": "places-supermarket",
+  "kind": "phrase",
+  "text": "a supermarket aisle",
+  "distractors": [
+   "a train station",
+   "a hospital ward",
+   "a school hall"
+  ],
+  "answer": "aisle",
+  "answerDistractors": [
+   "ward",
+   "kitchen",
+   "garden"
+  ]
+ },
+ {
+  "wordId": "places-supermarket",
+  "kind": "sentence",
+  "text": "The shelves are full of food.",
+  "distractors": [
+   "The shelves are full of books.",
+   "The shelves are full of shoes.",
+   "The shelves are full of toys."
+  ],
+  "answer": "food",
+  "answerDistractors": [
+   "books",
+   "shoes",
+   "toys"
+  ]
+ },
+ {
+  "wordId": "places-market",
+  "kind": "phrase",
+  "text": "a busy street market",
+  "distractors": [
+   "a quiet empty beach",
+   "a train station platform",
+   "a green country field"
+  ],
+  "answer": "market",
+  "answerDistractors": [
+   "station",
+   "beach",
+   "park"
+  ]
+ },
+ {
+  "wordId": "places-market",
+  "kind": "sentence",
+  "text": "There are stalls along the street.",
+  "distractors": [
+   "There are sheep along the street.",
+   "There are trains along the street.",
+   "There are stalls along the river."
+  ],
+  "answer": "stalls",
+  "answerDistractors": [
+   "sheep",
+   "trains",
+   "boats"
+  ]
+ },
+ {
+  "wordId": "places-town-hall",
+  "kind": "phrase",
+  "text": "a large pink building",
+  "distractors": [
+   "a small red cottage",
+   "a tall grey tower",
+   "a white wooden barn"
+  ],
+  "answer": "building",
+  "answerDistractors": [
+   "shed",
+   "barn",
+   "tent"
+  ]
+ },
+ {
+  "wordId": "places-town-hall",
+  "kind": "sentence",
+  "text": "There is a clock on the tower.",
+  "distractors": [
+   "There is a ladder on the tower.",
+   "There is a clock on the bridge.",
+   "There is a kite on the tower."
+  ],
+  "answer": "clock",
+  "answerDistractors": [
+   "ladder",
+   "kite",
+   "bus"
+  ]
+ },
+ {
+  "wordId": "places-swimming-pool",
+  "kind": "phrase",
+  "text": "a pool with a green wall",
+  "distractors": [
+   "a pool with a red wall",
+   "a pool with a blue wall",
+   "a gym with a green wall"
+  ],
+  "answer": "wall",
+  "answerDistractors": [
+   "roof",
+   "floor",
+   "door"
+  ]
+ },
+ {
+  "wordId": "places-swimming-pool",
+  "kind": "sentence",
+  "text": "There is a handrail beside the pool.",
+  "distractors": [
+   "There is a handrail beside the road.",
+   "There is a tree beside the pool.",
+   "There is a boat beside the pool."
+  ],
+  "answer": "handrail",
+  "answerDistractors": [
+   "tree",
+   "boat",
+   "bus"
+  ]
+ },
+ {
+  "wordId": "places-church",
+  "kind": "phrase",
+  "text": "a church with a tall spire",
+  "distractors": [
+   "a house with a thatched roof",
+   "a barn with a red door",
+   "a shop with a green sign"
+  ],
+  "answer": "spire",
+  "answerDistractors": [
+   "chimney",
+   "lamp",
+   "crane"
+  ]
+ },
+ {
+  "wordId": "places-church",
+  "kind": "sentence",
+  "text": "There is a clock on the church tower.",
+  "distractors": [
+   "There is a ladder on the church tower.",
+   "There is a clock on the church door.",
+   "There is a clock on the school tower."
+  ],
+  "answer": "clock",
+  "answerDistractors": [
+   "ladder",
+   "tree",
+   "kite"
+  ]
+ },
+ {
+  "wordId": "places-cathedral",
+  "kind": "phrase",
+  "text": "a large stone cathedral",
+  "distractors": [
+   "a small brick house",
+   "a tall glass tower",
+   "a wooden garden shed"
+  ],
+  "answer": "cathedral",
+  "answerDistractors": [
+   "house",
+   "barn",
+   "shed"
+  ]
+ },
+ {
+  "wordId": "places-cathedral",
+  "kind": "sentence",
+  "text": "The cathedral is built of stone.",
+  "distractors": [
+   "The cathedral is built of wood.",
+   "The cathedral is built of glass.",
+   "The cathedral is built of brick."
+  ],
+  "answer": "stone",
+  "answerDistractors": [
+   "wood",
+   "glass",
+   "brick"
+  ]
+ },
+ {
+  "wordId": "places-mosque",
+  "kind": "phrase",
+  "text": "a white mosque",
+  "distractors": [
+   "a red lighthouse",
+   "a grey castle",
+   "a green barn"
+  ],
+  "answer": "mosque",
+  "answerDistractors": [
+   "barn",
+   "castle",
+   "hotel"
+  ]
+ },
+ {
+  "wordId": "places-mosque",
+  "kind": "sentence",
+  "text": "The mosque has two tall towers.",
+  "distractors": [
+   "The mosque has three tall towers.",
+   "The mosque has two tall trees.",
+   "The house has two tall towers."
+  ],
+  "answer": "towers",
+  "answerDistractors": [
+   "trees",
+   "chimneys",
+   "masts"
+  ]
+ },
+ {
+  "wordId": "places-lighthouse",
+  "kind": "phrase",
+  "text": "a red and white lighthouse",
+  "distractors": [
+   "a blue and white boat",
+   "a green and yellow bus",
+   "a black and white cow"
+  ],
+  "answer": "lighthouse",
+  "answerDistractors": [
+   "boat",
+   "bus",
+   "tent"
+  ]
+ },
+ {
+  "wordId": "places-lighthouse",
+  "kind": "sentence",
+  "text": "The lighthouse stands next to the sea.",
+  "distractors": [
+   "The lighthouse stands next to the road.",
+   "The lighthouse stands next to the forest.",
+   "The windmill stands next to the sea."
+  ],
+  "answer": "sea",
+  "answerDistractors": [
+   "field",
+   "forest",
+   "desert"
+  ]
+ },
+ {
+  "wordId": "places-windmill",
+  "kind": "phrase",
+  "text": "a tall windmill",
+  "distractors": [
+   "a brown barn",
+   "a tall chimney",
+   "a stone bridge"
+  ],
+  "answer": "windmill",
+  "answerDistractors": [
+   "barn",
+   "church",
+   "hotel"
+  ]
+ },
+ {
+  "wordId": "places-windmill",
+  "kind": "sentence",
+  "text": "The windmill has four sails.",
+  "distractors": [
+   "The windmill has two sails.",
+   "The windmill has six sails.",
+   "The windmill has three sails."
+  ],
+  "answer": "four",
+  "answerDistractors": [
+   "two",
+   "three",
+   "six"
+  ]
+ },
+ {
+  "wordId": "places-station",
+  "kind": "phrase",
+  "text": "a train at a station",
+  "distractors": [
+   "a bus at a stop",
+   "a boat in a harbour",
+   "a plane at an airport"
+  ],
+  "answer": "station",
+  "answerDistractors": [
+   "stop",
+   "harbour",
+   "airport"
+  ]
+ },
+ {
+  "wordId": "places-station",
+  "kind": "sentence",
+  "text": "A train is standing at the platform.",
+  "distractors": [
+   "A bus is standing at the platform.",
+   "A train is standing at the garage.",
+   "A train is standing at the bridge."
+  ],
+  "answer": "platform",
+  "answerDistractors": [
+   "garage",
+   "bridge",
+   "table"
+  ]
+ },
+ {
+  "wordId": "places-harbour",
+  "kind": "phrase",
+  "text": "small boats in the harbour",
+  "distractors": [
+   "cars in the car park",
+   "trains at the station",
+   "ducks on the pond"
+  ],
+  "answer": "harbour",
+  "answerDistractors": [
+   "desert",
+   "forest",
+   "garage"
+  ]
+ },
+ {
+  "wordId": "places-harbour",
+  "kind": "sentence",
+  "text": "The harbour is full of boats.",
+  "distractors": [
+   "The harbour is full of cars.",
+   "The harbour is full of horses.",
+   "The car park is full of boats."
+  ],
+  "answer": "boats",
+  "answerDistractors": [
+   "cars",
+   "horses",
+   "trains"
+  ]
+ },
+ {
+  "wordId": "places-car-park",
+  "kind": "phrase",
+  "text": "cars parked near trees",
+  "distractors": [
+   "boats parked near trees",
+   "trains stopped near trees",
+   "lorries parked near a shop"
+  ],
+  "answer": "trees",
+  "answerDistractors": [
+   "boats",
+   "sheep",
+   "cows"
+  ]
+ },
+ {
+  "wordId": "places-car-park",
+  "kind": "sentence",
+  "text": "There are trees behind the cars.",
+  "distractors": [
+   "There are boats behind the cars.",
+   "There are trees in front of the cars.",
+   "There are trees behind the boats."
+  ],
+  "answer": "trees",
+  "answerDistractors": [
+   "boats",
+   "sheep",
+   "tents"
+  ]
+ },
+ {
+  "wordId": "places-tunnel",
+  "kind": "phrase",
+  "text": "a railway tunnel",
+  "distractors": [
+   "a stone bridge",
+   "a country road",
+   "a wooden gate"
+  ],
+  "answer": "tunnel",
+  "answerDistractors": [
+   "bridge",
+   "station",
+   "signal"
+  ]
+ },
+ {
+  "wordId": "places-tunnel",
+  "kind": "sentence",
+  "text": "A track runs through the tunnel.",
+  "distractors": [
+   "A road runs through the tunnel.",
+   "A river runs through the tunnel.",
+   "A track runs through the forest."
+  ],
+  "answer": "track",
+  "answerDistractors": [
+   "road",
+   "river",
+   "stream"
+  ]
+ },
+ {
+  "wordId": "places-pier",
+  "kind": "phrase",
+  "text": "a long pier by the sea",
+  "distractors": [
+   "a long road by the river",
+   "a tall tower by the lake",
+   "a small boat by the shore"
+  ],
+  "answer": "sea",
+  "answerDistractors": [
+   "river",
+   "field",
+   "road"
+  ]
+ },
+ {
+  "wordId": "places-pier",
+  "kind": "sentence",
+  "text": "The beach is covered in pebbles.",
+  "distractors": [
+   "The beach is covered in snow.",
+   "The beach is covered in grass.",
+   "The beach is covered in mud."
+  ],
+  "answer": "pebbles",
+  "answerDistractors": [
+   "snow",
+   "grass",
+   "mud"
+  ]
+ },
+ {
+  "wordId": "places-park",
+  "kind": "phrase",
+  "text": "a bench beside a path",
+  "distractors": [
+   "a bin beside a road",
+   "a lamp beside a wall",
+   "a table beside a pond"
+  ],
+  "answer": "path",
+  "answerDistractors": [
+   "wall",
+   "fence",
+   "shop"
+  ]
+ },
+ {
+  "wordId": "places-park",
+  "kind": "sentence",
+  "text": "The path leads between tall trees.",
+  "distractors": [
+   "The path leads between tall houses.",
+   "The path leads between tall shops.",
+   "The road leads between tall trees."
+  ],
+  "answer": "trees",
+  "answerDistractors": [
+   "houses",
+   "shops",
+   "walls"
+  ]
+ },
+ {
+  "wordId": "places-playground",
+  "kind": "phrase",
+  "text": "swings in a playground",
+  "distractors": [
+   "boats in a harbour",
+   "cars in a car park",
+   "cows in a field"
+  ],
+  "answer": "playground",
+  "answerDistractors": [
+   "field",
+   "garage",
+   "kitchen"
+  ]
+ },
+ {
+  "wordId": "places-playground",
+  "kind": "sentence",
+  "text": "The swing frame is yellow.",
+  "distractors": [
+   "The swing frame is red.",
+   "The swing frame is blue.",
+   "The swing frame is green."
+  ],
+  "answer": "yellow",
+  "answerDistractors": [
+   "red",
+   "blue",
+   "green"
+  ]
+ }
+]
