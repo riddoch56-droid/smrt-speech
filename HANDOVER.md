@@ -163,6 +163,13 @@ The unit tests include checks on the design system: the installed artwork matche
 all 4 modules and 15 activities have artwork, every icon name maps to a pack icon, and every text
 and control-edge colour pair meets WCAG AA contrast in both themes.
 
+**The deployed site was checked after publishing** (14 November 2026): the page, web manifest,
+service worker, artwork and pictures are all served from the live address; in WebKit a reading
+session ran from start to results with no request to any other address and no script errors; in
+Chromium the 445 pictures downloaded and a session then ran with the network switched off. That
+offline check passed three times out of four: the one failure came straight after publishing and
+did not recur.
+
 Screens were also checked by eye from screenshots in both themes, at 1180 x 820, 1024 x 768,
 820 x 1180 and 768 x 1024.
 
