@@ -1,0 +1,306 @@
+[
+  {
+    "wordId": "places-newsagent",
+    "kind": "phrase",
+    "text": "a shop selling newspapers",
+    "distractors": ["a stall selling fruit", "a garage selling cars", "a café serving tea"],
+    "answer": "newspapers",
+    "answerDistractors": ["shoes", "flowers", "furniture"]
+  },
+  {
+    "wordId": "places-newsagent",
+    "kind": "sentence",
+    "text": "The door of the newsagent is open.",
+    "distractors": ["The door of the newsagent is shut.", "The door of the church is open.", "The window of the newsagent is open."],
+    "answer": "open",
+    "answerDistractors": ["shut", "locked", "broken"]
+  },
+  {
+    "wordId": "places-school",
+    "kind": "phrase",
+    "text": "a school with a blue door",
+    "distractors": ["a church with a tall spire", "a shop with a red sign", "a house with a green gate"],
+    "answer": "door",
+    "answerDistractors": ["bus", "gate", "slide"]
+  },
+  {
+    "wordId": "places-school",
+    "kind": "sentence",
+    "text": "The school playground is empty.",
+    "distractors": ["The school playground is busy.", "The school playground is flooded.", "The school kitchen is empty."],
+    "answer": "empty",
+    "answerDistractors": ["busy", "flooded", "snowy"]
+  },
+  {
+    "wordId": "places-hospital",
+    "kind": "phrase",
+    "text": "the main entrance of a hospital",
+    "distractors": ["the front door of a cottage", "the car park of a supermarket", "the back garden of a pub"],
+    "answer": "hospital",
+    "answerDistractors": ["church", "castle", "stadium"]
+  },
+  {
+    "wordId": "places-hospital",
+    "kind": "sentence",
+    "text": "A white van is parked outside the hospital.",
+    "distractors": ["A white van is parked outside the church.", "A red tractor is parked outside the hospital.", "A white van is parked inside the hospital."],
+    "answer": "van",
+    "answerDistractors": ["tractor", "motorbike", "caravan"]
+  },
+  {
+    "wordId": "places-cinema",
+    "kind": "phrase",
+    "text": "an empty cinema",
+    "distractors": ["a busy restaurant", "an empty classroom", "a crowded beach"],
+    "answer": "cinema",
+    "answerDistractors": ["church", "classroom", "restaurant"]
+  },
+  {
+    "wordId": "places-cinema",
+    "kind": "sentence",
+    "text": "The cinema has rows of red seats.",
+    "distractors": ["The cinema has rows of blue seats.", "The church has rows of red seats.", "The cinema has rows of red tables."],
+    "answer": "seats",
+    "answerDistractors": ["tables", "beds", "desks"]
+  },
+  {
+    "wordId": "transport-windscreen",
+    "kind": "phrase",
+    "text": "the windscreen of a green car",
+    "distractors": ["the wheel of a red bus", "the door of a white van", "the boot of a black car"],
+    "answer": "car",
+    "answerDistractors": ["bus", "lorry", "tractor"]
+  },
+  {
+    "wordId": "transport-windscreen",
+    "kind": "sentence",
+    "text": "The green car has two windscreen wipers.",
+    "distractors": ["The red car has two windscreen wipers.", "The green car has no windscreen wipers.", "The green bus has two windscreen wipers."],
+    "answer": "green",
+    "answerDistractors": ["red", "white", "blue"]
+  },
+  {
+    "wordId": "verbs-walk",
+    "kind": "phrase",
+    "text": "walking under the trees",
+    "distractors": ["swimming in the sea", "climbing over a gate", "running up the stairs"],
+    "answer": "trees",
+    "answerDistractors": ["bridge", "umbrella", "stars"]
+  },
+  {
+    "wordId": "verbs-walk",
+    "kind": "sentence",
+    "text": "The woman is walking along a path.",
+    "distractors": ["The woman is cycling along a path.", "The man is walking along a path.", "The woman is walking along a beach."],
+    "answer": "walking",
+    "answerDistractors": ["cycling", "skating", "crawling"]
+  },
+  {
+    "wordId": "verbs-crawl",
+    "kind": "phrase",
+    "text": "a baby crawling on grass",
+    "distractors": ["a dog running on sand", "a baby sleeping in a cot", "a cat sitting on a wall"],
+    "answer": "grass",
+    "answerDistractors": ["sand", "snow", "carpet"]
+  },
+  {
+    "wordId": "verbs-crawl",
+    "kind": "sentence",
+    "text": "The smiling baby is crawling on the grass.",
+    "distractors": ["The crying baby is crawling on the grass.", "The smiling baby is sitting on the grass.", "The smiling baby is crawling on the beach."],
+    "answer": "crawling",
+    "answerDistractors": ["sitting", "sleeping", "standing"]
+  },
+  {
+    "wordId": "verbs-sleep",
+    "kind": "phrase",
+    "text": "sleeping on the grass",
+    "distractors": ["sleeping in a bed", "reading on the sofa", "running on the beach"],
+    "answer": "grass",
+    "answerDistractors": ["sofa", "train", "sand"]
+  },
+  {
+    "wordId": "verbs-sleep",
+    "kind": "sentence",
+    "text": "The man is sleeping on his black rucksack.",
+    "distractors": ["The man is sitting on his black rucksack.", "The man is sleeping on his red rucksack.", "The man is sleeping on his black pillow."],
+    "answer": "sleeping",
+    "answerDistractors": ["sitting", "standing", "jumping"]
+  },
+  {
+    "wordId": "verbs-stir",
+    "kind": "phrase",
+    "text": "stirring a big pot",
+    "distractors": ["frying two eggs", "washing a dirty plate", "pouring a cup of tea"],
+    "answer": "pot",
+    "answerDistractors": ["cup", "jug", "kettle"]
+  },
+  {
+    "wordId": "verbs-stir",
+    "kind": "sentence",
+    "text": "A person is stirring a large pot of food.",
+    "distractors": ["A person is carrying a large pot of food.", "A person is stirring a large pot of paint.", "A child is stirring a large pot of food."],
+    "answer": "stirring",
+    "answerDistractors": ["carrying", "lifting", "emptying"]
+  },
+  {
+    "wordId": "verbs-scrub",
+    "kind": "phrase",
+    "text": "scrubbing with a blue brush",
+    "distractors": ["sweeping with a long broom", "drying with a tea towel", "painting with a small roller"],
+    "answer": "brush",
+    "answerDistractors": ["mop", "towel", "cloth"]
+  },
+  {
+    "wordId": "verbs-scrub",
+    "kind": "sentence",
+    "text": "A hand in a rubber glove is scrubbing the wood.",
+    "distractors": ["A hand in a rubber glove is painting the wood.", "A hand in a woolly glove is scrubbing the wood.", "A hand in a rubber glove is scrubbing the bath."],
+    "answer": "scrubbing",
+    "answerDistractors": ["painting", "sawing", "chopping"]
+  },
+  {
+    "wordId": "verbs-vacuum",
+    "kind": "phrase",
+    "text": "vacuuming the carpet",
+    "distractors": ["mowing the lawn", "washing the windows", "ironing a shirt"],
+    "answer": "carpet",
+    "answerDistractors": ["stairs", "car", "curtains"]
+  },
+  {
+    "wordId": "verbs-vacuum",
+    "kind": "sentence",
+    "text": "The man is pushing a yellow vacuum cleaner.",
+    "distractors": ["The woman is pushing a yellow vacuum cleaner.", "The man is pushing a red vacuum cleaner.", "The man is carrying a yellow vacuum cleaner."],
+    "answer": "pushing",
+    "answerDistractors": ["carrying", "lifting", "mending"]
+  },
+  {
+    "wordId": "verbs-throw",
+    "kind": "phrase",
+    "text": "throwing a ball",
+    "distractors": ["kicking a football", "catching a fish", "riding a bike"],
+    "answer": "ball",
+    "answerDistractors": ["frisbee", "stick", "javelin"]
+  },
+  {
+    "wordId": "verbs-throw",
+    "kind": "sentence",
+    "text": "The man in the red cap is throwing a ball.",
+    "distractors": ["The man in the red cap is kicking a ball.", "The man in the blue cap is throwing a ball.", "The man in the red cap is throwing a stick."],
+    "answer": "throwing",
+    "answerDistractors": ["kicking", "bouncing", "heading"]
+  },
+  {
+    "wordId": "verbs-talk",
+    "kind": "phrase",
+    "text": "two people talking",
+    "distractors": ["three children playing", "two dogs barking", "a man singing"],
+    "answer": "talking",
+    "answerDistractors": ["running", "dancing", "cycling"]
+  },
+  {
+    "wordId": "verbs-talk",
+    "kind": "sentence",
+    "text": "The woman is talking to the man on a bench.",
+    "distractors": ["The woman is talking to the man on a bus.", "The woman is waving to the man on a bench.", "The woman is talking to the dog on a bench."],
+    "answer": "bench",
+    "answerDistractors": ["bus", "train", "boat"]
+  },
+  {
+    "wordId": "verbs-shout",
+    "kind": "phrase",
+    "text": "shouting into a megaphone",
+    "distractors": ["whispering into an ear", "singing in a choir", "blowing up a balloon"],
+    "answer": "megaphone",
+    "answerDistractors": ["telephone", "tunnel", "pillow"]
+  },
+  {
+    "wordId": "verbs-shout",
+    "kind": "sentence",
+    "text": "The man is holding a megaphone to his mouth.",
+    "distractors": ["The man is holding a megaphone to his ear.", "The man is holding a sandwich to his mouth.", "The man is holding a trumpet to his mouth."],
+    "answer": "mouth",
+    "answerDistractors": ["ear", "knee", "foot"]
+  },
+  {
+    "wordId": "verbs-listen",
+    "kind": "phrase",
+    "text": "a hand behind one ear",
+    "distractors": ["a finger on the lips", "a hand over both eyes", "a ring on one finger"],
+    "answer": "ear",
+    "answerDistractors": ["eye", "knee", "elbow"]
+  },
+  {
+    "wordId": "verbs-listen",
+    "kind": "sentence",
+    "text": "The person is listening with a hand to one ear.",
+    "distractors": ["The person is listening with a phone to one ear.", "The person is listening with a shell to one ear.", "The person is sleeping with a hand to one ear."],
+    "answer": "hand",
+    "answerDistractors": ["phone", "shell", "radio"]
+  },
+  {
+    "wordId": "verbs-weigh",
+    "kind": "phrase",
+    "text": "weighing out some flour",
+    "distractors": ["chopping up an onion", "pouring out some milk", "grating a block of cheese"],
+    "answer": "flour",
+    "answerDistractors": ["grapes", "potatoes", "mince"]
+  },
+  {
+    "wordId": "verbs-weigh",
+    "kind": "sentence",
+    "text": "Someone is weighing flour on the kitchen scales.",
+    "distractors": ["Someone is weighing apples on the kitchen scales.", "Someone is weighing mince on the kitchen scales.", "Someone is weighing flour on the bathroom scales."],
+    "answer": "scales",
+    "answerDistractors": ["floor", "chair", "cooker"]
+  },
+  {
+    "wordId": "verbs-decorate",
+    "kind": "phrase",
+    "text": "decorating the Christmas tree",
+    "distractors": ["wrapping a birthday present", "icing a wedding cake", "carving a pumpkin lantern"],
+    "answer": "tree",
+    "answerDistractors": ["cake", "card", "pudding"]
+  },
+  {
+    "wordId": "verbs-decorate",
+    "kind": "sentence",
+    "text": "A child is hanging a decoration on the tree.",
+    "distractors": ["A child is hanging a decoration on the door.", "A man is hanging a decoration on the tree.", "A child is hanging a coat on the tree."],
+    "answer": "decoration",
+    "answerDistractors": ["coat", "towel", "picture"]
+  },
+  {
+    "wordId": "verbs-sunbathe",
+    "kind": "phrase",
+    "text": "sunbathing on the beach",
+    "distractors": ["skiing down a mountain", "fishing from a boat", "camping in the woods"],
+    "answer": "beach",
+    "answerDistractors": ["lawn", "balcony", "boat"]
+  },
+  {
+    "wordId": "verbs-sunbathe",
+    "kind": "sentence",
+    "text": "The woman in sunglasses is sunbathing on a towel.",
+    "distractors": ["The woman in sunglasses is sunbathing on a sunbed.", "The woman in sunglasses is sitting on a towel.", "The woman in boots is sunbathing on a towel."],
+    "answer": "towel",
+    "answerDistractors": ["sunbed", "bench", "rock"]
+  },
+  {
+    "wordId": "verbs-follow",
+    "kind": "phrase",
+    "text": "ducklings following a duck",
+    "distractors": ["lambs feeding from a sheep", "kittens sleeping in a basket", "puppies chasing a ball"],
+    "answer": "duck",
+    "answerDistractors": ["dog", "tractor", "child"]
+  },
+  {
+    "wordId": "verbs-follow",
+    "kind": "sentence",
+    "text": "The ducklings are following the duck across the grass.",
+    "distractors": ["The ducklings are following the duck across the pond.", "The ducklings are following the dog across the grass.", "The lambs are following the duck across the grass."],
+    "answer": "following",
+    "answerDistractors": ["carrying", "chasing", "leading"]
+  }
+]

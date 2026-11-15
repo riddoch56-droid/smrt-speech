@@ -70,8 +70,7 @@
       "syllables": 1,
       "rhyme": "purse",
       "sameFirstSound": "nest"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-dentist",
@@ -220,8 +219,7 @@
       "syllables": 3,
       "rhyme": "musician",
       "sameFirstSound": "orange"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-vet",
@@ -257,8 +255,7 @@
       "syllables": 1,
       "rhyme": "wet",
       "sameFirstSound": "van"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-midwife",
@@ -629,8 +626,7 @@
       "syllables": 2,
       "rhyme": "summer",
       "sameFirstSound": "plate"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-electrician",
@@ -741,8 +737,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "gate"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-farmer",
@@ -1259,8 +1254,7 @@
       "syllables": 4,
       "rhyme": null,
       "sameFirstSound": "lemon"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-photographer",
@@ -1334,8 +1328,7 @@
       "syllables": 2,
       "rhyme": "quicker",
       "sameFirstSound": "violin"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-architect",
@@ -1702,8 +1695,7 @@
       "syllables": 1,
       "rhyme": "chef",
       "sameFirstSound": "radio"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-mime",
@@ -1739,8 +1731,7 @@
       "syllables": 1,
       "rhyme": "time",
       "sameFirstSound": "milk"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-baby",
@@ -1961,8 +1952,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "grill"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-teenager",

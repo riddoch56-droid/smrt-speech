@@ -69,8 +69,7 @@
       "syllables": 1,
       "rhyme": "rose",
       "sameFirstSound": "night"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-eyebrow",
@@ -107,8 +106,7 @@
       "syllables": 2,
       "rhyme": "cow",
       "sameFirstSound": "island"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-tongue",
@@ -180,8 +178,7 @@
       "syllables": 1,
       "rhyme": "thin",
       "sameFirstSound": "chair"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-cheek",
@@ -697,8 +694,7 @@
       "syllables": 2,
       "rhyme": "sale",
       "sameFirstSound": "tiger"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-heel",

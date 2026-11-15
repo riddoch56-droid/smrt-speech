@@ -21,6 +21,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-adjectives-asleep",
+  "kind": "phrase",
+  "image": "adjectives-asleep.webp",
+  "wordId": "adjectives-asleep",
+  "group": "adjectives",
+  "text": "asleep in the car",
+  "distractors": [
+   "awake in the kitchen",
+   "driving a red bus",
+   "asleep on the sofa"
+  ],
+  "cloze": "asleep in the ___",
+  "answer": "car",
+  "answerDistractors": [
+   "bed",
+   "bath",
+   "garden"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-adjectives-blue",
   "kind": "phrase",
   "image": "adjectives-blue.webp",
@@ -80,6 +101,27 @@
    "square",
    "triangle",
    "star"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-bumpy",
+  "kind": "phrase",
+  "image": "adjectives-bumpy.webp",
+  "wordId": "adjectives-bumpy",
+  "group": "adjectives",
+  "text": "a bumpy stone path",
+  "distractors": [
+   "a smooth sandy beach",
+   "a muddy football pitch",
+   "a flat wooden floor"
+  ],
+  "cloze": "a bumpy stone ___",
+  "answer": "path",
+  "answerDistractors": [
+   "wall",
+   "bridge",
+   "tower"
   ],
   "childFriendly": true
  },
@@ -168,6 +210,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-adjectives-curved",
+  "kind": "phrase",
+  "image": "adjectives-curved.webp",
+  "wordId": "adjectives-curved",
+  "group": "adjectives",
+  "text": "a long curved road",
+  "distractors": [
+   "a long straight road",
+   "a narrow muddy path",
+   "a steep stone staircase"
+  ],
+  "cloze": "a long curved ___",
+  "answer": "road",
+  "answerDistractors": [
+   "bridge",
+   "railway",
+   "staircase"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-adjectives-dark",
   "kind": "phrase",
   "image": "adjectives-dark.webp",
@@ -210,6 +273,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-adjectives-elderly",
+  "kind": "phrase",
+  "image": "adjectives-elderly.webp",
+  "wordId": "adjectives-elderly",
+  "group": "adjectives",
+  "text": "an elderly man with a stick",
+  "distractors": [
+   "a young woman with a pram",
+   "a small boy with a ball",
+   "an elderly woman with a bag"
+  ],
+  "cloze": "an elderly man with a ___",
+  "answer": "stick",
+  "answerDistractors": [
+   "dog",
+   "suitcase",
+   "umbrella"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-adjectives-fast",
   "kind": "phrase",
   "image": "adjectives-fast.webp",
@@ -248,6 +332,48 @@
    "roof",
    "cap",
    "screen"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-fluffy",
+  "kind": "phrase",
+  "image": "adjectives-fluffy.webp",
+  "wordId": "adjectives-fluffy",
+  "group": "adjectives",
+  "text": "a fluffy little dog",
+  "distractors": [
+   "a fluffy white rabbit",
+   "a smooth grey seal",
+   "a big black horse"
+  ],
+  "cloze": "a fluffy little ___",
+  "answer": "dog",
+  "answerDistractors": [
+   "rabbit",
+   "chick",
+   "kitten"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-frozen",
+  "kind": "phrase",
+  "image": "adjectives-frozen.webp",
+  "wordId": "adjectives-frozen",
+  "group": "adjectives",
+  "text": "a pile of frozen raspberries",
+  "distractors": [
+   "a bowl of fresh strawberries",
+   "a bunch of green grapes",
+   "a bag of frozen peas"
+  ],
+  "cloze": "a pile of frozen ___",
+  "answer": "raspberries",
+  "answerDistractors": [
+   "peas",
+   "chips",
+   "fish"
   ],
   "childFriendly": true
  },
@@ -315,6 +441,48 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-adjectives-hot",
+  "kind": "phrase",
+  "image": "adjectives-hot.webp",
+  "wordId": "adjectives-hot",
+  "group": "adjectives",
+  "text": "a steaming hot drink",
+  "distractors": [
+   "a glass of cold milk",
+   "a bowl of ice cream",
+   "a bottle of water"
+  ],
+  "cloze": "a steaming hot ___",
+  "answer": "drink",
+  "answerDistractors": [
+   "pie",
+   "potato",
+   "bath"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-long",
+  "kind": "phrase",
+  "image": "adjectives-long.webp",
+  "wordId": "adjectives-long",
+  "group": "adjectives",
+  "text": "long dark hair",
+  "distractors": [
+   "short grey hair",
+   "a long white beard",
+   "short curly hair"
+  ],
+  "cloze": "long dark ___",
+  "answer": "hair",
+  "answerDistractors": [
+   "boots",
+   "curtains",
+   "gloves"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-adjectives-melted",
   "kind": "phrase",
   "image": "adjectives-melted.webp",
@@ -374,6 +542,27 @@
    "beach",
    "garden",
    "bridge"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-old",
+  "kind": "phrase",
+  "image": "adjectives-old.webp",
+  "wordId": "adjectives-old",
+  "group": "adjectives",
+  "text": "a pair of old boots",
+  "distractors": [
+   "a pair of new trainers",
+   "a pair of woolly socks",
+   "a single shiny shoe"
+  ],
+  "cloze": "a pair of old ___",
+  "answer": "boots",
+  "answerDistractors": [
+   "gloves",
+   "socks",
+   "slippers"
   ],
   "childFriendly": true
  },
@@ -462,6 +651,111 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-adjectives-rough",
+  "kind": "phrase",
+  "image": "adjectives-rough.webp",
+  "wordId": "adjectives-rough",
+  "group": "adjectives",
+  "text": "rough tree bark",
+  "distractors": [
+   "smooth river stones",
+   "soft green moss",
+   "shiny wet leaves"
+  ],
+  "cloze": "rough tree ___",
+  "answer": "bark",
+  "answerDistractors": [
+   "roots",
+   "leaves",
+   "blossom"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-round",
+  "kind": "phrase",
+  "image": "adjectives-round.webp",
+  "wordId": "adjectives-round",
+  "group": "adjectives",
+  "text": "a round window in a wall",
+  "distractors": [
+   "a square window in a door",
+   "a round mirror on a table",
+   "a round clock on a tower"
+  ],
+  "cloze": "a round window in a ___",
+  "answer": "wall",
+  "answerDistractors": [
+   "roof",
+   "door",
+   "ship"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-rusty",
+  "kind": "phrase",
+  "image": "adjectives-rusty.webp",
+  "wordId": "adjectives-rusty",
+  "group": "adjectives",
+  "text": "a rusty old nail",
+  "distractors": [
+   "a shiny new screw",
+   "a rusty old bike",
+   "a wooden clothes peg"
+  ],
+  "cloze": "a rusty old ___",
+  "answer": "nail",
+  "answerDistractors": [
+   "bike",
+   "gate",
+   "key"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-sad",
+  "kind": "phrase",
+  "image": "adjectives-sad.webp",
+  "wordId": "adjectives-sad",
+  "group": "adjectives",
+  "text": "a man looking sad",
+  "distractors": [
+   "a man laughing loudly",
+   "a woman looking sad",
+   "a man fast asleep"
+  ],
+  "cloze": "a man looking ___",
+  "answer": "sad",
+  "answerDistractors": [
+   "happy",
+   "excited",
+   "surprised"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-slippery",
+  "kind": "phrase",
+  "image": "adjectives-slippery.webp",
+  "wordId": "adjectives-slippery",
+  "group": "adjectives",
+  "text": "a slippery banana skin",
+  "distractors": [
+   "a fresh green apple",
+   "a bunch of bananas",
+   "a wet bar of soap"
+  ],
+  "cloze": "a slippery banana ___",
+  "answer": "skin",
+  "answerDistractors": [
+   "tree",
+   "milkshake",
+   "cake"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-adjectives-slow",
   "kind": "phrase",
   "image": "adjectives-slow.webp",
@@ -479,6 +773,48 @@
    "sand",
    "snow",
    "ice"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-small",
+  "kind": "phrase",
+  "image": "adjectives-small.webp",
+  "wordId": "adjectives-small",
+  "group": "adjectives",
+  "text": "a very small frog",
+  "distractors": [
+   "a very large dog",
+   "a small brown bird",
+   "a long thin snake"
+  ],
+  "cloze": "a very small ___",
+  "answer": "frog",
+  "answerDistractors": [
+   "bird",
+   "mouse",
+   "spider"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-smooth",
+  "kind": "phrase",
+  "image": "adjectives-smooth.webp",
+  "wordId": "adjectives-smooth",
+  "group": "adjectives",
+  "text": "a smooth flat stone",
+  "distractors": [
+   "a rough red brick",
+   "a sharp broken rock",
+   "a pile of stones"
+  ],
+  "cloze": "a smooth flat ___",
+  "answer": "stone",
+  "answerDistractors": [
+   "table",
+   "plate",
+   "road"
   ],
   "childFriendly": true
  },
@@ -525,6 +861,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-adjectives-strong",
+  "kind": "phrase",
+  "image": "adjectives-strong.webp",
+  "wordId": "adjectives-strong",
+  "group": "adjectives",
+  "text": "a strong arm",
+  "distractors": [
+   "a bare foot",
+   "a broken leg",
+   "a pair of hands"
+  ],
+  "cloze": "a strong ___",
+  "answer": "arm",
+  "answerDistractors": [
+   "leg",
+   "neck",
+   "rope"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-adjectives-surprised",
   "kind": "phrase",
   "image": "adjectives-surprised.webp",
@@ -542,6 +899,111 @@
    "closed",
    "shut",
    "full"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-tall",
+  "kind": "phrase",
+  "image": "adjectives-tall.webp",
+  "wordId": "adjectives-tall",
+  "group": "adjectives",
+  "text": "tall buildings in a city",
+  "distractors": [
+   "small cottages in a village",
+   "tall trees in a forest",
+   "low huts on a beach"
+  ],
+  "cloze": "tall buildings in a ___",
+  "answer": "city",
+  "answerDistractors": [
+   "village",
+   "forest",
+   "desert"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-tired",
+  "kind": "phrase",
+  "image": "adjectives-tired.webp",
+  "wordId": "adjectives-tired",
+  "group": "adjectives",
+  "text": "a tired woman rubbing her eyes",
+  "distractors": [
+   "a happy woman waving her hands",
+   "a tired man rubbing his neck",
+   "a woman brushing her long hair"
+  ],
+  "cloze": "a tired woman rubbing her ___",
+  "answer": "eyes",
+  "answerDistractors": [
+   "feet",
+   "knees",
+   "shoulders"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-torn",
+  "kind": "phrase",
+  "image": "adjectives-torn.webp",
+  "wordId": "adjectives-torn",
+  "group": "adjectives",
+  "text": "a torn sheet of paper",
+  "distractors": [
+   "a folded paper bag",
+   "a neat pile of books",
+   "a clean white envelope"
+  ],
+  "cloze": "a torn sheet of ___",
+  "answer": "paper",
+  "answerDistractors": [
+   "foil",
+   "stamps",
+   "newspaper"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-transparent",
+  "kind": "phrase",
+  "image": "adjectives-transparent.webp",
+  "wordId": "adjectives-transparent",
+  "group": "adjectives",
+  "text": "a transparent plastic box",
+  "distractors": [
+   "a solid wooden box",
+   "a transparent glass bottle",
+   "a brown cardboard box"
+  ],
+  "cloze": "a transparent plastic ___",
+  "answer": "box",
+  "answerDistractors": [
+   "bottle",
+   "bag",
+   "umbrella"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-wet",
+  "kind": "phrase",
+  "image": "adjectives-wet.webp",
+  "wordId": "adjectives-wet",
+  "group": "adjectives",
+  "text": "a very wet dog",
+  "distractors": [
+   "a dry fluffy cat",
+   "a very muddy boot",
+   "a dog in a basket"
+  ],
+  "cloze": "a very wet ___",
+  "answer": "dog",
+  "answerDistractors": [
+   "cat",
+   "horse",
+   "sheep"
   ],
   "childFriendly": true
  },
@@ -1764,6 +2226,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-body-chin",
+  "kind": "phrase",
+  "image": "body-chin.webp",
+  "wordId": "body-chin",
+  "group": "body",
+  "text": "a stubbly chin",
+  "distractors": [
+   "a long grey beard",
+   "a wrinkled forehead",
+   "a pair of ears"
+  ],
+  "cloze": "a stubbly ___",
+  "answer": "chin",
+  "answerDistractors": [
+   "knee",
+   "elbow",
+   "hand"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-body-comb",
   "kind": "phrase",
   "image": "body-comb.webp",
@@ -1865,6 +2348,27 @@
    "knee",
    "finger",
    "toe"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-body-eyebrow",
+  "kind": "phrase",
+  "image": "body-eyebrow.webp",
+  "wordId": "body-eyebrow",
+  "group": "body",
+  "text": "an eyebrow above an eye",
+  "distractors": [
+   "a ring on a finger",
+   "a beard on a chin",
+   "a nail on a thumb"
+  ],
+  "cloze": "an eyebrow above an ___",
+  "answer": "eye",
+  "answerDistractors": [
+   "ear",
+   "elbow",
+   "ankle"
   ],
   "childFriendly": true
  },
@@ -2075,6 +2579,27 @@
    "scissors",
    "tweezers",
    "pliers"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-body-nose",
+  "kind": "phrase",
+  "image": "body-nose.webp",
+  "wordId": "body-nose",
+  "group": "body",
+  "text": "glasses on a nose",
+  "distractors": [
+   "a ring on a finger",
+   "a hat on a head",
+   "a sock on a foot"
+  ],
+  "cloze": "glasses on a ___",
+  "answer": "nose",
+  "answerDistractors": [
+   "shelf",
+   "book",
+   "table"
   ],
   "childFriendly": true
  },
@@ -2373,6 +2898,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-body-toenail",
+  "kind": "phrase",
+  "image": "body-toenail.webp",
+  "wordId": "body-toenail",
+  "group": "body",
+  "text": "a short toenail",
+  "distractors": [
+   "a long fingernail",
+   "a bare elbow",
+   "a thick eyebrow"
+  ],
+  "cloze": "a short ___",
+  "answer": "toenail",
+  "answerDistractors": [
+   "beard",
+   "sleeve",
+   "ladder"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-body-tongue",
   "kind": "phrase",
   "image": "body-tongue.webp",
@@ -2558,6 +3104,27 @@
    "shoe",
    "mouth",
    "glove"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-clothing-anorak",
+  "kind": "phrase",
+  "image": "clothing-anorak.webp",
+  "wordId": "clothing-anorak",
+  "group": "clothing",
+  "text": "an anorak with a hood",
+  "distractors": [
+   "a jumper with a hole",
+   "a shirt with a tie",
+   "a dress with a belt"
+  ],
+  "cloze": "an anorak with a ___",
+  "answer": "hood",
+  "answerDistractors": [
+   "belt",
+   "tie",
+   "scarf"
   ],
   "childFriendly": true
  },
@@ -3045,6 +3612,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-clothing-knickers",
+  "kind": "phrase",
+  "image": "clothing-knickers.webp",
+  "wordId": "clothing-knickers",
+  "group": "clothing",
+  "text": "three pairs of knickers",
+  "distractors": [
+   "three pairs of socks",
+   "one pair of knickers",
+   "two pairs of gloves"
+  ],
+  "cloze": "three pairs of ___",
+  "answer": "knickers",
+  "answerDistractors": [
+   "socks",
+   "gloves",
+   "shoes"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-clothing-mittens",
   "kind": "phrase",
   "image": "clothing-mittens.webp",
@@ -3146,6 +3734,27 @@
    "keys",
    "sweets",
    "stamps"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-clothing-pyjamas",
+  "kind": "phrase",
+  "image": "clothing-pyjamas.webp",
+  "wordId": "clothing-pyjamas",
+  "group": "clothing",
+  "text": "a pair of shiny pyjamas",
+  "distractors": [
+   "a pair of woolly socks",
+   "a thick winter coat",
+   "a pair of leather gloves"
+  ],
+  "cloze": "a pair of shiny ___",
+  "answer": "pyjamas",
+  "answerDistractors": [
+   "shoes",
+   "boots",
+   "earrings"
   ],
   "childFriendly": true
  },
@@ -3419,6 +4028,27 @@
    "sandals",
    "wellies",
    "mittens"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-clothing-trousers",
+  "kind": "phrase",
+  "image": "clothing-trousers.webp",
+  "wordId": "clothing-trousers",
+  "group": "clothing",
+  "text": "a pair of long trousers",
+  "distractors": [
+   "a pair of short socks",
+   "a blue denim jacket",
+   "a pair of red shorts"
+  ],
+  "cloze": "a pair of long ___",
+  "answer": "trousers",
+  "answerDistractors": [
+   "socks",
+   "gloves",
+   "boots"
   ],
   "childFriendly": true
  },
@@ -4179,6 +4809,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-food-lemonade",
+  "kind": "phrase",
+  "image": "food-lemonade.webp",
+  "wordId": "food-lemonade",
+  "group": "food",
+  "text": "a glass of lemonade",
+  "distractors": [
+   "a mug of coffee",
+   "a bottle of milk",
+   "a jug of water"
+  ],
+  "cloze": "a glass of ___",
+  "answer": "lemonade",
+  "answerDistractors": [
+   "milk",
+   "cola",
+   "coffee"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-food-milk",
   "kind": "phrase",
   "image": "food-milk.webp",
@@ -4557,6 +5208,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-food-tea",
+  "kind": "phrase",
+  "image": "food-tea.webp",
+  "wordId": "food-tea",
+  "group": "food",
+  "text": "tea in a blue cup",
+  "distractors": [
+   "milk in a tall glass",
+   "soup in a white bowl",
+   "coffee in a paper cup"
+  ],
+  "cloze": "tea in a blue ___",
+  "answer": "cup",
+  "answerDistractors": [
+   "pot",
+   "glass",
+   "flask"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-food-toast",
   "kind": "phrase",
   "image": "food-toast.webp",
@@ -4597,6 +5269,27 @@
    "beer"
   ],
   "childFriendly": false
+ },
+ {
+  "id": "phrase-food-yoghurt",
+  "kind": "phrase",
+  "image": "food-yoghurt.webp",
+  "wordId": "food-yoghurt",
+  "group": "food",
+  "text": "yoghurt with a plastic spoon",
+  "distractors": [
+   "soup with a silver spoon",
+   "cereal with a jug of milk",
+   "jelly on a paper plate"
+  ],
+  "cloze": "yoghurt with a plastic ___",
+  "answer": "spoon",
+  "answerDistractors": [
+   "fork",
+   "straw",
+   "knife"
+  ],
+  "childFriendly": true
  },
  {
   "id": "phrase-furniture-armchair",
@@ -4805,6 +5498,27 @@
    "curtains",
    "shutters",
    "boxes"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-furniture-bookcase",
+  "kind": "phrase",
+  "image": "furniture-bookcase.webp",
+  "wordId": "furniture-bookcase",
+  "group": "furniture",
+  "text": "a bookcase full of books",
+  "distractors": [
+   "a wardrobe full of clothes",
+   "a fridge full of food",
+   "an empty wooden bookcase"
+  ],
+  "cloze": "a bookcase full of ___",
+  "answer": "books",
+  "answerDistractors": [
+   "shoes",
+   "plates",
+   "toys"
   ],
   "childFriendly": true
  },
@@ -5124,6 +5838,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-furniture-gate",
+  "kind": "phrase",
+  "image": "furniture-gate.webp",
+  "wordId": "furniture-gate",
+  "group": "furniture",
+  "text": "a white garden gate",
+  "distractors": [
+   "a red front door",
+   "a tall brick wall",
+   "a green garden shed"
+  ],
+  "cloze": "a white garden ___",
+  "answer": "gate",
+  "answerDistractors": [
+   "shed",
+   "bench",
+   "pond"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-furniture-gazebo",
   "kind": "phrase",
   "image": "furniture-gazebo.webp",
@@ -5250,6 +5985,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-furniture-letterbox",
+  "kind": "phrase",
+  "image": "furniture-letterbox.webp",
+  "wordId": "furniture-letterbox",
+  "group": "furniture",
+  "text": "a metal letterbox",
+  "distractors": [
+   "a brass door knocker",
+   "a wooden garden gate",
+   "a plastic dustbin"
+  ],
+  "cloze": "a metal ___",
+  "answer": "letterbox",
+  "answerDistractors": [
+   "bucket",
+   "ladder",
+   "kettle"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-furniture-mattress",
   "kind": "phrase",
   "image": "furniture-mattress.webp",
@@ -5288,6 +6044,27 @@
    "clock",
    "table",
    "plate"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-furniture-patio",
+  "kind": "phrase",
+  "image": "furniture-patio.webp",
+  "wordId": "furniture-patio",
+  "group": "furniture",
+  "text": "a patio with garden chairs",
+  "distractors": [
+   "a lawn with a washing line",
+   "a balcony with flower pots",
+   "a garage with two cars"
+  ],
+  "cloze": "a patio with garden ___",
+  "answer": "chairs",
+  "answerDistractors": [
+   "swings",
+   "benches",
+   "bicycles"
   ],
   "childFriendly": true
  },
@@ -5792,6 +6569,27 @@
    "torch",
    "match",
    "lamp"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-household-charger",
+  "kind": "phrase",
+  "image": "household-charger.webp",
+  "wordId": "household-charger",
+  "group": "household",
+  "text": "a black charger and cable",
+  "distractors": [
+   "a white kettle and toaster",
+   "a lamp on a table",
+   "a phone and headphones"
+  ],
+  "cloze": "a black charger and ___",
+  "answer": "cable",
+  "answerDistractors": [
+   "phone",
+   "laptop",
+   "torch"
   ],
   "childFriendly": true
  },
@@ -6825,6 +7623,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-nature-branch",
+  "kind": "phrase",
+  "image": "nature-branch.webp",
+  "wordId": "nature-branch",
+  "group": "nature",
+  "text": "a branch against the sky",
+  "distractors": [
+   "a log on the grass",
+   "a leaf on the ground",
+   "a bird in a nest"
+  ],
+  "cloze": "a branch against the ___",
+  "answer": "sky",
+  "answerDistractors": [
+   "wall",
+   "window",
+   "fence"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-nature-cactus",
   "kind": "phrase",
   "image": "nature-cactus.webp",
@@ -7266,6 +8085,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-nature-log",
+  "kind": "phrase",
+  "image": "nature-log.webp",
+  "wordId": "nature-log",
+  "group": "nature",
+  "text": "a big mossy log",
+  "distractors": [
+   "a tall leafy tree",
+   "a pile of dry sticks",
+   "a small wooden bench"
+  ],
+  "cloze": "a big mossy ___",
+  "answer": "log",
+  "answerDistractors": [
+   "wall",
+   "roof",
+   "stone"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-nature-moon",
   "kind": "phrase",
   "image": "nature-moon.webp",
@@ -7518,6 +8358,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-nature-sand",
+  "kind": "phrase",
+  "image": "nature-sand.webp",
+  "wordId": "nature-sand",
+  "group": "nature",
+  "text": "a big pile of sand",
+  "distractors": [
+   "a small bucket of water",
+   "a big pile of snow",
+   "a field of green grass"
+  ],
+  "cloze": "a big pile of ___",
+  "answer": "sand",
+  "answerDistractors": [
+   "snow",
+   "leaves",
+   "coal"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-nature-sea",
   "kind": "phrase",
   "image": "nature-sea.webp",
@@ -7598,6 +8459,27 @@
    "snow",
    "flour",
    "coins"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-nature-star",
+  "kind": "phrase",
+  "image": "nature-star.webp",
+  "wordId": "nature-star",
+  "group": "nature",
+  "text": "a bright shining star",
+  "distractors": [
+   "a pale full moon",
+   "a dark rain cloud",
+   "a bright red sunset"
+  ],
+  "cloze": "a bright shining ___",
+  "answer": "star",
+  "answerDistractors": [
+   "moon",
+   "torch",
+   "candle"
   ],
   "childFriendly": true
  },
@@ -8211,6 +9093,48 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-people-gardener",
+  "kind": "phrase",
+  "image": "people-gardener.webp",
+  "wordId": "people-gardener",
+  "group": "people",
+  "text": "a gardener with a fork",
+  "distractors": [
+   "a cook with a spoon",
+   "a gardener with a wheelbarrow",
+   "a painter with a brush"
+  ],
+  "cloze": "a gardener with a ___",
+  "answer": "fork",
+  "answerDistractors": [
+   "hose",
+   "mower",
+   "wheelbarrow"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-people-grandad",
+  "kind": "phrase",
+  "image": "people-grandad.webp",
+  "wordId": "people-grandad",
+  "group": "people",
+  "text": "a grandad with two girls",
+  "distractors": [
+   "a grandad with two boys",
+   "a mother with a baby",
+   "a grandad on a bike"
+  ],
+  "cloze": "a grandad with two ___",
+  "answer": "girls",
+  "answerDistractors": [
+   "boys",
+   "babies",
+   "cats"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-people-hairdresser",
   "kind": "phrase",
   "image": "people-hairdresser.webp",
@@ -8249,6 +9173,27 @@
    "bike",
    "bus",
    "tractor"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-people-librarian",
+  "kind": "phrase",
+  "image": "people-librarian.webp",
+  "wordId": "people-librarian",
+  "group": "people",
+  "text": "a librarian holding an open book",
+  "distractors": [
+   "a teacher writing on a board",
+   "a librarian pushing a book trolley",
+   "a shopkeeper weighing some fruit"
+  ],
+  "cloze": "a librarian holding an open ___",
+  "answer": "book",
+  "answerDistractors": [
+   "umbrella",
+   "envelope",
+   "tin"
   ],
   "childFriendly": true
  },
@@ -8316,6 +9261,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-people-mime",
+  "kind": "phrase",
+  "image": "people-mime.webp",
+  "wordId": "people-mime",
+  "group": "people",
+  "text": "a mime with a white face",
+  "distractors": [
+   "a clown with a red nose",
+   "a singer with a microphone",
+   "a mime with a black hat"
+  ],
+  "cloze": "a mime with a white ___",
+  "answer": "face",
+  "answerDistractors": [
+   "beard",
+   "scarf",
+   "rabbit"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-people-monk",
   "kind": "phrase",
   "image": "people-monk.webp",
@@ -8354,6 +9320,48 @@
    "soldiers",
    "shops",
    "bottles"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-people-nurse",
+  "kind": "phrase",
+  "image": "people-nurse.webp",
+  "wordId": "people-nurse",
+  "group": "people",
+  "text": "a nurse in a white uniform",
+  "distractors": [
+   "a doctor in a green gown",
+   "a chef in a tall hat",
+   "a nurse in a blue uniform"
+  ],
+  "cloze": "a nurse in a white ___",
+  "answer": "uniform",
+  "answerDistractors": [
+   "hat",
+   "mask",
+   "scarf"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-people-optician",
+  "kind": "phrase",
+  "image": "people-optician.webp",
+  "wordId": "people-optician",
+  "group": "people",
+  "text": "an optician testing a woman's eyes",
+  "distractors": [
+   "a dentist checking a man's teeth",
+   "a barber cutting a man's hair",
+   "a nurse weighing a small baby"
+  ],
+  "cloze": "an optician testing a woman's ___",
+  "answer": "eyes",
+  "answerDistractors": [
+   "ears",
+   "teeth",
+   "feet"
   ],
   "childFriendly": true
  },
@@ -8400,6 +9408,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-people-plumber",
+  "kind": "phrase",
+  "image": "people-plumber.webp",
+  "wordId": "people-plumber",
+  "group": "people",
+  "text": "fixing a pipe under the sink",
+  "distractors": [
+   "painting a wall in the hall",
+   "washing plates in the sink",
+   "mending a tyre on a bike"
+  ],
+  "cloze": "fixing a pipe under the ___",
+  "answer": "sink",
+  "answerDistractors": [
+   "bed",
+   "car",
+   "stairs"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-people-police-officer",
   "kind": "phrase",
   "image": "people-police-officer.webp",
@@ -8417,6 +9446,27 @@
    "horses",
    "scooters",
    "tractors"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-people-ref",
+  "kind": "phrase",
+  "image": "people-ref.webp",
+  "wordId": "people-ref",
+  "group": "people",
+  "text": "a referee with a whistle",
+  "distractors": [
+   "a goalkeeper with a ball",
+   "a player with a trophy",
+   "a referee with a red card"
+  ],
+  "cloze": "a referee with a ___",
+  "answer": "whistle",
+  "answerDistractors": [
+   "flag",
+   "ball",
+   "trumpet"
   ],
   "childFriendly": true
  },
@@ -8547,6 +9597,48 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-people-vet",
+  "kind": "phrase",
+  "image": "people-vet.webp",
+  "wordId": "people-vet",
+  "group": "people",
+  "text": "a vet examining a dog",
+  "distractors": [
+   "a nurse weighing a baby",
+   "a farmer feeding a pig",
+   "a vet holding a cat"
+  ],
+  "cloze": "a vet examining a ___",
+  "answer": "dog",
+  "answerDistractors": [
+   "cat",
+   "rabbit",
+   "parrot"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-people-vicar",
+  "kind": "phrase",
+  "image": "people-vicar.webp",
+  "wordId": "people-vicar",
+  "group": "people",
+  "text": "a vicar in a black robe",
+  "distractors": [
+   "a nurse in a blue uniform",
+   "a bride in a white dress",
+   "a chef in a tall hat"
+  ],
+  "cloze": "a vicar in a black ___",
+  "answer": "robe",
+  "answerDistractors": [
+   "hat",
+   "apron",
+   "jumper"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-people-waiter",
   "kind": "phrase",
   "image": "people-waiter.webp",
@@ -8627,6 +9719,27 @@
    "shoes",
    "books",
    "flowers"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-places-bank",
+  "kind": "phrase",
+  "image": "places-bank.webp",
+  "wordId": "places-bank",
+  "group": "places",
+  "text": "a red brick bank",
+  "distractors": [
+   "a white stone church",
+   "a wooden garden shed",
+   "a tall glass tower"
+  ],
+  "cloze": "a red brick ___",
+  "answer": "bank",
+  "answerDistractors": [
+   "church",
+   "windmill",
+   "lighthouse"
   ],
   "childFriendly": true
  },
@@ -8820,6 +9933,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-places-chemist",
+  "kind": "phrase",
+  "image": "places-chemist.webp",
+  "wordId": "places-chemist",
+  "group": "places",
+  "text": "a chemist with a green cross",
+  "distractors": [
+   "a church with a tall spire",
+   "a garage with a red door",
+   "a pub with a hanging sign"
+  ],
+  "cloze": "a chemist with a green ___",
+  "answer": "cross",
+  "answerDistractors": [
+   "flag",
+   "roof",
+   "fence"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-places-church",
   "kind": "phrase",
   "image": "places-church.webp",
@@ -8841,6 +9975,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-places-cinema",
+  "kind": "phrase",
+  "image": "places-cinema.webp",
+  "wordId": "places-cinema",
+  "group": "places",
+  "text": "an empty cinema",
+  "distractors": [
+   "a busy restaurant",
+   "an empty classroom",
+   "a crowded beach"
+  ],
+  "cloze": "an empty ___",
+  "answer": "cinema",
+  "answerDistractors": [
+   "church",
+   "classroom",
+   "restaurant"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-places-cottage",
   "kind": "phrase",
   "image": "places-cottage.webp",
@@ -8858,6 +10013,27 @@
    "door",
    "fence",
    "gate"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-places-courthouse",
+  "kind": "phrase",
+  "image": "places-courthouse.webp",
+  "wordId": "places-courthouse",
+  "group": "places",
+  "text": "a courthouse with tall columns",
+  "distractors": [
+   "a cottage with a thatched roof",
+   "a church with a tall spire",
+   "a factory with tall chimneys"
+  ],
+  "cloze": "a courthouse with tall ___",
+  "answer": "columns",
+  "answerDistractors": [
+   "chimneys",
+   "fences",
+   "hedges"
   ],
   "childFriendly": true
  },
@@ -8963,6 +10139,48 @@
    "desert",
    "forest",
    "garage"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-places-hospital",
+  "kind": "phrase",
+  "image": "places-hospital.webp",
+  "wordId": "places-hospital",
+  "group": "places",
+  "text": "the main entrance of a hospital",
+  "distractors": [
+   "the front door of a cottage",
+   "the car park of a supermarket",
+   "the back garden of a pub"
+  ],
+  "cloze": "the main entrance of a ___",
+  "answer": "hospital",
+  "answerDistractors": [
+   "church",
+   "castle",
+   "stadium"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-places-hotel",
+  "kind": "phrase",
+  "image": "places-hotel.webp",
+  "wordId": "places-hotel",
+  "group": "places",
+  "text": "a large white hotel",
+  "distractors": [
+   "a small brick cottage",
+   "a large red barn",
+   "a tall grey lighthouse"
+  ],
+  "cloze": "a large white ___",
+  "answer": "hotel",
+  "answerDistractors": [
+   "tent",
+   "caravan",
+   "lorry"
   ],
   "childFriendly": true
  },
@@ -9114,6 +10332,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-places-newsagent",
+  "kind": "phrase",
+  "image": "places-newsagent.webp",
+  "wordId": "places-newsagent",
+  "group": "places",
+  "text": "a shop selling newspapers",
+  "distractors": [
+   "a stall selling fruit",
+   "a garage selling cars",
+   "a café serving tea"
+  ],
+  "cloze": "a shop selling ___",
+  "answer": "newspapers",
+  "answerDistractors": [
+   "shoes",
+   "flowers",
+   "furniture"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-places-palace",
   "kind": "phrase",
   "image": "places-palace.webp",
@@ -9236,6 +10475,27 @@
    "library",
    "bakery",
    "gym"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-places-school",
+  "kind": "phrase",
+  "image": "places-school.webp",
+  "wordId": "places-school",
+  "group": "places",
+  "text": "a school with a blue door",
+  "distractors": [
+   "a church with a tall spire",
+   "a shop with a red sign",
+   "a house with a green gate"
+  ],
+  "cloze": "a school with a blue ___",
+  "answer": "door",
+  "answerDistractors": [
+   "bus",
+   "gate",
+   "slide"
   ],
   "childFriendly": true
  },
@@ -9404,6 +10664,27 @@
    "bridge",
    "station",
    "signal"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-places-university",
+  "kind": "phrase",
+  "image": "places-university.webp",
+  "wordId": "places-university",
+  "group": "places",
+  "text": "a grand old university",
+  "distractors": [
+   "a busy modern airport",
+   "a small village shop",
+   "a tall glass office block"
+  ],
+  "cloze": "a grand old ___",
+  "answer": "university",
+  "answerDistractors": [
+   "lighthouse",
+   "windmill",
+   "piano"
   ],
   "childFriendly": true
  },
@@ -10542,6 +11823,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-transport-windscreen",
+  "kind": "phrase",
+  "image": "transport-windscreen.webp",
+  "wordId": "transport-windscreen",
+  "group": "transport",
+  "text": "the windscreen of a green car",
+  "distractors": [
+   "the wheel of a red bus",
+   "the door of a white van",
+   "the boot of a black car"
+  ],
+  "cloze": "the windscreen of a green ___",
+  "answer": "car",
+  "answerDistractors": [
+   "bus",
+   "lorry",
+   "tractor"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-transport-yacht",
   "kind": "phrase",
   "image": "transport-yacht.webp",
@@ -10689,6 +11991,48 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-verbs-crawl",
+  "kind": "phrase",
+  "image": "verbs-crawl.webp",
+  "wordId": "verbs-crawl",
+  "group": "verbs",
+  "text": "a baby crawling on grass",
+  "distractors": [
+   "a dog running on sand",
+   "a baby sleeping in a cot",
+   "a cat sitting on a wall"
+  ],
+  "cloze": "a baby crawling on ___",
+  "answer": "grass",
+  "answerDistractors": [
+   "sand",
+   "snow",
+   "carpet"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-decorate",
+  "kind": "phrase",
+  "image": "verbs-decorate.webp",
+  "wordId": "verbs-decorate",
+  "group": "verbs",
+  "text": "decorating the Christmas tree",
+  "distractors": [
+   "wrapping a birthday present",
+   "icing a wedding cake",
+   "carving a pumpkin lantern"
+  ],
+  "cloze": "decorating the Christmas ___",
+  "answer": "tree",
+  "answerDistractors": [
+   "cake",
+   "card",
+   "pudding"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-verbs-dig",
   "kind": "phrase",
   "image": "verbs-dig.webp",
@@ -10706,6 +12050,27 @@
    "road",
    "snow",
    "lawn"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-disinfect",
+  "kind": "phrase",
+  "image": "verbs-disinfect.webp",
+  "wordId": "verbs-disinfect",
+  "group": "verbs",
+  "text": "disinfecting a wooden worktop",
+  "distractors": [
+   "varnishing a wooden floor",
+   "disinfecting a metal sink",
+   "chopping a pile of logs"
+  ],
+  "cloze": "disinfecting a wooden ___",
+  "answer": "worktop",
+  "answerDistractors": [
+   "chair",
+   "door",
+   "fence"
   ],
   "childFriendly": true
  },
@@ -10769,6 +12134,27 @@
    "kitten",
    "puppy",
    "parrot"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-follow",
+  "kind": "phrase",
+  "image": "verbs-follow.webp",
+  "wordId": "verbs-follow",
+  "group": "verbs",
+  "text": "ducklings following a duck",
+  "distractors": [
+   "lambs feeding from a sheep",
+   "kittens sleeping in a basket",
+   "puppies chasing a ball"
+  ],
+  "cloze": "ducklings following a ___",
+  "answer": "duck",
+  "answerDistractors": [
+   "dog",
+   "tractor",
+   "child"
   ],
   "childFriendly": true
  },
@@ -11025,6 +12411,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-verbs-listen",
+  "kind": "phrase",
+  "image": "verbs-listen.webp",
+  "wordId": "verbs-listen",
+  "group": "verbs",
+  "text": "a hand behind one ear",
+  "distractors": [
+   "a finger on the lips",
+   "a hand over both eyes",
+   "a ring on one finger"
+  ],
+  "cloze": "a hand behind one ___",
+  "answer": "ear",
+  "answerDistractors": [
+   "eye",
+   "knee",
+   "elbow"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-verbs-measure",
   "kind": "phrase",
   "image": "verbs-measure.webp",
@@ -11042,6 +12449,27 @@
    "door",
    "window",
    "wall"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-moisturise",
+  "kind": "phrase",
+  "image": "verbs-moisturise.webp",
+  "wordId": "verbs-moisturise",
+  "group": "verbs",
+  "text": "moisturising the hands",
+  "distractors": [
+   "washing the feet",
+   "drying the hair",
+   "brushing the teeth"
+  ],
+  "cloze": "moisturising the ___",
+  "answer": "hands",
+  "answerDistractors": [
+   "feet",
+   "knees",
+   "elbows"
   ],
   "childFriendly": true
  },
@@ -11147,6 +12575,27 @@
    "bath",
    "shower",
    "nap"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-polish",
+  "kind": "phrase",
+  "image": "verbs-polish.webp",
+  "wordId": "verbs-polish",
+  "group": "verbs",
+  "text": "polishing metal with a cloth",
+  "distractors": [
+   "painting a wall with a roller",
+   "washing a car with a hose",
+   "sweeping leaves off a path"
+  ],
+  "cloze": "polishing metal with a ___",
+  "answer": "cloth",
+  "answerDistractors": [
+   "brush",
+   "mop",
+   "broom"
   ],
   "childFriendly": true
  },
@@ -11361,6 +12810,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-verbs-scrub",
+  "kind": "phrase",
+  "image": "verbs-scrub.webp",
+  "wordId": "verbs-scrub",
+  "group": "verbs",
+  "text": "scrubbing with a blue brush",
+  "distractors": [
+   "sweeping with a long broom",
+   "drying with a tea towel",
+   "painting with a small roller"
+  ],
+  "cloze": "scrubbing with a blue ___",
+  "answer": "brush",
+  "answerDistractors": [
+   "mop",
+   "towel",
+   "cloth"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-verbs-sew",
   "kind": "phrase",
   "image": "verbs-sew.webp",
@@ -11399,6 +12869,27 @@
    "spoon",
    "comb",
    "fork"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-shout",
+  "kind": "phrase",
+  "image": "verbs-shout.webp",
+  "wordId": "verbs-shout",
+  "group": "verbs",
+  "text": "shouting into a megaphone",
+  "distractors": [
+   "whispering into an ear",
+   "singing in a choir",
+   "blowing up a balloon"
+  ],
+  "cloze": "shouting into a ___",
+  "answer": "megaphone",
+  "answerDistractors": [
+   "telephone",
+   "tunnel",
+   "pillow"
   ],
   "childFriendly": true
  },
@@ -11445,6 +12936,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-verbs-sleep",
+  "kind": "phrase",
+  "image": "verbs-sleep.webp",
+  "wordId": "verbs-sleep",
+  "group": "verbs",
+  "text": "sleeping on the grass",
+  "distractors": [
+   "sleeping in a bed",
+   "reading on the sofa",
+   "running on the beach"
+  ],
+  "cloze": "sleeping on the ___",
+  "answer": "grass",
+  "answerDistractors": [
+   "sofa",
+   "train",
+   "sand"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-verbs-smile",
   "kind": "phrase",
   "image": "verbs-smile.webp",
@@ -11487,6 +12999,69 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-verbs-somersault",
+  "kind": "phrase",
+  "image": "verbs-somersault.webp",
+  "wordId": "verbs-somersault",
+  "group": "verbs",
+  "text": "turning a somersault in the air",
+  "distractors": [
+   "swimming a length of the pool",
+   "climbing a rope in the gym",
+   "skipping with a rope outside"
+  ],
+  "cloze": "turning a somersault in the ___",
+  "answer": "air",
+  "answerDistractors": [
+   "pool",
+   "snow",
+   "sea"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-stack",
+  "kind": "phrase",
+  "image": "verbs-stack.webp",
+  "wordId": "verbs-stack",
+  "group": "verbs",
+  "text": "stacking cardboard boxes",
+  "distractors": [
+   "stacking dinner plates",
+   "folding clean towels",
+   "stacking plastic chairs"
+  ],
+  "cloze": "stacking cardboard ___",
+  "answer": "boxes",
+  "answerDistractors": [
+   "tubes",
+   "cups",
+   "plates"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-stir",
+  "kind": "phrase",
+  "image": "verbs-stir.webp",
+  "wordId": "verbs-stir",
+  "group": "verbs",
+  "text": "stirring a big pot",
+  "distractors": [
+   "frying two eggs",
+   "washing a dirty plate",
+   "pouring a cup of tea"
+  ],
+  "cloze": "stirring a big ___",
+  "answer": "pot",
+  "answerDistractors": [
+   "cup",
+   "jug",
+   "kettle"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-verbs-stretch",
   "kind": "phrase",
   "image": "verbs-stretch.webp",
@@ -11504,6 +13079,27 @@
    "bed",
    "car",
    "bath"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-sunbathe",
+  "kind": "phrase",
+  "image": "verbs-sunbathe.webp",
+  "wordId": "verbs-sunbathe",
+  "group": "verbs",
+  "text": "sunbathing on the beach",
+  "distractors": [
+   "skiing down a mountain",
+   "fishing from a boat",
+   "camping in the woods"
+  ],
+  "cloze": "sunbathing on the ___",
+  "answer": "beach",
+  "answerDistractors": [
+   "lawn",
+   "balcony",
+   "boat"
   ],
   "childFriendly": true
  },
@@ -11571,6 +13167,111 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-verbs-talk",
+  "kind": "phrase",
+  "image": "verbs-talk.webp",
+  "wordId": "verbs-talk",
+  "group": "verbs",
+  "text": "two people talking",
+  "distractors": [
+   "three children playing",
+   "two dogs barking",
+   "a man singing"
+  ],
+  "cloze": "two people ___",
+  "answer": "talking",
+  "answerDistractors": [
+   "running",
+   "dancing",
+   "cycling"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-throw",
+  "kind": "phrase",
+  "image": "verbs-throw.webp",
+  "wordId": "verbs-throw",
+  "group": "verbs",
+  "text": "throwing a ball",
+  "distractors": [
+   "kicking a football",
+   "catching a fish",
+   "riding a bike"
+  ],
+  "cloze": "throwing a ___",
+  "answer": "ball",
+  "answerDistractors": [
+   "frisbee",
+   "stick",
+   "javelin"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-twist",
+  "kind": "phrase",
+  "image": "verbs-twist.webp",
+  "wordId": "verbs-twist",
+  "group": "verbs",
+  "text": "twisting the lid of a jar",
+  "distractors": [
+   "pouring tea from a pot",
+   "cutting a slice of bread",
+   "turning a key in a lock"
+  ],
+  "cloze": "twisting the lid of a ___",
+  "answer": "jar",
+  "answerDistractors": [
+   "teapot",
+   "saucepan",
+   "dustbin"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-vacuum",
+  "kind": "phrase",
+  "image": "verbs-vacuum.webp",
+  "wordId": "verbs-vacuum",
+  "group": "verbs",
+  "text": "vacuuming the carpet",
+  "distractors": [
+   "mowing the lawn",
+   "washing the windows",
+   "ironing a shirt"
+  ],
+  "cloze": "vacuuming the ___",
+  "answer": "carpet",
+  "answerDistractors": [
+   "stairs",
+   "car",
+   "curtains"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-walk",
+  "kind": "phrase",
+  "image": "verbs-walk.webp",
+  "wordId": "verbs-walk",
+  "group": "verbs",
+  "text": "walking under the trees",
+  "distractors": [
+   "swimming in the sea",
+   "climbing over a gate",
+   "running up the stairs"
+  ],
+  "cloze": "walking under the ___",
+  "answer": "trees",
+  "answerDistractors": [
+   "bridge",
+   "umbrella",
+   "stars"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-verbs-wash",
   "kind": "phrase",
   "image": "verbs-wash.webp",
@@ -11588,6 +13289,27 @@
    "bath",
    "river",
    "pool"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-weigh",
+  "kind": "phrase",
+  "image": "verbs-weigh.webp",
+  "wordId": "verbs-weigh",
+  "group": "verbs",
+  "text": "weighing out some flour",
+  "distractors": [
+   "chopping up an onion",
+   "pouring out some milk",
+   "grating a block of cheese"
+  ],
+  "cloze": "weighing out some ___",
+  "answer": "flour",
+  "answerDistractors": [
+   "grapes",
+   "potatoes",
+   "mince"
   ],
   "childFriendly": true
  },

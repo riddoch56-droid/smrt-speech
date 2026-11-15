@@ -1,0 +1,14 @@
+{
+  "places-cinema": [24, 7, 21, 38],
+  "places-hotel": [],
+  "transport-windscreen": [22, 7],
+  "verbs-hop": [31],
+  "verbs-walk": [43, 39, 22, 17],
+  "verbs-crawl": [3, 8],
+  "verbs-kneel": [],
+  "verbs-somersault": [],
+  "verbs-wake": [],
+  "verbs-sleep": [12, 2, 47, 17],
+  "verbs-snore": [],
+  "verbs-undress": []
+}

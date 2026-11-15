@@ -19,7 +19,7 @@ informal screen, not a standardised assessment.
 3. Open SMRT Speech from the home screen icon. Always use that icon from now on: the home-screen
    app keeps its own data, separate from Safari.
 4. Follow the three welcome steps. Step 3 downloads the pictures for offline use: wait until it
-   says **Ready for offline use: 557 of 557 pictures**. Keep the iPad online and the app open
+   says **Ready for offline use: 639 of 639 pictures**. Keep the iPad online and the app open
    until it does. If the download stops, choose **Resume download**.
 5. Turn on aeroplane mode once and check an activity opens with its pictures.
 
@@ -77,10 +77,10 @@ show "twice in a row". The suggestion is a prompt for clinical judgement, not ad
 | Content | Amount | Status |
 |---|---|---|
 | Words | 700 (10 noun groups of 54, 100 actions, 60 describing words) | First draft: needs therapist review |
-| Words with a picture | 557 | Each checked by eye twice |
+| Words with a picture | 639 | Each checked by eye twice |
 | Naming Test | 30 items, version 1, frozen 14 November 2026 | Needs therapist review |
-| Reading phrases | 556 | Written against the actual pictures; needs review |
-| Reading sentences | 549 | Written against the actual pictures; needs review |
+| Reading phrases | 638 | Written against the actual pictures; needs review |
+| Reading sentences | 631 | Written against the actual pictures; needs review |
 
 **`CONTENT_REVIEW.csv`** lists every word (with its cues, semantic and sound prompts) and every
 reading item. Please review it: all clinical wording was written for this build and has not been
@@ -91,58 +91,75 @@ new results are not compared as like for like.
 
 ## 8. Pictures
 
-557 of 700 words have a picture. The other 143 are listed in **`IMAGE_TODO.md`**. They are left out
+639 of 700 words have a picture. The other 61 are listed in **`IMAGE_TODO.md`**. They are left out
 of every activity that needs a picture and still appear where none is needed (Listen and Read,
 Spell What You Hear). Add a picture in the app under Settings, Word management, Replace picture.
 
 | Group | With a picture | Without |
 |---|---|---|
-| Food and drink | 50 | 4 |
+| Food and drink | 53 | 1 |
 | Animals | 54 | 0 |
-| Clothing and accessories | 47 | 7 |
-| Household objects | 53 | 1 |
-| Furniture and rooms | 50 | 4 |
-| Body and personal care | 42 | 12 |
-| Transport and travel | 53 | 1 |
-| Places and buildings | 42 | 12 |
-| People and occupations | 36 | 18 |
-| Nature, weather and outdoors | 50 | 4 |
-| Actions | 53 | 47 |
-| Describing words | 27 | 33 |
+| Clothing and accessories | 51 | 3 |
+| Household objects | 54 | 0 |
+| Furniture and rooms | 54 | 0 |
+| Body and personal care | 46 | 8 |
+| Transport and travel | 54 | 0 |
+| Places and buildings | 51 | 3 |
+| People and occupations | 46 | 8 |
+| Nature, weather and outdoors | 54 | 0 |
+| Actions | 73 | 27 |
+| Describing words | 49 | 11 |
 
-The first release had 445 pictures after three attempts a word. A fourth, wider search on
-15 November 2026 added 112 (see `DECISIONS.md`, Images). The gaps that remain are mostly actions,
-describing words and people: openly licensed photographs that show one clear action or property,
-of an anonymous person, with nothing unsuitable, are scarce, and four rounds of searching have
-now been through what the open sources offer. No picture-generation key was available, so no
-pictures were generated.
+The first release had 445 pictures after three attempts a word. On 15 November 2026 a fourth,
+wider search added 112, and three further rounds (five to seven), each showing a reviewer up to
+48 fresh candidates a word, added 82 more (see `DECISIONS.md`, Images). No picture was generated.
 
-**Sources:** Wikimedia Commons 513, Openverse 36, drawn by the build 8 (plain colour swatches for
+The 61 words still without a picture are:
+
+- 27 actions: bathe, chase, cough, cry, drop, floss, fold, frown, give, greet, help, hop,
+  interview, kneel, rinse, share, snore, sprinkle, squeeze, taste, tear, tickle, tidy, undress,
+  wake, whistle, wink
+- 11 describing words: big, full, heavy, loud, new, shiny, short, soft, square, sticky, young
+- 8 people: architect, gran, groom, judge, midwife, paramedic, teenager, twins
+- 8 body and personal care words: ankle, cheek, flannel, forehead, heel, knuckle, shampoo, thigh
+- 7 others: earmuffs, skirt, tights, cream, cafe, clinic, post office
+
+What the open sources offer for these is mostly named or well-known people, pictures of injuries,
+brand names, or pictures a viewer would name by the object and not by the word. Seven rounds have
+now been through Wikimedia Commons thoroughly. Openverse allows 200 searches a day without an
+account, so one more pass there on a later day could add a few.
+
+**Sources:** Wikimedia Commons 575, Openverse 56 (mostly Flickr), drawn by the build 8 (plain colour swatches for
 the colour words).
 
-**Licences:** CC BY 275, CC0 147, public domain 56, CC BY-SA 71, made for the app 8. No
+**Licences:** CC BY 301, CC0 159, public domain 65, CC BY-SA 106, made for the app 8. No
 NonCommercial or NoDerivatives picture is used. Every picture's source, author and licence is in
 `src/content/image-credits.json` and in the app under Settings, Words and pictures, Image credits.
 
-**Share-alike pictures (71, each flagged in the credits file).** A CC BY-SA picture was used only
+**Share-alike pictures (106, each flagged in the credits file).** A CC BY-SA picture was used only
 when no acceptable picture with a more permissive licence was found. Sixteen date from the third
-attempt and 55 from the fourth round, where most of the plain, usable photographs of everyday
-objects turned out to be share-alike.
+attempt, 55 from the fourth round and 35 from rounds five to seven: most of the plain, usable
+photographs of everyday things on Wikimedia Commons turned out to be share-alike.
 
-- Describing words: broken, flat, melted, mouldy
+- Describing words: broken, bumpy, flat, long, melted, mouldy, round, sad, smooth, tall,
+  transparent, wet
 - Animals: octopus
 - Body and personal care: bandage, bone, comb, crutches, finger, hairbrush, knee, shoulder, tissue,
-  toe, wheelchair
-- Clothing: blouse, cufflinks, earrings, gilet, jeans, jumper, nightie, purse, raincoat, sandals,
-  scarf, shirt, vest, waistcoat, wellies
+  toe, toenail, wheelchair
+- Clothing: blouse, cufflinks, earrings, gilet, jeans, jumper, knickers, nightie, purse, pyjamas,
+  raincoat, sandals, scarf, shirt, trousers, vest, waistcoat, wellies
 - Food and drink: bun, cauliflower, crumpet, plum, porridge, toast
-- Furniture and rooms: blanket, carpet, conservatory, cushion, duvet, pillow, shower, stairs
-- Household: mop, torch
-- Nature: trunk
-- People: baker, farmer, hairdresser, lifeguard, magician, pilot
-- Places: allotment, bookshop, campsite, fairground, museum, pub, theatre
-- Transport: cone, pram, suitcase, tyre
-- Actions: catch, hang, hike, kick, peel, scratch
+- Furniture and rooms: blanket, carpet, conservatory, cushion, duvet, gate, letterbox, pillow,
+  shower, stairs
+- Household: charger, mop, torch
+- Nature: log, trunk
+- People: baker, farmer, gardener, grandad, hairdresser, librarian, lifeguard, magician, mime,
+  nurse, optician, pilot
+- Places: allotment, bank, bookshop, campsite, chemist, courthouse, fairground, hospital, museum,
+  pub, theatre
+- Transport: cone, pram, suitcase, tyre, windscreen
+- Actions: catch, crawl, follow, hang, hike, kick, listen, peel, scratch, scrub, shout,
+  somersault, twist, weigh
 
 CC BY-SA asks that adapted versions of a picture carry the same licence. The app credits each one
 and resizes it, which the licence allows. If you would rather not carry that condition, replace
@@ -155,12 +172,12 @@ pictures.
 
 ## 9. Test results
 
-Run on 15 November 2026 against the production build, after the fourth picture round.
+Run on 15 November 2026 against the production build, after the seventh picture round.
 
 | Check | Result |
 |---|---|
 | Unit tests (`npm test`) | 388 passed, 0 failed (15 files) |
-| Content validation (`npm run validate:content`) | Passed: 0 errors, 72 warnings (1 for the 143 words without a picture, 71 for the share-alike pictures) |
+| Content validation (`npm run validate:content`) | Passed: 0 errors, 107 warnings (1 for the 61 words without a picture, 106 for the share-alike pictures) |
 | TypeScript and ESLint (part of `npm run build`) | Clean |
 | End to end (`npm run test:e2e`) | 35 passed, 0 failed |
 
@@ -222,7 +239,11 @@ Other limitations:
 
 - Adjective pictures show a typical example (a snail for "slow", burnt toast for "burnt"). They
   suit comprehension better than naming.
-- Some pictures show non-UK examples (for instance a passport and a lorry from other countries).
+- Some pictures show non-UK examples (for instance a passport and a lorry from other countries,
+  a charger in an American socket, and a courthouse, a university and a hotel abroad).
+- Some pictures added in rounds five to seven are the best available, not ideal: the chemist is a
+  national chain's shop front, "asleep" and "sleep" both show a person sleeping, and each
+  describing word shows one typical example. Please look through the 82 newest pictures.
 - Some therapist-facing secondary text is smaller than 20 px (see `DECISIONS.md`).
 - Openly licensed photographs of people show real individuals. Close portraits of identifiable
   people in an official role were excluded, but please look through the People group.
@@ -230,10 +251,10 @@ Other limitations:
 ## 11. Decisions that need a human
 
 1. **Clinical review** of `CONTENT_REVIEW.csv` and of the 30 Naming Test items.
-2. **The 71 share-alike pictures:** keep or replace (section 8).
-3. **The 143 words without a picture:** add your own photographs in the app, supply a
-   picture-generation key and extend the pipeline, or leave them out. Further searching of the
-   open sources is unlikely to add many more.
+2. **The 106 share-alike pictures:** keep or replace (section 8).
+3. **The 61 words without a picture:** add your own photographs in the app, run one more
+   Openverse pass on a later day, supply a picture-generation key and extend the pipeline, or
+   leave them out.
 4. **Faster picture sourcing:** Wikimedia allows far more searches per minute to clients that give
    a contact address. Adding one to `USER_AGENT` in `tools/images/lib.ts` is your choice; the build
    did not send any personal details.

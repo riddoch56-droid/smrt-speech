@@ -103,6 +103,8 @@ npx tsx tools/images/apply-picks.ts  # process the chosen pictures to 512 x 512 
 npx tsx tools/images/retry.ts        # search again for words with no good candidate (three attempts)
 npx tsx tools/images/deep-search.ts --round 4   # wider search for words still without a picture
                                                 # (Wikipedia article pictures, Wikidata, Commons categories)
+npx tsx tools/images/wide-search.ts --round 5   # wider still: up to 48 fresh candidates a word; a later
+                                                # round number shows the candidates not yet seen
 npx tsx tools/images/reject.ts       # withdraw pictures that fail the contact-sheet check
 npx tsx tools/images/finalise.ts     # write credits, flag gaps, write IMAGE_TODO.md
 npx tsx tools/images/sheets.ts       # contact sheets of the final set

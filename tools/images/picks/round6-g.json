@@ -1,0 +1,15 @@
+{
+  "verbs-cough": [],
+  "verbs-whistle": [],
+  "verbs-drop": [],
+  "verbs-tear": [],
+  "verbs-squeeze": [],
+  "verbs-twist": [45],
+  "verbs-stack": [1],
+  "verbs-interview": [18, 4],
+  "verbs-give": [],
+  "verbs-share": [],
+  "verbs-greet": [1],
+  "verbs-help": [],
+  "verbs-chase": []
+}

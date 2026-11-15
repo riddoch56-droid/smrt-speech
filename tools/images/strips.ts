@@ -19,10 +19,12 @@ const onlyIds = idList('--only');
 const skipIds = idList('--skip');
 
 // --wide shows up to 16 candidates a word (two lines of eight), three words to a sheet.
+// --per <n> shows up to n candidates a word (lines of eight), one word to a sheet.
 const wide = process.argv.includes('--wide');
-const ROWS = wide ? 3 : 6;
+const per = Number(arg('--per') ?? 0);
+const ROWS = per ? 1 : wide ? 3 : 6;
 const COLS = 8;
-const PER_WORD = wide ? 16 : 8;
+const PER_WORD = per ? Math.ceil(per / COLS) * COLS : wide ? 16 : 8;
 const CELL = 176;
 const LABEL_H = 34;
 const ROW_H = CELL * (PER_WORD / COLS) + LABEL_H + 8;

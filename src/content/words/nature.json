@@ -396,8 +396,7 @@
       "syllables": 1,
       "rhyme": "car",
       "sameFirstSound": "scarf"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "nature-planet",
@@ -1238,8 +1237,7 @@
       "syllables": 1,
       "rhyme": "ranch",
       "sameFirstSound": "bucket"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "nature-trunk",
@@ -1753,8 +1751,7 @@
       "syllables": 1,
       "rhyme": "hand",
       "sameFirstSound": "spoon"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "nature-shell",
@@ -1862,8 +1859,7 @@
       "syllables": 1,
       "rhyme": "dog",
       "sameFirstSound": "lamp"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "nature-feather",

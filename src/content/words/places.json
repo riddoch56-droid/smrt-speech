@@ -71,8 +71,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "kettle"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-bookshop",
@@ -146,8 +145,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "nurse"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-supermarket",
@@ -406,8 +404,7 @@
       "syllables": 1,
       "rhyme": "tank",
       "sameFirstSound": "boat"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-school",
@@ -443,8 +440,7 @@
       "syllables": 1,
       "rhyme": "cool",
       "sameFirstSound": "sky"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-university",
@@ -481,8 +477,7 @@
       "syllables": 5,
       "rhyme": null,
       "sameFirstSound": "yellow"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-courthouse",
@@ -519,8 +514,7 @@
       "syllables": 2,
       "rhyme": "mouse",
       "sameFirstSound": "kitten"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-hospital",
@@ -557,8 +551,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "hat"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-clinic",
@@ -707,8 +700,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "sun"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-theatre",
@@ -1884,8 +1876,7 @@
       "syllables": 2,
       "rhyme": "bell",
       "sameFirstSound": "horse"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-tent",

@@ -360,8 +360,7 @@
       "syllables": 1,
       "rhyme": "wall",
       "sameFirstSound": "sandwich"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-tall",
@@ -397,8 +396,7 @@
       "syllables": 1,
       "rhyme": "small",
       "sameFirstSound": "telephone"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-short",
@@ -471,8 +469,7 @@
       "syllables": 1,
       "rhyme": "song",
       "sameFirstSound": "ladder"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-narrow",
@@ -545,8 +542,7 @@
       "syllables": 1,
       "rhyme": "sound",
       "sameFirstSound": "rope"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-square",
@@ -655,8 +651,7 @@
       "syllables": 1,
       "rhyme": null,
       "sameFirstSound": "cat"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-soft",
@@ -729,8 +724,7 @@
       "syllables": 1,
       "rhyme": "tough",
       "sameFirstSound": "rope"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-smooth",
@@ -766,8 +760,7 @@
       "syllables": 1,
       "rhyme": "soothe",
       "sameFirstSound": "sandwich"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-sticky",
@@ -842,8 +835,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "salad"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-fluffy",
@@ -880,8 +872,7 @@
       "syllables": 2,
       "rhyme": "stuffy",
       "sameFirstSound": "fence"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-prickly",
@@ -955,8 +946,7 @@
       "syllables": 2,
       "rhyme": "jumpy",
       "sameFirstSound": "basket"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-hot",
@@ -992,8 +982,7 @@
       "syllables": 1,
       "rhyme": "pot",
       "sameFirstSound": "house"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-cold",
@@ -1066,8 +1055,7 @@
       "syllables": 2,
       "rhyme": "chosen",
       "sameFirstSound": "feather"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-wet",
@@ -1103,8 +1091,7 @@
       "syllables": 1,
       "rhyme": "net",
       "sameFirstSound": "window"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-melted",
@@ -1361,8 +1348,7 @@
       "syllables": 1,
       "rhyme": "gold",
       "sameFirstSound": "oval"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-torn",
@@ -1398,8 +1384,7 @@
       "syllables": 1,
       "rhyme": "born",
       "sameFirstSound": "telephone"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-rusty",
@@ -1436,8 +1421,7 @@
       "syllables": 2,
       "rhyme": "dusty",
       "sameFirstSound": "rabbit"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-full",
@@ -1623,8 +1607,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "tractor"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-happy",
@@ -1697,8 +1680,7 @@
       "syllables": 1,
       "rhyme": "bad",
       "sameFirstSound": "sock"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-angry",
@@ -1772,8 +1754,7 @@
       "syllables": 2,
       "rhyme": "wired",
       "sameFirstSound": "tractor"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-asleep",
@@ -1810,8 +1791,7 @@
       "syllables": 2,
       "rhyme": "sheep",
       "sameFirstSound": "away"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-surprised",
@@ -1922,8 +1902,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "egg"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-strong",
@@ -1959,8 +1938,7 @@
       "syllables": 1,
       "rhyme": "song",
       "sameFirstSound": "sock"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-heavy",

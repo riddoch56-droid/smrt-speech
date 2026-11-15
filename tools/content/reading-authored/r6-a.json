@@ -1,0 +1,50 @@
+[
+  {
+    "wordId": "body-toenail",
+    "kind": "phrase",
+    "text": "a short toenail",
+    "distractors": ["a long fingernail", "a bare elbow", "a thick eyebrow"],
+    "answer": "toenail",
+    "answerDistractors": ["beard", "sleeve", "ladder"]
+  },
+  {
+    "wordId": "body-toenail",
+    "kind": "sentence",
+    "text": "The toenail is cut short.",
+    "distractors": ["The fingernail is cut short.", "The toenail is painted red.", "The hair is cut short."],
+    "answer": "toenail",
+    "answerDistractors": ["hair", "grass", "fringe"]
+  },
+  {
+    "wordId": "places-chemist",
+    "kind": "phrase",
+    "text": "a chemist with a green cross",
+    "distractors": ["a church with a tall spire", "a garage with a red door", "a pub with a hanging sign"],
+    "answer": "cross",
+    "answerDistractors": ["flag", "roof", "fence"]
+  },
+  {
+    "wordId": "places-chemist",
+    "kind": "sentence",
+    "text": "The chemist has a green cross above the door.",
+    "distractors": ["The chemist has a red flag above the door.", "The church has a green cross above the door.", "The chemist has a green cross above the roof."],
+    "answer": "cross",
+    "answerDistractors": ["flag", "clock", "balloon"]
+  },
+  {
+    "wordId": "places-bank",
+    "kind": "phrase",
+    "text": "a red brick bank",
+    "distractors": ["a white stone church", "a wooden garden shed", "a tall glass tower"],
+    "answer": "bank",
+    "answerDistractors": ["church", "windmill", "lighthouse"]
+  },
+  {
+    "wordId": "places-bank",
+    "kind": "sentence",
+    "text": "There is a white gate beside the bank.",
+    "distractors": ["There is a white horse beside the bank.", "There is a white gate beside the church.", "There is a red bus beside the bank."],
+    "answer": "gate",
+    "answerDistractors": ["horse", "tent", "boat"]
+  }
+]

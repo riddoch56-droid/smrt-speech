@@ -291,8 +291,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "table"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-jeans",
@@ -583,8 +582,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "apple"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-raincoat",
@@ -988,8 +986,7 @@
       "syllables": 3,
       "rhyme": "dramas",
       "sameFirstSound": "pencil"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-dressing-gown",
@@ -1100,8 +1097,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "nail"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-vest",

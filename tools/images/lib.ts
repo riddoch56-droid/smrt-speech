@@ -448,9 +448,13 @@ interface OpenverseResult {
 }
 
 /** Openverse allows anonymous clients 20 requests a minute and 200 a day: use sparingly. */
-export async function searchOpenverse(query: string, limit = 20, licences = 'cc0,pdm,by', patient = true): Promise<Candidate[]> {
+export async function searchOpenverse(query: string, limit = 20, licences = 'cc0,pdm,by', patient = true, skipWikimedia = false, cachedOnly = false): Promise<Candidate[]> {
   const params = new URLSearchParams({ q: query, license: licences, page_size: String(limit), mature: 'false' });
+  // Wikimedia Commons is searched directly, so its copies in Openverse only repeat those results.
+  if (skipWikimedia) params.set('excluded_source', 'wikimedia');
   const url = 'https://api.openverse.org/v1/images/?' + params.toString();
+  // cachedOnly reuses an earlier answer and never spends the day's request allowance.
+  if (cachedOnly && !existsSync(CACHE_DIR + cacheKey(url) + '.json')) return [];
   const data = await fetchJson<{ results?: OpenverseResult[] }>(url, true, patient);
   const out: Candidate[] = [];
   for (const r of data.results ?? []) {

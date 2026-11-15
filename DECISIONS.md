@@ -97,6 +97,25 @@ Notable decisions made while building SMRT Speech, with the reason for each.
   CC BY-SA, because the plain photographs that Wikipedia articles use for everyday objects are
   mostly share-alike. Every new picture was checked on contact sheets after it was chosen; 25
   first choices failed that check and were swapped for the reviewer's next choice or withdrawn.
+- **Rounds five to seven were run at the owner's request** on 15 November 2026, for the 143 words
+  still without a picture, with the instruction to keep sourcing and not to generate any picture
+  (`tools/images/wide-search.ts`, phrases in `wide-queries*.json`, rules in `PICKING-ROUND5.md`).
+  Earlier rounds showed a reviewer 8 to 16 candidates a word. These rounds show up to 48, from
+  50 results a phrase on Commons, the named Commons categories in relevance order (round 4 read them
+  alphabetically), Commons sub-categories (`deepcat:`), and Openverse without its Wikimedia copies,
+  which is mostly Flickr. Pictures already turned down are never shown again.
+  Outcome: round five added 55 pictures, round six 24 and round seven 3, so 82 of the 143 words
+  gained a picture and 61 did not. 35 of the 82 are CC BY-SA. Reviewers chose 132 pictures in all;
+  50 of them failed the contact-sheet check and were swapped or withdrawn. The commonest reasons
+  were a named or well-known person in the source title, a brand name as the main thing in view,
+  and a picture that a viewer would name by its object and not by the describing word.
+- **StockSnap was tried and dropped.** Its photographs are all CC0, but its site answers automated
+  requests with a bot challenge, and the build does not work around those. The Wellcome
+  Collection's open images were also tried: nearly all are historical prints, so none were used.
+- **A describing word is pictured by a typical example** (a frog on a fingertip for "small", a
+  steaming mug for "hot"). A picture is rejected when the viewer would simply name the object
+  (a bottle for "transparent", trainers in a box for "new"), which is why 11 describing words
+  still have no picture.
 - **Review rule for buildings and shops, round 4.** Ordinary shop and building signage is accepted,
   because a pub or a post office with no sign does not exist. A picture is still rejected if the
   target word itself is clearly written in it, since that would give the answer away.

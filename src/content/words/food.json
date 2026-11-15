@@ -1060,8 +1060,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "yacht"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "food-cream",
@@ -1757,8 +1756,7 @@
       "syllables": 1,
       "rhyme": "sea",
       "sameFirstSound": "table"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "food-coffee",
@@ -1940,8 +1938,7 @@
       "syllables": 3,
       "rhyme": "parade",
       "sameFirstSound": "lorry"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "food-smoothie",

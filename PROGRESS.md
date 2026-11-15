@@ -11,7 +11,7 @@ A fresh session can resume from this file plus `SMRT_SPEECH_BUILD_PROMPT.md`,
 | 1. Scaffold, tooling, design tokens, app shell, PWA basics, CI workflow | Done |
 | 2. Platform services (storage, speech, audio, recording, share, PIN, wake lock) | Done |
 | 3. Vocabulary authoring (700 words) and content validation | Done |
-| 4. Image pipeline, sourcing, processing, credits, visual quality control | Done: 557 of 700 words have a reviewed picture (445 after three attempts, 112 more from a fourth, wider round); the rest are in `IMAGE_TODO.md` |
+| 4. Image pipeline, sourcing, processing, credits, visual quality control | Done: 639 of 700 words have a reviewed picture (445 after three attempts, 112 from a fourth, wider round, 82 from rounds five to seven); the rest are in `IMAGE_TODO.md` |
 | 5. Session engine and shared settings | Done, unit tested |
 | 6. Comprehension module (3 activities) | Done |
 | 7. Naming module (4 activities), frozen 30-item screener (version 1) | Done |
@@ -30,7 +30,9 @@ A fresh session can resume from this file plus `SMRT_SPEECH_BUILD_PROMPT.md`,
 Three attempts per word (`tools/images/`): search, visual review of up to eight candidates per
 word on review sheets, a second search with a reviewer's phrase, and a third search that also
 accepts CC BY-SA. Every chosen picture was then checked again on contact sheets and weak ones were
-withdrawn. Decisions are kept in `tools/images/picks/` and `tools/images/state.json`.
+withdrawn. Rounds four to seven widened the search for the words still missing
+(`deep-search.ts`, then `wide-search.ts` with up to 48 candidates a word). Decisions are kept in
+`tools/images/picks/` and `tools/images/state.json`.
 
 ## If you carry on from here
 

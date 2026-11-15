@@ -362,8 +362,7 @@
       "syllables": 2,
       "rhyme": "suitcase",
       "sameFirstSound": "butter"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-cupboard",
@@ -1429,8 +1428,7 @@
       "syllables": 3,
       "rhyme": "chatterbox",
       "sameFirstSound": "lemon"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-doorbell",
@@ -1832,8 +1830,7 @@
       "syllables": 1,
       "rhyme": "late",
       "sameFirstSound": "goat"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-greenhouse",
@@ -1907,8 +1904,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "pencil"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-gazebo",

@@ -21,6 +21,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-adjectives-asleep",
+  "kind": "sentence",
+  "image": "adjectives-asleep.webp",
+  "wordId": "adjectives-asleep",
+  "group": "adjectives",
+  "text": "The person is asleep in the car.",
+  "distractors": [
+   "The person is asleep in the bath.",
+   "The person is driving the car.",
+   "The dog is asleep in the car."
+  ],
+  "cloze": "The person is ___ in the car.",
+  "answer": "asleep",
+  "answerDistractors": [
+   "singing",
+   "eating",
+   "reading"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-adjectives-broken",
   "kind": "sentence",
   "image": "adjectives-broken.webp",
@@ -38,6 +59,27 @@
    "window",
    "mirror",
    "bottle"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-bumpy",
+  "kind": "sentence",
+  "image": "adjectives-bumpy.webp",
+  "wordId": "adjectives-bumpy",
+  "group": "adjectives",
+  "text": "The path is made of bumpy stones.",
+  "distractors": [
+   "The wall is made of bumpy stones.",
+   "The path is made of bumpy logs.",
+   "The path is made of tiny stones."
+  ],
+  "cloze": "The path is made of bumpy ___.",
+  "answer": "stones",
+  "answerDistractors": [
+   "planks",
+   "logs",
+   "shells"
   ],
   "childFriendly": true
  },
@@ -126,6 +168,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-adjectives-curved",
+  "kind": "sentence",
+  "image": "adjectives-curved.webp",
+  "wordId": "adjectives-curved",
+  "group": "adjectives",
+  "text": "A yellow line runs along the curved road.",
+  "distractors": [
+   "A yellow line runs along the straight road.",
+   "A yellow hedge runs along the curved road.",
+   "A red line runs along the curved road."
+  ],
+  "cloze": "A ___ line runs along the curved road.",
+  "answer": "yellow",
+  "answerDistractors": [
+   "red",
+   "green",
+   "blue"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-adjectives-dark",
   "kind": "sentence",
   "image": "adjectives-dark.webp",
@@ -164,6 +227,27 @@
    "clean",
    "empty",
    "broken"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-elderly",
+  "kind": "sentence",
+  "image": "adjectives-elderly.webp",
+  "wordId": "adjectives-elderly",
+  "group": "adjectives",
+  "text": "The elderly man is holding a walking stick.",
+  "distractors": [
+   "The elderly woman is holding a walking stick.",
+   "The elderly man is holding a newspaper.",
+   "The elderly man is throwing a walking stick."
+  ],
+  "cloze": "The ___ man is holding a walking stick.",
+  "answer": "elderly",
+  "answerDistractors": [
+   "young",
+   "sleeping",
+   "angry"
   ],
   "childFriendly": true
  },
@@ -210,6 +294,48 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-adjectives-fluffy",
+  "kind": "sentence",
+  "image": "adjectives-fluffy.webp",
+  "wordId": "adjectives-fluffy",
+  "group": "adjectives",
+  "text": "The little dog has fluffy fur.",
+  "distractors": [
+   "The little cat has fluffy fur.",
+   "The little dog has wet fur.",
+   "The little dog has black fur."
+  ],
+  "cloze": "The little dog has ___ fur.",
+  "answer": "fluffy",
+  "answerDistractors": [
+   "black",
+   "wet",
+   "spotted"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-frozen",
+  "kind": "sentence",
+  "image": "adjectives-frozen.webp",
+  "wordId": "adjectives-frozen",
+  "group": "adjectives",
+  "text": "The frozen raspberries are covered in frost.",
+  "distractors": [
+   "The frozen peas are covered in frost.",
+   "The frozen raspberries are covered in cream.",
+   "The frozen raspberries are covered in chocolate."
+  ],
+  "cloze": "The frozen raspberries are covered in ___.",
+  "answer": "frost",
+  "answerDistractors": [
+   "cream",
+   "chocolate",
+   "custard"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-adjectives-happy",
   "kind": "sentence",
   "image": "adjectives-happy.webp",
@@ -227,6 +353,48 @@
    "crying",
    "sleeping",
    "yawning"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-hot",
+  "kind": "sentence",
+  "image": "adjectives-hot.webp",
+  "wordId": "adjectives-hot",
+  "group": "adjectives",
+  "text": "Steam is rising from the hot mug.",
+  "distractors": [
+   "Steam is rising from the hot kettle.",
+   "Steam is rising from the broken mug.",
+   "Steam is rising from the hot soup."
+  ],
+  "cloze": "Steam is rising from the ___ mug.",
+  "answer": "hot",
+  "answerDistractors": [
+   "cold",
+   "frozen",
+   "broken"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-long",
+  "kind": "sentence",
+  "image": "adjectives-long.webp",
+  "wordId": "adjectives-long",
+  "group": "adjectives",
+  "text": "The person has very long dark hair.",
+  "distractors": [
+   "The person has very short dark hair.",
+   "The person has very long grey hair.",
+   "The dog has very long dark hair."
+  ],
+  "cloze": "The person has very ___ dark hair.",
+  "answer": "long",
+  "answerDistractors": [
+   "short",
+   "spiky",
+   "little"
   ],
   "childFriendly": true
  },
@@ -294,6 +462,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-adjectives-old",
+  "kind": "sentence",
+  "image": "adjectives-old.webp",
+  "wordId": "adjectives-old",
+  "group": "adjectives",
+  "text": "The old brown boots look very worn.",
+  "distractors": [
+   "The old brown boots look very clean.",
+   "The old brown gloves look very worn.",
+   "The old red boots look very worn."
+  ],
+  "cloze": "The old brown boots look very ___.",
+  "answer": "worn",
+  "answerDistractors": [
+   "new",
+   "clean",
+   "shiny"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-adjectives-prickly",
   "kind": "sentence",
   "image": "adjectives-prickly.webp",
@@ -315,6 +504,111 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-adjectives-rough",
+  "kind": "sentence",
+  "image": "adjectives-rough.webp",
+  "wordId": "adjectives-rough",
+  "group": "adjectives",
+  "text": "The bark of the tree is rough.",
+  "distractors": [
+   "The bark of the tree is smooth.",
+   "The leaf of the tree is rough.",
+   "The bark of the tree is burnt."
+  ],
+  "cloze": "The bark of the tree is ___.",
+  "answer": "rough",
+  "answerDistractors": [
+   "smooth",
+   "shiny",
+   "white"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-round",
+  "kind": "sentence",
+  "image": "adjectives-round.webp",
+  "wordId": "adjectives-round",
+  "group": "adjectives",
+  "text": "The round window is set in a stone wall.",
+  "distractors": [
+   "The square window is set in a stone wall.",
+   "The round clock is set in a stone wall.",
+   "The round window is set in a wooden door."
+  ],
+  "cloze": "The round ___ is set in a stone wall.",
+  "answer": "window",
+  "answerDistractors": [
+   "clock",
+   "mirror",
+   "door"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-rusty",
+  "kind": "sentence",
+  "image": "adjectives-rusty.webp",
+  "wordId": "adjectives-rusty",
+  "group": "adjectives",
+  "text": "A rusty nail is sticking out of the wood.",
+  "distractors": [
+   "A rusty nail is sticking out of the tyre.",
+   "A shiny nail is sticking out of the wood.",
+   "A rusty hook is sticking out of the wood."
+  ],
+  "cloze": "A rusty ___ is sticking out of the wood.",
+  "answer": "nail",
+  "answerDistractors": [
+   "hook",
+   "chain",
+   "key"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-sad",
+  "kind": "sentence",
+  "image": "adjectives-sad.webp",
+  "wordId": "adjectives-sad",
+  "group": "adjectives",
+  "text": "The man with glasses looks sad.",
+  "distractors": [
+   "The man with glasses looks happy.",
+   "The woman with glasses looks sad.",
+   "The man with a hat looks sad."
+  ],
+  "cloze": "The man with ___ looks sad.",
+  "answer": "glasses",
+  "answerDistractors": [
+   "headphones",
+   "gloves",
+   "binoculars"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-slippery",
+  "kind": "sentence",
+  "image": "adjectives-slippery.webp",
+  "wordId": "adjectives-slippery",
+  "group": "adjectives",
+  "text": "A slippery banana skin is lying on the tiles.",
+  "distractors": [
+   "A slippery banana skin is lying on the grass.",
+   "A slippery orange skin is lying on the tiles.",
+   "A slippery fish is lying on the tiles."
+  ],
+  "cloze": "A slippery banana skin is lying on the ___.",
+  "answer": "tiles",
+  "answerDistractors": [
+   "carpet",
+   "grass",
+   "sand"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-adjectives-slow",
   "kind": "sentence",
   "image": "adjectives-slow.webp",
@@ -332,6 +626,48 @@
    "blue",
    "green",
    "pink"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-small",
+  "kind": "sentence",
+  "image": "adjectives-small.webp",
+  "wordId": "adjectives-small",
+  "group": "adjectives",
+  "text": "A small frog is sitting on a fingertip.",
+  "distractors": [
+   "A huge frog is sitting on a fingertip.",
+   "A small spider is sitting on a fingertip.",
+   "A small frog is sitting on a stone."
+  ],
+  "cloze": "A ___ frog is sitting on a fingertip.",
+  "answer": "small",
+  "answerDistractors": [
+   "huge",
+   "giant",
+   "furry"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-smooth",
+  "kind": "sentence",
+  "image": "adjectives-smooth.webp",
+  "wordId": "adjectives-smooth",
+  "group": "adjectives",
+  "text": "The stone is smooth and flat.",
+  "distractors": [
+   "The stone is spiky and flat.",
+   "The plate is smooth and flat.",
+   "The stone is smooth and white."
+  ],
+  "cloze": "The stone is ___ and flat.",
+  "answer": "smooth",
+  "answerDistractors": [
+   "rough",
+   "spiky",
+   "bumpy"
   ],
   "childFriendly": true
  },
@@ -378,6 +714,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-adjectives-strong",
+  "kind": "sentence",
+  "image": "adjectives-strong.webp",
+  "wordId": "adjectives-strong",
+  "group": "adjectives",
+  "text": "The person is flexing a strong arm.",
+  "distractors": [
+   "The person is flexing a strong leg.",
+   "The person is flexing a thin arm.",
+   "The person is scratching a strong arm."
+  ],
+  "cloze": "The person is flexing a strong ___.",
+  "answer": "arm",
+  "answerDistractors": [
+   "leg",
+   "foot",
+   "knee"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-adjectives-surprised",
   "kind": "sentence",
   "image": "adjectives-surprised.webp",
@@ -395,6 +752,111 @@
    "sleepy",
    "bored",
    "sad"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-tall",
+  "kind": "sentence",
+  "image": "adjectives-tall.webp",
+  "wordId": "adjectives-tall",
+  "group": "adjectives",
+  "text": "The tall buildings stand under a blue sky.",
+  "distractors": [
+   "The tall trees stand under a blue sky.",
+   "The tall buildings stand under a night sky.",
+   "The tall mountains stand under a blue sky."
+  ],
+  "cloze": "The tall ___ stand under a blue sky.",
+  "answer": "buildings",
+  "answerDistractors": [
+   "trees",
+   "mountains",
+   "statues"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-tired",
+  "kind": "sentence",
+  "image": "adjectives-tired.webp",
+  "wordId": "adjectives-tired",
+  "group": "adjectives",
+  "text": "The woman is tired and rubs her eyes.",
+  "distractors": [
+   "The man is tired and rubs his eyes.",
+   "The woman is tired and rubs her neck.",
+   "The woman is cheerful and rubs her eyes."
+  ],
+  "cloze": "The woman is ___ and rubs her eyes.",
+  "answer": "tired",
+  "answerDistractors": [
+   "happy",
+   "excited",
+   "cheerful"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-torn",
+  "kind": "sentence",
+  "image": "adjectives-torn.webp",
+  "wordId": "adjectives-torn",
+  "group": "adjectives",
+  "text": "There is a torn hole in the paper.",
+  "distractors": [
+   "There is a torn hole in the sock.",
+   "There is a torn hole in the curtain.",
+   "There is a burnt hole in the paper."
+  ],
+  "cloze": "There is a ___ hole in the paper.",
+  "answer": "torn",
+  "answerDistractors": [
+   "neat",
+   "burnt",
+   "tiny"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-transparent",
+  "kind": "sentence",
+  "image": "adjectives-transparent.webp",
+  "wordId": "adjectives-transparent",
+  "group": "adjectives",
+  "text": "You can see through the plastic box.",
+  "distractors": [
+   "You can see through the plastic bag.",
+   "You can see through the open window.",
+   "You cannot see through the plastic box."
+  ],
+  "cloze": "You can see through the ___ box.",
+  "answer": "plastic",
+  "answerDistractors": [
+   "wooden",
+   "cardboard",
+   "metal"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-wet",
+  "kind": "sentence",
+  "image": "adjectives-wet.webp",
+  "wordId": "adjectives-wet",
+  "group": "adjectives",
+  "text": "The dog has wet fur and floppy ears.",
+  "distractors": [
+   "The dog has dry fur and floppy ears.",
+   "The cat has wet fur and floppy ears.",
+   "The dog has wet fur and pointed ears."
+  ],
+  "cloze": "The dog has ___ fur and floppy ears.",
+  "answer": "wet",
+  "answerDistractors": [
+   "dry",
+   "black",
+   "white"
   ],
   "childFriendly": true
  },
@@ -1596,6 +2058,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-body-chin",
+  "kind": "sentence",
+  "image": "body-chin.webp",
+  "wordId": "body-chin",
+  "group": "body",
+  "text": "There is dark stubble on the man's chin.",
+  "distractors": [
+   "There is dark paint on the man's chin.",
+   "There is dark stubble on the man's arm.",
+   "There is dark stubble on the woman's chin."
+  ],
+  "cloze": "There is dark ___ on the man's chin.",
+  "answer": "stubble",
+  "answerDistractors": [
+   "paint",
+   "foam",
+   "mud"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-body-comb",
   "kind": "sentence",
   "image": "body-comb.webp",
@@ -1697,6 +2180,27 @@
    "straight",
    "bandaged",
    "bleeding"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-body-eyebrow",
+  "kind": "sentence",
+  "image": "body-eyebrow.webp",
+  "wordId": "body-eyebrow",
+  "group": "body",
+  "text": "The eyebrow is just above the eye.",
+  "distractors": [
+   "The eyebrow is just below the eye.",
+   "The eyebrow is just above the ear.",
+   "The moustache is just above the eye."
+  ],
+  "cloze": "The ___ is just above the eye.",
+  "answer": "eyebrow",
+  "answerDistractors": [
+   "moustache",
+   "chin",
+   "ear"
   ],
   "childFriendly": true
  },
@@ -1928,6 +2432,27 @@
    "wood",
    "plastic",
    "paper"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-body-nose",
+  "kind": "sentence",
+  "image": "body-nose.webp",
+  "wordId": "body-nose",
+  "group": "body",
+  "text": "The person's glasses are resting on their nose.",
+  "distractors": [
+   "The person's glasses are resting on their head.",
+   "The person's glasses are resting on their knee.",
+   "The person's fingers are resting on their nose."
+  ],
+  "cloze": "The person's ___ are resting on their nose.",
+  "answer": "glasses",
+  "answerDistractors": [
+   "fingers",
+   "hands",
+   "thumbs"
   ],
   "childFriendly": true
  },
@@ -2226,6 +2751,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-body-toenail",
+  "kind": "sentence",
+  "image": "body-toenail.webp",
+  "wordId": "body-toenail",
+  "group": "body",
+  "text": "The toenail is cut short.",
+  "distractors": [
+   "The fingernail is cut short.",
+   "The toenail is painted red.",
+   "The hair is cut short."
+  ],
+  "cloze": "The ___ is cut short.",
+  "answer": "toenail",
+  "answerDistractors": [
+   "hair",
+   "grass",
+   "fringe"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-body-tongue",
   "kind": "sentence",
   "image": "body-tongue.webp",
@@ -2411,6 +2957,27 @@
    "head",
    "knee",
    "foot"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-clothing-anorak",
+  "kind": "sentence",
+  "image": "clothing-anorak.webp",
+  "wordId": "clothing-anorak",
+  "group": "clothing",
+  "text": "The anorak has a hood and long sleeves.",
+  "distractors": [
+   "The anorak has a hood and short sleeves.",
+   "The dress has a hood and long sleeves.",
+   "The anorak has a belt and long sleeves."
+  ],
+  "cloze": "The ___ has a hood and long sleeves.",
+  "answer": "anorak",
+  "answerDistractors": [
+   "dress",
+   "shirt",
+   "cardigan"
   ],
   "childFriendly": true
  },
@@ -2898,6 +3465,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-clothing-knickers",
+  "kind": "sentence",
+  "image": "clothing-knickers.webp",
+  "wordId": "clothing-knickers",
+  "group": "clothing",
+  "text": "The knickers are black, red and white.",
+  "distractors": [
+   "The socks are black, red and white.",
+   "The knickers are black, blue and white.",
+   "The towels are black, red and white."
+  ],
+  "cloze": "The knickers are black, ___ and white.",
+  "answer": "red",
+  "answerDistractors": [
+   "blue",
+   "green",
+   "yellow"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-clothing-mittens",
   "kind": "sentence",
   "image": "clothing-mittens.webp",
@@ -2999,6 +3587,27 @@
    "jar",
    "drawer",
    "bucket"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-clothing-pyjamas",
+  "kind": "sentence",
+  "image": "clothing-pyjamas.webp",
+  "wordId": "clothing-pyjamas",
+  "group": "clothing",
+  "text": "The pyjamas are made of shiny material.",
+  "distractors": [
+   "The pyjamas are made of woolly material.",
+   "The gloves are made of shiny material.",
+   "The curtains are made of shiny material."
+  ],
+  "cloze": "The pyjamas are made of ___ material.",
+  "answer": "shiny",
+  "answerDistractors": [
+   "woolly",
+   "furry",
+   "knitted"
   ],
   "childFriendly": true
  },
@@ -3272,6 +3881,27 @@
    "socks",
    "towels",
    "curtains"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-clothing-trousers",
+  "kind": "sentence",
+  "image": "clothing-trousers.webp",
+  "wordId": "clothing-trousers",
+  "group": "clothing",
+  "text": "The trousers are lying flat on a white sheet.",
+  "distractors": [
+   "The trousers are lying flat on a wooden floor.",
+   "The shorts are lying flat on a white sheet.",
+   "The trousers are lying flat on a black sheet."
+  ],
+  "cloze": "The ___ are lying flat on a white sheet.",
+  "answer": "trousers",
+  "answerDistractors": [
+   "shorts",
+   "socks",
+   "gloves"
   ],
   "childFriendly": true
  },
@@ -4032,6 +4662,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-food-lemonade",
+  "kind": "sentence",
+  "image": "food-lemonade.webp",
+  "wordId": "food-lemonade",
+  "group": "food",
+  "text": "There is a slice of lemon on the glass.",
+  "distractors": [
+   "There is a slice of lemon on the plate.",
+   "There is a slice of orange on the glass.",
+   "There is a slice of lemon on the bottle."
+  ],
+  "cloze": "There is a slice of ___ on the glass.",
+  "answer": "lemon",
+  "answerDistractors": [
+   "orange",
+   "tomato",
+   "cucumber"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-food-milk",
   "kind": "sentence",
   "image": "food-milk.webp",
@@ -4410,6 +5061,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-food-tea",
+  "kind": "sentence",
+  "image": "food-tea.webp",
+  "wordId": "food-tea",
+  "group": "food",
+  "text": "The cup of tea is on a saucer.",
+  "distractors": [
+   "The cup of tea is on a tray.",
+   "The pot of tea is on a saucer.",
+   "The cup of soup is on a saucer."
+  ],
+  "cloze": "The cup of tea is on a ___.",
+  "answer": "saucer",
+  "answerDistractors": [
+   "tray",
+   "shelf",
+   "book"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-food-toast",
   "kind": "sentence",
   "image": "food-toast.webp",
@@ -4450,6 +5122,27 @@
    "teapot"
   ],
   "childFriendly": false
+ },
+ {
+  "id": "sentence-food-yoghurt",
+  "kind": "sentence",
+  "image": "food-yoghurt.webp",
+  "wordId": "food-yoghurt",
+  "group": "food",
+  "text": "There is a white spoon in the yoghurt.",
+  "distractors": [
+   "There is a white spoon in the soup.",
+   "There is a white straw in the yoghurt.",
+   "There is a black spoon in the yoghurt."
+  ],
+  "cloze": "There is a ___ spoon in the yoghurt.",
+  "answer": "white",
+  "answerDistractors": [
+   "red",
+   "black",
+   "green"
+  ],
+  "childFriendly": true
  },
  {
   "id": "sentence-furniture-armchair",
@@ -4658,6 +5351,27 @@
    "curtains",
    "shutters",
    "flowers"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-furniture-bookcase",
+  "kind": "sentence",
+  "image": "furniture-bookcase.webp",
+  "wordId": "furniture-bookcase",
+  "group": "furniture",
+  "text": "The wooden bookcase is full of books.",
+  "distractors": [
+   "The wooden bookcase is full of plates.",
+   "The wooden wardrobe is full of books.",
+   "The metal bookcase is full of books."
+  ],
+  "cloze": "The wooden ___ is full of books.",
+  "answer": "bookcase",
+  "answerDistractors": [
+   "wardrobe",
+   "suitcase",
+   "basket"
   ],
   "childFriendly": true
  },
@@ -4977,6 +5691,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-furniture-gate",
+  "kind": "sentence",
+  "image": "furniture-gate.webp",
+  "wordId": "furniture-gate",
+  "group": "furniture",
+  "text": "There is a white gate in the garden.",
+  "distractors": [
+   "There is a white bench in the garden.",
+   "There is a black gate in the garden.",
+   "There is a white gate in the kitchen."
+  ],
+  "cloze": "There is a white ___ in the garden.",
+  "answer": "gate",
+  "answerDistractors": [
+   "bench",
+   "swing",
+   "statue"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-furniture-gazebo",
   "kind": "sentence",
   "image": "furniture-gazebo.webp",
@@ -5103,6 +5838,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-furniture-letterbox",
+  "kind": "sentence",
+  "image": "furniture-letterbox.webp",
+  "wordId": "furniture-letterbox",
+  "group": "furniture",
+  "text": "The blue paint on the door is peeling.",
+  "distractors": [
+   "The red paint on the door is peeling.",
+   "The blue paint on the door is fresh.",
+   "The blue paint on the bench is peeling."
+  ],
+  "cloze": "The ___ paint on the door is peeling.",
+  "answer": "blue",
+  "answerDistractors": [
+   "red",
+   "yellow",
+   "black"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-furniture-mattress",
   "kind": "sentence",
   "image": "furniture-mattress.webp",
@@ -5141,6 +5897,27 @@
    "square",
    "oval",
    "tall"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-furniture-patio",
+  "kind": "sentence",
+  "image": "furniture-patio.webp",
+  "wordId": "furniture-patio",
+  "group": "furniture",
+  "text": "There are chairs and a table on the patio.",
+  "distractors": [
+   "There are chairs and a table on the beach.",
+   "There are bicycles and a table on the patio.",
+   "There are chairs and a swing on the patio."
+  ],
+  "cloze": "There are chairs and a table on the ___.",
+  "answer": "patio",
+  "answerDistractors": [
+   "beach",
+   "balcony",
+   "roof"
   ],
   "childFriendly": true
  },
@@ -5645,6 +6422,27 @@
    "hat",
    "ear",
    "wing"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-household-charger",
+  "kind": "sentence",
+  "image": "household-charger.webp",
+  "wordId": "household-charger",
+  "group": "household",
+  "text": "The black charger is plugged into the wall.",
+  "distractors": [
+   "The black kettle is plugged into the wall.",
+   "The white charger is plugged into the wall.",
+   "The black charger is plugged into a phone."
+  ],
+  "cloze": "The black ___ is plugged into the wall.",
+  "answer": "charger",
+  "answerDistractors": [
+   "kettle",
+   "lamp",
+   "toaster"
   ],
   "childFriendly": true
  },
@@ -6678,6 +7476,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-nature-branch",
+  "kind": "sentence",
+  "image": "nature-branch.webp",
+  "wordId": "nature-branch",
+  "group": "nature",
+  "text": "The branch is in front of a blue sky.",
+  "distractors": [
+   "The branch is in front of a brick wall.",
+   "The kite is in front of a blue sky.",
+   "The branch is in front of a white sky."
+  ],
+  "cloze": "The ___ is in front of a blue sky.",
+  "answer": "branch",
+  "answerDistractors": [
+   "kite",
+   "plane",
+   "balloon"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-nature-cactus",
   "kind": "sentence",
   "image": "nature-cactus.webp",
@@ -7119,6 +7938,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-nature-log",
+  "kind": "sentence",
+  "image": "nature-log.webp",
+  "wordId": "nature-log",
+  "group": "nature",
+  "text": "The big log is covered in green moss.",
+  "distractors": [
+   "The big wall is covered in green moss.",
+   "The big log is covered in green paint.",
+   "The tiny log is covered in green moss."
+  ],
+  "cloze": "The big log is covered in green ___.",
+  "answer": "moss",
+  "answerDistractors": [
+   "paint",
+   "seaweed",
+   "cloth"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-nature-moon",
   "kind": "sentence",
   "image": "nature-moon.webp",
@@ -7371,6 +8211,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-nature-sand",
+  "kind": "sentence",
+  "image": "nature-sand.webp",
+  "wordId": "nature-sand",
+  "group": "nature",
+  "text": "The sand is in a big pile.",
+  "distractors": [
+   "The sand is in a big bucket.",
+   "The snow is in a big pile.",
+   "The coal is in a big pile."
+  ],
+  "cloze": "The sand is in a big ___.",
+  "answer": "pile",
+  "answerDistractors": [
+   "bucket",
+   "bag",
+   "lorry"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-nature-sea",
   "kind": "sentence",
   "image": "nature-sea.webp",
@@ -7451,6 +8312,27 @@
    "snow",
    "bread",
    "cheese"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-nature-star",
+  "kind": "sentence",
+  "image": "nature-star.webp",
+  "wordId": "nature-star",
+  "group": "nature",
+  "text": "The night sky is full of stars.",
+  "distractors": [
+   "The night sky is full of fireworks.",
+   "The night sky is full of birds.",
+   "The morning sky is full of stars."
+  ],
+  "cloze": "The night sky is full of ___.",
+  "answer": "stars",
+  "answerDistractors": [
+   "fireworks",
+   "birds",
+   "kites"
   ],
   "childFriendly": true
  },
@@ -8064,6 +8946,48 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-people-gardener",
+  "kind": "sentence",
+  "image": "people-gardener.webp",
+  "wordId": "people-gardener",
+  "group": "people",
+  "text": "The gardener is digging the soil with a fork.",
+  "distractors": [
+   "The gardener is digging the soil with a spoon.",
+   "The child is digging the soil with a fork.",
+   "The gardener is digging the sand with a fork."
+  ],
+  "cloze": "The gardener is digging the ___ with a fork.",
+  "answer": "soil",
+  "answerDistractors": [
+   "sand",
+   "snow",
+   "gravel"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-people-grandad",
+  "kind": "sentence",
+  "image": "people-grandad.webp",
+  "wordId": "people-grandad",
+  "group": "people",
+  "text": "The grandad is sitting on a bench with two girls.",
+  "distractors": [
+   "The grandad is sitting on a bench with two boys.",
+   "The grandad is standing on a bench with two girls.",
+   "The grandad is sitting on a wall with two girls."
+  ],
+  "cloze": "The grandad is sitting on a ___ with two girls.",
+  "answer": "bench",
+  "answerDistractors": [
+   "wall",
+   "swing",
+   "rock"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-people-hairdresser",
   "kind": "sentence",
   "image": "people-hairdresser.webp",
@@ -8102,6 +9026,27 @@
    "white",
    "grey",
    "orange"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-people-librarian",
+  "kind": "sentence",
+  "image": "people-librarian.webp",
+  "wordId": "people-librarian",
+  "group": "people",
+  "text": "The librarian is standing in front of bookshelves.",
+  "distractors": [
+   "The librarian is sitting in front of bookshelves.",
+   "The librarian is standing in front of windows.",
+   "The gardener is standing in front of bookshelves."
+  ],
+  "cloze": "The librarian is standing in front of ___.",
+  "answer": "bookshelves",
+  "answerDistractors": [
+   "curtains",
+   "lockers",
+   "windows"
   ],
   "childFriendly": true
  },
@@ -8169,6 +9114,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-people-mime",
+  "kind": "sentence",
+  "image": "people-mime.webp",
+  "wordId": "people-mime",
+  "group": "people",
+  "text": "The mime is wearing white gloves and a hat.",
+  "distractors": [
+   "The mime is wearing white gloves and a scarf.",
+   "The mime is wearing black gloves and a hat.",
+   "The mime is holding white gloves and a hat."
+  ],
+  "cloze": "The mime is wearing white gloves and a ___.",
+  "answer": "hat",
+  "answerDistractors": [
+   "scarf",
+   "tie",
+   "crown"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-people-monk",
   "kind": "sentence",
   "image": "people-monk.webp",
@@ -8207,6 +9173,48 @@
    "up",
    "round",
    "backwards"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-people-nurse",
+  "kind": "sentence",
+  "image": "people-nurse.webp",
+  "wordId": "people-nurse",
+  "group": "people",
+  "text": "The nurse is smiling at the camera.",
+  "distractors": [
+   "The nurse is frowning at the camera.",
+   "The nurse is smiling at a patient.",
+   "The builder is smiling at the camera."
+  ],
+  "cloze": "The nurse is ___ at the camera.",
+  "answer": "smiling",
+  "answerDistractors": [
+   "frowning",
+   "shouting",
+   "waving"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-people-optician",
+  "kind": "sentence",
+  "image": "people-optician.webp",
+  "wordId": "people-optician",
+  "group": "people",
+  "text": "The optician is looking through a machine at the woman.",
+  "distractors": [
+   "The optician is looking through a window at the woman.",
+   "The optician is looking through a machine at the baby.",
+   "The dentist is looking through a machine at the woman."
+  ],
+  "cloze": "The optician is looking through a ___ at the woman.",
+  "answer": "machine",
+  "answerDistractors": [
+   "window",
+   "keyhole",
+   "fence"
   ],
   "childFriendly": true
  },
@@ -8253,6 +9261,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-people-plumber",
+  "kind": "sentence",
+  "image": "people-plumber.webp",
+  "wordId": "people-plumber",
+  "group": "people",
+  "text": "The plumber is working on the pipe under the sink.",
+  "distractors": [
+   "The plumber is working on the pipe under the bath.",
+   "The gardener is working on the pipe under the sink.",
+   "The plumber is working on the light under the sink."
+  ],
+  "cloze": "The ___ is working on the pipe under the sink.",
+  "answer": "plumber",
+  "answerDistractors": [
+   "painter",
+   "gardener",
+   "hairdresser"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-people-police-officer",
   "kind": "sentence",
   "image": "people-police-officer.webp",
@@ -8270,6 +9299,27 @@
    "horses",
    "scooters",
    "tractors"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-people-ref",
+  "kind": "sentence",
+  "image": "people-ref.webp",
+  "wordId": "people-ref",
+  "group": "people",
+  "text": "The ref has a whistle in his mouth.",
+  "distractors": [
+   "The ref has a whistle in his hand.",
+   "The ref has a pipe in his mouth.",
+   "The goalkeeper has a whistle in his mouth."
+  ],
+  "cloze": "The ref has a whistle in his ___.",
+  "answer": "mouth",
+  "answerDistractors": [
+   "hand",
+   "pocket",
+   "bag"
   ],
   "childFriendly": true
  },
@@ -8400,6 +9450,48 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-people-vet",
+  "kind": "sentence",
+  "image": "people-vet.webp",
+  "wordId": "people-vet",
+  "group": "people",
+  "text": "The vet is examining a white dog on a table.",
+  "distractors": [
+   "The vet is examining a white cat on a table.",
+   "The vet is examining a black dog on a table.",
+   "The vet is washing a white dog on a table."
+  ],
+  "cloze": "The vet is examining a white dog on a ___.",
+  "answer": "table",
+  "answerDistractors": [
+   "sofa",
+   "bed",
+   "lawn"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-people-vicar",
+  "kind": "sentence",
+  "image": "people-vicar.webp",
+  "wordId": "people-vicar",
+  "group": "people",
+  "text": "The vicar is standing beside a stone wall.",
+  "distractors": [
+   "The vicar is sitting beside a stone wall.",
+   "The vicar is standing beside a wooden fence.",
+   "The bride is standing beside a stone wall."
+  ],
+  "cloze": "The vicar is ___ beside a stone wall.",
+  "answer": "standing",
+  "answerDistractors": [
+   "sitting",
+   "kneeling",
+   "lying"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-people-waiter",
   "kind": "sentence",
   "image": "people-waiter.webp",
@@ -8480,6 +9572,27 @@
    "ceiling",
    "staircase",
    "balcony"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-places-bank",
+  "kind": "sentence",
+  "image": "places-bank.webp",
+  "wordId": "places-bank",
+  "group": "places",
+  "text": "There is a white gate beside the bank.",
+  "distractors": [
+   "There is a white horse beside the bank.",
+   "There is a white gate beside the church.",
+   "There is a red bus beside the bank."
+  ],
+  "cloze": "There is a white ___ beside the bank.",
+  "answer": "gate",
+  "answerDistractors": [
+   "horse",
+   "tent",
+   "boat"
   ],
   "childFriendly": true
  },
@@ -8673,6 +9786,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-places-chemist",
+  "kind": "sentence",
+  "image": "places-chemist.webp",
+  "wordId": "places-chemist",
+  "group": "places",
+  "text": "The chemist has a green cross above the door.",
+  "distractors": [
+   "The chemist has a red flag above the door.",
+   "The church has a green cross above the door.",
+   "The chemist has a green cross above the roof."
+  ],
+  "cloze": "The chemist has a green ___ above the door.",
+  "answer": "cross",
+  "answerDistractors": [
+   "flag",
+   "clock",
+   "balloon"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-places-church",
   "kind": "sentence",
   "image": "places-church.webp",
@@ -8694,6 +9828,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-places-cinema",
+  "kind": "sentence",
+  "image": "places-cinema.webp",
+  "wordId": "places-cinema",
+  "group": "places",
+  "text": "The cinema has rows of red seats.",
+  "distractors": [
+   "The cinema has rows of blue seats.",
+   "The church has rows of red seats.",
+   "The cinema has rows of red tables."
+  ],
+  "cloze": "The cinema has rows of red ___.",
+  "answer": "seats",
+  "answerDistractors": [
+   "tables",
+   "beds",
+   "desks"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-places-cottage",
   "kind": "sentence",
   "image": "places-cottage.webp",
@@ -8711,6 +9866,27 @@
    "tiled",
    "glass",
    "metal"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-places-courthouse",
+  "kind": "sentence",
+  "image": "places-courthouse.webp",
+  "wordId": "places-courthouse",
+  "group": "places",
+  "text": "Wide steps lead up to the courthouse.",
+  "distractors": [
+   "Wide steps lead up to the lighthouse.",
+   "Wide steps lead down to the courthouse.",
+   "Wide steps lead up to the aeroplane."
+  ],
+  "cloze": "Wide ___ lead up to the courthouse.",
+  "answer": "steps",
+  "answerDistractors": [
+   "ladders",
+   "escalators",
+   "bridges"
   ],
   "childFriendly": true
  },
@@ -8816,6 +9992,48 @@
    "cars",
    "horses",
    "trains"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-places-hospital",
+  "kind": "sentence",
+  "image": "places-hospital.webp",
+  "wordId": "places-hospital",
+  "group": "places",
+  "text": "A white van is parked outside the hospital.",
+  "distractors": [
+   "A white van is parked outside the church.",
+   "A red tractor is parked outside the hospital.",
+   "A white van is parked inside the hospital."
+  ],
+  "cloze": "A white ___ is parked outside the hospital.",
+  "answer": "van",
+  "answerDistractors": [
+   "tractor",
+   "motorbike",
+   "caravan"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-places-hotel",
+  "kind": "sentence",
+  "image": "places-hotel.webp",
+  "wordId": "places-hotel",
+  "group": "places",
+  "text": "Two cars are parked outside the hotel.",
+  "distractors": [
+   "Two buses are parked outside the hotel.",
+   "Two cars are parked outside the church.",
+   "Two cars are racing past the hotel."
+  ],
+  "cloze": "Two ___ are parked outside the hotel.",
+  "answer": "cars",
+  "answerDistractors": [
+   "buses",
+   "lorries",
+   "bicycles"
   ],
   "childFriendly": true
  },
@@ -8967,6 +10185,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-places-newsagent",
+  "kind": "sentence",
+  "image": "places-newsagent.webp",
+  "wordId": "places-newsagent",
+  "group": "places",
+  "text": "The door of the newsagent is open.",
+  "distractors": [
+   "The door of the newsagent is shut.",
+   "The door of the church is open.",
+   "The window of the newsagent is open."
+  ],
+  "cloze": "The door of the newsagent is ___.",
+  "answer": "open",
+  "answerDistractors": [
+   "shut",
+   "locked",
+   "broken"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-places-palace",
   "kind": "sentence",
   "image": "places-palace.webp",
@@ -9089,6 +10328,27 @@
    "sofas",
    "beds",
    "benches"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-places-school",
+  "kind": "sentence",
+  "image": "places-school.webp",
+  "wordId": "places-school",
+  "group": "places",
+  "text": "The school playground is empty.",
+  "distractors": [
+   "The school playground is busy.",
+   "The school playground is flooded.",
+   "The school kitchen is empty."
+  ],
+  "cloze": "The school playground is ___.",
+  "answer": "empty",
+  "answerDistractors": [
+   "busy",
+   "flooded",
+   "snowy"
   ],
   "childFriendly": true
  },
@@ -9257,6 +10517,27 @@
    "road",
    "river",
    "stream"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-places-university",
+  "kind": "sentence",
+  "image": "places-university.webp",
+  "wordId": "places-university",
+  "group": "places",
+  "text": "A path leads across the lawn to the university.",
+  "distractors": [
+   "A path leads across the lawn to the beach.",
+   "A bridge leads across the lawn to the university.",
+   "A path leads across the car park to the university."
+  ],
+  "cloze": "A ___ leads across the lawn to the university.",
+  "answer": "path",
+  "answerDistractors": [
+   "bridge",
+   "tunnel",
+   "railway"
   ],
   "childFriendly": true
  },
@@ -10395,6 +11676,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-transport-windscreen",
+  "kind": "sentence",
+  "image": "transport-windscreen.webp",
+  "wordId": "transport-windscreen",
+  "group": "transport",
+  "text": "The green car has two windscreen wipers.",
+  "distractors": [
+   "The red car has two windscreen wipers.",
+   "The green car has no windscreen wipers.",
+   "The green bus has two windscreen wipers."
+  ],
+  "cloze": "The ___ car has two windscreen wipers.",
+  "answer": "green",
+  "answerDistractors": [
+   "red",
+   "white",
+   "blue"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-transport-yacht",
   "kind": "sentence",
   "image": "transport-yacht.webp",
@@ -10542,6 +11844,48 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-verbs-crawl",
+  "kind": "sentence",
+  "image": "verbs-crawl.webp",
+  "wordId": "verbs-crawl",
+  "group": "verbs",
+  "text": "The smiling baby is crawling on the grass.",
+  "distractors": [
+   "The crying baby is crawling on the grass.",
+   "The smiling baby is sitting on the grass.",
+   "The smiling baby is crawling on the beach."
+  ],
+  "cloze": "The smiling baby is ___ on the grass.",
+  "answer": "crawling",
+  "answerDistractors": [
+   "sitting",
+   "sleeping",
+   "standing"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-decorate",
+  "kind": "sentence",
+  "image": "verbs-decorate.webp",
+  "wordId": "verbs-decorate",
+  "group": "verbs",
+  "text": "A child is hanging a decoration on the tree.",
+  "distractors": [
+   "A child is hanging a decoration on the door.",
+   "A man is hanging a decoration on the tree.",
+   "A child is hanging a coat on the tree."
+  ],
+  "cloze": "A child is hanging a ___ on the tree.",
+  "answer": "decoration",
+  "answerDistractors": [
+   "coat",
+   "towel",
+   "picture"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-verbs-dig",
   "kind": "sentence",
   "image": "verbs-dig.webp",
@@ -10559,6 +11903,27 @@
    "fishing",
    "painting",
    "cycling"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-disinfect",
+  "kind": "sentence",
+  "image": "verbs-disinfect.webp",
+  "wordId": "verbs-disinfect",
+  "group": "verbs",
+  "text": "The person in orange gloves is wiping the worktop.",
+  "distractors": [
+   "The person in orange gloves is wiping the window.",
+   "The person in blue gloves is wiping the worktop.",
+   "The person in orange gloves is painting the worktop."
+  ],
+  "cloze": "The person in orange gloves is ___ the worktop.",
+  "answer": "wiping",
+  "answerDistractors": [
+   "sawing",
+   "painting",
+   "lifting"
   ],
   "childFriendly": true
  },
@@ -10622,6 +11987,27 @@
    "bowl",
    "bucket",
    "pond"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-follow",
+  "kind": "sentence",
+  "image": "verbs-follow.webp",
+  "wordId": "verbs-follow",
+  "group": "verbs",
+  "text": "The ducklings are following the duck across the grass.",
+  "distractors": [
+   "The ducklings are following the duck across the pond.",
+   "The ducklings are following the dog across the grass.",
+   "The lambs are following the duck across the grass."
+  ],
+  "cloze": "The ducklings are ___ the duck across the grass.",
+  "answer": "following",
+  "answerDistractors": [
+   "carrying",
+   "chasing",
+   "leading"
   ],
   "childFriendly": true
  },
@@ -10878,6 +12264,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-verbs-listen",
+  "kind": "sentence",
+  "image": "verbs-listen.webp",
+  "wordId": "verbs-listen",
+  "group": "verbs",
+  "text": "The person is listening with a hand to one ear.",
+  "distractors": [
+   "The person is listening with a phone to one ear.",
+   "The person is listening with a shell to one ear.",
+   "The person is sleeping with a hand to one ear."
+  ],
+  "cloze": "The person is listening with a ___ to one ear.",
+  "answer": "hand",
+  "answerDistractors": [
+   "phone",
+   "shell",
+   "radio"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-verbs-measure",
   "kind": "sentence",
   "image": "verbs-measure.webp",
@@ -10895,6 +12302,27 @@
    "spoon",
    "brush",
    "hammer"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-moisturise",
+  "kind": "sentence",
+  "image": "verbs-moisturise.webp",
+  "wordId": "verbs-moisturise",
+  "group": "verbs",
+  "text": "The person is squeezing cream from a blue tube.",
+  "distractors": [
+   "The person is squeezing cream from a red tube.",
+   "The person is squeezing cream from a blue bottle.",
+   "The person is squeezing ketchup from a blue tube."
+  ],
+  "cloze": "The person is squeezing cream from a blue ___.",
+  "answer": "tube",
+  "answerDistractors": [
+   "jar",
+   "bottle",
+   "bucket"
   ],
   "childFriendly": true
  },
@@ -11000,6 +12428,27 @@
    "book",
    "hammer",
    "plate"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-polish",
+  "kind": "sentence",
+  "image": "verbs-polish.webp",
+  "wordId": "verbs-polish",
+  "group": "verbs",
+  "text": "The man is polishing metal with a white cloth.",
+  "distractors": [
+   "The man is polishing glass with a white cloth.",
+   "The woman is polishing metal with a white cloth.",
+   "The man is polishing metal with a wire brush."
+  ],
+  "cloze": "The man is polishing ___ with a white cloth.",
+  "answer": "metal",
+  "answerDistractors": [
+   "glass",
+   "wood",
+   "leather"
   ],
   "childFriendly": true
  },
@@ -11214,6 +12663,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-verbs-scrub",
+  "kind": "sentence",
+  "image": "verbs-scrub.webp",
+  "wordId": "verbs-scrub",
+  "group": "verbs",
+  "text": "A hand in a rubber glove is scrubbing the wood.",
+  "distractors": [
+   "A hand in a rubber glove is painting the wood.",
+   "A hand in a woolly glove is scrubbing the wood.",
+   "A hand in a rubber glove is scrubbing the bath."
+  ],
+  "cloze": "A hand in a rubber glove is ___ the wood.",
+  "answer": "scrubbing",
+  "answerDistractors": [
+   "painting",
+   "sawing",
+   "chopping"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-verbs-sew",
   "kind": "sentence",
   "image": "verbs-sew.webp",
@@ -11252,6 +12722,27 @@
    "paint",
    "mud",
    "snow"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-shout",
+  "kind": "sentence",
+  "image": "verbs-shout.webp",
+  "wordId": "verbs-shout",
+  "group": "verbs",
+  "text": "The man is holding a megaphone to his mouth.",
+  "distractors": [
+   "The man is holding a megaphone to his ear.",
+   "The man is holding a sandwich to his mouth.",
+   "The man is holding a trumpet to his mouth."
+  ],
+  "cloze": "The man is holding a megaphone to his ___.",
+  "answer": "mouth",
+  "answerDistractors": [
+   "ear",
+   "knee",
+   "foot"
   ],
   "childFriendly": true
  },
@@ -11298,6 +12789,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-verbs-sleep",
+  "kind": "sentence",
+  "image": "verbs-sleep.webp",
+  "wordId": "verbs-sleep",
+  "group": "verbs",
+  "text": "The man is sleeping on his black rucksack.",
+  "distractors": [
+   "The man is sitting on his black rucksack.",
+   "The man is sleeping on his red rucksack.",
+   "The man is sleeping on his black pillow."
+  ],
+  "cloze": "The man is ___ on his black rucksack.",
+  "answer": "sleeping",
+  "answerDistractors": [
+   "sitting",
+   "standing",
+   "jumping"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-verbs-smile",
   "kind": "sentence",
   "image": "verbs-smile.webp",
@@ -11340,6 +12852,69 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-verbs-somersault",
+  "kind": "sentence",
+  "image": "verbs-somersault.webp",
+  "wordId": "verbs-somersault",
+  "group": "verbs",
+  "text": "The person is doing a somersault above the mat.",
+  "distractors": [
+   "The person is doing a somersault above the pool.",
+   "The person is doing a somersault above the grass.",
+   "The person is sitting down on the mat."
+  ],
+  "cloze": "The person is doing a somersault above the ___.",
+  "answer": "mat",
+  "answerDistractors": [
+   "pool",
+   "grass",
+   "sand"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-stack",
+  "kind": "sentence",
+  "image": "verbs-stack.webp",
+  "wordId": "verbs-stack",
+  "group": "verbs",
+  "text": "The man is lifting a box onto the stack.",
+  "distractors": [
+   "The woman is lifting a box onto the stack.",
+   "The man is lifting a chair onto the stack.",
+   "The man is kicking a box onto the stack."
+  ],
+  "cloze": "The man is ___ a box onto the stack.",
+  "answer": "lifting",
+  "answerDistractors": [
+   "kicking",
+   "throwing",
+   "dragging"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-stir",
+  "kind": "sentence",
+  "image": "verbs-stir.webp",
+  "wordId": "verbs-stir",
+  "group": "verbs",
+  "text": "A person is stirring a large pot of food.",
+  "distractors": [
+   "A person is carrying a large pot of food.",
+   "A person is stirring a large pot of paint.",
+   "A child is stirring a large pot of food."
+  ],
+  "cloze": "A person is ___ a large pot of food.",
+  "answer": "stirring",
+  "answerDistractors": [
+   "carrying",
+   "lifting",
+   "emptying"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-verbs-stretch",
   "kind": "sentence",
   "image": "verbs-stretch.webp",
@@ -11357,6 +12932,27 @@
    "lowering",
    "folding",
    "hiding"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-sunbathe",
+  "kind": "sentence",
+  "image": "verbs-sunbathe.webp",
+  "wordId": "verbs-sunbathe",
+  "group": "verbs",
+  "text": "The woman in sunglasses is sunbathing on a towel.",
+  "distractors": [
+   "The woman in sunglasses is sunbathing on a sunbed.",
+   "The woman in sunglasses is sitting on a towel.",
+   "The woman in boots is sunbathing on a towel."
+  ],
+  "cloze": "The woman in sunglasses is sunbathing on a ___.",
+  "answer": "towel",
+  "answerDistractors": [
+   "sunbed",
+   "bench",
+   "rock"
   ],
   "childFriendly": true
  },
@@ -11424,6 +13020,111 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-verbs-talk",
+  "kind": "sentence",
+  "image": "verbs-talk.webp",
+  "wordId": "verbs-talk",
+  "group": "verbs",
+  "text": "The woman is talking to the man on a bench.",
+  "distractors": [
+   "The woman is talking to the man on a bus.",
+   "The woman is waving to the man on a bench.",
+   "The woman is talking to the dog on a bench."
+  ],
+  "cloze": "The woman is talking to the man on a ___.",
+  "answer": "bench",
+  "answerDistractors": [
+   "bus",
+   "train",
+   "boat"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-throw",
+  "kind": "sentence",
+  "image": "verbs-throw.webp",
+  "wordId": "verbs-throw",
+  "group": "verbs",
+  "text": "The man in the red cap is throwing a ball.",
+  "distractors": [
+   "The man in the red cap is kicking a ball.",
+   "The man in the blue cap is throwing a ball.",
+   "The man in the red cap is throwing a stick."
+  ],
+  "cloze": "The man in the red cap is ___ a ball.",
+  "answer": "throwing",
+  "answerDistractors": [
+   "kicking",
+   "bouncing",
+   "heading"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-twist",
+  "kind": "sentence",
+  "image": "verbs-twist.webp",
+  "wordId": "verbs-twist",
+  "group": "verbs",
+  "text": "Two hands are twisting the lid of a jar.",
+  "distractors": [
+   "Two hands are twisting the lid of a bin.",
+   "Two hands are washing the lid of a jar.",
+   "Two hands are twisting the handle of a door."
+  ],
+  "cloze": "Two hands are ___ the lid of a jar.",
+  "answer": "twisting",
+  "answerDistractors": [
+   "painting",
+   "washing",
+   "hammering"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-vacuum",
+  "kind": "sentence",
+  "image": "verbs-vacuum.webp",
+  "wordId": "verbs-vacuum",
+  "group": "verbs",
+  "text": "The man is pushing a yellow vacuum cleaner.",
+  "distractors": [
+   "The woman is pushing a yellow vacuum cleaner.",
+   "The man is pushing a red vacuum cleaner.",
+   "The man is carrying a yellow vacuum cleaner."
+  ],
+  "cloze": "The man is ___ a yellow vacuum cleaner.",
+  "answer": "pushing",
+  "answerDistractors": [
+   "carrying",
+   "lifting",
+   "mending"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-walk",
+  "kind": "sentence",
+  "image": "verbs-walk.webp",
+  "wordId": "verbs-walk",
+  "group": "verbs",
+  "text": "The woman is walking along a path.",
+  "distractors": [
+   "The woman is cycling along a path.",
+   "The man is walking along a path.",
+   "The woman is walking along a beach."
+  ],
+  "cloze": "The woman is ___ along a path.",
+  "answer": "walking",
+  "answerDistractors": [
+   "cycling",
+   "skating",
+   "crawling"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-verbs-wash",
   "kind": "sentence",
   "image": "verbs-wash.webp",
@@ -11441,6 +13142,27 @@
    "feet",
    "hair",
    "face"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-weigh",
+  "kind": "sentence",
+  "image": "verbs-weigh.webp",
+  "wordId": "verbs-weigh",
+  "group": "verbs",
+  "text": "Someone is weighing flour on the kitchen scales.",
+  "distractors": [
+   "Someone is weighing apples on the kitchen scales.",
+   "Someone is weighing mince on the kitchen scales.",
+   "Someone is weighing flour on the bathroom scales."
+  ],
+  "cloze": "Someone is weighing flour on the kitchen ___.",
+  "answer": "scales",
+  "answerDistractors": [
+   "floor",
+   "chair",
+   "cooker"
   ],
   "childFriendly": true
  },

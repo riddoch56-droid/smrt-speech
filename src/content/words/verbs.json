@@ -106,8 +106,7 @@
       "syllables": 1,
       "rhyme": "chalk",
       "sameFirstSound": "window"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-jump",
@@ -215,8 +214,7 @@
       "syllables": 1,
       "rhyme": "wall",
       "sameFirstSound": "car"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-kneel",
@@ -362,8 +360,7 @@
       "syllables": 3,
       "rhyme": "halt",
       "sameFirstSound": "sugar"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-wake",
@@ -436,8 +433,7 @@
       "syllables": 1,
       "rhyme": "deep",
       "sameFirstSound": "soap"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-wash",
@@ -731,8 +727,7 @@
       "syllables": 3,
       "rhyme": "surprise",
       "sameFirstSound": "mouth"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-eat",
@@ -840,8 +835,7 @@
       "syllables": 1,
       "rhyme": "fur",
       "sameFirstSound": "sand"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-chop",
@@ -1168,8 +1162,7 @@
       "syllables": 1,
       "rhyme": "tub",
       "sameFirstSound": "soup"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-polish",
@@ -1206,8 +1199,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "pencil"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-wipe",
@@ -1353,8 +1345,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "van"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-tidy",
@@ -1466,8 +1457,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "door"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-smile",
@@ -1941,8 +1931,7 @@
       "syllables": 1,
       "rhyme": "grow",
       "sameFirstSound": "thumb"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-catch",
@@ -2125,8 +2114,7 @@
       "syllables": 1,
       "rhyme": "list",
       "sameFirstSound": "tooth"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-stack",
@@ -2162,8 +2150,7 @@
       "syllables": 1,
       "rhyme": "back",
       "sameFirstSound": "sock"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-scratch",
@@ -2235,8 +2222,7 @@
       "syllables": 1,
       "rhyme": "chalk",
       "sameFirstSound": "tea"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-whisper",
@@ -2309,8 +2295,7 @@
       "syllables": 1,
       "rhyme": "out",
       "sameFirstSound": "ship"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-sing",
@@ -2455,8 +2440,7 @@
       "syllables": 2,
       "rhyme": "glisten",
       "sameFirstSound": "lemon"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-draw",
@@ -2783,8 +2767,7 @@
       "syllables": 1,
       "rhyme": "day",
       "sameFirstSound": "wall"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-mow",
@@ -2893,8 +2876,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "dinner"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-photocopy",
@@ -3221,8 +3203,7 @@
       "syllables": 2,
       "rhyme": "breathe",
       "sameFirstSound": "soap"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-photograph",
@@ -3552,8 +3533,7 @@
       "syllables": 2,
       "rhyme": "hollow",
       "sameFirstSound": "fan"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-chase",

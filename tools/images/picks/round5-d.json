@@ -1,0 +1,14 @@
+{
+  "body-cheek": [],
+  "body-forehead": [],
+  "body-knuckle": [],
+  "body-ankle": [],
+  "body-thigh": [],
+  "body-toenail": [],
+  "body-heel": [9],
+  "body-shampoo": [],
+  "body-flannel": [],
+  "clothing-trousers": [4],
+  "clothing-skirt": [25],
+  "clothing-anorak": [2, 5, 1]
+}

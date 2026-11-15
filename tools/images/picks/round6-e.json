@@ -1,0 +1,14 @@
+{
+  "places-bank": [],
+  "places-university": [12, 8],
+  "places-courthouse": [13, 3, 45, 23],
+  "places-clinic": [],
+  "places-cafe": [],
+  "places-hotel": [30],
+  "verbs-hop": [],
+  "verbs-kneel": [],
+  "verbs-somersault": [1],
+  "verbs-wake": [],
+  "verbs-snore": [],
+  "verbs-undress": []
+}

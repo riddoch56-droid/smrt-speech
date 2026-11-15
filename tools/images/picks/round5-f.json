@@ -1,0 +1,13 @@
+{
+  "household-charger": [18, 42, 14],
+  "nature-star": [1],
+  "nature-branch": [5],
+  "nature-sand": [8, 40, 12],
+  "nature-log": [31, 29],
+  "people-nurse": [11, 31],
+  "people-paramedic": [],
+  "people-optician": [],
+  "people-vet": [18, 30, 26, 38],
+  "people-midwife": [],
+  "people-plumber": [5]
+}

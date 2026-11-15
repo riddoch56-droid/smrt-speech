@@ -1,0 +1,578 @@
+[
+  {
+    "wordId": "adjectives-small",
+    "kind": "phrase",
+    "text": "a very small frog",
+    "distractors": ["a very large dog", "a small brown bird", "a long thin snake"],
+    "answer": "frog",
+    "answerDistractors": ["bird", "mouse", "spider"]
+  },
+  {
+    "wordId": "adjectives-small",
+    "kind": "sentence",
+    "text": "A small frog is sitting on a fingertip.",
+    "distractors": ["A huge frog is sitting on a fingertip.", "A small spider is sitting on a fingertip.", "A small frog is sitting on a stone."],
+    "answer": "small",
+    "answerDistractors": ["huge", "giant", "furry"]
+  },
+  {
+    "wordId": "adjectives-long",
+    "kind": "phrase",
+    "text": "long dark hair",
+    "distractors": ["short grey hair", "a long white beard", "short curly hair"],
+    "answer": "hair",
+    "answerDistractors": ["boots", "curtains", "gloves"]
+  },
+  {
+    "wordId": "adjectives-long",
+    "kind": "sentence",
+    "text": "The person has very long dark hair.",
+    "distractors": ["The person has very short dark hair.", "The person has very long grey hair.", "The dog has very long dark hair."],
+    "answer": "long",
+    "answerDistractors": ["short", "spiky", "little"]
+  },
+  {
+    "wordId": "adjectives-smooth",
+    "kind": "phrase",
+    "text": "a smooth flat stone",
+    "distractors": ["a rough red brick", "a sharp broken rock", "a pile of stones"],
+    "answer": "stone",
+    "answerDistractors": ["table", "plate", "road"]
+  },
+  {
+    "wordId": "adjectives-smooth",
+    "kind": "sentence",
+    "text": "The stone is smooth and flat.",
+    "distractors": ["The stone is spiky and flat.", "The plate is smooth and flat.", "The stone is smooth and white."],
+    "answer": "smooth",
+    "answerDistractors": ["rough", "spiky", "bumpy"]
+  },
+  {
+    "wordId": "adjectives-slippery",
+    "kind": "phrase",
+    "text": "a slippery banana skin",
+    "distractors": ["a fresh green apple", "a bunch of bananas", "a wet bar of soap"],
+    "answer": "skin",
+    "answerDistractors": ["tree", "milkshake", "cake"]
+  },
+  {
+    "wordId": "adjectives-slippery",
+    "kind": "sentence",
+    "text": "A slippery banana skin is lying on the tiles.",
+    "distractors": ["A slippery banana skin is lying on the grass.", "A slippery orange skin is lying on the tiles.", "A slippery fish is lying on the tiles."],
+    "answer": "tiles",
+    "answerDistractors": ["carpet", "grass", "sand"]
+  },
+  {
+    "wordId": "adjectives-fluffy",
+    "kind": "phrase",
+    "text": "a fluffy little dog",
+    "distractors": ["a fluffy white rabbit", "a smooth grey seal", "a big black horse"],
+    "answer": "dog",
+    "answerDistractors": ["rabbit", "chick", "kitten"]
+  },
+  {
+    "wordId": "adjectives-fluffy",
+    "kind": "sentence",
+    "text": "The little dog has fluffy fur.",
+    "distractors": ["The little cat has fluffy fur.", "The little dog has wet fur.", "The little dog has black fur."],
+    "answer": "fluffy",
+    "answerDistractors": ["black", "wet", "spotted"]
+  },
+  {
+    "wordId": "adjectives-bumpy",
+    "kind": "phrase",
+    "text": "a bumpy stone path",
+    "distractors": ["a smooth sandy beach", "a muddy football pitch", "a flat wooden floor"],
+    "answer": "path",
+    "answerDistractors": ["wall", "bridge", "tower"]
+  },
+  {
+    "wordId": "adjectives-bumpy",
+    "kind": "sentence",
+    "text": "The path is made of bumpy stones.",
+    "distractors": ["The wall is made of bumpy stones.", "The path is made of bumpy logs.", "The path is made of tiny stones."],
+    "answer": "stones",
+    "answerDistractors": ["planks", "logs", "shells"]
+  },
+  {
+    "wordId": "adjectives-hot",
+    "kind": "phrase",
+    "text": "a steaming hot drink",
+    "distractors": ["a glass of cold milk", "a bowl of ice cream", "a bottle of water"],
+    "answer": "drink",
+    "answerDistractors": ["pie", "potato", "bath"]
+  },
+  {
+    "wordId": "adjectives-hot",
+    "kind": "sentence",
+    "text": "Steam is rising from the hot mug.",
+    "distractors": ["Steam is rising from the hot kettle.", "Steam is rising from the broken mug.", "Steam is rising from the hot soup."],
+    "answer": "hot",
+    "answerDistractors": ["cold", "frozen", "broken"]
+  },
+  {
+    "wordId": "adjectives-frozen",
+    "kind": "phrase",
+    "text": "a pile of frozen raspberries",
+    "distractors": ["a bowl of fresh strawberries", "a bunch of green grapes", "a bag of frozen peas"],
+    "answer": "raspberries",
+    "answerDistractors": ["peas", "chips", "fish"]
+  },
+  {
+    "wordId": "adjectives-frozen",
+    "kind": "sentence",
+    "text": "The frozen raspberries are covered in frost.",
+    "distractors": ["The frozen peas are covered in frost.", "The frozen raspberries are covered in cream.", "The frozen raspberries are covered in chocolate."],
+    "answer": "frost",
+    "answerDistractors": ["cream", "chocolate", "custard"]
+  },
+  {
+    "wordId": "adjectives-wet",
+    "kind": "phrase",
+    "text": "a very wet dog",
+    "distractors": ["a dry fluffy cat", "a very muddy boot", "a dog in a basket"],
+    "answer": "dog",
+    "answerDistractors": ["cat", "horse", "sheep"]
+  },
+  {
+    "wordId": "adjectives-wet",
+    "kind": "sentence",
+    "text": "The dog has wet fur and floppy ears.",
+    "distractors": ["The dog has dry fur and floppy ears.", "The cat has wet fur and floppy ears.", "The dog has wet fur and pointed ears."],
+    "answer": "wet",
+    "answerDistractors": ["dry", "black", "white"]
+  },
+  {
+    "wordId": "adjectives-old",
+    "kind": "phrase",
+    "text": "a pair of old boots",
+    "distractors": ["a pair of new trainers", "a pair of woolly socks", "a single shiny shoe"],
+    "answer": "boots",
+    "answerDistractors": ["gloves", "socks", "slippers"]
+  },
+  {
+    "wordId": "adjectives-old",
+    "kind": "sentence",
+    "text": "The old brown boots look very worn.",
+    "distractors": ["The old brown boots look very clean.", "The old brown gloves look very worn.", "The old red boots look very worn."],
+    "answer": "worn",
+    "answerDistractors": ["new", "clean", "shiny"]
+  },
+  {
+    "wordId": "adjectives-torn",
+    "kind": "phrase",
+    "text": "a torn sheet of paper",
+    "distractors": ["a folded paper bag", "a neat pile of books", "a clean white envelope"],
+    "answer": "paper",
+    "answerDistractors": ["foil", "stamps", "newspaper"]
+  },
+  {
+    "wordId": "adjectives-torn",
+    "kind": "sentence",
+    "text": "There is a torn hole in the paper.",
+    "distractors": ["There is a torn hole in the sock.", "There is a torn hole in the curtain.", "There is a burnt hole in the paper."],
+    "answer": "torn",
+    "answerDistractors": ["neat", "burnt", "tiny"]
+  },
+  {
+    "wordId": "adjectives-rusty",
+    "kind": "phrase",
+    "text": "a rusty old nail",
+    "distractors": ["a shiny new screw", "a rusty old bike", "a wooden clothes peg"],
+    "answer": "nail",
+    "answerDistractors": ["bike", "gate", "key"]
+  },
+  {
+    "wordId": "adjectives-rusty",
+    "kind": "sentence",
+    "text": "A rusty nail is sticking out of the wood.",
+    "distractors": ["A rusty nail is sticking out of the tyre.", "A shiny nail is sticking out of the wood.", "A rusty hook is sticking out of the wood."],
+    "answer": "nail",
+    "answerDistractors": ["hook", "chain", "key"]
+  },
+  {
+    "wordId": "adjectives-sad",
+    "kind": "phrase",
+    "text": "a man looking sad",
+    "distractors": ["a man laughing loudly", "a woman looking sad", "a man fast asleep"],
+    "answer": "sad",
+    "answerDistractors": ["happy", "excited", "surprised"]
+  },
+  {
+    "wordId": "adjectives-sad",
+    "kind": "sentence",
+    "text": "The man with glasses looks sad.",
+    "distractors": ["The man with glasses looks happy.", "The woman with glasses looks sad.", "The man with a hat looks sad."],
+    "answer": "glasses",
+    "answerDistractors": ["headphones", "gloves", "binoculars"]
+  },
+  {
+    "wordId": "adjectives-asleep",
+    "kind": "phrase",
+    "text": "asleep in the car",
+    "distractors": ["awake in the kitchen", "driving a red bus", "asleep on the sofa"],
+    "answer": "car",
+    "answerDistractors": ["bed", "bath", "garden"]
+  },
+  {
+    "wordId": "adjectives-asleep",
+    "kind": "sentence",
+    "text": "The person is asleep in the car.",
+    "distractors": ["The person is asleep in the bath.", "The person is driving the car.", "The dog is asleep in the car."],
+    "answer": "asleep",
+    "answerDistractors": ["singing", "eating", "reading"]
+  },
+  {
+    "wordId": "adjectives-elderly",
+    "kind": "phrase",
+    "text": "an elderly man with a stick",
+    "distractors": ["a young woman with a pram", "a small boy with a ball", "an elderly woman with a bag"],
+    "answer": "stick",
+    "answerDistractors": ["dog", "suitcase", "umbrella"]
+  },
+  {
+    "wordId": "adjectives-elderly",
+    "kind": "sentence",
+    "text": "The elderly man is holding a walking stick.",
+    "distractors": ["The elderly woman is holding a walking stick.", "The elderly man is holding a newspaper.", "The elderly man is throwing a walking stick."],
+    "answer": "elderly",
+    "answerDistractors": ["young", "sleeping", "angry"]
+  },
+  {
+    "wordId": "adjectives-strong",
+    "kind": "phrase",
+    "text": "a strong arm",
+    "distractors": ["a bare foot", "a broken leg", "a pair of hands"],
+    "answer": "arm",
+    "answerDistractors": ["leg", "neck", "rope"]
+  },
+  {
+    "wordId": "adjectives-strong",
+    "kind": "sentence",
+    "text": "The person is flexing a strong arm.",
+    "distractors": ["The person is flexing a strong leg.", "The person is flexing a thin arm.", "The person is scratching a strong arm."],
+    "answer": "arm",
+    "answerDistractors": ["leg", "foot", "knee"]
+  },
+  {
+    "wordId": "body-nose",
+    "kind": "phrase",
+    "text": "glasses on a nose",
+    "distractors": ["a ring on a finger", "a hat on a head", "a sock on a foot"],
+    "answer": "nose",
+    "answerDistractors": ["shelf", "book", "table"]
+  },
+  {
+    "wordId": "body-nose",
+    "kind": "sentence",
+    "text": "The person's glasses are resting on their nose.",
+    "distractors": ["The person's glasses are resting on their head.", "The person's glasses are resting on their knee.", "The person's fingers are resting on their nose."],
+    "answer": "glasses",
+    "answerDistractors": ["fingers", "hands", "thumbs"]
+  },
+  {
+    "wordId": "body-eyebrow",
+    "kind": "phrase",
+    "text": "an eyebrow above an eye",
+    "distractors": ["a ring on a finger", "a beard on a chin", "a nail on a thumb"],
+    "answer": "eye",
+    "answerDistractors": ["ear", "elbow", "ankle"]
+  },
+  {
+    "wordId": "body-eyebrow",
+    "kind": "sentence",
+    "text": "The eyebrow is just above the eye.",
+    "distractors": ["The eyebrow is just below the eye.", "The eyebrow is just above the ear.", "The moustache is just above the eye."],
+    "answer": "eyebrow",
+    "answerDistractors": ["moustache", "chin", "ear"]
+  },
+  {
+    "wordId": "body-chin",
+    "kind": "phrase",
+    "text": "a stubbly chin",
+    "distractors": ["a long grey beard", "a wrinkled forehead", "a pair of ears"],
+    "answer": "chin",
+    "answerDistractors": ["knee", "elbow", "hand"]
+  },
+  {
+    "wordId": "body-chin",
+    "kind": "sentence",
+    "text": "There is dark stubble on the man's chin.",
+    "distractors": ["There is dark paint on the man's chin.", "There is dark stubble on the man's arm.", "There is dark stubble on the woman's chin."],
+    "answer": "stubble",
+    "answerDistractors": ["paint", "foam", "mud"]
+  },
+  {
+    "wordId": "clothing-trousers",
+    "kind": "phrase",
+    "text": "a pair of long trousers",
+    "distractors": ["a pair of short socks", "a blue denim jacket", "a pair of red shorts"],
+    "answer": "trousers",
+    "answerDistractors": ["socks", "gloves", "boots"]
+  },
+  {
+    "wordId": "clothing-trousers",
+    "kind": "sentence",
+    "text": "The trousers are lying flat on a white sheet.",
+    "distractors": ["The trousers are lying flat on a wooden floor.", "The shorts are lying flat on a white sheet.", "The trousers are lying flat on a black sheet."],
+    "answer": "trousers",
+    "answerDistractors": ["shorts", "socks", "gloves"]
+  },
+  {
+    "wordId": "clothing-anorak",
+    "kind": "phrase",
+    "text": "an anorak with a hood",
+    "distractors": ["a jumper with a hole", "a shirt with a tie", "a dress with a belt"],
+    "answer": "hood",
+    "answerDistractors": ["belt", "tie", "scarf"]
+  },
+  {
+    "wordId": "clothing-anorak",
+    "kind": "sentence",
+    "text": "The anorak has a hood and long sleeves.",
+    "distractors": ["The anorak has a hood and short sleeves.", "The dress has a hood and long sleeves.", "The anorak has a belt and long sleeves."],
+    "answer": "anorak",
+    "answerDistractors": ["dress", "shirt", "cardigan"]
+  },
+  {
+    "wordId": "food-tea",
+    "kind": "phrase",
+    "text": "tea in a blue cup",
+    "distractors": ["milk in a tall glass", "soup in a white bowl", "coffee in a paper cup"],
+    "answer": "cup",
+    "answerDistractors": ["pot", "glass", "flask"]
+  },
+  {
+    "wordId": "food-tea",
+    "kind": "sentence",
+    "text": "The cup of tea is on a saucer.",
+    "distractors": ["The cup of tea is on a tray.", "The pot of tea is on a saucer.", "The cup of soup is on a saucer."],
+    "answer": "saucer",
+    "answerDistractors": ["tray", "shelf", "book"]
+  },
+  {
+    "wordId": "food-lemonade",
+    "kind": "phrase",
+    "text": "a glass of lemonade",
+    "distractors": ["a mug of coffee", "a bottle of milk", "a jug of water"],
+    "answer": "lemonade",
+    "answerDistractors": ["milk", "cola", "coffee"]
+  },
+  {
+    "wordId": "food-lemonade",
+    "kind": "sentence",
+    "text": "There is a slice of lemon on the glass.",
+    "distractors": ["There is a slice of lemon on the plate.", "There is a slice of orange on the glass.", "There is a slice of lemon on the bottle."],
+    "answer": "lemon",
+    "answerDistractors": ["orange", "tomato", "cucumber"]
+  },
+  {
+    "wordId": "furniture-bookcase",
+    "kind": "phrase",
+    "text": "a bookcase full of books",
+    "distractors": ["a wardrobe full of clothes", "a fridge full of food", "an empty wooden bookcase"],
+    "answer": "books",
+    "answerDistractors": ["shoes", "plates", "toys"]
+  },
+  {
+    "wordId": "furniture-bookcase",
+    "kind": "sentence",
+    "text": "The wooden bookcase is full of books.",
+    "distractors": ["The wooden bookcase is full of plates.", "The wooden wardrobe is full of books.", "The metal bookcase is full of books."],
+    "answer": "bookcase",
+    "answerDistractors": ["wardrobe", "suitcase", "basket"]
+  },
+  {
+    "wordId": "furniture-gate",
+    "kind": "phrase",
+    "text": "a white garden gate",
+    "distractors": ["a red front door", "a tall brick wall", "a green garden shed"],
+    "answer": "gate",
+    "answerDistractors": ["shed", "bench", "pond"]
+  },
+  {
+    "wordId": "furniture-gate",
+    "kind": "sentence",
+    "text": "There is a white gate in the garden.",
+    "distractors": ["There is a white bench in the garden.", "There is a black gate in the garden.", "There is a white gate in the kitchen."],
+    "answer": "gate",
+    "answerDistractors": ["bench", "swing", "statue"]
+  },
+  {
+    "wordId": "household-charger",
+    "kind": "phrase",
+    "text": "a black charger and cable",
+    "distractors": ["a white kettle and toaster", "a lamp on a table", "a phone and headphones"],
+    "answer": "cable",
+    "answerDistractors": ["phone", "laptop", "torch"]
+  },
+  {
+    "wordId": "household-charger",
+    "kind": "sentence",
+    "text": "The black charger is plugged into the wall.",
+    "distractors": ["The black kettle is plugged into the wall.", "The white charger is plugged into the wall.", "The black charger is plugged into a phone."],
+    "answer": "charger",
+    "answerDistractors": ["kettle", "lamp", "toaster"]
+  },
+  {
+    "wordId": "nature-branch",
+    "kind": "phrase",
+    "text": "a branch against the sky",
+    "distractors": ["a log on the grass", "a leaf on the ground", "a bird in a nest"],
+    "answer": "sky",
+    "answerDistractors": ["wall", "window", "fence"]
+  },
+  {
+    "wordId": "nature-branch",
+    "kind": "sentence",
+    "text": "The branch is in front of a blue sky.",
+    "distractors": ["The branch is in front of a brick wall.", "The kite is in front of a blue sky.", "The branch is in front of a white sky."],
+    "answer": "branch",
+    "answerDistractors": ["kite", "plane", "balloon"]
+  },
+  {
+    "wordId": "nature-sand",
+    "kind": "phrase",
+    "text": "a big pile of sand",
+    "distractors": ["a small bucket of water", "a big pile of snow", "a field of green grass"],
+    "answer": "sand",
+    "answerDistractors": ["snow", "leaves", "coal"]
+  },
+  {
+    "wordId": "nature-sand",
+    "kind": "sentence",
+    "text": "The sand is in a big pile.",
+    "distractors": ["The sand is in a big bucket.", "The snow is in a big pile.", "The coal is in a big pile."],
+    "answer": "pile",
+    "answerDistractors": ["bucket", "bag", "lorry"]
+  },
+  {
+    "wordId": "nature-log",
+    "kind": "phrase",
+    "text": "a big mossy log",
+    "distractors": ["a tall leafy tree", "a pile of dry sticks", "a small wooden bench"],
+    "answer": "log",
+    "answerDistractors": ["wall", "roof", "stone"]
+  },
+  {
+    "wordId": "nature-log",
+    "kind": "sentence",
+    "text": "The big log is covered in green moss.",
+    "distractors": ["The big wall is covered in green moss.", "The big log is covered in green paint.", "The tiny log is covered in green moss."],
+    "answer": "moss",
+    "answerDistractors": ["paint", "seaweed", "cloth"]
+  },
+  {
+    "wordId": "people-vet",
+    "kind": "phrase",
+    "text": "a vet examining a dog",
+    "distractors": ["a nurse weighing a baby", "a farmer feeding a pig", "a vet holding a cat"],
+    "answer": "dog",
+    "answerDistractors": ["cat", "rabbit", "parrot"]
+  },
+  {
+    "wordId": "people-vet",
+    "kind": "sentence",
+    "text": "The vet is examining a white dog on a table.",
+    "distractors": ["The vet is examining a white cat on a table.", "The vet is examining a black dog on a table.", "The vet is washing a white dog on a table."],
+    "answer": "table",
+    "answerDistractors": ["sofa", "bed", "lawn"]
+  },
+  {
+    "wordId": "people-plumber",
+    "kind": "phrase",
+    "text": "fixing a pipe under the sink",
+    "distractors": ["painting a wall in the hall", "washing plates in the sink", "mending a tyre on a bike"],
+    "answer": "sink",
+    "answerDistractors": ["bed", "car", "stairs"]
+  },
+  {
+    "wordId": "people-plumber",
+    "kind": "sentence",
+    "text": "The plumber is working on the pipe under the sink.",
+    "distractors": ["The plumber is working on the pipe under the bath.", "The gardener is working on the pipe under the sink.", "The plumber is working on the light under the sink."],
+    "answer": "plumber",
+    "answerDistractors": ["painter", "gardener", "hairdresser"]
+  },
+  {
+    "wordId": "people-gardener",
+    "kind": "phrase",
+    "text": "a gardener with a fork",
+    "distractors": ["a cook with a spoon", "a gardener with a wheelbarrow", "a painter with a brush"],
+    "answer": "fork",
+    "answerDistractors": ["hose", "mower", "wheelbarrow"]
+  },
+  {
+    "wordId": "people-gardener",
+    "kind": "sentence",
+    "text": "The gardener is digging the soil with a fork.",
+    "distractors": ["The gardener is digging the soil with a spoon.", "The child is digging the soil with a fork.", "The gardener is digging the sand with a fork."],
+    "answer": "soil",
+    "answerDistractors": ["sand", "snow", "gravel"]
+  },
+  {
+    "wordId": "people-vicar",
+    "kind": "phrase",
+    "text": "a vicar in a black robe",
+    "distractors": ["a nurse in a blue uniform", "a bride in a white dress", "a chef in a tall hat"],
+    "answer": "robe",
+    "answerDistractors": ["hat", "apron", "jumper"]
+  },
+  {
+    "wordId": "people-vicar",
+    "kind": "sentence",
+    "text": "The vicar is standing beside a stone wall.",
+    "distractors": ["The vicar is sitting beside a stone wall.", "The vicar is standing beside a wooden fence.", "The bride is standing beside a stone wall."],
+    "answer": "standing",
+    "answerDistractors": ["sitting", "kneeling", "lying"]
+  },
+  {
+    "wordId": "people-ref",
+    "kind": "phrase",
+    "text": "a referee with a whistle",
+    "distractors": ["a goalkeeper with a ball", "a player with a trophy", "a referee with a red card"],
+    "answer": "whistle",
+    "answerDistractors": ["flag", "ball", "trumpet"]
+  },
+  {
+    "wordId": "people-ref",
+    "kind": "sentence",
+    "text": "The ref has a whistle in his mouth.",
+    "distractors": ["The ref has a whistle in his hand.", "The ref has a pipe in his mouth.", "The goalkeeper has a whistle in his mouth."],
+    "answer": "mouth",
+    "answerDistractors": ["hand", "pocket", "bag"]
+  },
+  {
+    "wordId": "people-mime",
+    "kind": "phrase",
+    "text": "a mime with a white face",
+    "distractors": ["a clown with a red nose", "a singer with a microphone", "a mime with a black hat"],
+    "answer": "face",
+    "answerDistractors": ["beard", "scarf", "rabbit"]
+  },
+  {
+    "wordId": "people-mime",
+    "kind": "sentence",
+    "text": "The mime is wearing white gloves and a hat.",
+    "distractors": ["The mime is wearing white gloves and a scarf.", "The mime is wearing black gloves and a hat.", "The mime is holding white gloves and a hat."],
+    "answer": "hat",
+    "answerDistractors": ["scarf", "tie", "crown"]
+  },
+  {
+    "wordId": "people-grandad",
+    "kind": "phrase",
+    "text": "a grandad with two girls",
+    "distractors": ["a grandad with two boys", "a mother with a baby", "a grandad on a bike"],
+    "answer": "girls",
+    "answerDistractors": ["boys", "babies", "cats"]
+  },
+  {
+    "wordId": "people-grandad",
+    "kind": "sentence",
+    "text": "The grandad is sitting on a bench with two girls.",
+    "distractors": ["The grandad is sitting on a bench with two boys.", "The grandad is standing on a bench with two girls.", "The grandad is sitting on a wall with two girls."],
+    "answer": "bench",
+    "answerDistractors": ["wall", "swing", "rock"]
+  }
+]

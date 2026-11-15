@@ -1,0 +1,386 @@
+[
+  {
+    "wordId": "adjectives-tall",
+    "kind": "phrase",
+    "text": "tall buildings in a city",
+    "distractors": ["small cottages in a village", "tall trees in a forest", "low huts on a beach"],
+    "answer": "city",
+    "answerDistractors": ["village", "forest", "desert"]
+  },
+  {
+    "wordId": "adjectives-tall",
+    "kind": "sentence",
+    "text": "The tall buildings stand under a blue sky.",
+    "distractors": ["The tall trees stand under a blue sky.", "The tall buildings stand under a night sky.", "The tall mountains stand under a blue sky."],
+    "answer": "buildings",
+    "answerDistractors": ["trees", "mountains", "statues"]
+  },
+  {
+    "wordId": "adjectives-round",
+    "kind": "phrase",
+    "text": "a round window in a wall",
+    "distractors": ["a square window in a door", "a round mirror on a table", "a round clock on a tower"],
+    "answer": "wall",
+    "answerDistractors": ["roof", "door", "ship"]
+  },
+  {
+    "wordId": "adjectives-round",
+    "kind": "sentence",
+    "text": "The round window is set in a stone wall.",
+    "distractors": ["The square window is set in a stone wall.", "The round clock is set in a stone wall.", "The round window is set in a wooden door."],
+    "answer": "window",
+    "answerDistractors": ["clock", "mirror", "door"]
+  },
+  {
+    "wordId": "adjectives-curved",
+    "kind": "phrase",
+    "text": "a long curved road",
+    "distractors": ["a long straight road", "a narrow muddy path", "a steep stone staircase"],
+    "answer": "road",
+    "answerDistractors": ["bridge", "railway", "staircase"]
+  },
+  {
+    "wordId": "adjectives-curved",
+    "kind": "sentence",
+    "text": "A yellow line runs along the curved road.",
+    "distractors": ["A yellow line runs along the straight road.", "A yellow hedge runs along the curved road.", "A red line runs along the curved road."],
+    "answer": "yellow",
+    "answerDistractors": ["red", "green", "blue"]
+  },
+  {
+    "wordId": "adjectives-rough",
+    "kind": "phrase",
+    "text": "rough tree bark",
+    "distractors": ["smooth river stones", "soft green moss", "shiny wet leaves"],
+    "answer": "bark",
+    "answerDistractors": ["roots", "leaves", "blossom"]
+  },
+  {
+    "wordId": "adjectives-rough",
+    "kind": "sentence",
+    "text": "The bark of the tree is rough.",
+    "distractors": ["The bark of the tree is smooth.", "The leaf of the tree is rough.", "The bark of the tree is burnt."],
+    "answer": "rough",
+    "answerDistractors": ["smooth", "shiny", "white"]
+  },
+  {
+    "wordId": "adjectives-transparent",
+    "kind": "phrase",
+    "text": "a transparent plastic box",
+    "distractors": ["a solid wooden box", "a transparent glass bottle", "a brown cardboard box"],
+    "answer": "box",
+    "answerDistractors": ["bottle", "bag", "umbrella"]
+  },
+  {
+    "wordId": "adjectives-transparent",
+    "kind": "sentence",
+    "text": "You can see through the plastic box.",
+    "distractors": ["You can see through the plastic bag.", "You can see through the open window.", "You cannot see through the plastic box."],
+    "answer": "plastic",
+    "answerDistractors": ["wooden", "cardboard", "metal"]
+  },
+  {
+    "wordId": "adjectives-tired",
+    "kind": "phrase",
+    "text": "a tired woman rubbing her eyes",
+    "distractors": ["a happy woman waving her hands", "a tired man rubbing his neck", "a woman brushing her long hair"],
+    "answer": "eyes",
+    "answerDistractors": ["feet", "knees", "shoulders"]
+  },
+  {
+    "wordId": "adjectives-tired",
+    "kind": "sentence",
+    "text": "The woman is tired and rubs her eyes.",
+    "distractors": ["The man is tired and rubs his eyes.", "The woman is tired and rubs her neck.", "The woman is cheerful and rubs her eyes."],
+    "answer": "tired",
+    "answerDistractors": ["happy", "excited", "cheerful"]
+  },
+  {
+    "wordId": "clothing-pyjamas",
+    "kind": "phrase",
+    "text": "a pair of shiny pyjamas",
+    "distractors": ["a pair of woolly socks", "a thick winter coat", "a pair of leather gloves"],
+    "answer": "pyjamas",
+    "answerDistractors": ["shoes", "boots", "earrings"]
+  },
+  {
+    "wordId": "clothing-pyjamas",
+    "kind": "sentence",
+    "text": "The pyjamas are made of shiny material.",
+    "distractors": ["The pyjamas are made of woolly material.", "The gloves are made of shiny material.", "The curtains are made of shiny material."],
+    "answer": "shiny",
+    "answerDistractors": ["woolly", "furry", "knitted"]
+  },
+  {
+    "wordId": "clothing-knickers",
+    "kind": "phrase",
+    "text": "three pairs of knickers",
+    "distractors": ["three pairs of socks", "one pair of knickers", "two pairs of gloves"],
+    "answer": "knickers",
+    "answerDistractors": ["socks", "gloves", "shoes"]
+  },
+  {
+    "wordId": "clothing-knickers",
+    "kind": "sentence",
+    "text": "The knickers are black, red and white.",
+    "distractors": ["The socks are black, red and white.", "The knickers are black, blue and white.", "The towels are black, red and white."],
+    "answer": "red",
+    "answerDistractors": ["blue", "green", "yellow"]
+  },
+  {
+    "wordId": "food-yoghurt",
+    "kind": "phrase",
+    "text": "yoghurt with a plastic spoon",
+    "distractors": ["soup with a silver spoon", "cereal with a jug of milk", "jelly on a paper plate"],
+    "answer": "spoon",
+    "answerDistractors": ["fork", "straw", "knife"]
+  },
+  {
+    "wordId": "food-yoghurt",
+    "kind": "sentence",
+    "text": "There is a white spoon in the yoghurt.",
+    "distractors": ["There is a white spoon in the soup.", "There is a white straw in the yoghurt.", "There is a black spoon in the yoghurt."],
+    "answer": "white",
+    "answerDistractors": ["red", "black", "green"]
+  },
+  {
+    "wordId": "furniture-letterbox",
+    "kind": "phrase",
+    "text": "a metal letterbox",
+    "distractors": ["a brass door knocker", "a wooden garden gate", "a plastic dustbin"],
+    "answer": "letterbox",
+    "answerDistractors": ["bucket", "ladder", "kettle"]
+  },
+  {
+    "wordId": "furniture-letterbox",
+    "kind": "sentence",
+    "text": "The blue paint on the door is peeling.",
+    "distractors": ["The red paint on the door is peeling.", "The blue paint on the door is fresh.", "The blue paint on the bench is peeling."],
+    "answer": "blue",
+    "answerDistractors": ["red", "yellow", "black"]
+  },
+  {
+    "wordId": "furniture-patio",
+    "kind": "phrase",
+    "text": "a patio with garden chairs",
+    "distractors": ["a lawn with a washing line", "a balcony with flower pots", "a garage with two cars"],
+    "answer": "chairs",
+    "answerDistractors": ["swings", "benches", "bicycles"]
+  },
+  {
+    "wordId": "furniture-patio",
+    "kind": "sentence",
+    "text": "There are chairs and a table on the patio.",
+    "distractors": ["There are chairs and a table on the beach.", "There are bicycles and a table on the patio.", "There are chairs and a swing on the patio."],
+    "answer": "patio",
+    "answerDistractors": ["beach", "balcony", "roof"]
+  },
+  {
+    "wordId": "nature-star",
+    "kind": "phrase",
+    "text": "a bright shining star",
+    "distractors": ["a pale full moon", "a dark rain cloud", "a bright red sunset"],
+    "answer": "star",
+    "answerDistractors": ["moon", "torch", "candle"]
+  },
+  {
+    "wordId": "nature-star",
+    "kind": "sentence",
+    "text": "The night sky is full of stars.",
+    "distractors": ["The night sky is full of fireworks.", "The night sky is full of birds.", "The morning sky is full of stars."],
+    "answer": "stars",
+    "answerDistractors": ["fireworks", "birds", "kites"]
+  },
+  {
+    "wordId": "people-nurse",
+    "kind": "phrase",
+    "text": "a nurse in a white uniform",
+    "distractors": ["a doctor in a green gown", "a chef in a tall hat", "a nurse in a blue uniform"],
+    "answer": "uniform",
+    "answerDistractors": ["hat", "mask", "scarf"]
+  },
+  {
+    "wordId": "people-nurse",
+    "kind": "sentence",
+    "text": "The nurse is smiling at the camera.",
+    "distractors": ["The nurse is frowning at the camera.", "The nurse is smiling at a patient.", "The builder is smiling at the camera."],
+    "answer": "smiling",
+    "answerDistractors": ["frowning", "shouting", "waving"]
+  },
+  {
+    "wordId": "people-optician",
+    "kind": "phrase",
+    "text": "an optician testing a woman's eyes",
+    "distractors": ["a dentist checking a man's teeth", "a barber cutting a man's hair", "a nurse weighing a small baby"],
+    "answer": "eyes",
+    "answerDistractors": ["ears", "teeth", "feet"]
+  },
+  {
+    "wordId": "people-optician",
+    "kind": "sentence",
+    "text": "The optician is looking through a machine at the woman.",
+    "distractors": ["The optician is looking through a window at the woman.", "The optician is looking through a machine at the baby.", "The dentist is looking through a machine at the woman."],
+    "answer": "machine",
+    "answerDistractors": ["window", "keyhole", "fence"]
+  },
+  {
+    "wordId": "people-librarian",
+    "kind": "phrase",
+    "text": "a librarian holding an open book",
+    "distractors": ["a teacher writing on a board", "a librarian pushing a book trolley", "a shopkeeper weighing some fruit"],
+    "answer": "book",
+    "answerDistractors": ["umbrella", "envelope", "tin"]
+  },
+  {
+    "wordId": "people-librarian",
+    "kind": "sentence",
+    "text": "The librarian is standing in front of bookshelves.",
+    "distractors": ["The librarian is sitting in front of bookshelves.", "The librarian is standing in front of windows.", "The gardener is standing in front of bookshelves."],
+    "answer": "bookshelves",
+    "answerDistractors": ["curtains", "lockers", "windows"]
+  },
+  {
+    "wordId": "places-university",
+    "kind": "phrase",
+    "text": "a grand old university",
+    "distractors": ["a busy modern airport", "a small village shop", "a tall glass office block"],
+    "answer": "university",
+    "answerDistractors": ["lighthouse", "windmill", "piano"]
+  },
+  {
+    "wordId": "places-university",
+    "kind": "sentence",
+    "text": "A path leads across the lawn to the university.",
+    "distractors": ["A path leads across the lawn to the beach.", "A bridge leads across the lawn to the university.", "A path leads across the car park to the university."],
+    "answer": "path",
+    "answerDistractors": ["bridge", "tunnel", "railway"]
+  },
+  {
+    "wordId": "places-courthouse",
+    "kind": "phrase",
+    "text": "a courthouse with tall columns",
+    "distractors": ["a cottage with a thatched roof", "a church with a tall spire", "a factory with tall chimneys"],
+    "answer": "columns",
+    "answerDistractors": ["chimneys", "fences", "hedges"]
+  },
+  {
+    "wordId": "places-courthouse",
+    "kind": "sentence",
+    "text": "Wide steps lead up to the courthouse.",
+    "distractors": ["Wide steps lead up to the lighthouse.", "Wide steps lead down to the courthouse.", "Wide steps lead up to the aeroplane."],
+    "answer": "steps",
+    "answerDistractors": ["ladders", "escalators", "bridges"]
+  },
+  {
+    "wordId": "places-hotel",
+    "kind": "phrase",
+    "text": "a large white hotel",
+    "distractors": ["a small brick cottage", "a large red barn", "a tall grey lighthouse"],
+    "answer": "hotel",
+    "answerDistractors": ["tent", "caravan", "lorry"]
+  },
+  {
+    "wordId": "places-hotel",
+    "kind": "sentence",
+    "text": "Two cars are parked outside the hotel.",
+    "distractors": ["Two buses are parked outside the hotel.", "Two cars are parked outside the church.", "Two cars are racing past the hotel."],
+    "answer": "cars",
+    "answerDistractors": ["buses", "lorries", "bicycles"]
+  },
+  {
+    "wordId": "verbs-somersault",
+    "kind": "phrase",
+    "text": "turning a somersault in the air",
+    "distractors": ["swimming a length of the pool", "climbing a rope in the gym", "skipping with a rope outside"],
+    "answer": "air",
+    "answerDistractors": ["pool", "snow", "sea"]
+  },
+  {
+    "wordId": "verbs-somersault",
+    "kind": "sentence",
+    "text": "The person is doing a somersault above the mat.",
+    "distractors": ["The person is doing a somersault above the pool.", "The person is doing a somersault above the grass.", "The person is sitting down on the mat."],
+    "answer": "mat",
+    "answerDistractors": ["pool", "grass", "sand"]
+  },
+  {
+    "wordId": "verbs-moisturise",
+    "kind": "phrase",
+    "text": "moisturising the hands",
+    "distractors": ["washing the feet", "drying the hair", "brushing the teeth"],
+    "answer": "hands",
+    "answerDistractors": ["feet", "knees", "elbows"]
+  },
+  {
+    "wordId": "verbs-moisturise",
+    "kind": "sentence",
+    "text": "The person is squeezing cream from a blue tube.",
+    "distractors": ["The person is squeezing cream from a red tube.", "The person is squeezing cream from a blue bottle.", "The person is squeezing ketchup from a blue tube."],
+    "answer": "tube",
+    "answerDistractors": ["jar", "bottle", "bucket"]
+  },
+  {
+    "wordId": "verbs-polish",
+    "kind": "phrase",
+    "text": "polishing metal with a cloth",
+    "distractors": ["painting a wall with a roller", "washing a car with a hose", "sweeping leaves off a path"],
+    "answer": "cloth",
+    "answerDistractors": ["brush", "mop", "broom"]
+  },
+  {
+    "wordId": "verbs-polish",
+    "kind": "sentence",
+    "text": "The man is polishing metal with a white cloth.",
+    "distractors": ["The man is polishing glass with a white cloth.", "The woman is polishing metal with a white cloth.", "The man is polishing metal with a wire brush."],
+    "answer": "metal",
+    "answerDistractors": ["glass", "wood", "leather"]
+  },
+  {
+    "wordId": "verbs-disinfect",
+    "kind": "phrase",
+    "text": "disinfecting a wooden worktop",
+    "distractors": ["varnishing a wooden floor", "disinfecting a metal sink", "chopping a pile of logs"],
+    "answer": "worktop",
+    "answerDistractors": ["chair", "door", "fence"]
+  },
+  {
+    "wordId": "verbs-disinfect",
+    "kind": "sentence",
+    "text": "The person in orange gloves is wiping the worktop.",
+    "distractors": ["The person in orange gloves is wiping the window.", "The person in blue gloves is wiping the worktop.", "The person in orange gloves is painting the worktop."],
+    "answer": "wiping",
+    "answerDistractors": ["sawing", "painting", "lifting"]
+  },
+  {
+    "wordId": "verbs-twist",
+    "kind": "phrase",
+    "text": "twisting the lid of a jar",
+    "distractors": ["pouring tea from a pot", "cutting a slice of bread", "turning a key in a lock"],
+    "answer": "jar",
+    "answerDistractors": ["teapot", "saucepan", "dustbin"]
+  },
+  {
+    "wordId": "verbs-twist",
+    "kind": "sentence",
+    "text": "Two hands are twisting the lid of a jar.",
+    "distractors": ["Two hands are twisting the lid of a bin.", "Two hands are washing the lid of a jar.", "Two hands are twisting the handle of a door."],
+    "answer": "twisting",
+    "answerDistractors": ["painting", "washing", "hammering"]
+  },
+  {
+    "wordId": "verbs-stack",
+    "kind": "phrase",
+    "text": "stacking cardboard boxes",
+    "distractors": ["stacking dinner plates", "folding clean towels", "stacking plastic chairs"],
+    "answer": "boxes",
+    "answerDistractors": ["tubes", "cups", "plates"]
+  },
+  {
+    "wordId": "verbs-stack",
+    "kind": "sentence",
+    "text": "The man is lifting a box onto the stack.",
+    "distractors": ["The woman is lifting a box onto the stack.", "The man is lifting a chair onto the stack.", "The man is kicking a box onto the stack."],
+    "answer": "lifting",
+    "answerDistractors": ["kicking", "throwing", "dragging"]
+  }
+]
