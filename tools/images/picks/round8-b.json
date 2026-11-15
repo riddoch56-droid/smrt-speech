@@ -1,0 +1,14 @@
+{
+  "body-forehead": [4],
+  "body-knuckle": [],
+  "body-ankle": [],
+  "body-thigh": [7, 22],
+  "body-heel": [],
+  "body-shampoo": [],
+  "body-flannel": [],
+  "clothing-skirt": [11, 24, 4],
+  "clothing-tights": [45, 30],
+  "clothing-earmuffs": [41, 37, 18],
+  "food-cream": [],
+  "people-paramedic": []
+}

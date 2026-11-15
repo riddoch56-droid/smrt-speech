@@ -250,8 +250,7 @@
       "syllables": 1,
       "rhyme": "feel",
       "sameFirstSound": "nose"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-stretch",
@@ -1052,8 +1051,7 @@
       "syllables": 2,
       "rhyme": "wrinkle",
       "sameFirstSound": "sandal"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-taste",
@@ -1271,8 +1269,7 @@
       "syllables": 1,
       "rhyme": "gold",
       "sameFirstSound": "fence"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-hang",
@@ -1565,8 +1562,7 @@
       "syllables": 1,
       "rhyme": "high",
       "sameFirstSound": "cup"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-frown",
@@ -2077,8 +2073,7 @@
       "syllables": 1,
       "rhyme": "freeze",
       "sameFirstSound": "sun"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-twist",
@@ -3349,8 +3344,7 @@
       "syllables": 1,
       "rhyme": "bear",
       "sameFirstSound": "ship"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-greet",
@@ -3423,8 +3417,7 @@
       "syllables": 1,
       "rhyme": "yelp",
       "sameFirstSound": "house"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-feed",
@@ -3644,7 +3637,6 @@
       "syllables": 2,
       "rhyme": "pickle",
       "sameFirstSound": "table"
-    },
-    "hasImage": false
+    }
   }
 ]

@@ -357,6 +357,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-adjectives-heavy",
+  "kind": "sentence",
+  "image": "adjectives-heavy.webp",
+  "wordId": "adjectives-heavy",
+  "group": "adjectives",
+  "text": "A man is lifting heavy weights in the gym.",
+  "distractors": [
+   "A man is lifting heavy boxes in the gym.",
+   "A woman is lifting heavy weights in the gym.",
+   "A man is lifting heavy weights in the garden."
+  ],
+  "cloze": "A man is lifting heavy weights in the ___.",
+  "answer": "gym",
+  "answerDistractors": [
+   "garden",
+   "kitchen",
+   "office"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-adjectives-hot",
   "kind": "sentence",
   "image": "adjectives-hot.webp",
@@ -588,6 +609,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-adjectives-shiny",
+  "kind": "sentence",
+  "image": "adjectives-shiny.webp",
+  "wordId": "adjectives-shiny",
+  "group": "adjectives",
+  "text": "There are trees behind the shiny car.",
+  "distractors": [
+   "There are trees behind the rusty car.",
+   "There are trees behind the shiny bus.",
+   "There are boats behind the shiny car."
+  ],
+  "cloze": "There are trees behind the ___ car.",
+  "answer": "shiny",
+  "answerDistractors": [
+   "rusty",
+   "muddy",
+   "dented"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-adjectives-slippery",
   "kind": "sentence",
   "image": "adjectives-slippery.webp",
@@ -668,6 +710,27 @@
    "rough",
    "spiky",
    "bumpy"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-adjectives-soft",
+  "kind": "sentence",
+  "image": "adjectives-soft.webp",
+  "wordId": "adjectives-soft",
+  "group": "adjectives",
+  "text": "A hand is pressing into the soft bedding.",
+  "distractors": [
+   "A foot is pressing into the soft bedding.",
+   "A hand is pressing into the soft sand.",
+   "A hand is pressing into the hard bedding."
+  ],
+  "cloze": "A ___ is pressing into the soft bedding.",
+  "answer": "hand",
+  "answerDistractors": [
+   "foot",
+   "knee",
+   "paw"
   ],
   "childFriendly": true
  },
@@ -2268,6 +2331,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-body-forehead",
+  "kind": "sentence",
+  "image": "body-forehead.webp",
+  "wordId": "body-forehead",
+  "group": "body",
+  "text": "The woman is raising her eyebrows.",
+  "distractors": [
+   "The woman is raising her hands.",
+   "The woman is plucking her eyebrows.",
+   "The man is raising his eyebrows."
+  ],
+  "cloze": "The woman is raising her ___.",
+  "answer": "eyebrows",
+  "answerDistractors": [
+   "hands",
+   "arms",
+   "shoulders"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-body-hairbrush",
   "kind": "sentence",
   "image": "body-hairbrush.webp",
@@ -3780,6 +3864,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-clothing-skirt",
+  "kind": "sentence",
+  "image": "clothing-skirt.webp",
+  "wordId": "clothing-skirt",
+  "group": "clothing",
+  "text": "The woman has her hands on her hips.",
+  "distractors": [
+   "The woman has her hands on her knees.",
+   "The woman has her hands in her pockets.",
+   "The man has his hands on his hips."
+  ],
+  "cloze": "The woman has her hands on her ___.",
+  "answer": "hips",
+  "answerDistractors": [
+   "knees",
+   "head",
+   "shoulders"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-clothing-slippers",
   "kind": "sentence",
   "image": "clothing-slippers.webp",
@@ -3860,6 +3965,27 @@
    "checks",
    "waves",
    "squares"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-clothing-tights",
+  "kind": "sentence",
+  "image": "clothing-tights.webp",
+  "wordId": "clothing-tights",
+  "group": "clothing",
+  "text": "The person is wearing red shoes with dark tights.",
+  "distractors": [
+   "The person is wearing white shoes with dark tights.",
+   "The person is wearing red gloves with dark tights.",
+   "The person is wearing red shoes with dark jeans."
+  ],
+  "cloze": "The person is wearing ___ shoes with dark tights.",
+  "answer": "red",
+  "answerDistractors": [
+   "white",
+   "yellow",
+   "green"
   ],
   "childFriendly": true
  },
@@ -8967,6 +9093,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-people-gran",
+  "kind": "sentence",
+  "image": "people-gran.webp",
+  "wordId": "people-gran",
+  "group": "people",
+  "text": "The gran is wearing a colourful top.",
+  "distractors": [
+   "The gran is wearing a colourful hat.",
+   "The gran is knitting a colourful top.",
+   "The baby is wearing a colourful top."
+  ],
+  "cloze": "The gran is wearing a colourful ___.",
+  "answer": "top",
+  "answerDistractors": [
+   "hat",
+   "coat",
+   "scarf"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-people-grandad",
   "kind": "sentence",
   "image": "people-grandad.webp",
@@ -9110,6 +9257,27 @@
    "seat",
    "wheel",
    "radio"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-people-midwife",
+  "kind": "sentence",
+  "image": "people-midwife.webp",
+  "wordId": "people-midwife",
+  "group": "people",
+  "text": "The midwife is wearing a blue uniform.",
+  "distractors": [
+   "The midwife is wearing a red uniform.",
+   "The midwife is wearing a blue raincoat.",
+   "The builder is wearing a blue uniform."
+  ],
+  "cloze": "The midwife is wearing a blue ___.",
+  "answer": "uniform",
+  "answerDistractors": [
+   "raincoat",
+   "jumper",
+   "apron"
   ],
   "childFriendly": true
  },
@@ -9677,6 +9845,27 @@
    "benches",
    "boats",
    "bins"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-places-cafe",
+  "kind": "sentence",
+  "image": "places-cafe.webp",
+  "wordId": "places-cafe",
+  "group": "places",
+  "text": "People are sitting outside the cafe.",
+  "distractors": [
+   "People are dancing outside the cafe.",
+   "People are sitting outside the church.",
+   "Dogs are sitting outside the cafe."
+  ],
+  "cloze": "People are ___ outside the cafe.",
+  "answer": "sitting",
+  "answerDistractors": [
+   "dancing",
+   "sleeping",
+   "singing"
   ],
   "childFriendly": true
  },
@@ -11865,6 +12054,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-verbs-cry",
+  "kind": "sentence",
+  "image": "verbs-cry.webp",
+  "wordId": "verbs-cry",
+  "group": "verbs",
+  "text": "The baby is crying with its eyes shut.",
+  "distractors": [
+   "The baby is sleeping with its eyes shut.",
+   "The baby is crying with its eyes open.",
+   "The man is crying with his eyes shut."
+  ],
+  "cloze": "The baby is ___ with its eyes shut.",
+  "answer": "crying",
+  "answerDistractors": [
+   "laughing",
+   "sleeping",
+   "smiling"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-verbs-decorate",
   "kind": "sentence",
   "image": "verbs-decorate.webp",
@@ -11991,6 +12201,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-verbs-fold",
+  "kind": "sentence",
+  "image": "verbs-fold.webp",
+  "wordId": "verbs-fold",
+  "group": "verbs",
+  "text": "The person is sitting on the bed folding clothes.",
+  "distractors": [
+   "The person is sitting on the bed ironing clothes.",
+   "The person is sitting on the floor folding clothes.",
+   "The person is sitting on the bed folding newspapers."
+  ],
+  "cloze": "The person is sitting on the bed ___ clothes.",
+  "answer": "folding",
+  "answerDistractors": [
+   "ironing",
+   "sewing",
+   "buying"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-verbs-follow",
   "kind": "sentence",
   "image": "verbs-follow.webp",
@@ -12071,6 +12302,27 @@
    "fence",
    "tree",
    "bush"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-help",
+  "kind": "sentence",
+  "image": "verbs-help.webp",
+  "wordId": "verbs-help",
+  "group": "verbs",
+  "text": "The player in blue is helping the player in white.",
+  "distractors": [
+   "The player in blue is chasing the player in white.",
+   "The player in red is helping the player in white.",
+   "The player in blue is helping the player in green."
+  ],
+  "cloze": "The player in blue is ___ the player in white.",
+  "answer": "helping",
+  "answerDistractors": [
+   "chasing",
+   "tackling",
+   "ignoring"
   ],
   "childFriendly": true
  },
@@ -12218,6 +12470,27 @@
    "dog",
    "cat",
    "horse"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-kneel",
+  "kind": "sentence",
+  "image": "verbs-kneel.webp",
+  "wordId": "verbs-kneel",
+  "group": "verbs",
+  "text": "The woman in the pink jumper is kneeling.",
+  "distractors": [
+   "The woman in the pink jumper is running.",
+   "The woman in the green jumper is kneeling.",
+   "The man in the pink jumper is kneeling."
+  ],
+  "cloze": "The woman in the pink jumper is ___.",
+  "answer": "kneeling",
+  "answerDistractors": [
+   "running",
+   "swimming",
+   "sleeping"
   ],
   "childFriendly": true
  },
@@ -12705,6 +12978,27 @@
   "childFriendly": true
  },
  {
+  "id": "sentence-verbs-share",
+  "kind": "sentence",
+  "image": "verbs-share.webp",
+  "wordId": "verbs-share",
+  "group": "verbs",
+  "text": "The people are sharing a pizza.",
+  "distractors": [
+   "The people are baking a pizza.",
+   "The people are sharing a cake.",
+   "The dogs are sharing a pizza."
+  ],
+  "cloze": "The people are ___ a pizza.",
+  "answer": "sharing",
+  "answerDistractors": [
+   "baking",
+   "ordering",
+   "delivering"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "sentence-verbs-shave",
   "kind": "sentence",
   "image": "verbs-shave.webp",
@@ -12869,6 +13163,48 @@
    "pool",
    "grass",
    "sand"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-sprinkle",
+  "kind": "sentence",
+  "image": "verbs-sprinkle.webp",
+  "wordId": "verbs-sprinkle",
+  "group": "verbs",
+  "text": "The person is sprinkling flour over the dough.",
+  "distractors": [
+   "The person is sprinkling cheese over the dough.",
+   "The person is sprinkling flour over the salad.",
+   "The person is sprinkling flour over the floor."
+  ],
+  "cloze": "The person is sprinkling ___ over the dough.",
+  "answer": "flour",
+  "answerDistractors": [
+   "cheese",
+   "gravy",
+   "honey"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-squeeze",
+  "kind": "sentence",
+  "image": "verbs-squeeze.webp",
+  "wordId": "verbs-squeeze",
+  "group": "verbs",
+  "text": "The hand is squeezing an orange.",
+  "distractors": [
+   "The hand is peeling an orange.",
+   "The hand is squeezing a sponge.",
+   "The machine is squeezing an orange."
+  ],
+  "cloze": "The hand is ___ an orange.",
+  "answer": "squeezing",
+  "answerDistractors": [
+   "peeling",
+   "slicing",
+   "washing"
   ],
   "childFriendly": true
  },
@@ -13058,6 +13394,27 @@
    "kicking",
    "bouncing",
    "heading"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "sentence-verbs-tickle",
+  "kind": "sentence",
+  "image": "verbs-tickle.webp",
+  "wordId": "verbs-tickle",
+  "group": "verbs",
+  "text": "A blade of grass is tickling the toes.",
+  "distractors": [
+   "A blade of grass is tickling the ears.",
+   "A blade of grass is cutting the toes.",
+   "A long feather is tickling the toes."
+  ],
+  "cloze": "A blade of grass is tickling the ___.",
+  "answer": "toes",
+  "answerDistractors": [
+   "ears",
+   "elbows",
+   "knees"
   ],
   "childFriendly": true
  },

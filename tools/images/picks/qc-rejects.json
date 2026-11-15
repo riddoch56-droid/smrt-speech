@@ -58,7 +58,7 @@
  "people-gran": "r6: close portrait of a named private person, reads as old woman",
  "people-grandad": "r4b second choice: named individual, reads as old man",
  "verbs-kneel": "r4b: portrait of a child",
- "verbs-frown": "r6: harsh close portrait, reads as old man",
+ "verbs-frown": "r8: pouting man in glasses, too close to the picture for sad",
  "adjectives-heavy": "r5: man carrying a box reads as carrying; removal firm name on the box",
  "adjectives-transparent": "r5: a glass bottle reads as bottle",
  "adjectives-tired": "r5: a yawning woman clashes with the word yawn",
@@ -71,12 +71,14 @@
  "people-nurse": "r6: a wound being treated is in view",
  "places-chemist": "r5: national chain name is the main thing in view",
  "verbs-hop": "r5: small figure of a child, reads as hopscotch or running",
- "verbs-fold": "r5: reads as holding a towel",
+ "verbs-fold": "r8: reads as smoothing a sheet on a bed",
  "verbs-squeeze": "r7: staged concept picture with banknotes",
  "verbs-greet": "r6: business handshake reads as shaking hands; stock-library mark",
  "verbs-cry": "r5: named actress",
  "verbs-wink": "r5 second choice: named actress at a film festival",
  "clothing-knickers": "r6: cluttered market stall with price tags",
  "people-optician": "r6 second choice: very tight close-up of a named officer",
- "places-post-office": "r7: convenience store fascia dominates, reads as shop"
+ "places-post-office": "r7: convenience store fascia dominates, reads as shop",
+ "body-thigh": "r8 second choice: bare legs in shorts with a watermark",
+ "clothing-earmuffs": "r8 third choice: close face, earmuffs barely visible"
 }

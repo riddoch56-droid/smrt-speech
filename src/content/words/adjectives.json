@@ -687,8 +687,7 @@
       "syllables": 1,
       "rhyme": "loft",
       "sameFirstSound": "sock"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-rough",
@@ -1569,8 +1568,7 @@
       "syllables": 2,
       "rhyme": "tiny",
       "sameFirstSound": "ship"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-transparent",
@@ -1975,8 +1973,7 @@
       "syllables": 2,
       "rhyme": "levy",
       "sameFirstSound": "hammer"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-fast",

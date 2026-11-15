@@ -399,8 +399,7 @@
       "syllables": 1,
       "rhyme": "dirt",
       "sameFirstSound": "sandwich"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-dress",
@@ -1169,8 +1168,7 @@
       "syllables": 1,
       "rhyme": "kites",
       "sameFirstSound": "tiger"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-hat",

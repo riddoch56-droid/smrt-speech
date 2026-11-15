@@ -109,12 +109,19 @@ Notable decisions made while building SMRT Speech, with the reason for each.
   50 of them failed the contact-sheet check and were swapped or withdrawn. The commonest reasons
   were a named or well-known person in the source title, a brand name as the main thing in view,
   and a picture that a viewer would name by its object and not by the describing word.
+- **Round eight, the same day,** searched Openverse only, with three new phrases a word for the
+  61 words then open (`wide-queries-8.json`). It added 17 pictures, 16 of them CC BY or CC0, so 99
+  of the 143 words have gained a picture since round four and 44 have not. Openverse's published
+  limit for clients without an account is 200 searches a day. The service reported the day's
+  allowance as unused before round eight, so the round went ahead, and reported the same again
+  afterwards. The build therefore made about 380 Openverse searches on 15 November and did not
+  run a third batch, because the counter was plainly not tracking it.
 - **StockSnap was tried and dropped.** Its photographs are all CC0, but its site answers automated
   requests with a bot challenge, and the build does not work around those. The Wellcome
   Collection's open images were also tried: nearly all are historical prints, so none were used.
 - **A describing word is pictured by a typical example** (a frog on a fingertip for "small", a
   steaming mug for "hot"). A picture is rejected when the viewer would simply name the object
-  (a bottle for "transparent", trainers in a box for "new"), which is why 11 describing words
+  (a bottle for "transparent", trainers in a box for "new"), which is why 8 describing words
   still have no picture.
 - **Review rule for buildings and shops, round 4.** Ordinary shop and building signage is accepted,
   because a pub or a post office with no sign does not exist. A picture is still rejected if the

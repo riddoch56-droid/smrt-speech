@@ -441,6 +441,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-adjectives-heavy",
+  "kind": "phrase",
+  "image": "adjectives-heavy.webp",
+  "wordId": "adjectives-heavy",
+  "group": "adjectives",
+  "text": "lifting a heavy weight",
+  "distractors": [
+   "carrying a light bag",
+   "pushing an empty trolley",
+   "riding a racing bike"
+  ],
+  "cloze": "lifting a heavy ___",
+  "answer": "weight",
+  "answerDistractors": [
+   "suitcase",
+   "box",
+   "ladder"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-adjectives-hot",
   "kind": "phrase",
   "image": "adjectives-hot.webp",
@@ -735,6 +756,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-adjectives-shiny",
+  "kind": "phrase",
+  "image": "adjectives-shiny.webp",
+  "wordId": "adjectives-shiny",
+  "group": "adjectives",
+  "text": "a shiny silver car",
+  "distractors": [
+   "a muddy green tractor",
+   "a rusty old bicycle",
+   "a bright yellow bus"
+  ],
+  "cloze": "a shiny silver ___",
+  "answer": "car",
+  "answerDistractors": [
+   "spoon",
+   "kettle",
+   "coin"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-adjectives-slippery",
   "kind": "phrase",
   "image": "adjectives-slippery.webp",
@@ -815,6 +857,27 @@
    "table",
    "plate",
    "road"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-adjectives-soft",
+  "kind": "phrase",
+  "image": "adjectives-soft.webp",
+  "wordId": "adjectives-soft",
+  "group": "adjectives",
+  "text": "pressing into something soft",
+  "distractors": [
+   "knocking on something hard",
+   "stepping on something sharp",
+   "cutting into something sweet"
+  ],
+  "cloze": "pressing into something ___",
+  "answer": "soft",
+  "answerDistractors": [
+   "hard",
+   "sharp",
+   "prickly"
   ],
   "childFriendly": true
  },
@@ -2436,6 +2499,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-body-forehead",
+  "kind": "phrase",
+  "image": "body-forehead.webp",
+  "wordId": "body-forehead",
+  "group": "body",
+  "text": "lines on her forehead",
+  "distractors": [
+   "rings on her fingers",
+   "shoes on her feet",
+   "gloves on her hands"
+  ],
+  "cloze": "lines on her ___",
+  "answer": "forehead",
+  "answerDistractors": [
+   "elbow",
+   "knee",
+   "thumb"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-body-hairbrush",
   "kind": "phrase",
   "image": "body-hairbrush.webp",
@@ -3927,6 +4011,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-clothing-skirt",
+  "kind": "phrase",
+  "image": "clothing-skirt.webp",
+  "wordId": "clothing-skirt",
+  "group": "clothing",
+  "text": "a blue denim skirt",
+  "distractors": [
+   "a long white dress",
+   "a pair of grey trousers",
+   "a red woollen scarf"
+  ],
+  "cloze": "a blue denim ___",
+  "answer": "skirt",
+  "answerDistractors": [
+   "jacket",
+   "shirt",
+   "cap"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-clothing-slippers",
   "kind": "phrase",
   "image": "clothing-slippers.webp",
@@ -4007,6 +4112,27 @@
    "scarves",
    "belts",
    "hats"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-clothing-tights",
+  "kind": "phrase",
+  "image": "clothing-tights.webp",
+  "wordId": "clothing-tights",
+  "group": "clothing",
+  "text": "a pair of patterned tights",
+  "distractors": [
+   "a pair of blue jeans",
+   "a pair of leather gloves",
+   "a pair of walking boots"
+  ],
+  "cloze": "a pair of patterned ___",
+  "answer": "tights",
+  "answerDistractors": [
+   "gloves",
+   "slippers",
+   "curtains"
   ],
   "childFriendly": true
  },
@@ -9114,6 +9240,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-people-gran",
+  "kind": "phrase",
+  "image": "people-gran.webp",
+  "wordId": "people-gran",
+  "group": "people",
+  "text": "a gran with a warm smile",
+  "distractors": [
+   "a gran with a walking stick",
+   "a boy with a red kite",
+   "a man with a grey beard"
+  ],
+  "cloze": "a gran with a warm ___",
+  "answer": "smile",
+  "answerDistractors": [
+   "scarf",
+   "hat",
+   "coat"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-people-grandad",
   "kind": "phrase",
   "image": "people-grandad.webp",
@@ -9257,6 +9404,27 @@
    "salesman",
    "cleaner",
    "painter"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-people-midwife",
+  "kind": "phrase",
+  "image": "people-midwife.webp",
+  "wordId": "people-midwife",
+  "group": "people",
+  "text": "a midwife holding a baby",
+  "distractors": [
+   "a postman holding a parcel",
+   "a chef holding a pan",
+   "a farmer feeding a lamb"
+  ],
+  "cloze": "a midwife holding a ___",
+  "answer": "baby",
+  "answerDistractors": [
+   "kitten",
+   "parcel",
+   "tray"
   ],
   "childFriendly": true
  },
@@ -9824,6 +9992,27 @@
    "barn",
    "tent",
    "shed"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-places-cafe",
+  "kind": "phrase",
+  "image": "places-cafe.webp",
+  "wordId": "places-cafe",
+  "group": "places",
+  "text": "tables outside a cafe",
+  "distractors": [
+   "boats beside a pier",
+   "cars outside a garage",
+   "beds inside a hospital"
+  ],
+  "cloze": "tables outside a ___",
+  "answer": "cafe",
+  "answerDistractors": [
+   "school",
+   "church",
+   "garage"
   ],
   "childFriendly": true
  },
@@ -12012,6 +12201,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-verbs-cry",
+  "kind": "phrase",
+  "image": "verbs-cry.webp",
+  "wordId": "verbs-cry",
+  "group": "verbs",
+  "text": "a small crying baby",
+  "distractors": [
+   "a small sleeping baby",
+   "a small barking dog",
+   "a tall laughing man"
+  ],
+  "cloze": "a small crying ___",
+  "answer": "baby",
+  "answerDistractors": [
+   "puppy",
+   "kitten",
+   "clown"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-verbs-decorate",
   "kind": "phrase",
   "image": "verbs-decorate.webp",
@@ -12138,6 +12348,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-verbs-fold",
+  "kind": "phrase",
+  "image": "verbs-fold.webp",
+  "wordId": "verbs-fold",
+  "group": "verbs",
+  "text": "folding clothes on the bed",
+  "distractors": [
+   "hanging washing on the line",
+   "ironing shirts on a board",
+   "washing dishes in the sink"
+  ],
+  "cloze": "folding clothes on the ___",
+  "answer": "bed",
+  "answerDistractors": [
+   "table",
+   "floor",
+   "stairs"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-verbs-follow",
   "kind": "phrase",
   "image": "verbs-follow.webp",
@@ -12218,6 +12449,27 @@
    "flags",
    "curtains",
    "lights"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-help",
+  "kind": "phrase",
+  "image": "verbs-help.webp",
+  "wordId": "verbs-help",
+  "group": "verbs",
+  "text": "helping a fallen player",
+  "distractors": [
+   "kicking a muddy football",
+   "carrying a heavy suitcase",
+   "pushing a broken car"
+  ],
+  "cloze": "helping a fallen ___",
+  "answer": "player",
+  "answerDistractors": [
+   "rider",
+   "skier",
+   "cyclist"
   ],
   "childFriendly": true
  },
@@ -12365,6 +12617,27 @@
    "dog",
    "cat",
    "horse"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-kneel",
+  "kind": "phrase",
+  "image": "verbs-kneel.webp",
+  "wordId": "verbs-kneel",
+  "group": "verbs",
+  "text": "kneeling on the grass",
+  "distractors": [
+   "lying on the sofa",
+   "standing on a ladder",
+   "swimming in the sea"
+  ],
+  "cloze": "kneeling on the ___",
+  "answer": "grass",
+  "answerDistractors": [
+   "sand",
+   "carpet",
+   "bed"
   ],
   "childFriendly": true
  },
@@ -12852,6 +13125,27 @@
   "childFriendly": true
  },
  {
+  "id": "phrase-verbs-share",
+  "kind": "phrase",
+  "image": "verbs-share.webp",
+  "wordId": "verbs-share",
+  "group": "verbs",
+  "text": "four pieces of pizza",
+  "distractors": [
+   "two bowls of soup",
+   "three slices of cake",
+   "six cups of tea"
+  ],
+  "cloze": "four pieces of ___",
+  "answer": "pizza",
+  "answerDistractors": [
+   "cake",
+   "toast",
+   "paper"
+  ],
+  "childFriendly": true
+ },
+ {
   "id": "phrase-verbs-shave",
   "kind": "phrase",
   "image": "verbs-shave.webp",
@@ -13016,6 +13310,48 @@
    "pool",
    "snow",
    "sea"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-sprinkle",
+  "kind": "phrase",
+  "image": "verbs-sprinkle.webp",
+  "wordId": "verbs-sprinkle",
+  "group": "verbs",
+  "text": "sprinkling flour on dough",
+  "distractors": [
+   "pouring milk on cereal",
+   "spreading butter on toast",
+   "grating cheese on pasta"
+  ],
+  "cloze": "sprinkling flour on ___",
+  "answer": "dough",
+  "answerDistractors": [
+   "salad",
+   "fish",
+   "eggs"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-squeeze",
+  "kind": "phrase",
+  "image": "verbs-squeeze.webp",
+  "wordId": "verbs-squeeze",
+  "group": "verbs",
+  "text": "juice dripping from an orange",
+  "distractors": [
+   "water pouring from a tap",
+   "smoke rising from a chimney",
+   "milk spilling from a jug"
+  ],
+  "cloze": "juice dripping from an ___",
+  "answer": "orange",
+  "answerDistractors": [
+   "apple",
+   "onion",
+   "aubergine"
   ],
   "childFriendly": true
  },
@@ -13205,6 +13541,27 @@
    "frisbee",
    "stick",
    "javelin"
+  ],
+  "childFriendly": true
+ },
+ {
+  "id": "phrase-verbs-tickle",
+  "kind": "phrase",
+  "image": "verbs-tickle.webp",
+  "wordId": "verbs-tickle",
+  "group": "verbs",
+  "text": "tickling a tiny foot",
+  "distractors": [
+   "washing a muddy boot",
+   "brushing a long tail",
+   "holding a tiny kitten"
+  ],
+  "cloze": "tickling a tiny ___",
+  "answer": "foot",
+  "answerDistractors": [
+   "hand",
+   "ear",
+   "nose"
   ],
   "childFriendly": true
  },

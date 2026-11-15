@@ -10,6 +10,7 @@
 //
 //   npx tsx tools/images/wide-search.ts --round 5 [--openverse-max 190] [--limit n] [--only id,id]
 //   npx tsx tools/images/wide-search.ts --round 6 --openverse-cached --extra wide-queries-6.json
+//   npx tsx tools/images/wide-search.ts --round 8 --queries wide-queries-8.json   (Openverse only)
 // A later round repeats the same searches from the cache and shows the candidates not yet seen.
 //
 // tools/images/wide-queries.json: { "<word id>": { "s": [Commons phrases], "o": [Openverse phrases] } }
@@ -39,7 +40,8 @@ const SHOW = 48;
 const ovCached = args.includes('--openverse-cached');
 
 const read = <T>(name: string) => JSON.parse(readFileSync(ROOT + 'tools/images/' + name, 'utf8')) as Record<string, T>;
-const queries = read<Query>('wide-queries.json');
+// --queries <file> replaces the phrase file. A word with no Commons phrases is searched on Openverse only.
+const queries = read<Query>(opt('--queries') ?? 'wide-queries.json');
 // --extra <file> adds further Commons phrases, tried first: { "<word id>": ["phrase", ...] }
 if (opt('--extra')) for (const [id, more] of Object.entries(read<string[]>(opt('--extra')!))) if (queries[id]) queries[id].s = [...more, ...queries[id].s];
 const categories = read<{ cat?: string[] }>('deep-categories.json');
@@ -55,10 +57,11 @@ const pools = new Map<string, { commons: Candidate[][]; openverse: Candidate[][]
 for (const w of todo) pools.set(w.id, { commons: [], openverse: [] });
 const modern = (list: Candidate[]) => list.filter((c) => c.score > -1.5);
 
-// Openverse allows 200 requests a day, so every word gets its first phrase before any gets a second.
+// Openverse allows 200 requests a day, so every word gets its first phrase before any gets the next.
 async function openverse() {
   let fails = 0;
-  for (const pass of [0, 1]) {
+  const passes = Math.max(0, ...todo.map((w) => queries[w.id].o?.length ?? 0));
+  for (let pass = 0; pass < passes; pass++) {
     for (const w of todo) {
       const phrase = queries[w.id].o?.[pass];
       if (!phrase || (!ovCached && ovBudget <= 0) || fails >= 6) continue;
@@ -88,7 +91,7 @@ async function finish(word: (typeof todo)[number]) {
     for (const lane of lanes) if (lane[i] && short.length < SHOW + 8) short.push(lane[i]);
   }
   st.candidates = (await measure(short)).slice(0, SHOW);
-  st.query = queries[word.id].s[0];
+  st.query = queries[word.id].s[0] ?? queries[word.id].o?.[0] ?? word.word;
   st.attempts = round;
   st.note = st.candidates.length > 0 ? 'review' : 'none';
   if (st.candidates.length > 0) found++;
@@ -108,7 +111,7 @@ async function commons() {
     const lanes = pools.get(w.id)!.commons;
     try {
       for (const phrase of q.s) lanes.push(modern(await searchCommons(phrase, 50)));
-      const cats = categories[w.id]?.cat ?? [];
+      const cats = q.s.length > 0 ? (categories[w.id]?.cat ?? []) : [];
       if (cats.length > 0) lanes.push(modern(await searchCommons(`incategory:"${cats.join('|')}"`, 50)));
     } catch (err) {
       console.warn(`Commons failed for ${w.id}: ${String(err).slice(0, 100)}`);
