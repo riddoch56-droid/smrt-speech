@@ -70,8 +70,7 @@
       "syllables": 1,
       "rhyme": "bear",
       "sameFirstSound": "cheese"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-sofa",
@@ -253,8 +252,7 @@
       "syllables": 1,
       "rhyme": "grotesque",
       "sameFirstSound": "dog"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-wardrobe",
@@ -476,8 +474,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "cheese"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-bed",
@@ -587,8 +584,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "dolphin"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-blanket",
@@ -625,8 +621,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "bus"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-mattress",
@@ -922,8 +917,7 @@
       "syllables": 4,
       "rhyme": null,
       "sameFirstSound": "candle"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-sink",
@@ -1142,8 +1136,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "bicycle"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-door",
@@ -1252,8 +1245,7 @@
       "syllables": 1,
       "rhyme": "pears",
       "sameFirstSound": "stamp"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-roof",
@@ -1549,8 +1541,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "cake"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-carpet",
@@ -1587,8 +1578,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "car"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-lamp",
@@ -1806,8 +1796,7 @@
       "syllables": 1,
       "rhyme": "tense",
       "sameFirstSound": "fish"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "furniture-gate",
@@ -1993,7 +1982,6 @@
       "syllables": 3,
       "rhyme": "wine",
       "sameFirstSound": "water"
-    },
-    "hasImage": false
+    }
   }
 ]

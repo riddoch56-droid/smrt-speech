@@ -254,8 +254,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "kitchen"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "transport-bus",
@@ -510,8 +509,7 @@
       "syllables": 3,
       "rhyme": "tricycle",
       "sameFirstSound": "banana"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "transport-motorbike",
@@ -621,8 +619,7 @@
       "syllables": 1,
       "rhyme": "ham",
       "sameFirstSound": "pen"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "transport-skateboard",
@@ -955,8 +952,7 @@
       "syllables": 3,
       "rhyme": "night",
       "sameFirstSound": "salt"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "transport-ferry",
@@ -1248,8 +1244,7 @@
       "syllables": 1,
       "rhyme": "fire",
       "sameFirstSound": "tooth"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "transport-steering-wheel",
@@ -1472,8 +1467,7 @@
       "syllables": 3,
       "rhyme": "kites",
       "sameFirstSound": "tree"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "transport-roundabout",
@@ -1694,8 +1688,7 @@
       "syllables": 1,
       "rhyme": "bone",
       "sameFirstSound": "kettle"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "transport-signpost",
@@ -1769,8 +1762,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "salad"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "transport-ticket",
@@ -1880,8 +1872,7 @@
       "syllables": 1,
       "rhyme": "cap",
       "sameFirstSound": "milk"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "transport-compass",

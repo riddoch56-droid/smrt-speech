@@ -180,8 +180,7 @@
       "syllables": 1,
       "rhyme": "drum",
       "sameFirstSound": "pencil"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "food-grapes",
@@ -401,8 +400,7 @@
       "syllables": 3,
       "rhyme": "tomato",
       "sameFirstSound": "pencil"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "food-onion",
@@ -769,8 +767,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "cow"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "food-porridge",
@@ -1504,8 +1501,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "bike"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "food-chocolate",
@@ -1799,8 +1795,7 @@
       "syllables": 2,
       "rhyme": "toffee",
       "sameFirstSound": "cat"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "food-juice",

@@ -101,6 +101,8 @@ npx tsx tools/images/strips.ts       # build review sheets (tools/images/sheets/
 # look at every sheet; record the best candidate per word in tools/images/picks/*.json
 npx tsx tools/images/apply-picks.ts  # process the chosen pictures to 512 x 512 WebP
 npx tsx tools/images/retry.ts        # search again for words with no good candidate (three attempts)
+npx tsx tools/images/deep-search.ts --round 4   # wider search for words still without a picture
+                                                # (Wikipedia article pictures, Wikidata, Commons categories)
 npx tsx tools/images/reject.ts       # withdraw pictures that fail the contact-sheet check
 npx tsx tools/images/finalise.ts     # write credits, flag gaps, write IMAGE_TODO.md
 npx tsx tools/images/sheets.ts       # contact sheets of the final set

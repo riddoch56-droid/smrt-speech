@@ -84,6 +84,22 @@ Notable decisions made while building SMRT Speech, with the reason for each.
   attempt two a phrase suggested by the reviewer who rejected the first candidates, and attempt three
   also accepts CC BY-SA files. Any CC BY-SA picture carries a `flagged` note in
   `src/content/image-credits.json` and is listed in `HANDOVER.md`.
+- **A fourth, wider round was run at the owner's request** after the first release, for the words
+  still without a picture (`tools/images/deep-search.ts`). The brief's limit of three attempts was
+  lifted for these words only. Keyword search on Commons ranks scenic photographs above plain
+  pictures of an object, so this round draws candidates from sources that editors have already
+  matched to the concept: the pictures of the matching English Wikipedia article, the main picture
+  and Commons category recorded on Wikidata, named Commons categories, and files with the phrase in
+  their title, plus Openverse. Each file's own licence is still checked. The reviewer sees up to 16
+  candidates a word and lists every acceptable one; `apply-picks.ts` then takes the best acceptable
+  picture that is not CC BY-SA, and a CC BY-SA one only if nothing else passed.
+  Outcome: of the 255 words searched, 112 gained a picture and 143 did not. 55 of the 112 are
+  CC BY-SA, because the plain photographs that Wikipedia articles use for everyday objects are
+  mostly share-alike. Every new picture was checked on contact sheets after it was chosen; 25
+  first choices failed that check and were swapped for the reviewer's next choice or withdrawn.
+- **Review rule for buildings and shops, round 4.** Ordinary shop and building signage is accepted,
+  because a pub or a post office with no sign does not exist. A picture is still rejected if the
+  target word itself is clearly written in it, since that would give the answer away.
 - **Pictures are downloaded at Wikimedia's standard preview widths** (960, 500 or 330 pixels), never
   the original file. Wikimedia refuses bulk downloads of originals, and the app only needs 512 pixels.
 - **Colour words use a swatch drawn by the build** (`tools/images/make-swatches.ts`): a plain blob of

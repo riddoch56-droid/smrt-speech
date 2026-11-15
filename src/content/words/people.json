@@ -481,8 +481,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "pepper"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-lifeguard",
@@ -519,8 +518,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "ladder"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-security-guard",
@@ -781,8 +779,7 @@
       "syllables": 2,
       "rhyme": "calmer",
       "sameFirstSound": "fork"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-mechanic",
@@ -856,8 +853,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "fountain"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-chef",
@@ -930,8 +926,7 @@
       "syllables": 2,
       "rhyme": "later",
       "sameFirstSound": "window"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-baker",
@@ -1079,8 +1074,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "hammer"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-florist",
@@ -1154,8 +1148,7 @@
       "syllables": 2,
       "rhyme": "creature",
       "sameFirstSound": "table"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-judge",
@@ -1229,8 +1222,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "scissors"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-librarian",
@@ -1417,8 +1409,7 @@
       "syllables": 1,
       "rhyme": "sun",
       "sameFirstSound": "nail"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-monk",
@@ -1786,8 +1777,7 @@
       "syllables": 2,
       "rhyme": "maybe",
       "sameFirstSound": "balloon"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "people-bride",

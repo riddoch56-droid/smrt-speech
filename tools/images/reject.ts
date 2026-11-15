@@ -5,7 +5,10 @@
 // picture chosen in a later round is not withdrawn by mistake. To reject a replacement too,
 // change the word's reason text.
 //
-//   npx tsx tools/images/reject.ts
+//   npx tsx tools/images/reject.ts [--chosen-only]
+//
+// --chosen-only withdraws just the chosen picture and leaves the word waiting for review, so
+// apply-picks can fall back to the reviewer's next acceptable candidate.
 import { existsSync, readFileSync, unlinkSync, writeFileSync } from 'node:fs';
 import { loadState, loadWords, OUT_DIR, ROOT, saveState } from './lib.ts';
 
@@ -15,6 +18,7 @@ const doneFile = ROOT + 'tools/images/picks/qc-rejects-done.json';
 const done: Record<string, string> = existsSync(doneFile) ? JSON.parse(readFileSync(doneFile, 'utf8')) : {};
 const state = loadState();
 const words = new Map(loadWords().map((w) => [w.id, w]));
+const chosenOnly = process.argv.includes('--chosen-only');
 let n = 0;
 
 for (const id of Object.keys(rejects)) {
@@ -29,10 +33,10 @@ for (const id of Object.keys(rejects)) {
   // Only a picture that is currently chosen can be withdrawn; anything else has moved on already.
   if (st.note !== 'picked' || !st.chosen) continue;
   if (!st.rejected.includes(st.chosen)) st.rejected.push(st.chosen);
-  for (const c of st.candidates) if (!st.rejected.includes(c.fileUrl)) st.rejected.push(c.fileUrl);
+  if (!chosenOnly) for (const c of st.candidates) if (!st.rejected.includes(c.fileUrl)) st.rejected.push(c.fileUrl);
   st.chosen = null;
   st.status = 'todo';
-  st.note = 'none';
+  st.note = chosenOnly ? 'review' : 'none';
   if (existsSync(OUT_DIR + word.image)) unlinkSync(OUT_DIR + word.image);
   n++;
 }

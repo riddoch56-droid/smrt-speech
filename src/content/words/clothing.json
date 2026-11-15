@@ -33,8 +33,7 @@
       "syllables": 1,
       "rhyme": "hurt",
       "sameFirstSound": "shell"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-jumper",
@@ -71,8 +70,7 @@
       "syllables": 2,
       "rhyme": "bumper",
       "sameFirstSound": "jelly"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-cardigan",
@@ -145,8 +143,7 @@
       "syllables": 1,
       "rhyme": "browse",
       "sameFirstSound": "ball"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-waistcoat",
@@ -220,8 +217,7 @@
       "syllables": 2,
       "rhyme": "foodie",
       "sameFirstSound": "hammer"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-polo-shirt",
@@ -258,8 +254,7 @@
       "syllables": 3,
       "rhyme": "hurt",
       "sameFirstSound": "pencil"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-trousers",
@@ -333,8 +328,7 @@
       "syllables": 1,
       "rhyme": "beans",
       "sameFirstSound": "jelly"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-shorts",
@@ -479,8 +473,7 @@
       "syllables": 1,
       "rhyme": "built",
       "sameFirstSound": "kettle"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-coat",
@@ -628,8 +621,7 @@
       "syllables": 2,
       "rhyme": "goat",
       "sameFirstSound": "road"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-blazer",
@@ -703,8 +695,7 @@
       "syllables": 2,
       "rhyme": "day",
       "sameFirstSound": "jam"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-boots",
@@ -813,8 +804,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "tomato"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-sandals",
@@ -925,8 +915,7 @@
       "syllables": 2,
       "rhyme": "bellies",
       "sameFirstSound": "water"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-socks",
@@ -962,8 +951,7 @@
       "syllables": 1,
       "rhyme": "box",
       "sameFirstSound": "sun"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-pyjamas",
@@ -1075,8 +1063,7 @@
       "syllables": 2,
       "rhyme": "mighty",
       "sameFirstSound": "nose"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-knickers",
@@ -1150,8 +1137,7 @@
       "syllables": 1,
       "rhyme": "nest",
       "sameFirstSound": "van"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-tights",
@@ -1296,8 +1282,7 @@
       "syllables": 1,
       "rhyme": "laugh",
       "sameFirstSound": "salad"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-gloves",
@@ -1518,8 +1503,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "bottle"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-earrings",
@@ -1556,8 +1540,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "eagle"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-brooch",
@@ -1630,8 +1613,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "cup"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-watch",
@@ -1851,8 +1833,7 @@
       "syllables": 1,
       "rhyme": "nurse",
       "sameFirstSound": "pen"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "clothing-wallet",

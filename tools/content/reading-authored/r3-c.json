@@ -1,0 +1,450 @@
+[
+  {
+    "wordId": "places-pub",
+    "kind": "phrase",
+    "text": "a red brick pub",
+    "distractors": ["a white stone church", "a small wooden shed", "a tall glass office"],
+    "answer": "pub",
+    "answerDistractors": ["church", "bridge", "garage"]
+  },
+  {
+    "wordId": "places-pub",
+    "kind": "sentence",
+    "text": "There are white umbrellas outside the pub.",
+    "distractors": ["There are white horses outside the pub.", "There are white umbrellas outside the church.", "There are white tents outside the pub."],
+    "answer": "umbrellas",
+    "answerDistractors": ["horses", "tents", "flags"]
+  },
+  {
+    "wordId": "places-theatre",
+    "kind": "phrase",
+    "text": "rows of red seats",
+    "distractors": ["shelves of old books", "a line of parked cars", "a field of yellow flowers"],
+    "answer": "seats",
+    "answerDistractors": ["buses", "roses", "bricks"]
+  },
+  {
+    "wordId": "places-theatre",
+    "kind": "sentence",
+    "text": "There are balconies above the red seats.",
+    "distractors": ["There are windows above the red seats.", "There are balconies above the green seats.", "There are balconies above the red cars."],
+    "answer": "balconies",
+    "answerDistractors": ["windows", "clouds", "trees"]
+  },
+  {
+    "wordId": "places-museum",
+    "kind": "phrase",
+    "text": "visitors in a museum",
+    "distractors": ["shoppers in a market", "swimmers in a pool", "children in a playground"],
+    "answer": "museum",
+    "answerDistractors": ["pool", "garden", "kitchen"]
+  },
+  {
+    "wordId": "places-museum",
+    "kind": "sentence",
+    "text": "People are walking around the museum.",
+    "distractors": ["People are cycling around the museum.", "People are walking around the lake.", "Horses are walking around the museum."],
+    "answer": "walking",
+    "answerDistractors": ["cycling", "swimming", "skating"]
+  },
+  {
+    "wordId": "places-castle",
+    "kind": "phrase",
+    "text": "a stone castle with towers",
+    "distractors": ["a wooden hut with windows", "a brick house with chimneys", "a glass office with lifts"],
+    "answer": "towers",
+    "answerDistractors": ["fountains", "windmills", "balloons"]
+  },
+  {
+    "wordId": "places-castle",
+    "kind": "sentence",
+    "text": "The castle has a high stone wall.",
+    "distractors": ["The castle has a high wooden wall.", "The church has a high stone wall.", "The castle has a high stone bridge."],
+    "answer": "stone",
+    "answerDistractors": ["wooden", "glass", "plastic"]
+  },
+  {
+    "wordId": "transport-caravan",
+    "kind": "phrase",
+    "text": "a caravan on the grass",
+    "distractors": ["a tent in the woods", "a boat on the river", "a lorry on the motorway"],
+    "answer": "grass",
+    "answerDistractors": ["beach", "road", "snow"]
+  },
+  {
+    "wordId": "transport-caravan",
+    "kind": "sentence",
+    "text": "The white caravan is parked on grass.",
+    "distractors": ["The white caravan is parked on sand.", "The red caravan is parked on grass.", "The white lorry is parked on grass."],
+    "answer": "caravan",
+    "answerDistractors": ["lorry", "bus", "tractor"]
+  },
+  {
+    "wordId": "transport-bicycle",
+    "kind": "phrase",
+    "text": "a bicycle with a basket",
+    "distractors": ["a car with a roof rack", "a pram with a hood", "a lorry with a trailer"],
+    "answer": "basket",
+    "answerDistractors": ["trailer", "flag", "rider"]
+  },
+  {
+    "wordId": "transport-bicycle",
+    "kind": "sentence",
+    "text": "The black bicycle has a basket at the front.",
+    "distractors": ["The pink bicycle has a basket at the front.", "The black motorbike has a basket at the front.", "The black bicycle has a basket at the back."],
+    "answer": "black",
+    "answerDistractors": ["pink", "yellow", "orange"]
+  },
+  {
+    "wordId": "transport-pram",
+    "kind": "phrase",
+    "text": "a dark green pram",
+    "distractors": ["a bright red bus", "a small blue car", "a black racing bike"],
+    "answer": "pram",
+    "answerDistractors": ["bus", "bicycle", "boat"]
+  },
+  {
+    "wordId": "transport-pram",
+    "kind": "sentence",
+    "text": "The pram has a hood and four wheels.",
+    "distractors": ["The pram has a hood and two wheels.", "The pram has a motor and four wheels.", "The bicycle has a hood and four wheels."],
+    "answer": "hood",
+    "answerDistractors": ["motor", "sail", "ladder"]
+  },
+  {
+    "wordId": "transport-satellite",
+    "kind": "phrase",
+    "text": "a gold and white satellite",
+    "distractors": ["a red and white lighthouse", "a blue and yellow kite", "a black and white aeroplane"],
+    "answer": "satellite",
+    "answerDistractors": ["kite", "balloon", "helicopter"]
+  },
+  {
+    "wordId": "transport-satellite",
+    "kind": "sentence",
+    "text": "The satellite has two white panels.",
+    "distractors": ["The satellite has two white wheels.", "The satellite has two green panels.", "The helicopter has two white panels."],
+    "answer": "panels",
+    "answerDistractors": ["wheels", "sails", "propellers"]
+  },
+  {
+    "wordId": "transport-tyre",
+    "kind": "phrase",
+    "text": "a stack of tyres",
+    "distractors": ["a row of cones", "a pile of bricks", "a set of keys"],
+    "answer": "tyres",
+    "answerDistractors": ["plates", "books", "boxes"]
+  },
+  {
+    "wordId": "transport-tyre",
+    "kind": "sentence",
+    "text": "The black tyres have coloured lines on them.",
+    "distractors": ["The black tyres have snow on them.", "The black boots have coloured lines on them.", "The white tyres have coloured lines on them."],
+    "answer": "lines",
+    "answerDistractors": ["flowers", "stars", "spots"]
+  },
+  {
+    "wordId": "transport-traffic-lights",
+    "kind": "phrase",
+    "text": "traffic lights showing red",
+    "distractors": ["traffic lights showing green", "a street lamp lying broken", "a road sign pointing left"],
+    "answer": "red",
+    "answerDistractors": ["green", "amber", "blue"]
+  },
+  {
+    "wordId": "transport-traffic-lights",
+    "kind": "sentence",
+    "text": "The red light is at the top.",
+    "distractors": ["The green light is at the top.", "The red light is at the bottom.", "The red flag is at the top."],
+    "answer": "top",
+    "answerDistractors": ["bottom", "side", "back"]
+  },
+  {
+    "wordId": "transport-cone",
+    "kind": "phrase",
+    "text": "an orange and white cone",
+    "distractors": ["a black and yellow sign", "a green and white bus", "a blue and white boat"],
+    "answer": "cone",
+    "answerDistractors": ["flag", "bus", "fence"]
+  },
+  {
+    "wordId": "transport-cone",
+    "kind": "sentence",
+    "text": "The cone is standing on the road.",
+    "distractors": ["The cone is standing on the grass.", "The cone is lying on the road.", "The bin is standing on the road."],
+    "answer": "road",
+    "answerDistractors": ["grass", "sand", "table"]
+  },
+  {
+    "wordId": "transport-suitcase",
+    "kind": "phrase",
+    "text": "a hard silver suitcase",
+    "distractors": ["a soft leather handbag", "a small brown rucksack", "a large wooden trunk"],
+    "answer": "suitcase",
+    "answerDistractors": ["kettle", "car", "bicycle"]
+  },
+  {
+    "wordId": "transport-suitcase",
+    "kind": "sentence",
+    "text": "The suitcase is standing in a corner.",
+    "distractors": ["The suitcase is lying in a corner.", "The ladder is standing in a corner.", "The suitcase is standing in a garden."],
+    "answer": "corner",
+    "answerDistractors": ["garden", "puddle", "field"]
+  },
+  {
+    "wordId": "transport-map",
+    "kind": "phrase",
+    "text": "a map with red lines",
+    "distractors": ["a book with blank pages", "a globe on a stand", "a calendar with red dates"],
+    "answer": "lines",
+    "answerDistractors": ["pins", "flags", "stamps"]
+  },
+  {
+    "wordId": "transport-map",
+    "kind": "sentence",
+    "text": "The sea on the map is blue.",
+    "distractors": ["The sea on the map is black.", "The sea on the globe is blue.", "The land on the map is blue."],
+    "answer": "blue",
+    "answerDistractors": ["pink", "black", "orange"]
+  },
+  {
+    "wordId": "verbs-peel",
+    "kind": "phrase",
+    "text": "peeling a carrot",
+    "distractors": ["slicing a loaf", "washing a plate", "grating some cheese"],
+    "answer": "carrot",
+    "answerDistractors": ["potato", "banana", "onion"]
+  },
+  {
+    "wordId": "verbs-peel",
+    "kind": "sentence",
+    "text": "The person is wearing gloves to peel a carrot.",
+    "distractors": ["The person is wearing gloves to peel a potato.", "The person is wearing gloves to plant a carrot.", "The person is wearing gloves to peel a banana."],
+    "answer": "peel",
+    "answerDistractors": ["wash", "plant", "weigh"]
+  },
+  {
+    "wordId": "verbs-hang",
+    "kind": "phrase",
+    "text": "hanging out the washing",
+    "distractors": ["bringing in the shopping", "folding up the towels", "washing the kitchen floor"],
+    "answer": "washing",
+    "answerDistractors": ["flags", "curtains", "lights"]
+  },
+  {
+    "wordId": "verbs-hang",
+    "kind": "sentence",
+    "text": "The person is hanging clothes on a line.",
+    "distractors": ["The person is hanging clothes on a fence.", "The person is hanging lights on a line.", "The person is hanging clothes in a wardrobe."],
+    "answer": "line",
+    "answerDistractors": ["fence", "tree", "bush"]
+  },
+  {
+    "wordId": "verbs-smile",
+    "kind": "phrase",
+    "text": "a man with a big smile",
+    "distractors": ["a woman with long hair", "a man with a walking stick", "a baby with a toy"],
+    "answer": "smile",
+    "answerDistractors": ["umbrella", "suitcase", "dog"]
+  },
+  {
+    "wordId": "verbs-smile",
+    "kind": "sentence",
+    "text": "The man is smiling with his hand on his chin.",
+    "distractors": ["The man is smiling with his hand on his head.", "The man is crying with his hand on his chin.", "The man is smiling with his hand on his knee."],
+    "answer": "chin",
+    "answerDistractors": ["knee", "hip", "head"]
+  },
+  {
+    "wordId": "verbs-sneeze",
+    "kind": "phrase",
+    "text": "a big wet sneeze",
+    "distractors": ["a long loud yawn", "a quiet little cough", "a wide happy smile"],
+    "answer": "sneeze",
+    "answerDistractors": ["towel", "dog", "umbrella"]
+  },
+  {
+    "wordId": "verbs-sneeze",
+    "kind": "sentence",
+    "text": "The man wearing glasses is sneezing.",
+    "distractors": ["The man wearing glasses is singing.", "The woman wearing glasses is sneezing.", "The man wearing headphones is sneezing."],
+    "answer": "sneezing",
+    "answerDistractors": ["singing", "eating", "sleeping"]
+  },
+  {
+    "wordId": "verbs-push",
+    "kind": "phrase",
+    "text": "pushing a black car",
+    "distractors": ["pulling a heavy rope", "riding a black horse", "washing a white van"],
+    "answer": "car",
+    "answerDistractors": ["pram", "trolley", "wheelbarrow"]
+  },
+  {
+    "wordId": "verbs-push",
+    "kind": "sentence",
+    "text": "Two people are pushing a car along the street.",
+    "distractors": ["Two people are pushing a boat along the street.", "Two people are washing a car along the street.", "Two people are pushing a car along the beach."],
+    "answer": "pushing",
+    "answerDistractors": ["washing", "painting", "chasing"]
+  },
+  {
+    "wordId": "verbs-pull",
+    "kind": "phrase",
+    "text": "pulling on a rope",
+    "distractors": ["pushing a heavy car", "kicking a football", "climbing up a ladder"],
+    "answer": "rope",
+    "answerDistractors": ["door", "lead", "sock"]
+  },
+  {
+    "wordId": "verbs-pull",
+    "kind": "sentence",
+    "text": "The man is pulling a thick rope.",
+    "distractors": ["The man is cutting a thick rope.", "The man is pulling a thick chain.", "The horse is pulling a thick rope."],
+    "answer": "pulling",
+    "answerDistractors": ["cutting", "climbing", "painting"]
+  },
+  {
+    "wordId": "verbs-catch",
+    "kind": "phrase",
+    "text": "catching a yellow ball",
+    "distractors": ["throwing a wooden stick", "riding a red bicycle", "flying a paper kite"],
+    "answer": "ball",
+    "answerDistractors": ["frisbee", "balloon", "hat"]
+  },
+  {
+    "wordId": "verbs-catch",
+    "kind": "sentence",
+    "text": "The person is jumping to catch a ball.",
+    "distractors": ["The person is bending to catch a ball.", "The dog is jumping to catch a ball.", "The person is jumping to catch a bus."],
+    "answer": "catch",
+    "answerDistractors": ["kick", "wash", "buy"]
+  },
+  {
+    "wordId": "verbs-whisper",
+    "kind": "phrase",
+    "text": "whispering in someone's ear",
+    "distractors": ["shouting across a field", "talking on the phone", "reading a newspaper aloud"],
+    "answer": "ear",
+    "answerDistractors": ["car", "kitchen", "office"]
+  },
+  {
+    "wordId": "verbs-whisper",
+    "kind": "sentence",
+    "text": "One person is whispering to the other.",
+    "distractors": ["One person is shouting to the other.", "One person is waving to the other.", "One person is reading to the other."],
+    "answer": "whispering",
+    "answerDistractors": ["shouting", "waving", "reading"]
+  },
+  {
+    "wordId": "verbs-dig",
+    "kind": "phrase",
+    "text": "digging up the soil",
+    "distractors": ["sweeping up the leaves", "mowing the front lawn", "painting the garden fence"],
+    "answer": "soil",
+    "answerDistractors": ["road", "snow", "lawn"]
+  },
+  {
+    "wordId": "verbs-dig",
+    "kind": "sentence",
+    "text": "The man in the hat is digging.",
+    "distractors": ["The man in the hat is fishing.", "The woman in the hat is digging.", "The man in the helmet is digging."],
+    "answer": "digging",
+    "answerDistractors": ["fishing", "painting", "cycling"]
+  },
+  {
+    "wordId": "verbs-build",
+    "kind": "phrase",
+    "text": "building a brick wall",
+    "distractors": ["painting a garden fence", "climbing a tall tree", "mending a flat tyre"],
+    "answer": "wall",
+    "answerDistractors": ["bridge", "oven", "path"]
+  },
+  {
+    "wordId": "verbs-build",
+    "kind": "sentence",
+    "text": "The man is using a trowel on the wall.",
+    "distractors": ["The man is using a hose on the wall.", "The woman is using a trowel on the wall.", "The man is using a trowel on the path."],
+    "answer": "trowel",
+    "answerDistractors": ["hose", "paintbrush", "drill"]
+  },
+  {
+    "wordId": "verbs-sew",
+    "kind": "phrase",
+    "text": "a black sewing machine",
+    "distractors": ["a white washing machine", "a silver coffee pot", "a red telephone box"],
+    "answer": "machine",
+    "answerDistractors": ["basket", "box", "bag"]
+  },
+  {
+    "wordId": "verbs-sew",
+    "kind": "sentence",
+    "text": "The woman in the pink scarf is sewing.",
+    "distractors": ["The woman in the pink scarf is cooking.", "The man in the pink scarf is sewing.", "The woman in the green scarf is sewing."],
+    "answer": "sewing",
+    "answerDistractors": ["cooking", "painting", "dancing"]
+  },
+  {
+    "wordId": "verbs-kick",
+    "kind": "phrase",
+    "text": "kicking high in the air",
+    "distractors": ["sitting down on the floor", "swimming fast in the sea", "running along the beach"],
+    "answer": "air",
+    "answerDistractors": ["water", "snow", "mud"]
+  },
+  {
+    "wordId": "verbs-kick",
+    "kind": "sentence",
+    "text": "The man is wearing red boxing gloves.",
+    "distractors": ["The man is wearing blue boxing gloves.", "The woman is wearing red boxing gloves.", "The man is wearing red rubber gloves."],
+    "answer": "red",
+    "answerDistractors": ["blue", "green", "yellow"]
+  },
+  {
+    "wordId": "verbs-sail",
+    "kind": "phrase",
+    "text": "a boat with a white sail",
+    "distractors": ["a car with a black roof", "a bus with a red door", "a plane with two wings"],
+    "answer": "sail",
+    "answerDistractors": ["funnel", "cabin", "flag"]
+  },
+  {
+    "wordId": "verbs-sail",
+    "kind": "sentence",
+    "text": "The person is sailing a small boat.",
+    "distractors": ["The person is rowing a small boat.", "The person is painting a small boat.", "The person is sailing a large ship."],
+    "answer": "sailing",
+    "answerDistractors": ["rowing", "painting", "mending"]
+  },
+  {
+    "wordId": "verbs-juggle",
+    "kind": "phrase",
+    "text": "juggling three balls",
+    "distractors": ["spinning two plates", "throwing a paper plane", "catching a big fish"],
+    "answer": "balls",
+    "answerDistractors": ["plates", "hats", "knives"]
+  },
+  {
+    "wordId": "verbs-juggle",
+    "kind": "sentence",
+    "text": "The woman is juggling red and yellow balls.",
+    "distractors": ["The man is juggling red and yellow balls.", "The woman is kicking red and yellow balls.", "The woman is juggling red and green balls."],
+    "answer": "juggling",
+    "answerDistractors": ["kicking", "washing", "selling"]
+  },
+  {
+    "wordId": "verbs-salute",
+    "kind": "phrase",
+    "text": "saluting in a beret",
+    "distractors": ["waving from a window", "bowing on a stage", "shaking hands in a suit"],
+    "answer": "beret",
+    "answerDistractors": ["helmet", "crown", "wig"]
+  },
+  {
+    "wordId": "verbs-salute",
+    "kind": "sentence",
+    "text": "The men in uniform are saluting.",
+    "distractors": ["The men in uniform are clapping.", "The women in uniform are saluting.", "The men in pyjamas are saluting."],
+    "answer": "saluting",
+    "answerDistractors": ["clapping", "eating", "dancing"]
+  }
+]

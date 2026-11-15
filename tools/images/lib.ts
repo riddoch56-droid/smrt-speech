@@ -84,7 +84,11 @@ function cacheKey(url: string): string {
 const SPACING_MS: Record<string, number> = {
   // Wikimedia allows clients that send no contact details 10 API requests a minute.
   'commons.wikimedia.org': 6600,
+  'en.wikipedia.org': 6600,
+  'www.wikidata.org': 6600,
   'upload.wikimedia.org': 400,
+  // Resized pictures are served from their own host, which throttles bursts.
+  'thumb.wikimedia.org': 600,
   'api.openverse.org': 3500,
 };
 const gates = new Map<string, Promise<void>>();
@@ -128,10 +132,10 @@ async function fetchRetry(url: string, patient: boolean): Promise<Response> {
   throw new Error(`Failed to fetch ${url}: ${String(lastErr ?? 'too many retries')}`);
 }
 
-export async function fetchJson<T>(url: string, useCache = true): Promise<T> {
+export async function fetchJson<T>(url: string, useCache = true, patient = true): Promise<T> {
   const file = CACHE_DIR + cacheKey(url) + '.json';
   if (useCache && existsSync(file)) return JSON.parse(readFileSync(file, 'utf8')) as T;
-  const res = await fetchRetry(url, true);
+  const res = await fetchRetry(url, patient);
   if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
   const data = (await res.json()) as T;
   writeFileSync(file, JSON.stringify(data));
@@ -232,7 +236,47 @@ export const PERMISSIVE = 'haswbstatement:P275=Q6938433|P275=Q20007257|P275=Q149
 const OLD_OR_MUSEUM =
   /\b(MET|LACMA|NARA|LOC|AM)\b|\b(museum|rijksmuseum|wellcome|smithsonian|century|dynasty|print|engraving|etching|lithograph|album|archives?|collectie|tropenmuseum|bundesarchiv|nationaal|18\d\d|19[0-8]\d)\b|\d+\.\d+\.\d+|\(\w{2}\d{4,}\)/;
 
-export async function searchCommons(query: string, limit = 20, permissiveOnly = false): Promise<Candidate[]> {
+/** Turns one Commons file page into a candidate, or null if its type, size, title or licence rules it out. */
+export function commonsCandidate(p: CommonsPage, keepAnyTitle = false): Candidate | null {
+  const info = p.imageinfo?.[0];
+  if (!info || !info.thumburl) return null;
+  if (!/^image\/(jpeg|png|webp)$/.test(info.mime)) return null;
+  if (Math.min(info.width, info.height) < 450) return null;
+  if (!keepAnyTitle && BAD_TITLE.test(p.title)) return null;
+  const meta = info.extmetadata ?? {};
+  const licence = stripHtml(meta.LicenseShortName?.value ?? '');
+  const kind = classifyLicence(licence);
+  if (!kind) return null;
+  const author = stripHtml(meta.Artist?.value ?? '') || stripHtml(meta.Credit?.value ?? '') || 'Unknown author';
+  const fileUrl = info.width > 1100 ? info.thumburl.replace(/\/330px-/, '/960px-') : info.url;
+  return {
+    provider: 'wikimedia-commons',
+    title: p.title.replace(/^File:/, ''),
+    sourceUrl: info.descriptionurl,
+    fileUrl,
+    thumbUrl: info.thumburl,
+    width: info.width,
+    height: info.height,
+    author: cleanAuthor(author).slice(0, 200),
+    licence,
+    licenceKind: kind,
+    licenceUrl:
+      meta.LicenseUrl?.value ||
+      (kind === 'cc0' ? 'https://creativecommons.org/publicdomain/zero/1.0/' : 'https://creativecommons.org/publicdomain/mark/1.0/'),
+    score: OLD_OR_MUSEUM.test(p.title) ? -2 : 0,
+    plain: 0,
+    rel: 0,
+  };
+}
+
+const IMAGEINFO = {
+  prop: 'imageinfo',
+  iiprop: 'url|size|mime|extmetadata',
+  iiurlwidth: '330',
+  iiextmetadatafilter: 'LicenseShortName|LicenseUrl|Artist|Credit|Restrictions',
+};
+
+export async function searchCommons(query: string, limit = 20, permissiveOnly = false, keepAnyTitle = false): Promise<Candidate[]> {
   const params = new URLSearchParams({
     action: 'query',
     format: 'json',
@@ -240,10 +284,7 @@ export async function searchCommons(query: string, limit = 20, permissiveOnly = 
     gsrnamespace: '6',
     gsrsearch: `${query} filetype:bitmap${permissiveOnly ? ' ' + PERMISSIVE : ''}`,
     gsrlimit: String(limit),
-    prop: 'imageinfo',
-    iiprop: 'url|size|mime|extmetadata',
-    iiurlwidth: '330',
-    iiextmetadatafilter: 'LicenseShortName|LicenseUrl|Artist|Credit|Restrictions',
+    ...IMAGEINFO,
   });
   const data = await fetchJson<{ query?: { pages?: Record<string, CommonsPage> } }>(
     'https://commons.wikimedia.org/w/api.php?' + params.toString(),
@@ -251,35 +292,144 @@ export async function searchCommons(query: string, limit = 20, permissiveOnly = 
   const pages = Object.values(data.query?.pages ?? {}).sort((a, b) => a.index - b.index);
   const out: Candidate[] = [];
   for (const p of pages) {
-    const info = p.imageinfo?.[0];
-    if (!info || !info.thumburl) continue;
-    if (!/^image\/(jpeg|png|webp)$/.test(info.mime)) continue;
-    if (Math.min(info.width, info.height) < 450) continue;
-    if (BAD_TITLE.test(p.title)) continue;
-    const meta = info.extmetadata ?? {};
-    const licence = stripHtml(meta.LicenseShortName?.value ?? '');
-    const kind = classifyLicence(licence);
-    if (!kind) continue;
-    const author = stripHtml(meta.Artist?.value ?? '') || stripHtml(meta.Credit?.value ?? '') || 'Unknown author';
-    const fileUrl = info.width > 1100 ? info.thumburl.replace(/\/330px-/, '/960px-') : info.url;
-    out.push({
-      provider: 'wikimedia-commons',
-      title: p.title.replace(/^File:/, ''),
-      sourceUrl: info.descriptionurl,
-      fileUrl,
-      thumbUrl: info.thumburl,
-      width: info.width,
-      height: info.height,
-      author: cleanAuthor(author).slice(0, 200),
-      licence,
-      licenceKind: kind,
-      licenceUrl:
-        meta.LicenseUrl?.value ||
-        (kind === 'cc0' ? 'https://creativecommons.org/publicdomain/zero/1.0/' : 'https://creativecommons.org/publicdomain/mark/1.0/'),
-      score: -out.length * 0.06 + (OLD_OR_MUSEUM.test(p.title) ? -2 : 0),
-      plain: 0,
-      rel: -out.length,
-    });
+    const c = commonsCandidate(p, keepAnyTitle);
+    if (!c) continue;
+    c.score += -out.length * 0.06;
+    c.rel = -out.length;
+    out.push(c);
+  }
+  return out;
+}
+
+/** Licence and file details for named Commons files, 50 to a request. Keys are file names without "File:". */
+export async function commonsFiles(names: string[]): Promise<Map<string, Candidate>> {
+  const out = new Map<string, Candidate>();
+  for (let i = 0; i < names.length; i += 50) {
+    const titles = names.slice(i, i + 50).map((n) => 'File:' + n).join('|');
+    const params = new URLSearchParams({ action: 'query', format: 'json', titles, ...IMAGEINFO });
+    const data = await fetchJson<{ query?: { pages?: Record<string, CommonsPage>; normalized?: { from: string; to: string }[] } }>(
+      'https://commons.wikimedia.org/w/api.php?' + params.toString(),
+    );
+    const back = new Map((data.query?.normalized ?? []).map((n) => [n.to, n.from]));
+    for (const p of Object.values(data.query?.pages ?? {})) {
+      const c = commonsCandidate(p, true);
+      if (c) out.set((back.get(p.title) ?? p.title).replace(/^File:/, '').replace(/_/g, ' '), c);
+    }
+  }
+  return out;
+}
+
+/** Files placed directly in a Commons category (not its sub-categories), in the category's own order. */
+export async function commonsCategoryFiles(category: string, limit = 60, keepAnyTitle = false): Promise<Candidate[]> {
+  const params = new URLSearchParams({
+    action: 'query',
+    format: 'json',
+    generator: 'categorymembers',
+    gcmtitle: 'Category:' + category,
+    gcmtype: 'file',
+    gcmlimit: String(limit),
+    ...IMAGEINFO,
+  });
+  const data = await fetchJson<{ query?: { pages?: Record<string, CommonsPage> } }>('https://commons.wikimedia.org/w/api.php?' + params.toString());
+  const out: Candidate[] = [];
+  for (const p of Object.values(data.query?.pages ?? {}).sort((a, b) => a.title.localeCompare(b.title))) {
+    const c = commonsCandidate(p, keepAnyTitle);
+    if (!c) continue;
+    c.rel = -out.length;
+    out.push(c);
+  }
+  return out;
+}
+
+/** How many files sit directly in each named Commons category (missing categories are left out). */
+export async function commonsCategoryCounts(categories: string[]): Promise<Map<string, number>> {
+  const out = new Map<string, number>();
+  for (let i = 0; i < categories.length; i += 50) {
+    const batch = categories.slice(i, i + 50);
+    const params = new URLSearchParams({ action: 'query', format: 'json', prop: 'categoryinfo', titles: batch.map((c) => 'Category:' + c).join('|') });
+    const data = await fetchJson<{
+      query?: { pages?: Record<string, { title: string; missing?: string; categoryinfo?: { files: number } }>; normalized?: { from: string; to: string }[] };
+    }>('https://commons.wikimedia.org/w/api.php?' + params.toString());
+    const back = new Map((data.query?.normalized ?? []).map((n) => [n.to, n.from]));
+    for (const p of Object.values(data.query?.pages ?? {})) {
+      if (p.missing !== undefined || !p.categoryinfo) continue;
+      out.set((back.get(p.title) ?? p.title).replace(/^Category:/, ''), p.categoryinfo.files);
+    }
+  }
+  return out;
+}
+
+export interface ArticleInfo {
+  /** Lead picture: usually a clear, typical example of the thing. */
+  lead?: string;
+  /** Wikidata item for the article's subject. */
+  item?: string;
+  /** Other pictures used in the article. */
+  images: string[];
+}
+
+type WikiHops = { normalized?: { from: string; to: string }[]; redirects?: { from: string; to: string }[] };
+
+function resolver(q: WikiHops | undefined): (title: string) => string {
+  const hop = new Map<string, string>();
+  for (const n of [...(q?.normalized ?? []), ...(q?.redirects ?? [])]) hop.set(n.from, n.to);
+  return (title) => {
+    let end = title;
+    for (let k = 0; k < 3 && hop.has(end); k++) end = hop.get(end)!;
+    return end;
+  };
+}
+
+/** Lead picture, Wikidata item and in-article pictures for English Wikipedia articles, 50 titles a request. */
+export async function wikipediaArticles(titles: string[]): Promise<Map<string, ArticleInfo>> {
+  const out = new Map<string, ArticleInfo>();
+  const api = 'https://en.wikipedia.org/w/api.php?';
+  for (let i = 0; i < titles.length; i += 50) {
+    const batch = titles.slice(i, i + 50);
+    const base = { action: 'query', format: 'json', redirects: '1', titles: batch.join('|') };
+    const head = await fetchJson<{
+      query?: WikiHops & { pages?: Record<string, { title: string; pageimage?: string; pageprops?: { wikibase_item?: string } }> };
+    }>(api + new URLSearchParams({ ...base, prop: 'pageimages|pageprops', piprop: 'name', pilicense: 'any', pilimit: '50', ppprop: 'wikibase_item' }).toString());
+    const end = resolver(head.query);
+    const byTitle = new Map<string, ArticleInfo>();
+    for (const p of Object.values(head.query?.pages ?? {})) {
+      byTitle.set(p.title, { lead: p.pageimage?.replace(/_/g, ' '), item: p.pageprops?.wikibase_item, images: [] });
+    }
+    let cont: Record<string, string> = {};
+    for (let page = 0; page < 12; page++) {
+      const more = await fetchJson<{
+        continue?: Record<string, string>;
+        query?: { pages?: Record<string, { title: string; images?: { title: string }[] }> };
+      }>(api + new URLSearchParams({ ...base, prop: 'images', imlimit: '500', ...cont }).toString());
+      for (const p of Object.values(more.query?.pages ?? {})) {
+        const info = byTitle.get(p.title);
+        if (info) for (const im of p.images ?? []) info.images.push(im.title.replace(/^File:/, ''));
+      }
+      if (!more.continue) break;
+      cont = more.continue;
+    }
+    for (const t of batch) {
+      const info = byTitle.get(end(t));
+      if (info) out.set(t, info);
+    }
+  }
+  return out;
+}
+
+/** The Commons category (P373) and main picture (P18) recorded for Wikidata items. */
+export async function wikidataLinks(ids: string[]): Promise<Map<string, { category?: string; image?: string }>> {
+  const out = new Map<string, { category?: string; image?: string }>();
+  type Claim = { mainsnak?: { datavalue?: { value?: unknown } } };
+  for (let i = 0; i < ids.length; i += 50) {
+    const params = new URLSearchParams({ action: 'wbgetentities', format: 'json', props: 'claims', ids: ids.slice(i, i + 50).join('|') });
+    const data = await fetchJson<{ entities?: Record<string, { claims?: Record<string, Claim[]> }> }>('https://www.wikidata.org/w/api.php?' + params.toString());
+    for (const [id, e] of Object.entries(data.entities ?? {})) {
+      const first = (prop: string) => {
+        const v = e.claims?.[prop]?.[0]?.mainsnak?.datavalue?.value;
+        return typeof v === 'string' ? v.replace(/_/g, ' ') : undefined;
+      };
+      out.set(id, { category: first('P373'), image: first('P18') });
+    }
   }
   return out;
 }
@@ -298,17 +448,19 @@ interface OpenverseResult {
 }
 
 /** Openverse allows anonymous clients 20 requests a minute and 200 a day: use sparingly. */
-export async function searchOpenverse(query: string, limit = 20): Promise<Candidate[]> {
-  const params = new URLSearchParams({ q: query, license: 'cc0,pdm,by', page_size: String(limit), mature: 'false' });
+export async function searchOpenverse(query: string, limit = 20, licences = 'cc0,pdm,by', patient = true): Promise<Candidate[]> {
+  const params = new URLSearchParams({ q: query, license: licences, page_size: String(limit), mature: 'false' });
   const url = 'https://api.openverse.org/v1/images/?' + params.toString();
-  const data = await fetchJson<{ results?: OpenverseResult[] }>(url);
+  const data = await fetchJson<{ results?: OpenverseResult[] }>(url, true, patient);
   const out: Candidate[] = [];
   for (const r of data.results ?? []) {
-    const kind: LicenceKind | null = r.license === 'cc0' ? 'cc0' : r.license === 'pdm' ? 'pd' : r.license === 'by' ? 'by' : null;
+    const kind: LicenceKind | null =
+      r.license === 'cc0' ? 'cc0' : r.license === 'pdm' ? 'pd' : r.license === 'by' ? 'by' : r.license === 'by-sa' ? 'by-sa' : null;
     if (!kind) continue;
     if (r.width && r.height && Math.min(r.width, r.height) < 450) continue;
     if (BAD_TITLE.test(r.title ?? '')) continue;
-    const name = kind === 'cc0' ? 'CC0 1.0' : kind === 'pd' ? 'Public Domain Mark 1.0' : `CC BY ${r.license_version ?? ''}`.trim();
+    const name =
+      kind === 'cc0' ? 'CC0 1.0' : kind === 'pd' ? 'Public Domain Mark 1.0' : `CC BY${kind === 'by-sa' ? '-SA' : ''} ${r.license_version ?? ''}`.trim();
     out.push({
       provider: 'openverse',
       title: r.title ?? 'Untitled',

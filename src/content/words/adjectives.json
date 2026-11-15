@@ -619,8 +619,7 @@
       "syllables": 1,
       "rhyme": "hat",
       "sameFirstSound": "fish"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-curved",
@@ -1142,8 +1141,7 @@
       "syllables": 2,
       "rhyme": "belted",
       "sameFirstSound": "mirror"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-burnt",
@@ -1253,8 +1251,7 @@
       "syllables": 2,
       "rhyme": "spoken",
       "sameFirstSound": "balloon"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-dirty",
@@ -1291,8 +1288,7 @@
       "syllables": 2,
       "rhyme": "thirty",
       "sameFirstSound": "door"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-new",
@@ -1515,8 +1511,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "mountain"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-crumpled",
@@ -1553,8 +1548,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "camera"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-shiny",
@@ -1667,8 +1661,7 @@
       "syllables": 2,
       "rhyme": "snappy",
       "sameFirstSound": "horse"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-sad",
@@ -1855,8 +1848,7 @@
       "syllables": 2,
       "rhyme": "disguised",
       "sameFirstSound": "sausage"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-young",
@@ -2151,8 +2143,7 @@
       "syllables": 1,
       "rhyme": "park",
       "sameFirstSound": "duck"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "adjectives-crowded",
@@ -2225,7 +2216,6 @@
       "syllables": 1,
       "rhyme": "keep",
       "sameFirstSound": "sock"
-    },
-    "hasImage": false
+    }
   }
 ]

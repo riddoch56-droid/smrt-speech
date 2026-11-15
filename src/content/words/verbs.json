@@ -913,8 +913,7 @@
       "syllables": 1,
       "rhyme": "wheel",
       "sameFirstSound": "pillow"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-bake",
@@ -1317,8 +1316,7 @@
       "syllables": 1,
       "rhyme": "bang",
       "sameFirstSound": "hat"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-vacuum",
@@ -1505,8 +1503,7 @@
       "syllables": 1,
       "rhyme": "while",
       "sameFirstSound": "star"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-laugh",
@@ -1761,8 +1758,7 @@
       "syllables": 1,
       "rhyme": "freeze",
       "sameFirstSound": "sand"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-cough",
@@ -1873,8 +1869,7 @@
       "syllables": 1,
       "rhyme": "bush",
       "sameFirstSound": "paper"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-pull",
@@ -1910,8 +1905,7 @@
       "syllables": 1,
       "rhyme": "bull",
       "sameFirstSound": "pencil"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-throw",
@@ -1984,8 +1978,7 @@
       "syllables": 1,
       "rhyme": "match",
       "sameFirstSound": "cup"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-drop",
@@ -2280,8 +2273,7 @@
       "syllables": 2,
       "rhyme": "crisper",
       "sameFirstSound": "wall"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-shout",
@@ -2610,8 +2602,7 @@
       "syllables": 1,
       "rhyme": "pig",
       "sameFirstSound": "door"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-build",
@@ -2647,8 +2638,7 @@
       "syllables": 1,
       "rhyme": "filled",
       "sameFirstSound": "bus"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-sew",
@@ -2684,8 +2674,7 @@
       "syllables": 1,
       "rhyme": "low",
       "sameFirstSound": "sand"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-knit",
@@ -2978,8 +2967,7 @@
       "syllables": 1,
       "rhyme": "stick",
       "sameFirstSound": "cup"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-row",
@@ -3087,8 +3075,7 @@
       "syllables": 1,
       "rhyme": "mail",
       "sameFirstSound": "soup"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-jog",
@@ -3161,8 +3148,7 @@
       "syllables": 2,
       "rhyme": "struggle",
       "sameFirstSound": "jelly"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-surf",
@@ -3641,8 +3627,7 @@
       "syllables": 2,
       "rhyme": "flute",
       "sameFirstSound": "sock"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "verbs-tickle",

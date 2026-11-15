@@ -19,7 +19,7 @@ informal screen, not a standardised assessment.
 3. Open SMRT Speech from the home screen icon. Always use that icon from now on: the home-screen
    app keeps its own data, separate from Safari.
 4. Follow the three welcome steps. Step 3 downloads the pictures for offline use: wait until it
-   says **Ready for offline use: 445 of 445 pictures**. Keep the iPad online and the app open
+   says **Ready for offline use: 557 of 557 pictures**. Keep the iPad online and the app open
    until it does. If the download stops, choose **Resume download**.
 5. Turn on aeroplane mode once and check an activity opens with its pictures.
 
@@ -77,10 +77,10 @@ show "twice in a row". The suggestion is a prompt for clinical judgement, not ad
 | Content | Amount | Status |
 |---|---|---|
 | Words | 700 (10 noun groups of 54, 100 actions, 60 describing words) | First draft: needs therapist review |
-| Words with a picture | 445 | Each checked by eye twice |
+| Words with a picture | 557 | Each checked by eye twice |
 | Naming Test | 30 items, version 1, frozen 14 November 2026 | Needs therapist review |
-| Reading phrases | 444 | Written against the actual pictures; needs review |
-| Reading sentences | 437 | Written against the actual pictures; needs review |
+| Reading phrases | 556 | Written against the actual pictures; needs review |
+| Reading sentences | 549 | Written against the actual pictures; needs review |
 
 **`CONTENT_REVIEW.csv`** lists every word (with its cues, semantic and sound prompts) and every
 reading item. Please review it: all clinical wording was written for this build and has not been
@@ -91,41 +91,63 @@ new results are not compared as like for like.
 
 ## 8. Pictures
 
-445 of 700 words have a picture. The other 255 are listed in **`IMAGE_TODO.md`**. They are left out
+557 of 700 words have a picture. The other 143 are listed in **`IMAGE_TODO.md`**. They are left out
 of every activity that needs a picture and still appear where none is needed (Listen and Read,
 Spell What You Hear). Add a picture in the app under Settings, Word management, Replace picture.
 
 | Group | With a picture | Without |
 |---|---|---|
-| Food and drink | 45 | 9 |
-| Animals | 53 | 1 |
-| Clothing and accessories | 28 | 26 |
-| Household objects | 45 | 9 |
-| Furniture and rooms | 38 | 16 |
-| Body and personal care | 26 | 28 |
-| Transport and travel | 44 | 10 |
-| Places and buildings | 37 | 17 |
-| People and occupations | 26 | 28 |
-| Nature, weather and outdoors | 48 | 6 |
-| Actions | 38 | 62 |
-| Describing words | 17 | 43 |
+| Food and drink | 50 | 4 |
+| Animals | 54 | 0 |
+| Clothing and accessories | 47 | 7 |
+| Household objects | 53 | 1 |
+| Furniture and rooms | 50 | 4 |
+| Body and personal care | 42 | 12 |
+| Transport and travel | 53 | 1 |
+| Places and buildings | 42 | 12 |
+| People and occupations | 36 | 18 |
+| Nature, weather and outdoors | 50 | 4 |
+| Actions | 53 | 47 |
+| Describing words | 27 | 33 |
 
-The gaps are mostly actions, describing words, people and body parts: openly licensed photographs
-that show one clear action or property, with nothing unsuitable, are scarce. No picture-generation
-key was available, so no pictures were generated.
+The first release had 445 pictures after three attempts a word. A fourth, wider search on
+15 November 2026 added 112 (see `DECISIONS.md`, Images). The gaps that remain are mostly actions,
+describing words and people: openly licensed photographs that show one clear action or property,
+of an anonymous person, with nothing unsuitable, are scarce, and four rounds of searching have
+now been through what the open sources offer. No picture-generation key was available, so no
+pictures were generated.
 
-**Sources:** Wikimedia Commons 406, Openverse 31, drawn by the build 8 (plain colour swatches for
+**Sources:** Wikimedia Commons 513, Openverse 36, drawn by the build 8 (plain colour swatches for
 the colour words).
 
-**Licences:** CC BY 250, CC0 140, public domain 31, CC BY-SA 16, made for the app 8. No
+**Licences:** CC BY 275, CC0 147, public domain 56, CC BY-SA 71, made for the app 8. No
 NonCommercial or NoDerivatives picture is used. Every picture's source, author and licence is in
 `src/content/image-credits.json` and in the app under Settings, Words and pictures, Image credits.
 
-**Share-alike pictures (flagged, used as a last resort on the third attempt):** sandals, waistcoat,
-bun, cauliflower, porridge, toast, pillow, shower, torch, baker, magician, allotment, campsite,
-fairground, hike, scratch. CC BY-SA asks that adapted versions carry the same licence. If you would
-rather not carry that condition, replace these 16 in the app or delete them and rerun
-`npx tsx tools/images/finalise.ts`.
+**Share-alike pictures (71, each flagged in the credits file).** A CC BY-SA picture was used only
+when no acceptable picture with a more permissive licence was found. Sixteen date from the third
+attempt and 55 from the fourth round, where most of the plain, usable photographs of everyday
+objects turned out to be share-alike.
+
+- Describing words: broken, flat, melted, mouldy
+- Animals: octopus
+- Body and personal care: bandage, bone, comb, crutches, finger, hairbrush, knee, shoulder, tissue,
+  toe, wheelchair
+- Clothing: blouse, cufflinks, earrings, gilet, jeans, jumper, nightie, purse, raincoat, sandals,
+  scarf, shirt, vest, waistcoat, wellies
+- Food and drink: bun, cauliflower, crumpet, plum, porridge, toast
+- Furniture and rooms: blanket, carpet, conservatory, cushion, duvet, pillow, shower, stairs
+- Household: mop, torch
+- Nature: trunk
+- People: baker, farmer, hairdresser, lifeguard, magician, pilot
+- Places: allotment, bookshop, campsite, fairground, museum, pub, theatre
+- Transport: cone, pram, suitcase, tyre
+- Actions: catch, hang, hike, kick, peel, scratch
+
+CC BY-SA asks that adapted versions of a picture carry the same licence. The app credits each one
+and resizes it, which the licence allows. If you would rather not carry that condition, replace
+these pictures in the app, or delete their files and rerun `npx tsx tools/images/finalise.ts`,
+which moves the words back to `IMAGE_TODO.md`.
 
 **Design artwork** (icons, the SMRT Speech mark, backgrounds) comes from
 `SMRT_Speech_Visual_Asset_Pack/` and was made for this project. It is separate from the vocabulary
@@ -133,12 +155,12 @@ pictures.
 
 ## 9. Test results
 
-Run on 14 November 2026 against the production build.
+Run on 15 November 2026 against the production build, after the fourth picture round.
 
 | Check | Result |
 |---|---|
 | Unit tests (`npm test`) | 388 passed, 0 failed (15 files) |
-| Content validation (`npm run validate:content`) | Passed: 0 errors, 17 warnings (1 for the 255 words without a picture, 16 for the share-alike pictures) |
+| Content validation (`npm run validate:content`) | Passed: 0 errors, 72 warnings (1 for the 143 words without a picture, 71 for the share-alike pictures) |
 | TypeScript and ESLint (part of `npm run build`) | Clean |
 | End to end (`npm run test:e2e`) | 35 passed, 0 failed |
 
@@ -163,7 +185,7 @@ The unit tests include checks on the design system: the installed artwork matche
 all 4 modules and 15 activities have artwork, every icon name maps to a pack icon, and every text
 and control-edge colour pair meets WCAG AA contrast in both themes.
 
-**The deployed site was checked after publishing** (14 November 2026): the page, web manifest,
+**The deployed site was checked after the first release** (14 November 2026, 445 pictures): the page, web manifest,
 service worker, artwork and pictures are all served from the live address; in WebKit a reading
 session ran from start to results with no request to any other address and no script errors; in
 Chromium the 445 pictures downloaded and a session then ran with the network switched off. That
@@ -202,9 +224,10 @@ Other limitations:
 ## 11. Decisions that need a human
 
 1. **Clinical review** of `CONTENT_REVIEW.csv` and of the 30 Naming Test items.
-2. **The 16 share-alike pictures:** keep or replace (section 8).
-3. **The 255 words without a picture:** add your own photographs in the app, supply a
-   picture-generation key and extend the pipeline, or leave them out.
+2. **The 71 share-alike pictures:** keep or replace (section 8).
+3. **The 143 words without a picture:** add your own photographs in the app, supply a
+   picture-generation key and extend the pipeline, or leave them out. Further searching of the
+   open sources is unlikely to add many more.
 4. **Faster picture sourcing:** Wikimedia allows far more searches per minute to clients that give
    a contact address. Adding one to `USER_AGENT` in `tools/images/lib.ts` is your choice; the build
    did not send any personal details.

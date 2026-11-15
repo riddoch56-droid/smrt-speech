@@ -177,8 +177,7 @@
       "syllables": 1,
       "rhyme": "hole",
       "sameFirstSound": "balloon"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "household-fork",
@@ -398,8 +397,7 @@
       "syllables": 2,
       "rhyme": "waiter",
       "sameFirstSound": "gate"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "household-ladle",
@@ -768,8 +766,7 @@
       "syllables": 1,
       "rhyme": "shop",
       "sameFirstSound": "mountain"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "household-bucket",
@@ -842,8 +839,7 @@
       "syllables": 1,
       "rhyme": "room",
       "sameFirstSound": "button"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "household-dustpan",
@@ -989,8 +985,7 @@
       "syllables": 1,
       "rhyme": "tin",
       "sameFirstSound": "bridge"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "household-hammer",
@@ -1247,8 +1242,7 @@
       "syllables": 2,
       "rhyme": "adder",
       "sameFirstSound": "lorry"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "household-telephone",
@@ -1322,8 +1316,7 @@
       "syllables": 4,
       "rhyme": null,
       "sameFirstSound": "tent"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "household-remote-control",
@@ -1656,8 +1649,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "elephant"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "household-stapler",

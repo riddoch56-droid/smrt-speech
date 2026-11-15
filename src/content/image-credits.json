@@ -21,6 +21,17 @@
   "prompt": "A plain blue paint swatch on a white background"
  },
  {
+  "image": "adjectives-broken.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_cracked_plate_after_inadvertently_putting_small_pieces_of_metal_into_the_microwave_(1).jpg",
+  "author": "MichalPL",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "adjectives-brown.webp",
   "source": "project",
   "sourceUrl": "",
@@ -62,6 +73,36 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "adjectives-crumpled.webp",
+  "source": "openverse",
+  "sourceUrl": "https://www.flickr.com/photos/33852688@N08/4462029788",
+  "author": "|Chris|",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "adjectives-dark.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:2010-05-11_Vlotho_132.jpg",
+  "author": "TUBS",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "adjectives-dirty.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dining_experience_concludes_with_a_plate_left_behind_featuring_remnants_of_a_delicious_meal_at_a_table_undefined.jpg",
+  "author": "Shixart1985",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "adjectives-fast.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheetah_Run.jpg",
@@ -70,6 +111,17 @@
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "adjectives-flat.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022-12-24_11_38_45_A_flat_tire_in_a_driveway_along_Aquetong_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+  "author": "Famartin",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "adjectives-green.webp",
@@ -92,6 +144,38 @@
   "retrieved": "2026-11-14",
   "modifications": "None. Drawn by a build script as a plain colour swatch.",
   "prompt": "A plain grey paint swatch on a white background"
+ },
+ {
+  "image": "adjectives-happy.webp",
+  "source": "openverse",
+  "sourceUrl": "https://www.flickr.com/photos/44093058@N06/14436714179",
+  "author": "blondinrikard",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "adjectives-melted.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombs_Away%5E_A_melting_Bomb_Pop_on_a_sidewalk_means_one_thing....hot_weather%5E_And_maybe_also_a_crying_child._-_Flickr_-_Lorie_Shaull.jpg",
+  "author": "Lorie Shaull from St Paul, United States",
+  "licence": "CC BY-SA 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "adjectives-mouldy.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moldy_bread.jpg",
+  "author": "Jan Myšák",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "adjectives-narrow.webp",
@@ -164,6 +248,26 @@
   "licence": "CC BY 3.0",
   "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "adjectives-steep.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baldwin_Street_High_Resolution_Upwards_Look.jpg",
+  "author": "Mark Oliver Dittrich. Released into public domain on his behalf.",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "adjectives-surprised.webp",
+  "source": "openverse",
+  "sourceUrl": "https://www.flickr.com/photos/51385424@N00/401925994",
+  "author": "ogimogi",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -508,6 +612,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "animals-octopus.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+  "author": "albert kok",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "animals-otter.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea-otter-morro-bay_13.jpg",
@@ -708,6 +823,28 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "body-bandage.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bandage_02.jpg",
+  "author": "Ivy Dawned",
+  "licence": "CC BY-SA 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "body-bone.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015_12_jaizkibel_34.JPG",
+  "author": "Joxemai",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "body-brain.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brain_model_12.jpg",
@@ -716,6 +853,28 @@
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "body-comb.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plastic_comb,_2015-06-07.jpg",
+  "author": "Crisco 1492",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "body-crutches.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Axillary_Crutches.jpg",
+  "author": "Jessica Fisher",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "body-dentures.webp",
@@ -738,6 +897,27 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "body-elbow.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elbow_coude.JPG",
+  "author": "KoS",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "body-finger.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Index_finger_%3D_to_attention.JPG",
+  "author": "Pogrebnoj-Alexandroff",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "body-fingernail.webp",
   "source": "openverse",
   "sourceUrl": "https://www.flickr.com/photos/38352757@N07/5303084267",
@@ -756,6 +936,17 @@
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "body-hairbrush.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hairbrush_flat.JPG",
+  "author": "en:User:Musical Linguist",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "body-hairdryer.webp",
@@ -796,6 +987,17 @@
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "body-knee.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knee.female.jpg",
+  "author": "ArnoldReinhold",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "body-lipstick.webp",
@@ -848,6 +1050,27 @@
   "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "body-shoulder.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Left_shoulder.jpg",
+  "author": "Genusfotografen (Tomas Gunnarsson) / Wikimedia",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "body-skeleton.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Human-Skeleton.jpg",
+  "author": "Sklmsta",
+  "licence": "CC0",
+  "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "body-soap.webp",
   "source": "openverse",
   "sourceUrl": "https://www.flickr.com/photos/10361931@N06/4263958356",
@@ -865,6 +1088,16 @@
   "licence": "CC0",
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "body-stomach.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belly_button.jpg",
+  "author": "Kayau",
+  "licence": "CC BY 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -908,6 +1141,28 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "body-tissue.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_tissue_box.jpg",
+  "author": "Captain MarcusL",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "body-toe.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foot_on_white_background_(cropped).jpg",
+  "author": "Genusfotografen (Tomas Gunnarsson) / Wikimedia",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "body-tongue.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woman_Sticking_Out_Tongue.jpg",
@@ -948,6 +1203,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "body-tweezers.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tweezers_made_of_martensitic_stainless_steel_JIS_SUS410.jpg",
+  "author": "Yapparina",
+  "licence": "CC0",
+  "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "body-walking-frame.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walker._frame.jpg",
@@ -966,6 +1231,27 @@
   "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
   "retrieved": "2026-11-14",
   "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "body-wheelchair.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:2vom.jpg",
+  "author": "ویلچر جی تی اس",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "body-wrist.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nadgarstek_(ubt).jpeg",
+  "author": "Tomasz Sienicki [user: tsca]",
+  "licence": "CC BY 2.5",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
   "image": "clothing-belt.webp",
@@ -988,6 +1274,17 @@
   "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "clothing-blouse.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blouse_(ST653_2_01)_-_Kostuum_-_Bloeze_-_MoMu_Antwerp.jpg",
+  "author": "http://studiecollectie.momu.be/s/frieda-verhees-collectie/item/56 / Photo by Stany Dederen",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "clothing-boots.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leather_Boots_(51011160965).jpg",
@@ -996,6 +1293,16 @@
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "clothing-bracelet.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Byzantine_weave_bracelet_31Oct2010_arp.jpg",
+  "author": "Myself ( Adrian Pingstone ).",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
   "image": "clothing-brooch.webp",
@@ -1038,6 +1345,17 @@
   "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "clothing-cufflinks.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cufflinks-awi_hg.jpg",
+  "author": "Hgrobe",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "clothing-dress.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:1949_Norman_Norell_red_silk_dress_with_cartridge_pleated_skirt_02.jpg",
@@ -1056,6 +1374,28 @@
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "clothing-earrings.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:7R1A6582_01.jpg",
+  "author": "Colorplash52",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "clothing-gilet.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_Helionic_Down_vest.jpg",
+  "author": "Adenosine Triphosphate",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "clothing-glasses.webp",
@@ -1098,6 +1438,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "clothing-hoodie.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoodie_man.jpg",
+  "author": "SteelAvenger",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "clothing-jacket.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_worn_leather_jacket.jpg",
@@ -1105,6 +1455,38 @@
   "licence": "CC0",
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "clothing-jeans.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Levi%27s_506_front.jpg",
+  "author": "M62",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "clothing-jumper.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jersei-coll-alt.jpg",
+  "author": "Joan Rocaguinard",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "clothing-kilt.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaid_Kilt_Nontraditional.jpg",
+  "author": "Unknown author",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -1126,6 +1508,49 @@
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "clothing-nightie.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shadowline_nightgown_ivory.jpg",
+  "author": "Monsieur Duroc",
+  "licence": "CC BY-SA 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "clothing-polo-shirt.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tennis-shirt-lacoste.jpg",
+  "author": "No machine-readable author provided. Marubatsu assumed (based on copyright claims).",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "clothing-purse.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Finnish_markka_coins_in_wallet.jpg",
+  "author": "Santeri Viinamäki",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "clothing-raincoat.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Julian_Kirchner_(cropped).jpg",
+  "author": "Donni Schoenemond",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "clothing-ring.webp",
@@ -1159,6 +1584,28 @@
   "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
+  "image": "clothing-scarf.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:100%25_Kaschmir_Wolle_vonk_kaschmirprodukte.de.jpg",
+  "author": "https://www.kaschmirprodukte.de",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "clothing-shirt.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camisade_pu%C3%B1o_doble.jpg",
+  "author": "Incal",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "clothing-shoes.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shoes,_pair_(black)_(AM_1978.53-1).jpg",
@@ -1189,6 +1636,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "clothing-socks.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villased_sokid,_STM_1998.jpg",
+  "author": "Venemaa; Petseri rajoon, Põrste küla; valmistaja: Helü, Linda; fotograaf: Tuul, Toomas",
+  "licence": "CC0",
+  "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "clothing-sunglasses.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Women%27s_sunglasses_VERSACE_Violet_Gradient_(Creative_Commons).jpg",
@@ -1209,6 +1666,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "clothing-trainers.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_Superstar_shoes_pair.jpg",
+  "author": "Yahoo! Blog from Sunnyvale, California, USA",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "clothing-umbrella.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_umbrella_splashing_in_the_garden.jpg",
@@ -1217,6 +1684,17 @@
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "clothing-vest.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:1511240474.jpg",
+  "author": "Dami96",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "clothing-waistcoat.webp",
@@ -1248,6 +1726,17 @@
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "clothing-wellies.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wellies.jpg",
+  "author": "Unknown author",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "food-apple.webp",
@@ -1288,6 +1777,16 @@
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "food-biscuit.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:McVitie%27s_chocolate_digestive_biscuit.jpg",
+  "author": "Jolly Janner",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
   "image": "food-bread.webp",
@@ -1412,6 +1911,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "food-coffee.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+  "author": "Bex Walton",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "food-crisps.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wavy_potato_chips.jpg",
@@ -1430,6 +1939,17 @@
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
   "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "food-crumpet.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buttered_crumpet3.jpg",
+  "author": "Unknown author",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "food-cucumber.webp",
@@ -1592,6 +2112,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "food-plum.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Amber_Plum_DS.jpg",
+  "author": "Augustus Binu : flickr",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "food-popcorn.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Microwave_popcorn-1.jpg",
@@ -1611,6 +2142,16 @@
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
   "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "food-potato.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auspflanzung_Schweden_2.jpg",
+  "author": "BASFPlantScience",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
   "image": "food-sandwich.webp",
@@ -1774,6 +2315,27 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "furniture-bidet.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bidet_weiss.jpg",
+  "author": "Basan1980 at German Wikipedia",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "furniture-blanket.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blankets_leopard.jpg",
+  "author": "Label sales",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "furniture-blinds.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pattern_of_light_on_wall_by_sun_through_blinds_plus_window.JPG",
@@ -1781,6 +2343,27 @@
   "licence": "CC0",
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "furniture-carpet.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carpet_pattern.jpg",
+  "author": "Doodledoo",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "furniture-chair.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Set_of_fourteen_side_chairs_MET_DP110780.jpg",
+  "author": "Thomas Chippendale",
+  "licence": "CC0",
+  "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -1794,6 +2377,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "furniture-chest-of-drawers.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_pine_chest_of_drawers_with_bun_feet._(c7f76543-8a3b-4a42-aead-480edaf72163).jpg",
+  "author": "NPS Photo",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "furniture-chimney.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stone_chimney,_brick_chimney_(8087313200).jpg",
@@ -1802,6 +2395,17 @@
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "furniture-conservatory.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conservatory_at_home.jpg",
+  "author": "Philipbirch",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "furniture-cupboard.webp",
@@ -1824,6 +2428,27 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "furniture-cushion.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Annual_Balsam_Bee_-_pillows_stuffed_with_fresh-ground,_fragrant_balsam_needles_-_for_sale.jpg",
+  "author": "BurrRose",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "furniture-desk.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_white_desk_is_arranged_in_a_cozy_room.jpg",
+  "author": "Shixart1985",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "furniture-door.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_Door,_South_Side,_2019-10-07,_03.jpg",
@@ -1841,6 +2466,27 @@
   "licence": "CC BY 4.0",
   "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "furniture-duvet.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:White-duvet.jpg",
+  "author": "Wikicanadashawn",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "furniture-fence.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Westtown.jpg",
+  "author": "Unknown author",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -2026,6 +2672,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "furniture-stairs.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:200_years_ancient_wooden_stairs_of_Tajhat_Landlord%27s_Palace.jpg",
+  "author": "Sd Raihan",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "furniture-stool.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vintage_wooden_farmers_stool._Tegernsee,_Bavaria,_Germany.jpeg",
@@ -2076,6 +2733,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "furniture-washing-line.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clothes_line.JPG",
+  "author": "w:User:Evil Monkey",
+  "licence": "CC BY 2.5",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "furniture-window.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:UPVC_Sash_Window.jpg",
@@ -2086,6 +2753,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "household-bin.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_tlitter_bin_2_(prague).jpg",
+  "author": "uploaded by User:Hyena as his (her) own work",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "household-blender.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elektrische_blender_van_het_merk_Princess_-_INDUS_V09861.JPG",
@@ -2093,6 +2770,26 @@
   "licence": "CC0",
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "household-bowl.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Paxta_gulli%22_piyola_2.png",
+  "author": "AIDEPCUL",
+  "licence": "CC BY 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "household-broom.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:20140418_broom2.jpg",
+  "author": "Yoshibay",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -2206,6 +2903,16 @@
   "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "household-envelope.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Envelope_-_Boonville_Address-002.jpg",
+  "author": "Unknown author",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "household-fork.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dinner_Fork_by_Thomas_Beezley_-_Thomas_Beezley_-_ABDAG000981.jpg",
@@ -2223,6 +2930,16 @@
   "licence": "CC0",
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "household-grater.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:6379Photos_taken_in_Poblacion,_Baliuag,_Bulacan_05.jpg",
+  "author": "Judgefloro",
+  "licence": "CC0",
+  "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -2276,6 +2993,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "household-ladder.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Folding_ladder_3.webp",
+  "author": "Wikideas1",
+  "licence": "CC0",
+  "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "household-ladle.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soup_Ladle_-_James_Smith_-_ABDAG008755.jpg",
@@ -2304,6 +3031,17 @@
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "household-mop.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:202510_%E6%97%8B%E8%BD%89%E6%8B%96%E6%8A%8A%E7%9A%84%E6%8B%96%E5%B8%83%E7%9B%A4_01.jpg",
+  "author": "Junyu-K",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "household-mug.webp",
@@ -2493,6 +3231,16 @@
   "licence": "CC0",
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "household-television.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%B8%EA%B3%84_%EB%AA%85%ED%99%94%EA%B0%80_LG_%EC%8A%A4%EB%A7%88%ED%8A%B8_TV_%EC%86%8D%EC%9C%BC%EB%A1%9C.jpg",
+  "author": "LG전자",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -2857,6 +3605,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "nature-rain.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hard_rain_on_a_roof.jpg",
+  "author": "W.carter",
+  "licence": "CC0",
+  "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "nature-rainbow.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Double_rainbow_in_fresh_sky.jpg",
@@ -2967,6 +3725,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "nature-trunk.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:20171115_Stam_van_boom_in_Overbosch_14.jpg",
+  "author": "Rudolphous",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "nature-tulip.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Tulip_-_macro.jpg",
@@ -3014,6 +3783,16 @@
   "licence": "CC BY 2.5",
   "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "people-baby.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_newborn_baby_in_men.jpg",
+  "author": "Kimberly Vardeman",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -3158,6 +3937,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "people-farmer.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Farmer,_Nicaragua_(rotated).jpg",
+  "author": "Neil Palmer (CIAT)",
+  "licence": "CC BY-SA 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "people-firefighter.webp",
   "source": "openverse",
   "sourceUrl": "https://www.flickr.com/photos/85473033@N00/3225246820",
@@ -3165,6 +3955,16 @@
   "licence": "CC BY 2.0",
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "people-fisherman.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:051027_Rybolov_Jesenice_0037.JPG",
+  "author": "svajcr",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -3178,6 +3978,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "people-hairdresser.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haircoloring.jpg",
+  "author": "Dean Wissing",
+  "licence": "CC BY-SA 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "people-jockey.webp",
   "source": "openverse",
   "sourceUrl": "https://www.flickr.com/photos/26344495@N05/48990533172",
@@ -3186,6 +3997,17 @@
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "people-lifeguard.webp",
+  "source": "openverse",
+  "sourceUrl": "https://www.flickr.com/photos/14913305@N00/25832095525",
+  "author": "Chris Hunkeler",
+  "licence": "CC BY-SA 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "people-magician.webp",
@@ -3219,6 +4041,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "people-nun.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brown_habit_black_veil_white_wimpole.jpg",
+  "author": "Br. Christian Seno, OFM",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "people-photographer.webp",
   "source": "openverse",
   "sourceUrl": "https://www.flickr.com/photos/67015038@N06/51832409816",
@@ -3227,6 +4059,17 @@
   "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "people-pilot.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airshow_Pilot.jpg",
+  "author": "Pavel21kriz",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "people-police-officer.webp",
@@ -3246,6 +4089,16 @@
   "licence": "Public domain",
   "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "people-scientist.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Researchers_in_laboratory.jpg",
+  "author": "Rhoda Baer (Photographer)",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -3276,6 +4129,26 @@
   "licence": "CC BY 2.0",
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "people-teacher.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_college_professor_teaching_in_a_university_classroom_full_of_students_in_Tennessee,_United_States_02.jpg",
+  "author": "Harrison Keely",
+  "licence": "CC BY 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "people-waiter.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Food_and_Beverage_Server_-_DPLA_-_9c68de11811c1a4b688b9edc6854575d.jpg",
+  "author": "Department of Labor. 1913",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -3320,6 +4193,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "places-bookshop.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nevski_prospekt_compagnie_Singer_(1).JPG",
+  "author": "© Pierre André",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "places-bridge.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_sur_l%27Orb,_Roquebrun_02.jpg",
@@ -3358,6 +4242,16 @@
   "licence": "CC0",
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "places-castle.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baba_Vida_Klearchos_1.jpg",
+  "author": "Klearchos Kapoutsis from Paleo Faliro, Athens, Greece.",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -3512,6 +4406,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "places-museum.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:GD-EG-Caire-Mus%C3%A9e007.JPG",
+  "author": "Gérard Ducher ( user:Néfermaât )",
+  "licence": "CC BY-SA 2.5",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "places-palace.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Palace_@_Brussels_(8177451835).jpg",
@@ -3550,6 +4455,17 @@
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "places-pub.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eagle_City_Road_London_2005.jpg",
+  "author": "User:Justinc",
+  "licence": "CC BY-SA 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "places-salon.webp",
@@ -3610,6 +4526,17 @@
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "places-theatre.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Garnier._December_5,_2010.jpg",
+  "author": "FHKE",
+  "licence": "CC BY-SA 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "places-town-hall.webp",
@@ -3692,6 +4619,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "transport-bicycle.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+  "author": "齐健 from Peking, People's Republic of China",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "transport-bus-stop.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Lo_Pag%C3%A1n.jpg",
@@ -3732,6 +4669,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "transport-caravan.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caravan.jpg",
+  "author": "Unknown author",
+  "licence": "CC BY 2.5",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "transport-coach.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coach_bus_in_Lefkada,_Bova,_Hermes_Tours.JPG",
@@ -3750,6 +4697,17 @@
   "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "transport-cone.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%B4ne_de_signalisation.jpg",
+  "author": "Filo gèn'",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "transport-engine.webp",
@@ -3842,6 +4800,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "transport-map.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asian_Highways.png",
+  "author": "Unknown author",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "transport-minibus.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Billingshurst_Village_Minibus_YS18TVO.jpg",
@@ -3922,6 +4890,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "transport-pram.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barnevogn2.jpg",
+  "author": "Unknown author",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "transport-railway.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Track_at_Aberdyfi-Aberdovey_railway_station,_April_2024.jpg",
@@ -3949,6 +4928,16 @@
   "licence": "CC BY 2.0",
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "transport-satellite.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Earth_Radiation_Budget_Satellite.jpg",
+  "author": "NASA",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -4002,6 +4991,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "transport-suitcase.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suitcase1.jpg",
+  "author": "JEXP",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "transport-taxi.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hackney_Carriage_Black_Cab_Digital_Advertising_TaxiTop_Eyetease.jpg",
@@ -4029,6 +5029,16 @@
   "licence": "CC BY 4.0",
   "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "transport-traffic-lights.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Modern_British_LED_Traffic_Light.jpg",
+  "author": "Unisouth",
+  "licence": "CC BY 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -4060,6 +5070,17 @@
   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "transport-tyre.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gestapelte_Autoreifen_mit_farbigen_Markierungen.JPG",
+  "author": "User:Mattes",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "transport-van.webp",
@@ -4102,6 +5123,27 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "verbs-build.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bricklayer.jpg",
+  "author": "Brice Blondel for HDPTCAR ( hdptcar.net )",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "verbs-catch.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Man_catching_ball_001.jpg",
+  "author": "Sardaka",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "verbs-chop.webp",
   "source": "openverse",
   "sourceUrl": "https://www.flickr.com/photos/55098830@N04/5157062745",
@@ -4129,6 +5171,16 @@
   "licence": "CC BY 2.0",
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "verbs-dig.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_male_worker_with_hat.jpg",
+  "author": "U.S. Fish and Wildlife Service",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -4182,6 +5234,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "verbs-hang.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_woman_in_Morocco.jpg",
+  "author": "Auiuitrev",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "verbs-hike.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trekking-Rucksack.jpg",
@@ -4213,6 +5276,16 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "verbs-juggle.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pracownie_2012_-_etiudy_teatralne_(21.04.2012)_(7581696662).jpg",
+  "author": "mik Krakow",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "verbs-jump.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jumping_woman_with_green_shirt_and_black_and_white_socks_and_sleeves.jpg",
@@ -4221,6 +5294,17 @@
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
   "retrieved": "2026-11-14",
   "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "verbs-kick.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alan_Crist_doing_a_standing_splits.jpg",
+  "author": "A.F.C.Karate",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
  },
  {
   "image": "verbs-kiss.webp",
@@ -4283,6 +5367,17 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "verbs-peel.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Preparation_Picharles.jpg",
+  "author": "MLBOZOM",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
+  "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
   "image": "verbs-photocopy.webp",
   "source": "openverse",
   "sourceUrl": "https://www.flickr.com/photos/11121568@N06/4446487390",
@@ -4310,6 +5405,26 @@
   "licence": "CC0 1.0",
   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "verbs-pull.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:101_Days_of_Summer_comes_to_a_close_140822-M-TH981-001.jpg",
+  "author": "Kristen Wong",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "verbs-push.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Big_Cars_Suck-)_-_Flickr_-_FaceMePLS.jpg",
+  "author": "FaceMePLS from The Hague, The Netherlands",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
@@ -4353,6 +5468,26 @@
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
+  "image": "verbs-sail.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Contender_sailing_dinghy.jpg",
+  "author": "No machine-readable author provided. Gwicke~commonswiki assumed (based on copyright claims).",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "verbs-salute.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_060216-F-4462M-017.jpg",
+  "author": "Tech. Sgt. Joseph McLean, U.S. Air Force",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
   "image": "verbs-scratch.webp",
   "source": "wikimedia-commons",
   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itch_02.jpg",
@@ -4362,6 +5497,16 @@
   "retrieved": "2026-11-14",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP.",
   "flagged": "CC BY-SA: used as a last resort. Share-alike terms apply to this picture."
+ },
+ {
+  "image": "verbs-sew.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangladeshi_women_sewing_clothes.jpg",
+  "author": "USAID",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
   "image": "verbs-shave.webp",
@@ -4392,6 +5537,26 @@
   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
   "retrieved": "2026-11-14",
   "modifications": "plain border trimmed; Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "verbs-smile.webp",
+  "source": "openverse",
+  "sourceUrl": "https://www.flickr.com/photos/7487149@N03/517517380",
+  "author": "Sukanto Debnath",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "verbs-sneeze.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sneeze.JPG",
+  "author": "James Gathany",
+  "licence": "Public domain",
+  "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "retrieved": "2026-11-15",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {
   "image": "verbs-stretch.webp",
@@ -4441,6 +5606,16 @@
   "licence": "CC BY 2.0",
   "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
   "retrieved": "2026-11-14",
+  "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
+ },
+ {
+  "image": "verbs-whisper.webp",
+  "source": "wikimedia-commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_Infantry_Instructors_at_Break,_Nov_2010.jpg",
+  "author": "Israel Defense Forces",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "retrieved": "2026-11-15",
   "modifications": "Resized to fit 512 x 512 pixels on a white background; converted to WebP."
  },
  {

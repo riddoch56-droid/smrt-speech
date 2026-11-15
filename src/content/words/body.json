@@ -329,8 +329,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "egg"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-wrist",
@@ -366,8 +365,7 @@
       "syllables": 1,
       "rhyme": "list",
       "sameFirstSound": "radio"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-fingernail",
@@ -479,8 +477,7 @@
       "syllables": 2,
       "rhyme": "linger",
       "sameFirstSound": "fish"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-knee",
@@ -516,8 +513,7 @@
       "syllables": 1,
       "rhyme": "tree",
       "sameFirstSound": "needle"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-foot",
@@ -589,8 +585,7 @@
       "syllables": 1,
       "rhyme": "snow",
       "sameFirstSound": "table"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-ankle",
@@ -777,8 +772,7 @@
       "syllables": 2,
       "rhyme": "boulder",
       "sameFirstSound": "shoe"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-stomach",
@@ -815,8 +809,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "sun"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-heart",
@@ -924,8 +917,7 @@
       "syllables": 1,
       "rhyme": "stone",
       "sameFirstSound": "bread"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-skeleton",
@@ -962,8 +954,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "sun"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-toothbrush",
@@ -1259,8 +1250,7 @@
       "syllables": 2,
       "rhyme": "issue",
       "sameFirstSound": "table"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-comb",
@@ -1296,8 +1286,7 @@
       "syllables": 1,
       "rhyme": "home",
       "sameFirstSound": "cup"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-hairbrush",
@@ -1334,8 +1323,7 @@
       "syllables": 2,
       "rhyme": "crush",
       "sameFirstSound": "house"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-razor",
@@ -1557,8 +1545,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "table"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-tablets",
@@ -1669,8 +1656,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "bus"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-thermometer",
@@ -1855,8 +1841,7 @@
       "syllables": 2,
       "rhyme": "bear",
       "sameFirstSound": "water"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-crutches",
@@ -1893,8 +1878,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "cup"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "body-hearing-aid",

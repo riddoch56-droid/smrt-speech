@@ -109,8 +109,7 @@
       "syllables": 2,
       "rhyme": null,
       "sameFirstSound": "bus"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-newsagent",
@@ -633,8 +632,7 @@
       "syllables": 1,
       "rhyme": "club",
       "sameFirstSound": "pig"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-cafe",
@@ -747,8 +745,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "thumb"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-museum",
@@ -785,8 +782,7 @@
       "syllables": 3,
       "rhyme": null,
       "sameFirstSound": "mug"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-stadium",
@@ -1042,8 +1038,7 @@
       "syllables": 2,
       "rhyme": "hassle",
       "sameFirstSound": "carrot"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "places-palace",

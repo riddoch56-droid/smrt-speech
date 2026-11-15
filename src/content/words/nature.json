@@ -33,8 +33,7 @@
       "syllables": 1,
       "rhyme": "pain",
       "sameFirstSound": "road"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "nature-snow",
@@ -1276,8 +1275,7 @@
       "syllables": 1,
       "rhyme": "junk",
       "sameFirstSound": "tooth"
-    },
-    "hasImage": false
+    }
   },
   {
     "id": "nature-acorn",
