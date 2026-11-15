@@ -192,6 +192,12 @@ Chromium the 445 pictures downloaded and a session then ran with the network swi
 offline check passed three times out of four: the one failure came straight after publishing and
 did not recur.
 
+**After the 15 November 2026 update** (557 pictures) the publish workflow succeeded and the live
+address was checked by request only: the page, the service worker and a sample of the new pictures
+are served, the live page loads the same script bundle as the tested local build, and a new picture
+is byte-for-byte the local file. The browser checks above were not repeated against the live
+address; they passed against the same build locally.
+
 Screens were also checked by eye from screenshots in both themes, at 1180 x 820, 1024 x 768,
 820 x 1180 and 768 x 1024.
 
